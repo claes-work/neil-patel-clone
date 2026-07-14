@@ -35,8 +35,15 @@ COLS = [
 # BOOTSTRAP HOOK: /clone-setup appends subject-specific markers here —
 #   P3_EXTRA: guest/Q&A formats named after the subject (e.g. "ask alex|asks alex")
 #   P1_EXTRA: landmark markers — book titles, signature courses, company origin stories
-P3_EXTRA: list[str] = []
-P1_EXTRA: list[str] = []
+P3_EXTRA: list[str] = [
+    # Neil Patel / Marketing School guest & co-host formats:
+    r"marketing school", r"with eric", r"eric siu", r"ask neil", r"keyword research",
+]
+P1_EXTRA: list[str] = [
+    # Landmarks: his book, signature tools, and origin companies.
+    r"\bhustle\b", r"ubersuggest", r"answer\s?the\s?public", r"\bnp ?digital\b",
+    r"quick\s?sprout", r"crazy ?egg", r"kissmetrics", r"5 ?minutes? a day",
+]
 
 P3_RE = re.compile(
     "|".join([
