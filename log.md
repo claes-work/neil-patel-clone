@@ -79,3 +79,52 @@ keyword-density/content-depth research → title/meta CTR optimization (CTR-driv
 paragraphs, conversational "you and I", 6–7+ images. (5) Distribution tactic: republish
 full posts on LinkedIn with a "continue reading" cutoff back to the owned site; physical
 insert-cards in shipped products to prompt Instagram tag-and-post. All dated 2016–2017.
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P1 long-form #2
+
+Second real ingest batch. Stage machine (`.claude/commands/ingest-loop.md`, first-match)
+selected **Stage B** (open P1 long-form rows exist). Not-taken rules: Stage S not due
+(1 batch since synthesis, checkpoint at 10; no `>>> CHECKPOINT`); Stage P not stale
+(the 2026-07-19 batch #1 was the documented "first run" that already resolved the
+first-run persona clause — only 1 batch since, no new topic pages, P1 far from drained);
+Stage A n/a (both TARGET channels enumerated). Channel @neilpatel (Neil-fronted primary
+corpus, persona-first). Selection = clone's own rule: priority-ascending then
+oldest-`published` first → next 8 oldest open P1 rows (2017-11 → 2018-02).
+
+Processed: **8 ingested (L2), 0 skipped, 0 no-captions, 0 dup.** All captions fetched
+clean on the first try — no rate limiting. Three rows flagged **★ L3-candidate** for the
+next synthesis: `yt-k_eXA4cY53M` (origin story — 4 businesses by 28), `yt-0-77jMAF1bw`
+(failure story — lost $1M at 21), `yt--p6CvtzUgk0` (TAM-governs-outcomes billion-dollar
+framework). Caption garbles caught and handled in-page (not carried into paraphrase):
+"vitex"→likely VTEX Day, "on page SU"→SEO / "rand"→rank (jhnNOlhPbyc), "Sam Evans"→Sam
+Ovens of Consulting.com (HJUm-MwLJMg). All 8 are solo Neil videos → fully Neil-attributed;
+self-reported revenue/net-worth/family claims marked as such. No contradictions.
+
+Ledger after: L2=16, L3=0. Open long-form P1 @neilpatel 52, @MarketingSchoolPod 60
+(112 total P1 remaining); P2 ~1,831; open shorts ~2,682. Ingest batches since last
+synthesis: 2 (checkpoint at 10).
+
+Synthesis notes: strong new persona/bio spine to promote at next Stage S —
+(1) Biography/origin: ran an ad agency at 16 (learned marketing after being ripped off
+by agencies); lost ~$1M by 21 on a failed pre-AWS cloud-computing startup that never
+launched — money was *borrowed*, repaid in under a year; claims 4 multimillion-dollar
+businesses by 28; Cal State Fullerton "mediocre college" self-deprecation; extreme
+work-ethic lifestyle claims (80–90 hrs/week, "no home", works 24/7) — all self-reported.
+(2) Entrepreneurship frameworks: **TAM governs outcomes** — pick a big-market problem;
+validates market size via Google Finance market caps + Google Trends (10x vs "digital
+marketing" benchmark); rare self-critical admission that Crazy Egg was capped by too-small
+a problem and "I haven't built a billion-dollar company yet"; combine multiple marketing
+products into one big-TAM company. Relayed mentor lines: Branson "ideas are like buses",
+Brian Lee "one product, laser focus, expand when growth flatlines" (attributed as relayed).
+(3) SEO: content-depth + Search Console keyword-mining to expand articles (2,500→10,000
+words, traffic tripled in ~50 days); single-niche exhaustive depth (Hummingbird-era);
+**brand queries as a ranking factor** (BMW vs GM via Google Trends); on-page + CTR tuning
+can lift rankings "without building a single link"; 7 named free tools (Quick Sprout, Yoast,
+Search Console, Google Trends, Screaming Frog, PageSpeed Insights, responsive-test).
+(4) Link building: reverse-engineer a competitor's top-linked content in Ahrefs, rebuild as
+a cited infographic, pitch the competitor's existing linkers. (5) Video/YouTube SEO:
+end-of-video subscribe CTA "tripled" subscriber gains; upload real transcripts (not auto-
+captions) to rank; emotional content + embed-outreach. (6) CRO: lead-capture pages 40%+ /
+product pages ~3–10% conversion benchmarks; video can lower conversion rate but raise
+customer quality/LTV — test it; "KISSmetrics = keep it simple silly" naming anecdote.
+All dated 2017-11 → 2018-02.
