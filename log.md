@@ -2314,3 +2314,35 @@ No new topic pages (appearance.md went from skeleton to first content). No yt-dl
 (synthesis is local-only). No errors. Commit + push.
 
 Synthesis notes: none (this IS the synthesis pass; debt drained to 0 through batch #47).
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P2 long-form (2018-07→08 solo tactical + Q&A-Thursday + personal era, cont. 27)
+
+Ingested 8 @neilpatel P2 long-form videos (2018-07-28 → 2018-08-16) to L2. Stage B (P2),
+batch size 8. All 8 had clean English captions — 0 skipped, 0 no-captions, 0 dup, 0 429.
+All Neil-fronted (two are personal/lifestyle vlogs — kept for biography/voice, not skipped).
+
+Videos: (1) My Favorite Places to Eat and Explore [8pwMnKweeF4] — personal/voice; (2) 5
+Underutilized Social Media Hacks to Drive Traffic [ncWA3ux4i44]; (3) Growth Hacks for New
+Service Website [bdAnk4eWZFc] — Q&A Thu; (4) What I'm Watching (Right Now) [jH4kzRR5XMw] —
+personal/voice; (5) 5 (Simple) Facebook Video Hacks [bGOLe2rLPEU]; (6) Affiliate Marketing:
+ClickBank and AdWords [q-a10KWamlg] — Q&A Thu; (7) My #1 SEO Trick (It's Not What You Think)
+[eiJGWFJbMfg]; (8) How to Repurpose & Share Content Across Platforms [o3QLcDMC82s] — Q&A Thu.
+
+Bookkeeping: 8 ledger rows → L2; 8 rows inserted into youtube-index.md in date order (footer
+373 → 381); index.md count + last-updated line bumped. Q&A Thursday videos attributed to Neil
+only (Adam / Adam Lodolce = interviewer, off-persona). No persona/topic promotion (that's the
+synthesis loop). Synthesis debt now 1/10.
+
+Synthesis notes: ★★ #eiJGWFJbMfg is a strong belief statement — "my #1 SEO trick isn't SEO,
+it's building a brand; brand queries are the future of SEO" (Amex/Tesla/Nike bought without
+googling; rising brand queries → rising search traffic) — promote to persona/beliefs.md +
+seo topic next pass. ★ Reusable frameworks to promote: "marketing = spaghetti experimentation,
+cap each test at ~$50, double down on the winner" (bdAnk4eWZFc); the tripwire→upsell→email-drip
+funnel with emotional/logical pitch-inversion (q-a10KWamlg); "create once, distribute everywhere,
+LinkedIn video leads first-week views" (o3QLcDMC82s, date-stamp the 2018 platform figures). ★
+Biography/voice: "creature of habit — simplify trivial decisions to focus on what matters"
+(8pwMnKweeF4); works 6+ hrs/day from a home couch with TV always on, rarely in the office, Mike
+Kamo is the co-founder/CEO who runs the business (jH4kzRR5XMw); help-first ethos "from my mom the
+teacher" and doesn't eat beef — corroborate against the biography dossier. New biographical lead:
+Neil's self-reference to running a dating company with ~9 affiliate products (q-a10KWamlg,
+self-reported).
