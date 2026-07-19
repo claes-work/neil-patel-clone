@@ -1204,3 +1204,33 @@ video (2JlhzWgq3rg) is a quantified tactic list (countdown +11%, $1 trial +15%, 
 overlapping prior CRO videos — fold lightly. Storytelling/time-on-site (EpiAIQpWLLs) and blog-comments
 (R9faZeZaDu8) reinforce existing content-marketing tactics. All 2017-dated; none contradict current
 positions except the AMP prediction noted above.
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P2 long-form (2017-07 solo era, cont. 4)
+Stage B (first matching rule: synthesis debt 5/10 — no checkpoint banner; persona fresh (v2, pass 2);
+no zero-row TARGET; no open P1 → open P2 exists). Continued @neilpatel P2 — the Neil-fronted primary
+corpus is fully Neil-attributed (no co-host quarantine → cleanest persona signal). Selection was
+priority-2, oldest-first: the 2017-07-16→2017-07-23 solo run (9SRxQpkXzx0, TwQhVr9MXyE, Fg3q6TuI4e8,
+peXc2E-Lzgw, GcIRv2AE59I, h99s4HcW-sI, ClXTdjsXKFU, rjJ6g5QNVrU). Captions: 8/8 ok, 0 no-captions,
+0 skipped, 0 dup, NO rate-limiting (no yt-dlp failures). L2 total 175→183. @neilpatel open long-form
+1066→1058 (P2 1045→1037, P3 21); MS 766 (P2 738 / P3 28) untouched; shorts 2682 untouched.
+Coordinator did all shared-file bookkeeping (ledger, youtube-index, index.md, log).
+
+Attribution: all 8 are solo @neilpatel main-channel educational videos — single speaker, fully
+Neil-attributed, no guest/co-host, so the whole batch is persona-eligible (nothing quarantined,
+no uncertain-attribution flags).
+
+Synthesis notes: period-tactical reinforcement of the 2017 solo-era SEO playbook — most claims echo
+existing on-page/link-building/CRO pages; fold lightly at the next synthesis pass, no new topic pages
+needed. New/notable for synthesis: (1) **URL-structure case study (TwQhVr9MXyE 2017-07-17)** — Neil's
+concrete +58% search-traffic anecdote (283k→449k Dec16→Jan17) from removing dates from permalinks
+(/month/year/title → /blog/title), with his recurring "one structural change beat years of link
+building" refrain — a good dated, cited SEO belief + a voice nugget. (2) **Tier-two link building
+(peXc2E-Lzgw 2017-07-19)** — a distinct link-building framework (build links to the pages that link
+to you) not yet captured in topics/seo; candidate for a dedicated page. (3) **Internationalization/
+hreflang (GcIRv2AE59I 2017-07-20)** — Neil names it "one of the biggest driving factors of my growth"
+(US <50% of neilpatel.com traffic); international-SEO is a thin area in topics/ → candidate page.
+Time-stamped tactical notes (article directories dead ~2013-14; meta keywords useless; white-hat/
+user-first Google-proofing) reinforce existing seo/analytics-cro pages. One period artifact worth a
+contradiction-watch: the Alexa.com rank tactic (9SRxQpkXzx0) is now obsolete (Alexa.com retired by
+Amazon 2022) — flagged in the source page, do not present as current. All 2017-dated; none contradict
+current positions.
