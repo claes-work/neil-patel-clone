@@ -725,3 +725,45 @@ still rising despite Google's falling share (Danny Sullivan data) + AI-must-be-h
 stance (2024-05-21); AI Overviews "too early to react, 6–12 mo" + ads-in-AIO coming (2024-06-04);
 authenticity/unedited content wins + solve-the-root-cause-not-the-symptom (2024-08-05).
 ★L3-candidates: 2024-06-04, 2024-07-09, 2024-08-13, 2024-08-21, 2024-09-30.
+
+## [2026-07-19] ingest | yt batch (@MarketingSchoolPod, 8) — P1 long-form (2024-10→2025-01)
+Stage B. Ingested 8 @MarketingSchoolPod P1 long-form episodes (oldest-first, 2024-10-21 →
+2025-01-13) to L2: C9fJGMdAlBQ, PEWNmOkOnwU, IhUcHgPAZrg, VjinVbFRZl4, YogL0Fx_2NE,
+5cHtmnAN4ys, fPp_cl8hWX4, g0lJPKjLE4k. Captions: 8/8 ok, 0 no-captions, 0 skipped, 0 dup,
+no rate-limiting. L2 total 96→104. One agent per video wrote only its own source page;
+coordinator did all shared-file bookkeeping.
+
+Attribution (co-hosted show — only Neil trains the persona): all pages tag Neil vs Eric per
+line; Eric's substance quarantined to a co-host context section, uncertain lines to an
+attribution-notes section, only Neil verbatim in the quote banks. Captions carry NO speaker
+labels, so attribution is inference-based (self-references, third-person "Neil…" cues, and the
+NP Digital / Single Grain ad-read tells). **Structural flags this batch:** (a) 2024-10-21 ($100M
+Mindset) is NOT a Neil+Eric two-hander — it is a disguised greatest-hits REPLAY: Eric Siu
+interviews guest **Alex Hormozi**; Neil does not speak at all (appears only as a third-party
+reference). Fully quarantined into a guest section, Neil quote bank EMPTY, frontmatter attribution
+set to `guest-interview` — zero persona data from this source. (b) 2024-11-15 (Nerds Candy) is
+interchangeable two-host banter with near-zero context anchors; nothing could be confidently
+attributed to Neil, so his quote bank was left empty. Played/quoted MEDIA quarantined as non-host
+in two episodes: 2024-12-18 (Coffeezilla on-chain critique + a Haliey Welch audio clip) and
+2025-01-13 (a School of Hard Knocks replayed clip / interviewer voice). External-creator content
+quarantined in 2024-12-03 (the 5-step LinkedIn framework is an unnamed 26M-impression creator's,
+not either host's). **No Perpetual Traffic / Ralph Burns / Kasim Aslam crossover found in this
+batch.** Persona yield lower than usual: 2 of 8 episodes (2024-10-21, 2024-11-15) produced no
+Neil-attributable material. Caption garbles corrected/flagged (Hormozi, EBITDA, Ken McElroy,
+Naval, Ogilvy/Godin/Kern, Ahrefs, HeyGen, ElevenLabs, hreflang, Chloe Shih, David Sacks, H-1B,
+$HAWK, and various recalled figures).
+
+Synthesis notes: New (accrues as debt for the next synthesis pass): (1) **Search-everywhere
+optimization** restated — optimize for every platform people search on (not just Google), plus
+Global SEO with AI in-platform auto-translation (Ep. 2024-12-27, ★); this recurs later
+(cf. 2025-07-23 "search everywhere optimization" page) → synthesis should consolidate the evolving
+SEO→"get chosen, not just found" thread. (2) **How-to-learn-marketing evergreen playbook** —
+learn from creators/newsletters/communities, build your own site, experiment with AI tools, then
+double down on what works (Ep. 2024-12-24, ★). (3) **Keep-politics-out-of-marketing** stance — a
+public political stance alienates your core customer base; a public company owes shareholders
+profit (Jaguar rebrand, Ep. 2024-11-27). (4) **Personal-brand fragility** — a fast-built personal
+brand is tarnished faster, and inexperienced creators get steered by profit-seeking stakeholders
+($HAWK rug pull, Ep. 2024-12-18); connects to the 2024-08-13 personal-brand thread. (5) LinkedIn/
+social **engagement compounds** + write conversationally (not "persuasively") + never post junk
+(Ep. 2024-12-03). (6) Incremental: follower gains come from being tagged / high-production video
+(Ep. 2025-01-13). ★L3-candidates: 2024-12-24, 2024-12-27.
