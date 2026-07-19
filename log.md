@@ -2179,3 +2179,36 @@ get listed where Google pulls from, local landmarks/directions on-site, local ph
 local pack (o6yOw1tOxes); GDPR — separate explicit email opt-in tick boxes, cookie banner, transparent privacy
 policy, applied globally with NO opt-in-rate drop, repeated "I'm not a lawyer" hedge, Privacy Shield now-invalid
 so flag as time-bound (XJ1h7mGVLc4).
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P2 long-form (2018-06→07 solo tactical + Q&A-Thursday era, cont. 25)
+
+8 P2 long-form ingested to L2 (B_P2cxJdnik, oedsuqDppKk, pdBBG4aRldI, CK-LUnW6uUE, zB0pby_VPCU, UpaOahLBmFQ,
+dvHY_e6hbyM, CmAFQr2TojQ). All captions OK; 0 skipped, 0 no-captions, 0 dup, 0 rate-limits. Continues the
+@neilpatel 2018-06→07 solo era; three are Q&A-Thursday, interviewer Adam (Viewership) — attribution-gated, only
+Neil-attributed material tagged as persona data (Adam's community-marketing asides in dvHY_e6hbyM left out of
+persona). youtube-index 357→365. Batches since last synthesis: 9/10 (checkpoint next batch → Stage S).
+
+Synthesis notes: two ★L3-candidates plus reinforcing tactical. ★BIOGRAPHY/BELIEFS (CK-LUnW6uUE): Neil's most
+explicit black-hat confession to date — used to buy links (Google-banned "years later"), bought fake Facebook
+fan-page likes (killed by FB engagement-weighting), bought fake YouTube likes/views, and in early YouTube ran a
+"no script" that auto-subscribed logged-in Gmail users → became a top-100 YouTube channel in <30 days with zero
+videos before YouTube canned the account; also almost got his "Sexy Confidence" channel banned in 3 days for
+buying 20k views. Frames it all as the lesson that gaming the system is short-term thinking that evaporates →
+"think long-term." Pairs with the early-hustler arc for persona/biography.md and reinforces the long-term-over-
+short-term belief. ★VALUES (CmAFQr2TojQ): Neil admires a TYPE not a person — change-makers at any scale + everyday
+contributors (doctors/teachers/police), explicitly rejects the "cheesy" parents/Musk/Buffett/Gates answers; cites
+Steve Ballmer on the education problem; recurring "I don't care for the money, let me help you" closer (also in
+zB0pby_VPCU) — good persona/voice + beliefs signal. Reinforcing tactical/mindset: internal linking — descriptive
+anchor to target page, in-text > footer/sidebar, vary anchors/no over-optimization, works for content & ecommerce,
+~5-month lag, also update OLD pages (B_P2cxJdnik); execution > consumption — knowledge worthless without applying
+it, "learners" underperform, claims a business hit >$4M ARR in 7mo 8d (self-reported), refs co-host Eric Siu, ⚠️
+caption garble "wrote principles by Ray Doo" = READ Principles by Ray Dalio (oedsuqDppKk); mobile SEO — 58% of
+searches mobile, responsive design, fast load, Google AMP (~30% lift in Brazil, negligible US), small header +
+readable text, no intrusive pop-ups (rankings "plummet"), mobile-first index = expose ALL content (pdBBG4aRldI);
+advice-by-expertise-not-wealth heuristic — weight advice by domain expertise, cross-check with an industry expert,
+Buffett strong on insurance/rails but missed MSFT/GOOG/AMZN; persona detail "15 min/day workout, know jack about
+nutrition" (zB0pby_VPCU); voice search — HTTPS = 65%+ of results, deserved domain authority, ≤4.6s load (attributed
+to Brian Dean, not Neil), 2,200+ word in-depth content with short answers under question headings (UpaOahLBmFQ);
+Quora — banned/reinstated repeatedly, best play = repurpose blog content answering a popular Q + add unique
+sentences + link back, earn upvotes by out-depthing the top answer not gaming, or Quora ads for awareness
+(dvHY_e6hbyM). AMP and Privacy-Shield-style claims are 2018-dated → flag time-bound at synthesis.
