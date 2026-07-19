@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-20 (ingest: @neilpatel batch — 8 P2 long-form L2, 2019-01-09→01-28 solo tactical era: PayPal-SPONSORED conversion promo (+6%/+13%→19% self-reported); grow-in-a-competitive-space (email+CRO/A-B foundation BEFORE traffic; performance PR prserve.com); own-the-whole-SERP (interlink pillar+offshoots, multiple pages/topic, link to every version via Ahrefs Link Intersect); blogging-still-works-2019 (quality>quantity, respond+end-with-question, CTAs, MobileMonkey chatbot 70-90% CTR); growth-hacking MINDSET (document everything, never satisfied, BuiltWith→Wayback to read competitors' A-B winners, Product Hunt, always test AND retest — Google-only-login retest cautionary tale); 37,391-visitors distribution playbook (link-out+flattery email, re-share 6x/yr, comment>like, first-hour email+push blast); SEO-in-2019 (unique>volume, brand signals via Google Trends, voice search 50%+ by 2020, site speed/mobile-first); CONTRARIAN personal-branding (he'd build a CORPORATE brand not personal — McDonald's/Google outlast the person, Apple grew post-Jobs); 445 videos L2)_
+_Last updated: 2026-07-20 (ingest: @neilpatel batch — 8 P2 long-form L2, 2019-01-31→02-16 solo tactical era: 7 social-media hacks (comments>likes, LinkedIn "see more" hack, exit popups desktop-only — quicksprout 1k FB fans/wk); ORIGIN work-with-multi-million-cos (Elpac Electronics first big contract via high-school Speech-101 talk, ~$5k/mo→$20M+ leads; PokerStrategy first $1.2M contract won by helping a shunned attendee free; "little is the new big"); become-an-SEO-expert (love-it-first, BuzzSumo→Ahrefs outreach, 1 big test/mo, patience; "better than most not the best"); 6 advanced SEO (user-metrics/pogo-stick, schema/Yoast, expand ranking pages w/ Ubersuggest long-tail, animated GIF infographics, prune-and-crop); next-level digital mktg (YouTube-SEO<1wk, funnels, omnichannel, 2008-recession Google-ads datapoint); top-5 conferences (T&C Summit/Ryan Deiss, Affiliate Summit/World, SMX Advanced, CXL — learn from aggressive marketers, apply ethically); 7 free social tools (Hootsuite reshare 6x/yr, ManyChat 60%+ open); content-mktg-2019 (freshness, "future is video" + iPhone-converts-better/Tai Lopez, 80/20 promote-over-write); 453 videos L2)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life/career timeline (England → Orange County → Crazy Egg/KISSmetrics → NP Digital → Ubersuggest → Marketing School), registry/court-verified vs self-reported marked per claim.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe.
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 445 videos ingested (L2).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 453 videos ingested (L2).
 
 ## Topics
 

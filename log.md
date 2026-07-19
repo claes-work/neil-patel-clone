@@ -2745,3 +2745,67 @@ research move worth a topics/analytics-cro note. Rest (own-the-SERP interlinking
 volume, brand signals via Google Trends, first-hour blast, email/push, yearly updates) heavily reinforces
 the established 2017-18 canon — high repetition. Dated prediction logged: "voice search 50%+ by 2020"
 (I0joqcqpiO4). No hard contradictions; PayPal figures and traffic/career self-reports are flagged in-page.
+
+## [2026-07-20] ingest | yt batch (@neilpatel, 8) — P2 long-form (2019-01-31→02-16 solo tactical + origin-story era, cont. 36)
+
+Ingested 8 @neilpatel P2 long-form (2019-01-31 → 2019-02-16) to L2. All captions clean; 0 no-captions,
+0 dup, 0 skipped, 0 yt-dlp failures / 429s. All eight are Neil-fronted solo monologues (no guests, no
+attribution splits). Era stays tightly tactical (SEO/content/social/CRO canon) but includes one
+biography-rich origin story (Elpac Electronics + PokerStrategy first big contracts) and reinforces the
+"future is video" belief-evolution thread. This batch is the **10th since synthesis pass 5** → the driver
+will flag a `>>> CHECKPOINT` next iteration (Stage S is due).
+
+- **3x9AWh7g1YQ** (2019-01-31) — **7 social-media hacks**: respond to every comment (**comment > like** in
+  FB/LI/IG algos, ask a question back), **LinkedIn short-sentence "see more" hack** (clicks signal demand →
+  more reach), be social not just promo (2-3 value posts/wk), IG/FB Stories 10+/day + swipe-up (cites
+  GaryVee), cross-promote all profiles, **exit popups desktop-only** (mobile wait 30s) — self-ref ~1,000 FB
+  fans/wk via a quicksprout.com exit popup + Hello Bar, test video.
+- **BAgMFNMHxho** (2019-02-02) — ★ **ORIGIN "work with multi-million dollar companies"**: **Elpac
+  Electronics** first big contract (power-supply mfr, later acquired) landed via a **Speech 101 talk on
+  "how Google works" at community college while in high school** — attendee salesperson referred him; paid
+  ~$5k/mo while driving them $20M+ in leads. **PokerStrategy** = first multi-million contract (~$100k/mo,
+  ~$1.2M/yr) won by helping a shunned, body-odor, non-native-English attendee *for free* at a London
+  gambling conference, who then evangelized him. Named framework **"little is the new big"**; ≥4 talks/yr
+  (numbers game), help locally (Chamber of Commerce), be an expert by interviewing experts.
+- **bQTnkN1nUek** (2019-02-04) — **become an SEO expert**: love-it-first (passion not money), WordPress
+  site, write content, build links via **BuzzSumo→Ahrefs linker outreach** (~100 emails/few links,
+  personalized "mine covers A,B,C" template), social shares, follow Backlinko/Moz/neilpatel.com, **1 BIG
+  test/month** (not tiny tweaks, not too frequent), patience 6mo-1yr. "You don't have to be the best, just
+  better than most." Web-size stat: 1.7-1.8B sites, 1B+ blogs.
+- **vsnjC10bC9M** (2019-02-07) — **6 (7) advanced SEO**: **know-your-users** survey (SurveyMonkey/Hotjar) +
+  **user-metrics** (back-button/pogo-stick, dwell, bounce, pages/visit, load speed) — UX-signal/RankBrain
+  thinking; schema via Yoast; **expand ranking pages with Ubersuggest long-tail** (3k→10k words, +traffic
+  <30d); internal link juice to weak pages; **animated GIF infographics** ("how a car engine works" ~1M
+  visitors, zero marketing); expert roundups; **prune-and-crop** dead-weight pages → authority to winners.
+- **jmRunRQU1wc** (2019-02-09) — **take digital marketing to the next level**: **YouTube-SEO results <1wk**
+  (vs Google ~1yr; first 24h decisive), upload video natively per network + CTAs; **funnels** upsell/
+  downsell (SamCart/ClickFunnels) as ad costs rise — **2008-recession datapoint**: Google made more from
+  ads even as US house prices fell 30-50%; guest post (small→big sites); omnichannel (Facebook's old
+  address-book invite hack dead); CRO via Crazy Egg / Hello Bar / Subscribers.com.
+- **91riCuKUKU4** (2019-02-11) — **top 5 marketing conferences**: Traffic & Conversion Summit (San Diego,
+  **Ryan Deiss**), Affiliate Summit, Affiliate World (Asia/Europe), SMX Advanced (Seattle; Google/FB
+  future-of-search speakers), CXL (ConversionXL, revenue-per-visitor/CRO). Recurring belief: **learn
+  cutting-edge tactics from aggressive/affiliate marketers, apply only the ethical ones**.
+- **gCJgHbjXWec** (2019-02-14) — **7 free social tools**: Hootsuite (**reshare same content ~6x/yr →
+  2-3x traffic**, once every 2 months), **ManyChat** FB-Messenger chatbot (self-ref **60%+ open / 30-50%
+  CTR, beats email**), BuzzSumo, SocialBlade (beyond YouTube), Hello Bar (first-hour email blast to boost
+  virality), Subscribers (push), Zoho Social (social keyword research).
+- **tRXT58fDzjg** (2019-02-16) — **content marketing in 2019**: **content freshness/recency** (Google
+  prefers <1wk over 2yr old; update old content), don't regurgitate, **"the future is video"** (text
+  overrated) + native reupload + **iPhone videos convert better than studio for products** (cites Tai
+  Lopez), **80/20 promote-over-write** (BuzzSumo→Ahrefs outreach, view-shares). Self-ref YouTube SEO 100k+
+  visits/mo, ranked for "SEO" in <1 week.
+
+Synthesis notes: NEW / worth promotion next pass — (1) ★ **biography**: the Elpac Electronics (first big
+contract, Speech-101-in-high-school origin, ~$5k/mo→$20M+ leads) and **PokerStrategy first $1.2M contract**
+(help-a-shunned-stranger-free → referral) stories are concrete, dated, new bio events + the named
+**"little is the new big"** framework — strong biography.md + agency-entrepreneurship candidates. (2)
+belief-evolution: **"text is overrated, the future is video"** (2019-02-16) + iPhone-converts-better —
+carry as a dated content-strategy stance that evolves the earlier text-first blogging canon (do NOT smooth
+against 2017-18 "text ranks better than video"; flag as evolving position). (3) minor: "learn from
+aggressive marketers, apply ethically" (91riCuKUKU4) is a characteristic mindset worth a beliefs line;
+Hootsuite reshare-6x + ManyChat 60%-open metrics reinforce the established distribution canon. Rest (link
+outreach, user-metrics/RankBrain, prune-and-crop, expand-ranking-pages, YouTube-SEO-<1wk, funnels, omni-
+channel, first-hour blast, 80/20 promote) heavily reinforces the 2017-18 tactical canon — high repetition.
+Dated self-reported figures (PokerStrategy $1.2M, Elpac $20M leads, ManyChat/quicksprout metrics) flagged
+in-page. No hard contradictions.
