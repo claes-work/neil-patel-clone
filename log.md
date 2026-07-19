@@ -642,3 +642,49 @@ the **Thrasio** aggregator collapse (debt + ad-arbitrage fragility, Ep. 2639). (
 **anti-business-coach** stance vs Eric's pro-coaching (Ep. "Stop Wasting Money") — a
 persona/voice belief with clear dissent from the co-host. First cross-source **entity signal
 for Eric Siu** as recurring co-host (context only). ★L3-candidate: Ep. 2655 (GEO).
+
+## [2026-07-19] ingest | yt batch (@MarketingSchoolPod, 8) — P1 long-form (first MS P1 batch)
+
+First @MarketingSchoolPod P1 batch after @neilpatel P1 fully drained. 8 co-hosted daily
+episodes, 2024-01-15 → 2024-03-28 (yt-VLckuzcfqFY, GFQmeyuJwxY, 8pj9459aJ1w, qH6IQ2bqavU,
+X8YESihAOtM, e8LudQiSfwY, LZuR52_nNFA, gj7B9JnyJqM). All captions fetched OK — 0 no-captions,
+0 dup, 0 rate-limit failures; no videos skipped.
+
+Attribution (SUBJECT.md gating): every episode co-hosted with **Eric Siu**; captions carry no
+speaker labels, so speakers were inferred from address cues ("to Neil's point…", who shares the
+NP Digital/Ubersuggest screen) and per-segment context. Only Neil-attributed material entered
+Key claims + the verbatim quote bank; Eric's material was quarantined into a per-page
+`## Eric Siu (co-host, context — NOT persona data)` section linked to [[wiki/entities/eric-siu]];
+ambiguous turns flagged `(attribution: uncertain)` and kept out of the persona bank.
+
+> ⚠️ Premise correction: **3 of the 8** advertised as standard 2-host episodes are actually
+> **4-way crossovers with the Perpetual Traffic podcast** (guests **Ralph Burns** / Tier 11,
+> **Kasim Aslam** / Solutions 8): 2024-02-09, 2024-02-19, 2024-02-22. On these Neil's talk share
+> is well under half and several *title* hooks ("brandformance," "no such thing as attribution,"
+> the "7-11-4 rule," YouTube-ads strategy) are **guest** material, NOT Neil — all three guests
+> quarantined separately as non-persona context; their attribution frontmatter names all four
+> hosts. Burns/Aslam have no entity pages (labeled context-only by name).
+
+Bookkeeping: 8 ledger rows → L2 (domains + index handles + attribution notes); 8 rows inserted
+into `wiki/sources/youtube-index.md` in date order (footer 80→88); `index.md` YouTube count
+80→88. On-air stats (NP Digital ad-spend/employee counts, GMV, ROAS figures) marked
+self-reported/unverified; caption garbles corrected (ChatGPT, NP Digital, Common Crawl,
+Retention.com, Danny Sullivan).
+
+Synthesis notes: New (accrues as debt for the next synthesis pass): (1) **Neil's AI-era organic-
+search defense** — "Google is financially disincentivized to kill SEO" because it earns ~$30B/yr
+from a partner network that runs on organic traffic, plus Danny Sullivan's total-clicks-still-grow
+data (Ep. 2024-02-15, ★) — a distinct *financial* argument extending the earlier GEO thesis.
+(2) **Agency-survival-in-AI doctrine** — value-or-die pricing and "the winner will be the
+platforms, not the people," + valuation realism (COVID inflated multiples; ~7× profit is generous
+when clients don't stay 7 years) (Ep. 2024-02-09, ★). (3) **Modern-SEO five-lever playbook** and
+the "SEO isn't dead, old-school SEO is" reframing with the signature 94.29%-of-pages-get-zero-
+traffic Ubersuggest stat (Ep. 2024-03-01, ★). (4) **In-app / platform-native selling for ROAS**
++ a leadership/hiring-at-scale framework, with an NP Digital ~1,000-employee data point
+(Ep. 2024-02-22, ★). (5) **"Fame as TAM"** mental model (dollars not people) and Neil's
+provocative "the real money is in products, not personal brands" — a tension worth surfacing given
+his own persona is a personal brand (Ep. 2024-02-07). (6) **GEO will boost affiliate marketing over
+10–20 yrs** + Google's "transactional-keyword, not informational-query" ad moat (Ep. 2024-03-28).
+(7) AI comparison-article traffic tactic ("[Competitor] vs [You]" pages, 17k+ visitors/~6mo) and
+Neil's stance that AI verbatim reproduction breaks the publisher model where ordinary search
+scraping did not (Ep. 2024-01-15). ★L3-candidates: 2024-02-09, 2024-02-15, 2024-02-22, 2024-03-01.
