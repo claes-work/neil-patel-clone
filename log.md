@@ -1649,3 +1649,34 @@ material in the corpus; (c) LinkedIn as a B2B blog-distribution channel (native-
 (d) the platform-specific hashtag doctrine (Instagram-only, 5-7 specific tags). Contradiction flag: none;
 all add specificity. Data-integrity flag: the LinkedIn video's title metric ("60k/mo") is unsubstantiated —
 do not promote it as a claim. Synthesis debt now 7/10 (checkpoint at 10).
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P2 long-form (2017-11 solo social-timing tactical era, cont. 14)
+Ingested 8 P2 @neilpatel solo videos (2017-11-05 → 2017-11-13), all with captions; 0 skipped,
+0 no-captions, 0 duplicates, 0 rate-limits. All Neil-fronted solo (no attribution gating). Pages:
+(1) **Blog virality (D0QJgx_C4rc 2017-11-05)** — virality = emotion first (sad/happy/furious); fuel
+early momentum with paid boosting, BuzzSumo-one-up + beautiful design, and treat it as a numbers game
+(~1 viral post/2 weeks via >1 post/day). (2) **Social mentions / listening (dzLlrQ8-uRA 2017-11-06)** —
+monitor via SocialMention + Mention.com (paid, near-real-time) + Google Alerts combo; convert praisers
+into brand evangelists (Beats-by-Dre model), rebuttal critics graciously to convert haters→lovers.
+(3) **Snapchat vs IG Stories (xvtK954les4 2017-11-07)** — use BOTH (Snapchat skews younger); align stories
+into a followable journey, build anticipation (Apple-style pre-announce), post all day since stories vanish.
+(4) **Best time to tweet (AXF6OV5s7wk 2017-11-08)** — no specific hour; tweet all day ~once/hour, 7 days/wk;
+self-reported metric: 3→40 tweets/day took Twitter referral traffic ~5k→~22k visitors/mo; MeetEdgar/Buffer.
+(5) **Best time to post on Facebook (f9yGqZeYLQw 2017-11-09)** — no universal time; use Facebook Insights but
+it only measures engagement, so A/B-test windows (5am/8am/noon/2/4/8pm); weekdays vs weekends differ.
+(6) **LinkedIn posting times (oTbX-3iknII 2017-11-10)** — B2B → post 9-5 in audience's TZ, test 6-8am at
+login; repeats the native-teaser + "click to continue reading" tactic (claims 5-10x traffic). (7) **Instagram
+posting times (6HVvHIwqYu4 2017-11-11)** — Iconosquare for follower regions; post mornings (algo buries
+stale/low-early-engagement posts); time to audience BEHAVIOR not just TZ (Jessica-the-model anecdote).
+(8) **Local SEO for brick-and-mortar (UHG4wDlvAMY 2017-11-13)** — rank free vs AdWords: Google My Business +
+localized pack, Google reviews (not just Yelp), NAP on contact page, Yoast, topical content, Search Console
++ XML sitemap.
+Synthesis notes: This batch forms a tight "best-time-to-post" mini-series across all four major social
+platforms (Twitter/Facebook/LinkedIn/Instagram, 11-08→11-11) — a durable cross-platform posting-cadence
+doctrine worth a synthesis topic page (candidate: social-media/posting-times). Recurring Neil principle
+reinforced: there is no universal best time — instrument the audience (Insights/Iconosquare/geography) and
+A/B test to their real behavior; volume + all-day cadence beat single "magic hour" posting. The LinkedIn
+"first paragraphs + continue-reading" distribution tactic recurs here (also in the 2017-11-02 video) — now a
+stable pattern. Local-SEO (11-13) extends the SEO domain into brick-and-mortar/GMB, first sustained local-SEO
+material. Self-reported metrics flagged in-page (Twitter 5k→22k; LinkedIn 5-10x), not audited. Contradiction
+flag: none. Synthesis debt now 8/10 (checkpoint at 10).
