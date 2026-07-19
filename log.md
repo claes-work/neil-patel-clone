@@ -817,3 +817,55 @@ disruption of Profound (Ep. 2025-07-30; self-reported product claim). (6) **Prem
 method (Ep. 2025-03-18); watch competitors both bigger and smaller + "I already did it for you"
 custom-creative cold-email (Ep. 2025-09-22); viral-but-off-brand vs vanity virality (Oreo,
 Ep. 2025-01-27, attribution uncertain). ★L3-candidates: 2025-05-11, 2025-09-25, 2025-10-18.
+
+## [2026-07-19] ingest | yt batch (@MarketingSchoolPod, 8) — P1 long-form (2026-01→2026-04, AI-era)
+Stage B. Ingested 8 @MarketingSchoolPod P1 long-form episodes (oldest-first, 2026-01-12 →
+2026-04-03) to L2: DrwKEhCf0C8, pQzrmgeGUnw, 4mAl4Hjeb50, 230edRaKOWc, 9MubDvbfJ-o, ozFBeEkj5e8,
+-9Ea72JfnbE, 0t4r_v8mTIs. Captions: 8/8 ok, 0 no-captions, 0 skipped, 0 dup, no rate-limiting.
+L2 total 112→120. Open P1 long-form on @MarketingSchoolPod 20→12 (P2 742 untouched); @neilpatel
+P2 1085 untouched. One agent per video wrote only its own source page; coordinator did all
+shared-file bookkeeping (ledger, youtube-index, index.md, this log).
+
+Attribution (co-hosted show — only Neil trains the persona): every page tags Neil vs Eric per
+line; Eric's substance quarantined to a co-host context section ([[wiki/entities/eric-siu]]),
+uncertain lines to an attribution-notes section, only Neil verbatim in the quote banks. Captions
+carry NO speaker labels this batch (not even `>>` markers), so attribution is fully inference-based
+(direct address "So Neil…", self-reference tells — NP Digital / Kissmetrics / Mike Kamo / kids
+Emma & William / London-Paris for Neil vs Single Grain / ClickFlow / "Single Brain" / IM8 for Eric).
+**Structural check — watched specifically for disguised guest-interview / multi-presenter /
+Perpetual Traffic crossover episodes: NONE found.** All 8 are genuine Neil+Eric two-handers; the
+Jensen Huang episode discusses Jensen Huang as a SUBJECT of commentary (not a guest), attributed to
+the hosts. No third studio speaker, no guest replay. **Persona-yield variance:** this batch skews
+Eric-heavy on the Claude-Code-evangelism episodes — DrwKEhCf0C8 (~2/3 Eric; Neil kept only his
+revenue-per-employee / AI-fluency-hiring / "real ROI is Claude Code" / NP Digital exit-interview
+turns) and 4mAl4Hjeb50 (~2/3 Eric; Neil kept only his AI-copywriting critique + deals-over-tools
+dissent). Neil-heavy → pQzrmgeGUnw (brand-as-moat), ozFBeEkj5e8 (engineers-vs-marketers + AI-search
+economics), -9Ea72JfnbE (solo SEO-trends-2026 monologue while Eric stepped out), 0t4r_v8mTIs (2026
+SEO/AEO trends). Ambiguous agent-commerce / AI-token / DTC-checkout blocks (230edRaKOWc, 9MubDvbfJ-o,
+0t4r_v8mTIs) were tagged Neil-or-Eric and held OUT of the Neil quote banks rather than guessed.
+Caption garbles corrected/flagged across pages: **"cloud code" / "claw" / "open claw" = Claude Code**,
+"Enthroic" = Anthropic, Jensen Huang, Mike Kamo, Lisa Su, Sergey Brin, Eric Schmidt, Jaana Dogan,
+"Kimmy" = Kimi, Grüns, Meridian, Mintlify, "Boat" = Bolt, Nikita Bier, Tobi Lütke, Marc Andreessen /
+Andreessen Horowitz, Harry Stebbings, Jason Lemkin, ChatGPT, Manus, Granola, Balsamiq; plus flagged
+unverified names (TBPN, "open claw" product, Travis Kalanick's venture, Moltbook) and a garbled ARR
+figure. "Opus 4.5" kept as spoken.
+
+Synthesis notes: New (accrues as debt for the next synthesis pass; this batch is 2026-Q1 AI-era Neil
+and much of it is time-bound model-news reaction — Opus 4.5 / token costs / Jensen Huang — which is
+EPHEMERAL and must NOT be promoted; only the scoped Neil frameworks below carry):
+(1) **Brand-as-the-last-moat in an AI world** — as AI commoditizes execution, personal brand and
+brand mentions become the defensible moat; GEO/AEO is a tactic, not the main prize (Eps 2026-01-16 ★,
+2026-03-20 ★). (2) **"Train the AI, not the people" + engineers-do-marketing thesis** — high-agency
+operators who wield AI beat both pure marketers and pure engineers; AI-search visibility is
+winner-take-all economics (Ep 2026-03-20 ★). (3) **AI won't replace high-agency marketers /
+deals-over-tools** — AI is weak at genuine copywriting, replaces juniors not seniors, "30 minutes a
+day" of personal AI practice, and relationships/deals compound over tool-chasing (Eps 2026-01-19 ★,
+2026-01-16 ★). (4) **SEO-trends-2026 / AEO framework** — linker (unlinked brand) mentions count like
+links, brand search lifts non-branded rankings, an AEO checklist, E-E-A-T / human-written content,
+proprietary data → LinkedIn/LLM citations, and "AI-generated content doesn't rank long-term" (Eps
+2026-03-30 ★, 2026-04-03 ★); extends the 2025-07-23 "New Rules of SEO" and 2025-12-10 "8 trends"
+threads — date-check the "brand mentions ≈ links" claim against earlier positions at synthesis.
+(5) Low-yield nugget (not starred): interview your client-facing team to surface the highest-paid
+problems, then script content + case studies around them (Ep 2026-02-12). ★L3-candidates: 2026-01-16,
+2026-01-19, 2026-03-20, 2026-03-30, 2026-04-03. Synthesis debt now 6 batches since pass 1 (checkpoint
+at 10).
