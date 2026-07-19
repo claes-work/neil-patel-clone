@@ -2112,3 +2112,40 @@ SEM Rush to mine competitors' paid keywords, run paid Google Search first (even 
 defer CRO until a few hundred sales/leads (vQsB9TheyXw). ATTRIBUTION: Adam (Viewership) = co-host on
 WjwENpdTUOo / G6oDfZhxWgc / vQsB9TheyXw — his items (Fiverr-links aside, quiz→webinar ~15c/lead funnel, his own
 YouTube channel <100K→~400K views/mo via ads) marked context, not persona. Batches since last synthesis: 6 of 10.
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P2 long-form (2018-05 solo tactical + Q&A-Thursday era, cont. 23)
+
+8 P2 long-form ingested to L2 (tzEcQ6awQx4, YEElioEHnQY, o67Axprx92I, sCJ5dWBwiMQ, i9WvWCHtiAk, oF50FAu0RqM,
+rZlz3CHF19c, w0AjQoLrKfw). All captions OK; 0 skipped, 0 no-captions, 0 dup, 0 rate-limits. Continues the
+@neilpatel 2018-05 solo era; two are Q&A-Thursday co-hosted with Adam (Viewership). youtube-index 341→349.
+
+Synthesis notes: mostly reinforcing tactical, plus one bio/beliefs-heavy item. ★BIO/BELIEFS (w0AjQoLrKfw,
+self-reported): Neil's own on-record account AND apology for the controversial "Who is Neil Patel?" brand
+campaign (paid people — incl. "half-naked girls," bodybuilders, fitness models, makeup artists — to display
+his name for search/buzz; says he "wasn't trying to degrade women," "learned entrepreneurship from my mom,"
+apologized to the community, wouldn't do it that way again) — capture the dated apology + the "learned
+entrepreneurship from my mom" bio detail at synthesis. Same video restates the Ubersuggest freemium/lead-gen
+story ($120K buy, paid features free, ~50% traffic growth to 400K pageviews/mo, one agency lead/mo covers cost)
+and early KISSmetrics infographics ($500–1K each → thousands of backlinks → 1M visitors/mo; company raised $17M)
+and Quick Sprout advanced guides ($30K+ → >$1M over time). ★BELIEFS/VOICE (sCJ5dWBwiMQ): "live in the moment,"
+cheap/"free" iPhone, cap social media ~1 hr/day, "build a company worth millions > chase insta-fame (0.001%
+outcome)" — continuity with 2018-04-28 (9rtArmHFKsA) same-era privacy/anti-materialism theme, pair for synthesis.
+Reinforcing tactical: morning routine = 5am wake + CNBC + email-batching + ~35-min gym, real lesson is a daily
+task list of day-sized tasks, "don't copy mine" (tzEcQ6awQx4); 3 unorthodox SEO — buy already-ranking under-
+monetized sites & 301 them (Ubersuggest example), recruit competitors' affiliate promoters (higher payouts/free
+product → organic do-follow links; early Crazy Egg → TechCrunch/Mashable), rank fast in non-English markets via
+manual translation + hreflang + cheap in-region links (51% revenue overseas; Brazil ~50% of US traffic)
+(YEElioEHnQY); Facebook native upload beats YouTube links 20–50×, 5–10 min longer videos, captions +30–35%, do
+whatever the platform is currently pushing e.g. Facebook Live for free reach (o67Axprx92I); launch playbook =
+validate with a paid landing page before building (Leadpages/Unbounce/ClickFunnels/Kickstarter; refund if slow),
+MVP per Lean Startup (Eric Ries), build Apple-style hype + waiting list then sell out & close (i9WvWCHtiAk);
+duplicate content = Google won't penalize it (ranks the original first), republish blog intro + "continue reading"
+link on LinkedIn (drives conversions the full-verbatim repost didn't), post same video/audio across all platforms
+(LinkedIn over-delivers video views), but noindex videos on your OWN site (Google prefers YouTube) and embed
+video+text to lift time-on-site/rankings — "good for the user = good for Google" (oF50FAu0RqM); PR heuristic =
+stay silent on no-clear-answer controversy (responding fuels press), apologize when clearly wrong (Cambridge
+Analytica, Comcast→Xfinity), deliberately-polarizing plays (Tim Sykes, Chick-fil-A) are high-variance and he
+avoids them (rZlz3CHF19c). ATTRIBUTION: Adam (Viewership) = co-host on o67Axprx92I / oF50FAu0RqM — his lines
+(the viewer questions, his own video-repurposing workflow, "good for the user is good for Google") marked
+context, not persona; two clips (tzEcQ6awQx4, rZlz3CHF19c) have an unnamed interviewer, context only.
+Batches since last synthesis: 7 of 10 (checkpoint approaching — next batch or a channel/era break triggers Stage S).
