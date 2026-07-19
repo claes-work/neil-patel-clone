@@ -29,6 +29,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2017-06-01 — [How to Do SEO in a Competitive Industry When You Have No Money](2017-06-01-yt-wWiSShEGyHA.md) ★ — seo, content-marketing
 - 2017-06-02 — [How to Increase Your Search Rankings Without Link Building (CTR/user signals; mirror high-CTR AdWords ad copy in title/meta)](2017-06-02-yt-qSDVFMTWN6w.md) — seo, paid-ads
 - 2017-06-03 — [How Virtual Reality Is Going to Affect Digital Marketing (2017 then-prediction: immersive first-person product experiences)](2017-06-03-yt-0DSOQ8noS_U.md) — content-marketing, social-media
+- 2017-06-04 — [The Effective Ranking Factor That Google Doesn't Want You to Know About (brand signals / branded search as a ranking factor)](2017-06-04-yt-nTOGKiy4F_0.md) — seo
+- 2017-06-05 — [The Most Important WordPress Plugin EVER — Top WordPress Plugins for SEO (Yoast SEO)](2017-06-05-yt-fT_RWZQNKZc.md) — seo, content-marketing
+- 2017-06-06 — [How to Make Millions By Starting an Ugly 'Tumbleweed' Business (unsexy/low-competition niches)](2017-06-06-yt-kig9iDpgt1c.md) — agency-entrepreneurship, seo
+- 2017-06-07 — [How to Share Your Brand's Story On Your 'About' Page (About-page storytelling framework)](2017-06-07-yt-Nat0yYV4bKI.md) — content-marketing
+- 2017-06-09 — [How a Bootstrapped Startup Out Marketed My MultiMillion Dollar Company (freemium vs. incumbent; KISSmetrics/Mixpanel)](2017-06-09-yt-rhOALq4FQwE.md) — agency-entrepreneurship
+- 2017-06-09 — [1 Simple Hack to Increase Website Conversions (sound-alert Hello Bar)](2017-06-09-yt-KSjKyFPcwD8.md) — analytics-cro
+- 2017-06-10 — [Do Popups Still Work? Or Is it Bad For Your Digital Marketing Efforts? EXPLAINED (exit-intent; Google mobile interstitial penalty)](2017-06-10-yt-iQ8PX4aPy6w.md) — analytics-cro, seo
+- 2017-06-11 — [7 Blogging Tips That Will Make Your Blog Successful (Storytelling Techniques)](2017-06-11-yt-wDuL4N1Gi5g.md) — content-marketing, seo
 - 2017-08-30 — [5 Tips For Writing An Awesome Blog Post](2017-08-30-yt-ygiAqYJq8No.md) — content-marketing, seo
 - 2017-11-01 — [HOW TO HACK INSTAGRAM: How to Get Your Customers to Promote Your Products On Instagram](2017-11-01-yt-UQR9Nrk626w.md) — social-media, content-marketing
 - 2017-11-12 — [How I Started 4 Multimillion Dollar Businesses By the Time I Was 28](2017-11-12-yt-k_eXA4cY53M.md) ★ — agency-entrepreneurship
@@ -156,4 +164,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2026-07-17 — [Your Software Is Now Your Best Marketing Channel (MS, co-hosted — Neil qualifies the "product = best channel" thesis: he pioneered it ~7-8 yrs ago (bought Ubersuggest ~$120k) but the real lever is FREE not feature-cadence, and it works "not as well as it used to" now everyone builds product; his biggest current lead-driver is conferences (a "three-for-one": speak + sponsor + side-events + branding); a premium on all good talent, not just "AI talent"; anti-vision-board)](2026-07-17-yt-L03nbcDp8v8.md) — ai-marketing, agency-entrepreneurship, content-marketing
 
 ---
-_143 videos ingested (L2) so far._
+_151 videos ingested (L2) so far._

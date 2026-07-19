@@ -1063,3 +1063,42 @@ prediction (0DSOQ8noS_U 2017-06-03)** — immersive first-person product experie
 then-prediction, useful as a contrast point for later emerging-tech (AI/AR) views. All eight are
 period-consistent 2017 tactics — dated accordingly; none contradict current positions but the
 next synthesis should reconcile the 2017 SEO/CTR framing against the 2025-26 AEO/GEO material.
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P2 long-form (2017-06 solo era, cont.)
+Stage B (first matching rule: synthesis debt 1/10 — no checkpoint; persona fresh (v2, pass 2);
+no zero-row TARGET; P1 already drained → open P2 exists). Continued @neilpatel P2 to keep the
+Neil-fronted primary corpus (fully Neil-attributed, no co-host quarantine → cleanest persona
+signal) moving; selection was priority-2, oldest-first: the 2017-06-04→2017-06-11 solo run
+(nTOGKiy4F_0, fT_RWZQNKZc, kig9iDpgt1c, Nat0yYV4bKI, rhOALq4FQwE, KSjKyFPcwD8, iQ8PX4aPy6w,
+wDuL4N1Gi5g). Captions: 8/8 ok, 0 no-captions, 0 skipped, 0 dup, NO rate-limiting (no yt-dlp
+failures). L2 total 143→151. @neilpatel open long-form 1098→1090 (P2 1077→1069, P3 21); MS
+766 (P2 738 / P3 28) untouched; shorts 2682 untouched. One agent per video wrote only its own
+source page; coordinator did all shared-file bookkeeping (ledger, youtube-index, index.md, log).
+
+Attribution: all 8 are solo @neilpatel main-channel educational videos — single speaker, fully
+Neil-attributed, no guest/co-host, so the whole batch is persona-eligible (nothing quarantined,
+no uncertain-attribution flags). Caption garbles corrected/flagged in the pages: Yoast, Hello Bar,
+KISSmetrics/Mixpanel, Google Trends, "last ditch effort"; one unverified surname ("Rigby") left
+flagged rather than asserted. Self-reported figures (KISSmetrics <$100M sale, Mixpanel >$800M
+valuation, $15–20M raised, 1M+ blog visits) phrased as self-reported per SUBJECT rules.
+
+Synthesis notes: New (debt for next synthesis pass): (1) **Brand signals as a ranking factor
+(nTOGKiy4F_0 2017-06-04)** — Neil argues building a real brand drives branded search volume, which
+Google reads as a trust/authority signal that lifts rankings beyond links/on-page; ties directly
+to the prior-batch "Google Trends as a brand-size metric" note — the two form one brand→branded-
+search→rankings thesis worth a single topic page. (2) **"Ugly/Tumbleweed business" niche heuristic
+(kig9iDpgt1c 2017-06-06)** — unsexy, low-competition verticals are the most profitable; validate
+demand via keyword/Trends volume before entering — the go-to-market sibling of the prior-batch
+"boring-industry ideation" (search adjacent emotional concepts) note; link them. (3) **About-page
+storytelling framework (Nat0yYV4bKI 2017-06-07)** — a repeatable 5-part structure (origin story +
+emotional connection + power words + social proof + CTA) for turning the About page into a
+conversion asset; new tactical content-marketing framework. (4) **Freemium-beats-incumbent GTM
+lesson (rhOALq4FQwE 2017-06-09)** — give away a genuinely useful free tool to out-market a bigger,
+paid competitor; framed via KISSmetrics vs. Mixpanel — a durable agency-entrepreneurship principle
+(prefigures his own Ubersuggest freemium playbook). (5) **Popups still work + caveat (iQ8PX4aPy6w
+2017-06-10)** — exit-intent popups convert, but respect Google's mobile interstitial penalty; nuance
+for the CRO vs. SEO trade-off. Minor/period tactics (fold lightly or drop as repeats): Yoast as the
+"most important" WordPress SEO plugin (fT_RWZQNKZc), sound-alert Hello Bar conversion hack
+(KSjKyFPcwD8), and the 7 blogging/storytelling tips (wDuL4N1Gi5g, overlaps prior blogging videos).
+All 2017-dated; none contradict current positions — next synthesis should reconcile the 2017
+brand/CRO framing with 2025-26 AEO/GEO material and merge the two brand-signal notes.
