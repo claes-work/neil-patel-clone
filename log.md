@@ -1267,3 +1267,44 @@ ties back to the 2017-07-20 hreflang/internationalization video (same incident).
 as of 2017-07-28 → implies SEO start ~2001. Period artifact for contradiction-watch: the Alexa.com
 "3rd most popular site" datapoint (1IJpJIGQ32I) is obsolete (Alexa retired 2022) — flagged in-page, do
 not present as current. All 2017-dated; none contradict current positions.
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P2 long-form (2017-08 solo CRO/conversion era)
+Stage B (first matching rule: synthesis debt 7/10 — no checkpoint banner; persona fresh (v2, pass 2);
+no zero-row TARGET; no open P1 → open P2 exists). Continued @neilpatel P2 — the Neil-fronted primary
+corpus is fully Neil-attributed (no co-host quarantine → cleanest persona signal). Selection was
+priority-2, oldest-first: the 2017-08-01→2017-08-12 solo run (fBkPBS3e6ZE, s2L6eRObBqw, d8_m8-Gmuf8,
+2uk_fXZ_xnI, TXKQaVqIgcY, _e_0iu54wUQ, WfHqm6j29oo, LSOJw9jDrCE). Captions: 8/8 ok, 0 no-captions,
+0 skipped, 0 dup, NO rate-limiting (no yt-dlp failures). L2 total 191→199. @neilpatel open long-form
+1050→1042 (P2 1029→1021, P3 21); MS 766 (P2 738 / P3 28) untouched; shorts 2682 untouched.
+Coordinator did all shared-file bookkeeping (ledger, youtube-index, index.md, log).
+
+Attribution: all 8 are solo @neilpatel main-channel educational videos — single speaker, fully
+Neil-attributed, no guest/co-host, so the whole batch is persona-eligible (nothing quarantined,
+no uncertain-attribution flags). Minor caption garbles corrected in-page, not invented: "copy link" →
+"copy length" (s2L6eRObBqw), "markers" → "marketers" (2uk_fXZ_xnI), "Neil Patal" → "Neil Patel"
+(_e_0iu54wUQ).
+
+Synthesis notes: a coherent 2017 CRO/conversion cluster — heavier than the 2017-07 SEO run, several
+reusable primitives worth promoting at the next synthesis pass. New/notable for synthesis:
+(1) **On-site opt-in cannibalization (fBkPBS3e6ZE 2017-08-01)** — stacking pop-up + slider + alert
+does NOT add linearly (~5+5+5 → ~12%, not 15%), still net-positive; paired with a message-congruence
+rule (slider msg → click → landing page must match). Non-obvious CRO mental model → candidate for a
+topics/analytics-cro opt-in/lead-capture page (figures illustrative/self-reported). (2) **Copy =
+objection-handling + email follow-up, not prose (s2L6eRObBqw 2017-08-02)** — survey to surface
+objections, segment visitors + write per segment, "length doesn't matter, answering objections does";
+self-reported ~8/10 read only the headline and ~half of sales come from email follow-up. Durable
+copywriting doctrine. (3) **FB-vs-Google intent heuristic (d8_m8-Gmuf8 2017-08-03)** — Google = active
+purchase intent, Facebook = social/browse (no intent) → educate first via blog/webinar, exception for
+low-ticket direct-to-checkout; clean quotable paid-ads framing. (4) **Retargeting (2uk_fXZ_xnI
+2017-08-04)** — rule-of-seven exposures + Overstock progressive price-drop dynamic retargeting; dated
+self-reported spend benchmark ~$200k/mo total ads, ~$40k (20%) to retargeting → paid-media budget
+anchor. (5) **Ecommerce product-page (_e_0iu54wUQ 2017-08-07)** — "product pages = money pages" 5-part
+on-page checklist (Amazon exemplar) + two reusable SEO beliefs: pogo-sticking/bounce-back-to-Google as
+a ranking signal, and cross-linking → crawl/indexation → collective ranking lift. (6) **Social proof
+placement > volume (WfHqm6j29oo 2017-08-11)** — generic "featured on" badges site-wide don't convert;
+put testimonials inside the sales copy at the decision point; testimonial-quality checklist (image +
+full name + linked business + specific measurable result). (7) Lighter/period-tactical: social-share
+icon placement by page-type + "would you share it yourself?" heuristic (TXKQaVqIgcY 2017-08-05), and
+quicksprout-era social-share hacks with the durable "participate before you promote" principle
+(LSOJw9jDrCE 2017-08-12). All 2017-dated; none contradict current positions. Synthesis debt now 8/10 —
+checkpoint (Stage S) is due in ~2 more batches.
