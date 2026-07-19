@@ -1937,3 +1937,60 @@ Attribution/quality flags on-page: Adam Lodolce = interviewer (not persona data)
 BVkcDEMv_xA / PktXUVzrNhA / EPaqxSoU2K0; "David" = NP content lead (context) in PwWTJcpuSqs. ⚠️ CONTRADICTION
 flagged on 02-03: Neil says "in 2008 we bought Ubersuggest" — misspeak/caption error; SUBJECT.md registry =
 2017-02-13 (~$120K); ~$110–140k figure is otherwise consistent.
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P2 long-form (2018-02→03 solo tactical/agency era, cont. 19)
+Batch of 8 @neilpatel P2 long-form (2018-02-17 → 2018-03-08), all L2. 8 ingested, 0 skipped,
+0 no-captions, 0 dup. No rate limits (all 8 captions fetched clean on first pass). Era continues
+Neil's solo tactical/agency playbook + several Q&A Thursdays with **Adam Lodolce** (viewership.com,
+interviewer — his questions/interjections are context, not persona data). Pages:
+(1) **Turn Passion into Profit (fBLkMlzbHHc 2018-02-17)** — conventional route = competing with everyone;
+apply entrepreneurial mindset to anything; artist → paint trending + FB ads on net-30; friend **Sasha**
+(law, no firm hire) → six-figure yearly income (~$80K profit) in ~2 yrs; overflow-leads arbitrage (take an
+artist's unaffordable leads at 1/10 price, 10% kickback). (2) **SEO Mistakes / 3 Black Hat Techniques
+(CkPZk9i4SSY 2018-02-20)** ★ — Neil's own early war stories (self-reported): bought popular free WordPress
+themes → swapped footer credit links → #1 "web hosting" affiliate site $100K/mo then Google banned only him;
+expired civil-war .edu domain → casino content → top-3 "online casino" then banned; regurgitated annual
+"top 10 tools" = duplicate content → fix by updating in place, pruning (FeedBurner), 301-consolidating weak
+dupes; bought a blog ~$500K whose "seasonal" swings were really regurgitated/outdated content. (3) **Facebook
+Watch vs. YouTube (y4ei5jVTZwU 2018-02-22)** — underdog-platform arbitrage: publish where a network is fighting
+the leader → it favors that content in-algorithm; FB Watch = viewable to all but application to publish; LinkedIn
+under-supplied on video; FB crushed Snapchat via Stories; voice search/podcasting = future (lower reach now);
+subtitle/translate. (4) **Innovate, Not Copy (SEPSz5WNwig 2018-02-24)** — copying forgets TIME (2012/2014 tactics
+decay); NP content-marketing copiers fail (rankings cheaper then, $20–30K won't match); Google ~$700B & ~80%
+AdWords → won't make organic easy; hiring standard: can't one-up others → don't belong in the company; FB fans
+$10K/day 3–4 yrs ago → wouldn't spend $1K now (organic reach crushed). (5) **3 On-Page SEO Hacks (OQE21oqXmlo
+2018-02-27)** — Google Search Console → fix high-impression/low-CTR pages via title+meta adjectives ("effortless"),
+measure 30 days, Yoast; site speed = fast server (WP Engine, not $5 hosting) + CDN Akamai + AMP (lifted Brazil
+traffic, not NA/CA/AU/UK); theme site post-Hummingbird, subsections beat 50 near-dupe articles. (6) **EXPLODE Your
+Shopify Store (UBq77K0L4Xk 2018-03-01)** — pick the content format you're best at (Neil=text 10+ yrs, Adam=video);
+ONE-product store → six-figures/mo (comfort-insoles-for-high-heels case, met at Chris Winfield's dinner, via FB ads);
+upsells via Zipify; content around one product; infographics (Dribbble/99designs $50–500) + BuzzSumo view-shares +
+Ahrefs link outreach; Google Trends sizing (bigger than "digital marketing" = big enough); team member David eczema
+one-product six-fig/yr. (7) **Creative Problem Solving (WOEyzksl_NM 2018-03-03)** — filmed on iPhone after mics died;
+can't control everything (revenue/team/recession) → be creative + take action; lose a big client → LinkedIn their
+competitors + pitch your results; brand hits survivable, "people forgive and forget"; no studio needed (cf. Tai Lopez).
+(8) **How to Launch a Product (1JmT-yHp8NQ 2018-03-08)** ★ — full launch funnel: ClickFunnels front + Kajabi back;
+$500 product → webinar (WebinarJam), 45–60 min, first 30 free education then pitch a faster/simpler path; EverWebinar
+evergreen; FB ads > YouTube ads, Jason Hornung ~$10K/mo flat (no referral incentive); JV affiliates 30–50% + joint
+webinars (ConvertKit >$10M/yr, Pat Flynn/SPI); 7-day email sequence; cart-abandonment ~60–70% → YouTube+FB remarketing
+with the OPPOSITE pitch (emotional↔logical) back to checkout = highest-converting campaign.
+Synthesis notes: GENUINELY-NEW for the next (5th) synthesis / persona pass — ★ = persona/bio-weighted.
+(a) **BIO/BELIEFS — black-hat origin story (02-20)** ★: Neil self-reports building his early fortune via
+manipulative link-building (WordPress-theme footer links → #1 "web hosting", $100K/mo) and expired-domain
+→ casino arbitrage (top-3 "online casino"), both Google-banned — a concrete "reformed black-hatter → think
+long-term" biography beat + the duplicate-content-pruning fix (update/prune/301-consolidate) as an SEO tactic.
+Mark self-reported. (b) **BELIEFS — "innovate, don't copy" + timing decays tactics (02-24)** ★: distinct
+marketing philosophy (platforms have a paid-ads incentive so organic tactics decay; borrow-but-improve;
+"can't one-up others → don't belong" hiring filter) for beliefs.md. (c) **BELIEFS — creative-problem-solving/
+adaptability + "people forgive and forget" (03-03)** ★: resilience/mindset beat for beliefs.md. (d) **TACTIC —
+product-launch funnel (03-08)**: ClickFunnels+Kajabi+webinar architecture, opposite-pitch cart-abandonment
+remarketing, JV/affiliate joint webinars — strong paid-ads/analytics-cro topic candidate. (e) **TACTIC —
+one-product Shopify + infographic-outreach (03-01)** and **underdog-platform arbitrage (02-22)** — content-
+marketing/social-media topic candidates.
+Reinforcement (note continuity, not novelty): BuzzSumo view-shares + Ahrefs outreach, Hummingbird topical
+authority/theming, GSC CTR title-tuning, pick-the-format-you're-best-at, own-your-audience, buy-traffic/long-term
+thinking, passion+monetization framing. NEW ENTITY candidates: Chris Winfield (dinner host/networker — minor),
+Jason Hornung (media buyer — minor). Attribution/quality flags on-page: Adam Lodolce = interviewer (not persona
+data) across y4ei5jVTZwU / UBq77K0L4Xk / WOEyzksl_NM / 1JmT-yHp8NQ; "David" = NP team member (context) in UBq77K0L4Xk.
+⚠️ Caption garbles flagged on 1JmT-yHp8NQ: "Jason hornang" → Jason Hornung; "sam evans" → likely Sam Ovens
+(attribution uncertain). Batches since last synthesis: 3 of 10.
