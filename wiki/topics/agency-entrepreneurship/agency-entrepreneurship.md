@@ -376,6 +376,86 @@ reputationally sensitive; recorded **neutrally, self-reported**, not endorsed
   **single-author book on your core topic** instead. A strong biography + agency data point (see
   [[persona/biography|biography]]).
 
+## 2018 solo-era operating principles (@neilpatel P2)
+
+The 2018 solo run is where Neil first states, on camera, the **business-operator** doctrines
+he sharpens years later on the Marketing School podcast — globalization, acquisition math,
+hiring/culture, and fundraising. Dated seeds; several carry an explicit through-line to the
+2024–2026 material above. All figures self-reported.
+
+- **Globalization is the core strategy — chase no-competition non-English markets (2018-03-17,
+  2018-03-24, ★).** His "daring 5-year plan": go where rankings/shares are easy and competition
+  is thin — **Salesforce's #2 revenue country is Japan**; Brazil's currency is ~3–3.5x weaker so
+  a dollar of spend goes further and content ranks fast. Capital allocation to match: **150+
+  employees, "millions in profit," and a $0 personal salary** — *all* profit reinvested into
+  buying competitors, brand, and global expansion ([[2018-03-17-yt-IXb_b9JbmkA]]). The companion
+  video reports **Brazil hitting ~$100K/mo profit within 12 months** (potential $10M/yr,
+  self-reported), an **RD Summit Florianópolis ~5,000-person talk** (96%+ non-English audience),
+  and the rule to **keep money in-country and reinvest** ([[2018-03-24-yt-rCAT_US765U]]). This is
+  the dated origin of his later global-agency ambition.
+- **Acquisition / M&A doctrine — the 2018 seed (2018-02-03, 2018-06-09, ★).** Buy on **traffic,
+  not links or revenue** ("a $100K backlink-heavy domain 301-redirected did nothing"), demand a
+  **<12-month payback**, use **earnout financing**, and target ~**$5M/yr in acquisitions**
+  ([[2018-02-03-yt-QF2lvWEHzSw]]). By mid-2018 he states the explicit math: **buy at 2.5–3x yearly
+  profit** ("won't pay a dollar more"), run **3-year EBITDA**, "cut the fat," **buy zero-revenue
+  businesses purely for traffic** to roll into the core site (kissmetrics.com folded in for its
+  1M+ visitors/mo), and **arbitrage the multiple** — buy small players, merge to category leader,
+  because leaders fetch ~10–20x revenue vs. 3–5x for small ones ([[2018-06-09-yt-FCFb3712mSE]]).
+  > Through-line (dated, not smoothed): this 2018 "buy small at 2.5–3x, arbitrage the multiple,
+  > buy traffic not revenue" doctrine is the **direct precursor** to his 2026 distressed-agency
+  > M&A thesis (~2x profit, Platinum-Equity model, "acquisition is a growth channel") in the
+  > *Agency M&A* section above ([[2026-07-06-yt-JJ_wuHYGrQM]], [[2026-07-16-yt-y74lGUnI5Zg]]).
+  > Nearly a decade apart, same core mechanics; present both as dated points on one evolving line.
+- **Hiring & management doctrine (2018-02-10, 2018-03-24, ★).** "**I hate managing**" — so the
+  system is: find **one process-oriented person**, **overpay and hire smart**, and hire
+  **entrepreneurs-without-capital on profit/revenue-share** ([[2018-02-10-yt-7FbhPpANS7M]]). The
+  hiring filter (2018-03-24): **overpay but make them earn it** (free/cheap 30–90 days, then
+  above-market pay + autonomy), prize **scrappy/creative over Harvard/perfect-SAT**, and screen
+  for a **"didn't grow up with money"** hunger — anchored on Richard Branson's people-first advice
+  ("it's the people, not the idea"; take care of the people who got you there)
+  ([[2018-03-24-yt-rCAT_US765U]]). Extends the "terrible manager" self-awareness (2017-12-14).
+- **Culture doctrine (2018-07-21, ★).** After solving a real problem, **culture is the #1 thing**;
+  **money is not the top motivator** (ownership, learning, progression, mission are — free food
+  and perks don't retain people); and **culture ≠ silencing dissent** — he rejects only the "my
+  way or the highway" hire, not disagreement ([[2018-07-21-yt-pWtfTZ1i6yU]]).
+- **VC-raising playbook (2018-03-13).** He says he's **raised >$20M lifetime**: raise **only what
+  you need + padding**; VC is a **relationships business** (network at TechCrunch/Mashable,
+  provide value, *then* pitch); **investors back people, not ideas** (Twitter ← Odeo); pitch a
+  **big idea** (VCs want the next Uber); **always be fundraising** ~1 year before you need cash
+  ([[2018-03-13-yt-69q71xic144]]).
+- **Intrapreneurship / apprentice-first — "I wouldn't start a business young again" (2018-07-14,
+  ★).** A striking dated position: the better path is to **intern/volunteer → get paid → hop
+  mentors → start a company only when ready**, building skills + network + capital access first;
+  he rates himself "not even 1/1000 of Zuckerberg" ([[2018-07-14-yt-x1a0XRXyeVA]]).
+- **Three marketing mistakes to avoid (2018-03-27, ★).** (1) **Validate / pre-sell before you
+  build** — collect money first, refund if needed; (2) **niche down** (ConvertKit failed against
+  Mailchimp, then niched to bloggers → $10M/yr in 2 years); (3) **acquire customers before
+  brand** — real branding is a **byproduct** of customers loving the product + word-of-mouth
+  (Amazon/Google vs. Yahoo), not logos or early TV ([[2018-03-27-yt-4g05lbqBjc0]]). He restates
+  "**brand is a byproduct of genuinely caring**," anchored on a Warren Buffett short-term-income-
+  vs-brand letter, and says he **stopped agency referrals over name-risk** ([[2018-04-14-yt-p971nx8KsEA]]).
+- **Freemium-FREE as a mindshare weapon; "think like a media company" (2018-03-31, ★).** A sharper
+  form of the free-tool thesis: his motivation is **beating competitors, not dollar goals**; the
+  play is to **make a paid competitor's features free** (Ubersuggest done; Semrush/Moz next) to
+  win audience + mindshare, then **monetize the top ~1% (Fortune-1000) later**. Cites Bezos —
+  "**your margin is my opportunity**" — and undercut-to-free; APIs make delivery cheap (~$120/mo
+  to crawl 500K pages vs. Moz's ~$200K/mo servers). Verbatim frame: **"think of it as a media
+  company — whoever controls the most eyeballs wins"** ([[2018-03-31-yt-2UHYuokEfWw]]).
+- **Client-concentration survival playbook (2018-05-05).** Self-reported: at ~16–18 he **lost his
+  largest client (~$25K/mo)** then recuperated; would/nearly-did **move back in with his parents**
+  during the lawsuit era to keep paying his team. The playbook when a whale leaves: **pitch the
+  whale's direct competitors** (Walmart → Target), use **performance-tied auto-renew clauses**,
+  **diversify with smaller lower-margin clients**, and **run lean / keep savings**
+  ([[2018-05-05-yt-hya9oJDegyQ]]). Team-first doctrine credited to Branson: "it's not you who
+  builds a business, it's your team."
+- **The "Who is Neil Patel?" brand campaign — dated apology (2018-05-29, ★, reputationally
+  sensitive).** On record, Neil recounts *and apologizes for* his early **"Who is Neil Patel?"**
+  awareness stunt — paying people (including, in his own words, "half-naked girls," bodybuilders,
+  fitness models, makeup artists) to display his name to drive search/buzz. He says he "wasn't
+  trying to degrade women," apologized to the community, and **wouldn't do it that way again**;
+  in the same telling he credits learning **entrepreneurship from his mom**
+  ([[2018-05-29-yt-w0AjQoLrKfw]]). Recorded **neutrally, self-reported**; see [[persona/biography|biography]].
+
 ## Key source pages
 
 - [[2016-11-25-yt--dCls0VoY58]] — "Learn REAL Digital Marketing In Just 5 Minutes a Day":
@@ -428,3 +508,18 @@ reputationally sensitive; recorded **neutrally, self-reported**, not endorsed
 - [[2017-12-10-yt-EeoqtgXO4U8]] — ★ Hustle bestseller candid mechanics (service-trade bulk buys, ResultSource).
 - [[2017-12-14-yt-Pc1OXZgrjo8]] — "I'm a terrible manager"; large-TAM idea-selection restated.
 - [[2017-12-28-yt-_9OpUvPoXoY]] — Blog to $1k/month (traffic-first, long-form, high-ticket).
+
+### 2018 solo-era operating principles (@neilpatel P2)
+- [[2018-02-03-yt-QF2lvWEHzSw]] — Acquisition seed: buy on traffic, <12mo payback, earnout, $5M/yr goal.
+- [[2018-02-10-yt-7FbhPpANS7M]] — "I hate managing"; overpay + profit-share hires; Mike Kamo Mazda origin.
+- [[2018-03-13-yt-69q71xic144]] — VC-raising playbook (relationships-first, big idea, always-be-fundraising).
+- [[2018-03-17-yt-IXb_b9JbmkA]] — Daring 5-year plan: globalization + $0-salary reinvest-everything.
+- [[2018-03-24-yt-rCAT_US765U]] — Global brand expansion (Brazil); hiring filter; Branson people-first.
+- [[2018-03-27-yt-4g05lbqBjc0]] — 3 marketing mistakes: validate/pre-sell, niche down, brand-as-byproduct.
+- [[2018-03-31-yt-2UHYuokEfWw]] — ★ Freemium-FREE mindshare weapon; "think like a media company"; Bezos margin line.
+- [[2018-04-14-yt-p971nx8KsEA]] — Brand-as-byproduct (Buffett); stopped agency referrals over name-risk.
+- [[2018-05-05-yt-hya9oJDegyQ]] — Client-concentration survival playbook; teenage $25K/mo client lost/recuperated.
+- [[2018-05-29-yt-w0AjQoLrKfw]] — ★ "Who is Neil Patel?" campaign apology; "learned entrepreneurship from my mom."
+- [[2018-06-09-yt-FCFb3712mSE]] — ★ M&A math: buy at 2.5–3x profit, multiple-arbitrage (2026 precursor).
+- [[2018-07-14-yt-x1a0XRXyeVA]] — Intrapreneurship / apprentice-first ("wouldn't start a business young again").
+- [[2018-07-21-yt-pWtfTZ1i6yU]] — Culture doctrine (culture #1; money isn't the top motivator; dissent ≠ disloyalty).

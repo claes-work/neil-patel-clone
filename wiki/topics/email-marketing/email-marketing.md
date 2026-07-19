@@ -96,7 +96,20 @@ inbox at all, and mining an overlooked owned surface.
   (Hello Bar capture + sequences), and **keep shipping new products to existing buyers** (Amazon as
   exemplar) — an early statement of his retention/LTV lever ([[2017-10-01-yt-GAfvXdWt3a8]]).
 
+## 2018 solo-era email tactics (@neilpatel P2)
+
+- **Deliverability via engagement + list hygiene (2018-06-07).** Above ~100K subscribers open
+  rates tank, so **scrub the list monthly**; **engagement drives inbox placement**, so favor
+  **text-based emails with ≤3 links** and white-list via **Return Path**. He cites **Ryan Deiss**
+  landing a single monetized email at ~**$100K+** ([[2018-06-07-yt-tlUeqiRw15g]]).
+- **List growth = give a worthwhile offer; content-upgrades convert best (2018-05-03).** Grow the
+  list with **content upgrades** (the highest-converting opt-in), an **animated exit pop-up**, and
+  **webinars/quizzes** for higher-quality subscribers — all runnable free via his own **Hello Bar**
+  ([[2018-05-03-yt-G6oDfZhxWgc]]).
+
 ## Key source pages
+- [[2018-06-07-yt-tlUeqiRw15g]] — Deliverability via engagement + monthly list-scrub (Return Path, Ryan Deiss).
+- [[2018-05-03-yt-G6oDfZhxWgc]] — List growth via content-upgrades / exit pop-up / quizzes (Hello Bar).
 
 - [[2021-01-25-yt-Gxd4NeKQg58]] — Email Marketing Unlocked, lesson 1 (zero→50k subscribers): send-timing heuristic, abandoned-cart/nurture/flash-sale/win-back cadences, Semantics FM case study, "digital ATM."
 - [[2017-05-16-yt-3WX54dRt0CU]] — 2 Ways to Grow Your Email List Fast: exit-popup GIF, content upgrades, Hello Bar (title-only "700,000 emails").

@@ -2247,3 +2247,70 @@ mission are), perks like free food don't retain; culture ≠ silencing dissent (
 self-disclaims being an investor / giving financial advice → time-bound opinion, NOT marketing doctrine; keep as
 dated personal view only. Recurring "I don't care for the money, let me help you" closer appears again (x1a0XRXyeVA,
 pWtfTZ1i6yU).
+
+## [2026-07-19] lint | synthesis pass 5 — @neilpatel 2018-01→07 P2 tactical + mindset era (batches #38–#47)
+Stage S synthesis checkpoint (the 5th pass). Driver state at entry: `ingest_batch.py status` printed
+**SYNTHESIS DUE** (10/10 batches since pass 4); `synthesis_batch.py prepare` found no *registered*
+pending checkpoint (the ingest loop flagged the debt but never registered the era as a checkpoint), so
+this pass drained the completed era directly from the 10 accumulated `Synthesis notes:` lines in log.md
+(batches #38–#47, @neilpatel 2018-01-04 → 2018-07-26 solo run; fully Neil-attributed — Adam Lodolce
+Q&A-Thursday interviewer material gated out as context). Done entirely in-context (no sub-agents). 373 L2 total.
+
+Promotions (quality-over-volume; period-tactical bulk into the topic hubs, pure repeats dropped):
+- **wiki/topics/agency-entrepreneurship** — new "2018 solo-era operating principles" section:
+  globalization/reinvest-everything $0-salary (2018-03-17/24), the **acquisition/M&A doctrine** — buy at
+  2.5–3x profit, buy *traffic* not revenue, arbitrage the multiple (2018-02-03/06-09 ★, flagged 2026
+  precursor), hire-for-hunger + **culture doctrine** (2018-03-24/07-21 ★), VC-raising playbook (2018-03-13),
+  intrapreneurship/apprentice-first (2018-07-14), validate/niche/brand-byproduct (2018-03-27/04-14),
+  **freemium-FREE "media-company/eyeballs" doctrine** (2018-03-31 ★), client-concentration survival
+  (2018-05-05), the **"Who is Neil Patel?" campaign apology** (2018-05-29 ★).
+- **wiki/topics/seo** — new "2018 solo-era tactical playbook": content clusters + long-tail buyer-intent
+  (2018-07-12 ★), **RankBrain as UX-signals ML** (2018-07-17 ★), internal-linking doctrine (2018-06-21),
+  mobile-first index (2018-06-26), voice search (2018-07-03), YouTube-as-search-engine (2018-02-08),
+  automated-outreach stack (2018-07-24/26), duplicate-content handling (2018-02-20/05-24), three unorthodox
+  plays (2018-05-15), **black-hat war stories as anti-patterns** (2018-02-20/06-28 ★).
+- **wiki/topics/ai-marketing** — the **2018 AI-in-marketing forecast** (2018-03-15 ★): IoT/programmatic,
+  privacy-law-as-constraint — carried with a ⚠️ belief-evolution callout vs the 2025–26 AI-search/AEO takes.
+- **wiki/topics/paid-ads** — product-launch funnel + opposite-pitch cart-abandonment remarketing (2018-03-08 ★),
+  $400K FB-ads lessons (2018-06-05 ★), search-intent-first (2018-05-10).
+- **wiki/topics/analytics-cro** — pricing/split-test-for-total-revenue doctrine (2018-07-10 ★), money-back-
+  guarantee-as-UX-lever (2018-06-12), GDPR-as-global-default (2018-06-19).
+- **wiki/topics/content-marketing** — content assembly line / hire-writers-with-audience (2018-01-27 ★),
+  underdog-platform arbitrage (2018-02-22), one-product content engine (2018-03-01).
+- **wiki/topics/social-media** — FB-native-video-beats-YouTube (2018-05-17), FB engagement-first algo
+  (2018-03-29), IG Stories lead-gen (2018-04-19), master-one-platform (2018-05-31), personal-brand-for-equity
+  (2018-04-17).
+- **wiki/topics/email-marketing** — deliverability + monthly list-scrub (2018-06-07), content-upgrades (2018-05-03).
+- **wiki/entities/mike-kamo** — Mazda-dealership origin (2018-02-10).
+- **persona/beliefs.md** (36→51 sources): acquisition/M&A doctrine + 2018→2026 through-line callout,
+  globalization, freemium-mindshare, success-is-happiness/privacy/anti-Joneses, hire-for-hunger/culture,
+  innovate-don't-copy, validate-before-build/brand-byproduct, apprentice-first, and the dated 2018 crypto
+  opinion (flagged NOT-doctrine).
+- **persona/voice.md** (36→40 sources): "I don't care for the money, let me help you" closer (2018-06-30/07-07/14),
+  "I don't think I'm successful" / "success is subtractive" (2018-03-10).
+- **persona/biography.md** (23→34 sources): black-hat era entry (2018-02-20/06-28), fuller doctor→CS→business
+  origin arc + theme-park-restrooms-funded-failed-agencies (2018-01-20), $20K/mo-at-16 cap (2018-01-25),
+  KISSmetrics >$10M/$4M-burned/$17M (2018-03-27/05-29), VC >$20M lifetime (2018-03-13), 2018 globalization/
+  Brazil/$0-salary (2018-03-17/24), "Who is Neil Patel?" apology + "learned entrepreneurship from my mom"
+  (2018-05-29), teenage $25K/mo client scare (2018-05-05).
+- **persona/appearance.md** (0→1 source — **first content**): the shaved-head-by-choice origin (hair loss ~18,
+  Rogaine/Propecia ~6–7yr, uncle's cancer warning, ~$3K/mo hair system abandoned) + anti-flashy self-
+  presentation (2018-04-07); observed watched-video samples still to be added.
+- **persona/system-prompt.md** recompiled **v4 → v5** (compiled_from_sources 295 → 373); added the acquisition/
+  M&A doctrine, globalization, success-is-happiness/privacy, hire-for-hunger/culture, innovate-don't-copy,
+  the black-hat-past → think-long-term origin, the shaved-head appearance note, and the new voice closers.
+
+⚠️ THREE belief-evolution items carried, NOT smoothed: (1) the **2018 AI-in-marketing forecast** (ad-tech
+plumbing gated by privacy law) vs his 2025–26 AI-search / "brand is the moat" takes — flagged on
+ai-marketing.md + system-prompt; (2) the **M&A doctrine through-line** 2018→2026 (near-identical mechanics a
+decade apart) — flagged on beliefs.md + agency-entrepreneurship.md; (3) the **black-hat-past confession**
+(footer-link/casino/fake-likes stunts, all Google-banned) framed as his "think long-term" lesson — recorded
+in the wiki as biography + SEO anti-patterns, kept OUT of the persona as advice. Also carried unchanged: the
+dirt-poor-vs-middle-class childhood contradiction (from pass 4) and the AMP-superseded flag.
+
+Bookkeeping: high-water mark advanced to "batches #1–#47 / 373 L2" + pass-5 Done checkpoint in
+`pipeline/synthesis-state.md`; `index.md` persona counts/version (v4→v5) and appearance-now-populated updated.
+No new topic pages (appearance.md went from skeleton to first content). No yt-dlp / rate-limit activity
+(synthesis is local-only). No errors. Commit + push.
+
+Synthesis notes: none (this IS the synthesis pass; debt drained to 0 through batch #47).

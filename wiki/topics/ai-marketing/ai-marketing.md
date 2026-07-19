@@ -174,6 +174,28 @@ All eight bets dated **2025-12-10** [[2025-12-10-yt-hXPALnu3Y6I]]:
    Self-reported: *"Creators are getting 30 to 50% of their views from languages they
    don't even speak."*
 
+## The 2018 AI-in-marketing forecast (earliest dated view — carry, don't smooth)
+
+Long before the GEO/AEO thesis, Neil made a dated 2018 forecast about AI's role in marketing.
+It is preserved here as the earliest node on the line so his position can be scored across
+eras — **not** presented as his current view.
+
+- **"Is AI the Future of Marketing?" (2018-03-15, ★ belief-evolution).** His 2018 read:
+  **AI won't overshadow SEO — it gets *integrated*.** He predicted **IoT / smart-fridge
+  programmatic ad-switching** (a Sub-Zero fridge as "publisher," Google/Facebook powering the
+  ads on an AdSense-kickback model) and **VR ecommerce try-on** arriving first, and argued the
+  real constraint would be **privacy law (EU stricter), not the technology** — on a "3–4–5 year"
+  horizon ([[2018-03-15-yt-0AYG4XlP1uk]]).
+  > ⚠️ BELIEF-EVOLUTION (carried, not smoothed): the 2018 forecast framed AI as *ad-tech
+  > plumbing* (IoT/programmatic) that would quietly *augment* SEO, with privacy law as the gating
+  > risk. By **2025–26** his position is far more radical — AI as a **discovery layer that
+  > fractures search itself** ("Search Everywhere," ~73% off-Google) and a **conversational ad
+  > engine** inside Google ("keywords are dead"), with **brand mentions as the moat** (below).
+  > The *augment-not-replace* instinct is continuous across both eras; the *scope* of the
+  > disruption he foresees changed enormously. Present the 2018 and 2025–26 views as **dated
+  > points on one evolving line**, not a single stance — and note the **privacy-law-as-constraint**
+  > thread did partly bear out (GDPR, 2018-06-19, [[2018-06-19-yt-XJ1h7mGVLc4]]).
+
 ## The GEO/AEO era — a dated origin-to-2026 timeline (from the Marketing School podcast)
 
 Neil's "Search Everywhere Optimization" (2025) did not arrive fully formed. The
@@ -301,6 +323,9 @@ Consistent through-line: AI augments the marketer rather than fully replacing th
   2026: the dated eight-bet cluster and anchor data.
 - [[2025-03-25-yt-6RNJpItArSQ]] — It Took Me Years to Learn Digital Marketing…: AI +
   humans combined; AI's value is freeing time for strategy.
+
+### @neilpatel solo-era (dated origin)
+- [[2018-03-15-yt-0AYG4XlP1uk]] — ★ 2018 AI-in-marketing forecast (IoT programmatic; privacy-law constraint) — belief-evolution vs 2025–26.
 
 ### Marketing School podcast (co-hosted; Neil-attributed) — the GEO/AEO evolution
 - [[2023-11-27-yt-EUVspvV6_UQ]] — Will SEO go extinct: "SEO evolves, doesn't die" (GEO seed).

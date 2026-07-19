@@ -513,6 +513,69 @@ before reuse.
 > ([[2017-07-07-yt-kFCs5dx9LVI]], 2017-07-07) — now falsified by Google's later deprecation of
 > AMP. Do NOT present as current; his own 2019 read already found AMP's payoff uneven (above).
 
+## 2018 solo-era tactical playbook (@neilpatel P2)
+
+The 2018 run adds structural-SEO frameworks (clusters, internal linking, mobile-first) and
+names **RankBrain** as the ML signal behind his long-standing "build for the user" thesis.
+Several tactics are 2018-dated and flagged where platform mechanics have since moved.
+
+- **Content clusters + long-tail buyer-intent (2018-07-12, ★).** New low-authority sites can't
+  rank head terms for months → target **3–4-word buyer-intent phrases** (via Ubersuggest / Google
+  Suggest); as links accrue you eventually rank the head term too. Structure the site as
+  **content clusters** — a **pillar article + non-overlapping subtopic articles**
+  ([[2018-07-12-yt-bj0theeP4nY]]). This is the concrete on-site form of the long-tail lever above,
+  and the 2018 seed of the topic-cluster advice in his 2026 Search-Everywhere bets.
+- **RankBrain as UX-signals ML (2018-07-17, ★).** Neil frames **RankBrain** as Google's ML/AI
+  algorithm — "~10% more accurate than an engineer" — that rewards **user-experience signals**
+  (clicks, dwell time, anti-pogo-sticking). The playbook: optimize **CTR** with action words +
+  numbers/lists in title tags/meta, **embed audio/video** for time-on-site, fix UX (Dribbble /
+  Crazy Egg recordings), and keep testing monthly ([[2018-07-17-yt-7pQ5F0-lRrE]]). A datable
+  bridge between his "build for the user" SEO thesis and the *AI-in-search* framing — cross-link
+  [[wiki/topics/ai-marketing|ai-marketing]].
+- **Internal-linking doctrine (2018-06-21).** First dedicated internal-linking guidance:
+  **descriptive anchor text pointing to the target page**, **in-text links beat footer/sidebar**,
+  **vary anchors / avoid over-optimization**, works for both content and ecommerce, expect a
+  **~5-month lag**, and **update OLD pages** with links to new ones ([[2018-06-21-yt-B_P2cxJdnik]]).
+- **Mobile SEO & mobile-first index (2018-06-26).** 58% of searches are mobile → **responsive
+  design**, fast load, small header + readable text, **no intrusive pop-ups** (rankings "plummet"),
+  and — critically for the **mobile-first index** — **expose ALL your content on mobile**, not a
+  stripped-down version ([[2018-06-26-yt-pdBBG4aRldI]]). *(AMP's Brazil-only lift is repeated here;
+  see the AMP superseded-prediction flag above.)*
+- **Voice search (2018-07-03).** Optimize for **HTTPS** (65%+ of voice results), earned **domain
+  authority**, **≤4.6s load**, and **2,200+ word in-depth content with short answers under
+  question-format headings** — the last two credited to **Brian Dean**, not Neil
+  ([[2018-07-03-yt-UpaOahLBmFQ]]).
+- **YouTube as its own search engine (2018-02-08).** Treat YouTube as a search engine: **upload
+  transcripts**, publish **5+ minute videos** (Adam Lodolce shifted him off 2-minute clips), spy
+  on competitors with **vidIQ**, and remember the **first 24 hours** largely decide a video's fate
+  ([[2018-02-08-yt-PktXUVzrNhA]]). Neil claims he ranks **#1 for "seo" on YouTube**.
+- **Automated link-outreach stack (2018-07-24, 2018-07-26).** Outreach is the manual bottleneck →
+  a 4-tool assembly line: **Dux-Soup (LinkedIn) → ScrapeBox → FindThatLead → Mailshake/Mixmax**
+  ([[2018-07-24-yt-Yqwm3RFicQ8]]). His highest-converting **infographic** link play: find
+  most-shared niche posts (BuzzSumo) → pull *their* existing linkers (Ahrefs/Majestic) → make an
+  infographic on that topic → email those linkers/sharers (~**3× cold-outreach** conversion, his
+  own estimate); always require the **embed code** (= the backlink), not a self-download
+  ([[2018-07-26-yt-OuLEmof2w7U]]). *2018-dated — some scraping tactics may now breach platform ToS.*
+- **Duplicate-content handling (2018-02-20, 2018-05-24).** Google **won't penalize** duplicate
+  content — it just ranks the original first. Fix regurgitated/outdated pages by **updating in
+  place, pruning weak duplicates, and 301-consolidating** them ([[2018-02-20-yt-CkPZk9i4SSY]]).
+  Republish a blog intro + "continue reading" link on LinkedIn (converts better than a full repost),
+  but **noindex videos on your OWN site** (Google prefers the YouTube original) and embed video +
+  text to lift time-on-site — "good for the user = good for Google" ([[2018-05-24-yt-oF50FAu0RqM]]).
+- **Three "unorthodox" SEO plays (2018-05-15).** **Buy already-ranking, under-monetized sites and
+  301 them** (Ubersuggest example); **recruit competitors' affiliate promoters** with higher
+  payouts / free product to earn organic do-follow links (early Crazy Egg → TechCrunch/Mashable);
+  and **rank fast in non-English markets** via manual translation + hreflang + cheap in-region
+  links (he says 51% of revenue is overseas; Brazil ~50% of US traffic) ([[2018-05-15-yt-YEElioEHnQY]]).
+- **Cautionary — the black-hat era, do NOT copy (2018-02-20, 2018-06-28, ★).** Neil's on-record
+  war stories are recorded here as *anti-patterns*: swapping footer credit links in popular
+  WordPress themes to rank **#1 "web hosting"** ($100K/mo affiliate, Google-banned); an expired
+  civil-war **.edu** domain filled with casino content to reach **top-3 "online casino"** (banned);
+  buying links, fake Facebook/YouTube likes, and an auto-subscribe script — all eventually killed
+  ([[2018-02-20-yt-CkPZk9i4SSY]], [[2018-06-28-yt-CK-LUnW6uUE]]). His framing: gaming the algorithm
+  is short-term thinking that evaporates → **"think long-term."** Full confession + biography
+  treatment in [[persona/biography|biography]].
+
 ## Signature framing: "get loved by Google"
 
 Neil's recurring sign-off phrase, worth capturing verbatim as voice:
@@ -577,3 +640,17 @@ many small things well, for the user, and rankings follow.
 - [[2017-11-15-yt-rUw8nu4Omqo]] — The five SEO metrics (impressions-before-clicks as leading indicator)
 - [[2017-11-20-yt-XCUD80O5RuY]] — ★ Owned-site SEO growth curve (9k→89k→450k over 2yr; 3mo/6mo/1yr/2yr)
 - [[2017-12-19-yt-_3PSOO-8gqU]] — Rank #1 pillar-content playbook (/seo 1.5yr climb; brand tiebreaker)
+
+### 2018 solo-era (@neilpatel P2)
+- [[2018-02-08-yt-PktXUVzrNhA]] — YouTube as its own search engine (transcripts, 5-min, first-24h)
+- [[2018-02-20-yt-CkPZk9i4SSY]] — ★ Black-hat war stories (anti-pattern) + duplicate-content fixes
+- [[2018-05-15-yt-YEElioEHnQY]] — Three unorthodox plays (buy-and-301, affiliate recruiting, non-English)
+- [[2018-05-24-yt-oF50FAu0RqM]] — Duplicate content won't penalize; noindex own videos; LinkedIn republish
+- [[2018-06-21-yt-B_P2cxJdnik]] — Internal-linking doctrine (descriptive anchors, in-text, ~5mo lag)
+- [[2018-06-26-yt-pdBBG4aRldI]] — Mobile SEO / mobile-first index (expose all content on mobile)
+- [[2018-06-28-yt-CK-LUnW6uUE]] — ★ Most explicit black-hat confession → "think long-term"
+- [[2018-07-03-yt-UpaOahLBmFQ]] — Voice search (HTTPS, ≤4.6s, question-headings; Brian Dean-credited)
+- [[2018-07-12-yt-bj0theeP4nY]] — ★ Content clusters (pillar + subtopics) + long-tail buyer-intent
+- [[2018-07-17-yt-7pQ5F0-lRrE]] — ★ RankBrain as UX-signals ML (CTR/dwell/anti-pogo)
+- [[2018-07-24-yt-Yqwm3RFicQ8]] — Automated outreach stack (Dux-Soup→ScrapeBox→FindThatLead→Mailshake)
+- [[2018-07-26-yt-OuLEmof2w7U]] — Infographic link building (require embed code; ~3× cold outreach)

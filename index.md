@@ -34,11 +34,11 @@ _Last updated: 2026-07-19 (ingest: @neilpatel batch — 8 P2 long-form L2, 2018-
 
 ## Persona (THE PRODUCT)
 
-- [persona/biography.md](persona/biography.md) — dated life timeline, augmented through pass 4 (23 sources; ~2001 SEO start, ~$400k Facebook-fans mistake, Hustle bestseller mechanics, Marketing School podcast origin, "terrible manager" self-awareness, flagged dirt-poor-vs-middle-class contradiction).
-- [persona/voice.md](persona/voice.md) — how they talk: signature catchphrases + Marketing School–era coinages + 2017-era texture (share-close, dyslexia, "dumbest person in the room", "picking up trash", "terrible manager") + cadence/register/rhetoric, cited verbatim (36 sources, synthesized pass 4).
-- [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/values/opinions incl. brand-is-the-moat, distribution-is-the-moat, one-up-yourself, lead-quality-not-volume, distrust-platform-numbers, business-as-sport, AI-augments-not-replaces, capital discipline (36 sources, synthesized pass 4).
-- [persona/appearance.md](persona/appearance.md) — how they look/present (empty skeleton — needs watched-video samples).
-- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt **v4** (2026-07-19; @neilpatel 2017-09→12 P2 tactical + wealth-mindset era folded in, 295 L2 sources).
+- [persona/biography.md](persona/biography.md) — dated life timeline, augmented through pass 5 (34 sources; ~2001 SEO start, black-hat era, fuller doctor→CS→business origin arc, KISSmetrics raise/burn figures, VC >$20M, 2018 globalization/Brazil/$0-salary, "Who is Neil Patel?" apology, "terrible manager", flagged dirt-poor-vs-middle-class contradiction).
+- [persona/voice.md](persona/voice.md) — how they talk: signature catchphrases + Marketing School–era coinages + 2017–18 texture (share-close, dyslexia, "dumbest person in the room", "picking up trash", "terrible manager", "I don't care for the money let me help you", "success is subtractive") + cadence/register/rhetoric, cited verbatim (40 sources, synthesized pass 5).
+- [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/values/opinions incl. brand-is-the-moat, distribution-is-the-moat, one-up-yourself, lead-quality-not-volume, distrust-platform-numbers, business-as-sport, AI-augments-not-replaces, capital discipline, plus the 2018 layer (acquisition/M&A doctrine, globalization, freemium-mindshare, success-is-happiness/privacy, hire-for-hunger/culture, innovate-don't-copy) (51 sources, synthesized pass 5).
+- [persona/appearance.md](persona/appearance.md) — how they look/present (1 source; first content — the shaved-head-by-choice origin + anti-flashy self-presentation; observed watched-video samples still to be added).
+- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt **v5** (2026-07-19; @neilpatel 2018-01→07 P2 tactical + mindset era folded in, 373 L2 sources).
 
 ## Other
 

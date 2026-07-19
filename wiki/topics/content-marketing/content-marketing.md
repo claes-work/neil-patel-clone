@@ -132,7 +132,28 @@ New/durable content-ops primitives from the 2017 solo run (dated; period tactics
   ([[2017-11-26-yt-RnwgCmcH-IU]]). The content-side statement of the Skyscraper technique in
   [[wiki/topics/seo|seo]].
 
+## 2018 solo-era content tactics (@neilpatel P2)
+
+- **The content assembly line — hire writers who bring their own audience (2018-01-27, ★).** Neil
+  runs content like a **Ford assembly line**: ~**150–200 pieces/week** (he says he could hit
+  1,000/wk), organized in **Trello columns**, staffed with **freelancers rather than full-timers**
+  (Paul Graham's maker/manager schedule) at ~**10–15¢/word via jobs.problogger** — and, critically,
+  **hire writers who bring their own audience** ([[2018-01-27-yt-PwWTJcpuSqs]]).
+- **Underdog-platform arbitrage (2018-02-22).** Publish where a network is **fighting the leader**,
+  because its algorithm favors that content: **Facebook Watch** (viewable to all, application to
+  publish) and **LinkedIn** (under-supplied on video) were his 2018 examples — the general rule is
+  ride whatever a platform is currently pushing for free reach ([[2018-02-22-yt-y4ei5jVTZwU]]).
+  Cross-link: [[wiki/topics/social-media|social-media]].
+- **One-product content engine (2018-03-01).** Build content around a **single product**, size the
+  market with **Google Trends** (bigger than "digital marketing" = big enough), and drive links via
+  **infographics** (Dribbble/99designs $50–500) + **BuzzSumo view-shares** + **Ahrefs linker
+  outreach** — his recurring comfort-insoles / eczema one-product six-figure examples
+  ([[2018-03-01-yt-UBq77K0L4Xk]]).
+
 ## Key source pages
+- [[2018-01-27-yt-PwWTJcpuSqs]] — ★ Content assembly line; hire writers with their own audience.
+- [[2018-02-22-yt-y4ei5jVTZwU]] — Underdog-platform arbitrage (Facebook Watch / LinkedIn video).
+- [[2018-03-01-yt-UBq77K0L4Xk]] — One-product content engine (infographics + BuzzSumo + Ahrefs outreach).
 
 - [[2019-01-24-yt-Q8rN3JKqUc8]] — How To ACTUALLY Write A Blog Post From Start To Finish (2019-01-24) — the canonical 5-part blog template.
 - [[2024-12-24-yt-5cHtmnAN4ys]] — How to learn marketing (evergreen loop) — Marketing School.

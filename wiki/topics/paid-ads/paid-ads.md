@@ -143,7 +143,31 @@ spine above (dated; self-reported figures).
   **sell-before-you-build**; and net-30 cards as float. Economics: **~$6/registration → ~3.6 sales
   per 100 registrations** on a ~$1k product, ~20% refunds ([[2017-12-07-yt-P2KWsco-gig]]).
 
+## 2018 solo-era paid tactics (@neilpatel P2)
+
+- **The product-launch / webinar funnel with opposite-pitch remarketing (2018-03-08, ★).** A full
+  paid launch architecture: **ClickFunnels** front + **Kajabi** back, a **$500 product** sold via a
+  **45–60-minute webinar** (**WebinarJam** live, **EverWebinar** evergreen) — first 30 minutes free
+  education, then pitch a faster/simpler path. **Facebook ads outperform YouTube ads** here; he
+  cites a flat-fee media buyer (**Jason Hornung**, ~$10K/mo). Recruit **JV affiliates at 30–50%**
+  plus **joint webinars** (ConvertKit >$10M/yr, Pat Flynn / SPI). The signature move:
+  **cart-abandonment (~60–70%) → YouTube + Facebook remarketing with the OPPOSITE pitch**
+  (if you sold emotionally, re-hit them logically, and vice-versa) back to checkout — his
+  highest-converting campaign ([[2018-03-08-yt-1JmT-yHp8NQ]]). Complements the 2018-11-27
+  automated-webinar economics in [[wiki/topics/agency-entrepreneurship|agency-entrepreneurship]].
+- **$400K of Facebook-ads lessons (2018-06-05, ★).** Self-reported hard-won rules: **don't buy
+  fans**; **video beats banner** with **on-screen captions** (ads autoplay muted); **optimize for
+  ROI, not CPC**; and exploit the **new-ad priority window** with **rapid creative rotation** —
+  which he says **cut spend ~30%** ([[2018-06-05-yt-4WJXohHyRT8]]).
+- **Search-intent first; run paid search before content (2018-05-10).** Search intent beats
+  social/YouTube traffic for conversions; mine competitors' paid keywords with Semrush and **run
+  paid Google Search first — even unprofitably — to validate**, then layer SEO/content; defer CRO
+  until you have a few hundred sales/leads ([[2018-05-10-yt-vQsB9TheyXw]]).
+
 ## Key source pages
+- [[2018-03-08-yt-1JmT-yHp8NQ]] — ★ Product-launch funnel; opposite-pitch cart-abandonment remarketing.
+- [[2018-06-05-yt-4WJXohHyRT8]] — ★ $400K Facebook-ads lessons (video>banner, ROI-not-CPC, creative rotation).
+- [[2018-05-10-yt-vQsB9TheyXw]] — Search-intent first; run paid search before content.
 
 - [[2020-04-16-yt-S-hn2ThmQEw]] — *7 Google Ads Hacks That'll Make Your Campaigns Scale Profitably* (2020) — the precision-targeting spine: remarketing, long-tail, exclusions, locations, extensions, UTM, competitor bidding.
 - [[2018-11-27-yt-dU4rWLHAcoo]] — *How to Create a Digital Product…* (2018) — Facebook-ad ROAS tiers ($2/$3/$5) inside the automated-webinar funnel.

@@ -302,7 +302,32 @@ self-reported; date-flag before reuse.
 - **Facebook Live sales (2017-10-16).** Educate viewers, transition to a website bonus offer, then
   boost the video ([[2017-10-16-yt-ldy9X0uQ0LM]]).
 
+## 2018 solo-era social tactics (@neilpatel P2)
+
+- **Facebook native video beats YouTube links 20–50× (2018-05-17).** Upload video **natively** to
+  Facebook (linking out to YouTube is throttled), run **5–10-minute** videos, add **captions**
+  (+30–35%), and **do whatever the platform is currently pushing** for free reach — in 2018 that
+  was **Facebook Live** ([[2018-05-17-yt-o67Axprx92I]]).
+- **Facebook engagement-first algorithm play (2018-03-29).** **Reply to comments** (≈+20% reach),
+  keep **≥70% of posts conversational**, and **promote text-question posts** to fans to spark the
+  comments the algorithm rewards ([[2018-03-29-yt-AqlT73hQaOc]]). *(Adam Lodolce co-hosts; his
+  tips are context, not persona.)*
+- **Instagram Stories lead-gen (2018-04-19).** Drip **hour-by-hour tips** in Stories with a **CTA**
+  to your site and a **swipe-up** (better for B2C) ([[2018-04-19-yt-uAJ0AnllQ44]]).
+- **Master ONE platform, then repurpose — don't chase influencer status (2018-05-31).** Pick the
+  single platform you're best at, dominate it, then repurpose outward; being a "business" beats
+  being an "influencer" ([[2018-05-31-yt-NDdH2OBaLxs]]).
+- **Five no-product social-monetization models incl. personal-brand-for-equity (2018-04-17).** You
+  can monetize an audience without your own product; one model is **trading personal brand for
+  equity** (Dr. Dre + Jimmy Iovine's Beats → Apple, >$1B). He pairs it with **"aim for financial
+  freedom over max income"** ([[2018-04-17-yt-KIXvMNrKO9g]]).
+
 ## Key source pages
+- [[2018-05-17-yt-o67Axprx92I]] — Facebook native video beats YouTube links 20–50× (captions, FB Live).
+- [[2018-03-29-yt-AqlT73hQaOc]] — Facebook engagement-first algorithm play (reply to comments, question posts).
+- [[2018-04-19-yt-uAJ0AnllQ44]] — Instagram Stories lead-gen (hourly tip-drip, CTA, swipe-up).
+- [[2018-05-31-yt-NDdH2OBaLxs]] — Master one platform then repurpose (business over influencer).
+- [[2018-04-17-yt-KIXvMNrKO9g]] — Five no-product monetization models; personal-brand-for-equity.
 
 - [[2019-09-28-yt-8KvyKt1c9ao]] — Personal Branding: Zero to Hero (6-step framework; LinkedIn revenue datapoint)
 - [[2025-05-23-yt-zBlvV0W4bDc]] — Best LinkedIn Growth Strategy for 2025 (starving-for-content, reverse Dream 100, see-more)

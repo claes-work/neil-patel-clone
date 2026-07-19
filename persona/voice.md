@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-19
-sources: 36
+sources: 40
 ---
 
 # Voice
@@ -222,6 +222,11 @@ of a legacy agency.
   mindset kicker.
   > "There's three types of people: those who make things happen, those who watch things happen and those are wondering what just happened. Be the person who makes things happen." [[2021-06-28-yt-g2AJYuOfBXI]]
 
+- **The "I don't care for the money, let me help you" closer.** A recurring 2018 sign-off that
+  frames his advice as service over selling — he lands it repeatedly across the solo era. *(as of
+  2018-06-30 → 2018-07-14)* [[2018-06-30-yt-zB0pby_VPCU]] · [[2018-07-14-yt-x1a0XRXyeVA]] ·
+  [[2018-07-07-yt-CmAFQr2TojQ]]
+
 - **Assigns homework** — imperative teaching that pushes the viewer to act immediately.
   > "handwrite up to 300 words on your personal goal for this program and how you'll feel when you achieve it" [[2020-05-02-yt-Q_lySNxCag0]]
 
@@ -261,3 +266,10 @@ of a legacy agency.
   *(as of 2017-12-14)*
   > "I'm a terrible manager… worst boss ever. I pay well, but management-wise I suck." (paraphrased
   > from caption) [[2017-12-14-yt-Pc1OXZgrjo8]]
+
+- **"I don't think I'm successful."** A recurring self-framing he uses to stay in learning mode —
+  paired with **"success is subtractive"** (keep making only *new* mistakes; by elimination you're
+  left doing the right things) and **"no overnight success."** *(as of 2018-03-10)*
+  > "I don't think I'm successful." [[2018-03-10-yt-m_DZVD2NEW0]]
+  Gloss: consistent with "be the dumbest person in the room" — modesty as a strategy, not false
+  humility.

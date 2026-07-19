@@ -207,7 +207,28 @@ database and revenue.**
   contrast**, and **A/B test** — the knob is contrast and testing, not a magic color
   ([[2017-10-19-yt-eXhZJI9Iy5c]]).
 
+## 2018 solo-era CRO cluster (@neilpatel P2)
+
+- **Pricing doctrine — split-test for total revenue, not conversion % (2018-07-10, ★).** Benchmark
+  your features against competitors: **equal or better → price at or above them; weaker → below**.
+  Then **split-test the price** (Crazy Egg / Optimizely / VWO) optimizing **total revenue/profit,
+  not conversion rate** — "**10 × $100 beats 100 × $1**" — while watching **refunds/chargebacks**;
+  and **deliberately underprice a *better* product** to grab market share
+  ([[2018-07-10-yt-Tgnt7VUcvqw]]).
+- **Money-back guarantees are a UX lever, not just a conversion lever (2018-06-12).** A **60-day**
+  guarantee beat a **30-day** in an A/B test — **+7% sales with a flat refund rate** — because a
+  longer window signals confidence. **Require the product be returned**, and use a **SaaS "ask why"
+  cancellation form** to mine churn reasons ([[2018-06-12-yt-pShdIROyWCE]]).
+- **GDPR compliance — treat as a global default (2018-06-19).** Use **separate, explicit email
+  opt-in tick boxes**, a **cookie banner**, and a **transparent privacy policy** — applied
+  **globally**, which he says caused **no drop in opt-in rate**. Repeated **"I'm not a lawyer"**
+  hedge; the **Privacy Shield** reference is now invalid → **time-bound**
+  ([[2018-06-19-yt-XJ1h7mGVLc4]]).
+
 ## Key source pages
+- [[2018-07-10-yt-Tgnt7VUcvqw]] — ★ Pricing doctrine (split-test for total revenue; underprice a better product).
+- [[2018-06-12-yt-pShdIROyWCE]] — Money-back guarantee as a UX lever (60-day beat 30-day, +7%).
+- [[2018-06-19-yt-XJ1h7mGVLc4]] — GDPR as a global default (explicit opt-ins; Privacy Shield now dated).
 
 - [[2019-09-02-yt-hcPxMuxh5Tc]] — The Anatomy of a High Converting Landing Page (7-part anatomy; 8/10-read-the-headline; completions-not-clicks).
 - [[2021-02-25-yt-SbJnXHfDJPg]] — 7 Landing Page Hacks That'll Double Your Sales, Part 1 (quantified levers; engage-first; GIF pop-ups; GeoIP; bumps; friction-as-conversion).

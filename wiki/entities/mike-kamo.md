@@ -22,6 +22,10 @@ role.
   crunchbase.com/person/mike-kamo)
 - Worked with Neil across ventures before formalizing NP Digital (their prior collaboration
   spans Neil's earlier tools/marketing operations). 📰
+- **Origin (per Neil, 2018-02-10)**: Neil says Kamo came from the **car-dealership industry**,
+  running a **struggling Mazda dealership** where he learned to hire, grow, and be creative under
+  constraints — the operational apprenticeship behind his build-and-scale role. 🗣️
+  ([[../sources/2018-02-10-yt-7FbhPpANS7M]])
 
 ## Relationship to Neil Patel
 
