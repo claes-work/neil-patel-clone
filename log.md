@@ -767,3 +767,53 @@ brand is tarnished faster, and inexperienced creators get steered by profit-seek
 social **engagement compounds** + write conversationally (not "persuasively") + never post junk
 (Ep. 2024-12-03). (6) Incremental: follower gains come from being tagged / high-production video
 (Ep. 2025-01-13). ★L3-candidates: 2024-12-24, 2024-12-27.
+
+## [2026-07-19] ingest | yt batch (@MarketingSchoolPod, 8) — P1 long-form (2025-01→2025-11)
+Stage B. Ingested 8 @MarketingSchoolPod P1 long-form episodes (oldest-first, 2025-01-27 →
+2025-11-21) to L2: sb_9GeV-Ok0, uf9uYX9eoSs, SbUevRQ3b7M, MTHL9vRr_P8, VzD6x4aGHu0,
+BfPayCQHNcE, suqrDn5N_D4, izCrH82aMLI. Captions: 8/8 ok, 0 no-captions, 0 skipped, 0 dup,
+no rate-limiting. L2 total 104→112. One agent per video wrote only its own source page;
+coordinator did all shared-file bookkeeping.
+
+Attribution (co-hosted show — only Neil trains the persona): every page tags Neil vs Eric per
+line; Eric's substance quarantined to a co-host context section, uncertain lines to an
+attribution-notes section, only Neil verbatim in the quote banks. Captions carry NO speaker
+labels (some episodes have `>>` speaker-change markers that do not name the speaker), so
+attribution is inference-based (self-references, third-person "Neil…" cues, NP Digital vs Single
+Grain ad-read tells, Eric self-IDing as Chinese on the China episode). **Structural check —
+watched specifically for disguised guest-interview / multi-presenter / Perpetual Traffic
+crossover episodes: NONE found this batch.** All 8 are genuine Neil+Eric two-handers; no third
+studio speaker, no Ralph Burns / Kasim Aslam / Perpetual Traffic crossover, no guest replay.
+**Persona-yield variance:** Neil-heavy → SbUevRQ3b7M (his conference/sales playbook), MTHL9vRr_P8
+(his own Ubersuggest product), BfPayCQHNcE (Reddit, his 100-post experiment), suqrDn5N_D4 (his
+SEO-career thesis). Low/none → uf9uYX9eoSs (Elon 5-min productivity is Eric-driven trivia, only
+Neil's own 15-min-task/assistant method kept), VzD6x4aGHu0 (China business-culture is Eric-driven,
+only Neil's watch-competitors + custom-creative cold-email kept), sb_9GeV-Ok0 (Oreo — no speaker
+labels or turn markers at all, so most turns held uncertain and Neil quote bank kept minimal),
+izCrH82aMLI (Sterling Pacific luggage — light product banter, reads as a likely gifted/brand plug,
+low marketing density). Caption garbles corrected/flagged: Ubersuggest/"Uberess"/"Uber Suggest",
+"Chad GPT"=ChatGPT, Profound, Rimowa (from "Ramoa"), Datos (from "Bardos"), Paul Roetzer, St.
+Regis Bal Harbour, Vercel v0, Digg, DeSantis, Atherton, BYD, hreflang, plus recalled/approximate
+figures (Google ~13.6–13.8B searches/day, ~1yr-10mo enterprise sales cycle, Reddit ~70%+ AI-reply
+removal, BYD $10k EV) flagged as approximate.
+
+Synthesis notes: New (accrues as debt for the next synthesis pass): (1) **Conference/event
+lead-capture + enterprise sales-cycle playbook** — QR code on speaking slides → capture leads,
+staff the room with 1–2 org reps, map the (~1yr-10mo) enterprise sales cycle, land-and-expand,
+"fortune is in the follow-up" (Ep. 2025-05-11, ★); extends the 2024-07-09 conference
+client-acquisition thread. (2) **"Distribution is the moat"** — build-and-sell-to-your-own-audience
+doctrine, and the outbound rule "AI for low-stakes, humans for high-stakes" (Ep. 2025-05-11, ★).
+(3) **Reddit SEO playbook** — participate natively over buying authority accounts, Reddit
+reputation management, and Neil's own 100-post experiment showing Reddit removes 70%+ of
+AI-written replies (Ep. 2025-09-25, ★). (4) **SEO-career adaptation thesis** — SEO has always
+evolved (no sacred cows); write content for humans but package it for AI; brand mentions now count
+like links; curiosity + adaptability keep the career "booming" (Ep. 2025-10-18, ★); extends the
+search-everywhere / "get chosen, not just found" thread (cf. 2024-12-27, 2025-07-23). (5)
+**Ubersuggest LLM brand-tracking** — new product capability to track your brand across ChatGPT /
+Google AI-mode (share-of-voice, sentiment) + AI-augmented keyword report; positioned as a freemium
+disruption of Profound (Ep. 2025-07-30; self-reported product claim). (6) **Premium-brand aside** —
+"a great product sells itself → word of mouth"; take a brand deal only when quality justifies it
+(Ep. 2025-11-21; low density). (7) Incremental / low-yield: Neil's own 15-min-task-block + assistant
+method (Ep. 2025-03-18); watch competitors both bigger and smaller + "I already did it for you"
+custom-creative cold-email (Ep. 2025-09-22); viral-but-off-brand vs vanity virality (Oreo,
+Ep. 2025-01-27, attribution uncertain). ★L3-candidates: 2025-05-11, 2025-09-25, 2025-10-18.
