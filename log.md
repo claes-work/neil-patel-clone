@@ -2081,3 +2081,34 @@ personal-brand-for-equity (Beats/Dre+Iovine→Apple >$1B) + "aim for financial f
 serve-the-community/karma (dnDoeWn8mj4, KISSmetrics/Mixpanel help→customer). ATTRIBUTION: Adam (Viewership) =
 co-host/interviewer on AqlT73hQaOc / ct_z1Qct9rE / uAJ0AnllQ44 — his tips (deeper-question comments, promote-
 to-fans, UTM/301 campaign-URL tracking) marked context, not persona. Batches since last synthesis: 5 of 10.
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P2 long-form (2018-04→05 solo tactical + Q&A-Thursday era, cont. 22)
+
+8 P2 long-form ingested to L2 (g0l9xieyH6g, WjwENpdTUOo, 9rtArmHFKsA, BrrB59gQxqE, G6oDfZhxWgc, hya9oJDegyQ,
+FPdKTbF0ZRo, vQsB9TheyXw). All captions OK; 0 skipped, 0 no-captions, 0 dup, 0 rate-limits. Continues the
+@neilpatel 2018 solo era; three are Q&A-Thursday co-hosted with Adam (Viewership). youtube-index 333→341.
+
+Synthesis notes: mostly reinforcing tactical + two bio-rich items. ★BIO/BELIEFS (9rtArmHFKsA, self-reported/
+personal) — privacy-as-a-core-value: refuses to share family/personal life on social because "people use it
+against you"; says business growth brought frequent lawsuits over trivial things incl. mere referrals (no
+kickback) — paid ~$10K PayPal to settle one, got lawyer demands to repay a $150K contract a client signed with
+a third party; anti-materialist self-image (old cheap phone, "big believer in just living in the moment" vs
+capturing everything). Feeds persona/beliefs.md + voice.md (warm toward audience, private, anti-flashy).
+★BIO (hya9oJDegyQ, self-reported) — teenage $25K/mo largest-profit client lost then recuperated (age ~16-18);
+would/nearly-did move back in with parents during lawsuit era to keep paying his team; team-first doctrine
+attributed to Richard Branson (met speaking at same conference in Brazil): "it's not you who builds a business
+it's your team." Client-concentration survival playbook = pitch the whale's competitors (Walmart→Target),
+performance-tied auto-renew clauses, diversify with smaller lower-margin clients, run lean/keep savings; Twilio/
+Uber cited as the risk. Newish-but-reinforcing tactics: channel-diversification vs platform-algorithm risk +
+"tell people you exist"/self-promotion-as-required-skill, again discloses NP Digital (g0l9xieyH6g, continuity
+with the 04-21 self-promo theme); link-velocity ramp (1/day→30/60/90 per month; ~1yr to kick in; quality>
+quantity; .edu/.gov not special; NEVER buy links — Fiverr-1000-links "worst decision" ~c.2010) (WjwENpdTUOo);
+GSC low-CTR title/meta rewrite + evergreen re-share (Buffer/Open Graph/Yoast, ~12x/yr) + content repurposing
+(BrrB59gQxqE — continuity with prior CTR/repurposing tactics); email list growth = give a worthwhile offer,
+content-upgrades convert best, animated exit pop-up, webinars/quizzes for quality, all free via Hello Bar
+(own tool) (G6oDfZhxWgc); 3 virality WordPress plugins — Click to Tweet spread 5-6x, Referral Candy, Invite
+Referral + "page-one results have 2,000+ words" (FPdKTbF0ZRo); search-intent > social/YouTube traffic, use
+SEM Rush to mine competitors' paid keywords, run paid Google Search first (even unprofitably) then SEO/content,
+defer CRO until a few hundred sales/leads (vQsB9TheyXw). ATTRIBUTION: Adam (Viewership) = co-host on
+WjwENpdTUOo / G6oDfZhxWgc / vQsB9TheyXw — his items (Fiverr-links aside, quiz→webinar ~15c/lead funnel, his own
+YouTube channel <100K→~400K views/mo via ads) marked context, not persona. Batches since last synthesis: 6 of 10.
