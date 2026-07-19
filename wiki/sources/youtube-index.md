@@ -43,6 +43,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2019-07-04 — [The Perfect SEO Setup for WordPress — 8 Plugins (caching, Yoast, AMP, schema, SSL)](2019-07-04-yt-JiqNIUQNQ7I.md) ★ — seo
 - 2019-07-15 — [How to Build Backlinks Without Paying for Them (competitor mining + skyscraper + custom outreach)](2019-07-15-yt-MjO8lIQ68-8.md) ★ — seo, content-marketing
 - 2019-07-22 — [The Fastest Ways to Bring Traffic to a New Website (6 low-budget tactics)](2019-07-22-yt-LdnWx49LUJc.md) — seo, content-marketing, paid-ads
+- 2019-08-17 — [How to Do SEO For A Tiny Site With No Backlinks (thorough guides + outreach to existing linkers)](2019-08-17-yt-Y772PSqmudo.md) — seo, content-marketing
+- 2019-09-02 — [The Anatomy Of A High Converting Landing Page (7-part CRO formula)](2019-09-02-yt-hcPxMuxh5Tc.md) — analytics-cro
+- 2019-09-28 — [Personal Branding: How to Go From Zero to Hero (6-step brand-building sequence)](2019-09-28-yt-8KvyKt1c9ao.md) — agency-entrepreneurship, social-media, content-marketing
+- 2019-11-14 — [STOP Trying to Build Marketing Funnels (stop stitching tools; GetResponse Autofunnel, sponsored)](2019-11-14-yt-p1ChsIfhu2Q.md) — analytics-cro, email-marketing, paid-ads
+- 2020-02-08 — [FREE Resources to Learn Marketing — Courses and Certification (7 free courses)](2020-02-08-yt-SgDDfVCAkfk.md) — content-marketing, agency-entrepreneurship
+- 2020-03-02 — [The Definitive Guide to Ubersuggest for SEO and Content Marketing (full feature walkthrough)](2020-03-02-yt-_ve9cmRaem0.md) ★ — seo, content-marketing
+- 2020-03-26 — [How Long Does SEO Take to Work For a New Website? (~6-month traction rule)](2020-03-26-yt-wc_uo1prLg8.md) ★ — seo
+- 2020-04-16 — [7 Google Ads Hacks That'll Make Your Campaigns Scale Profitably (first paid-ads landmark)](2020-04-16-yt-S-hn2ThmQEw.md) ★ — paid-ads, analytics-cro
 
 ---
-_32 videos ingested (L2) so far._
+_40 videos ingested (L2) so far._

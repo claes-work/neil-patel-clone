@@ -218,3 +218,62 @@ auto-subscribe list + ask-for-like/comment, comments cited as the top FB algorit
 tool and "free" status are 2019-specific. The eCommerce product-page CRO video
 (`yt-GkOM7q9BYGQ`) restates Neil's standard benefit-led-copy/reviews/checkout playbook —
 corroboration, not new spine. All dated 2019-01 → 2019-07.
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P1 long-form #5
+
+Fifth real ingest batch. Stage machine (`.claude/commands/ingest-loop.md`, first-match)
+selected **Stage B** (open P1 long-form rows exist). Not-taken rules: Stage S not due
+(4 batches since last synthesis, checkpoint at 10; no `>>> CHECKPOINT`, no channel/era
+complete); Stage P not stale (4 batches since last synthesis/persona entry <10, no new
+topic pages beyond the bootstrap hubs, P1 far from drained, not the first loop run);
+Stage A n/a (both TARGET channels enumerated). Channel @neilpatel (Neil-fronted primary
+corpus, persona-first). Selection = clone's own rule: priority-ascending then
+oldest-`published` first → next 8 oldest open P1 rows (2019-08-17 → 2020-04-16).
+
+Processed: **8 ingested (L2), 0 skipped, 0 no-captions, 0 dup.** All captions fetched
+clean on the first try — no rate limiting (0 429s). Three rows flagged **★ L3-candidate**
+for the next synthesis: `yt-_ve9cmRaem0` (definitive Ubersuggest walkthrough — canonical
+tool reference), `yt-wc_uo1prLg8` (the "how long does SEO take" 6-month traction rule —
+his self-described most-asked question), `yt-S-hn2ThmQEw` (the corpus's FIRST substantive
+paid-ads page — 7 Google Ads scaling hacks). All 8 are solo Neil videos → fully
+Neil-attributed; self-reported benchmark claims (e.g. "47.6% more traffic on fresh vs
+regurgitated content", "remarketing ~10x CTR", GetResponse "16% lift") marked as such
+in-page. One caption garble caught (`yt-8KvyKt1c9ao`: "Gary Aviv" → Gary Vaynerchuk,
+corrected only in paraphrase). The funnels/GetResponse video (`yt-p1ChsIfhu2Q`) carries a
+`> ⚠️ CONTRADICTION:` callout in-page (clickbait "STOP building funnels" hook vs the body,
+which insists every seller needs a funnel — the real message is stop stitching tools, not
+stop funneling).
+
+Ledger after: L2=40, L3=0. Open long-form P1 @neilpatel 28, @MarketingSchoolPod 60
+(88 total P1 remaining); P2 ~1,831; open shorts ~2,682. Ingest batches since last
+synthesis: 5 (checkpoint at 10) — Stage S still 5 batches away.
+
+Synthesis notes: new tactical spine to promote at next Stage S — (1) **Ubersuggest master
+workflow** (`yt-_ve9cmRaem0`, 2020-03-02): the full feature-by-feature tour (Keyword
+Overview → Keyword/Content Ideas → Traffic Analyzer → Site Audit → Backlinks → Dashboard);
+two reusable heuristics inside it — the Content Ideas → Skyscraper loop (sort competitors'
+posts by shares/backlinks/traffic, mine their ranking keywords + link anchors, build
+something "10x better") and the Site Audit prioritization rule (fixes ordered
+highest-impact + easiest-first). This is the canonical Ubersuggest reference other tool
+mentions should defer to. (2) **SEO-timeline position** (`yt-wc_uo1prLg8`, 2020-03-26):
+the ~6-month "traction" rule with an explicit traction-vs-top-ranking distinction and a
+long-tail-first path to early wins; data points 47.6% more traffic on fresh vs regurgitated
+content and Forbes' 4–6-month figure — a durable persona belief worth its own seo/ page.
+(3) **Paid-ads thesis, first entry** (`yt-S-hn2ThmQEw`, 2020-04-16): precision targeting
+over broad reach — remarketing (~10x CTR), long-tail keywords, negative/exclusion lists,
+location testing, ad extensions (+10–15% CTR), UTM tracking, competitor-keyword bidding;
+establishes the paid-ads/ hub spine. (4) **6-step personal-brand framework**
+(`yt-8KvyKt1c9ao`, 2019-09-28): single-channel-by-strength → document the journey →
+research topics → engage commenters → podcast/interview tour → interview authorities to
+borrow credibility; plus a bio datapoint — Neil states **LinkedIn is his highest-revenue
+social platform** (attributed to his B2B focus). New standalone CRO primitives worth a line
+each (`yt-hcPxMuxh5Tc`, 2019-09-02): the "8/10 read the headline, 2/10 read the body" ratio
+and reframing CRO success as **completions, not clicks**; the underlying 7-part landing-page
+anatomy (value-prop headline, single visual, benefits>features, one CTA, testimonials,
+guarantee, storytelling) is direct-response canon — corroboration. Two smaller items:
+**annual up-front billing as a growth-financing lever** (`yt-p1ChsIfhu2Q`, 2019-11-14 —
+pull cash forward to reinvest in ad spend, not just churn reduction) and a **50% promotion
+floor for detailed guides** (`yt-Y772PSqmudo`, 2019-08-17 — a deliberate exception to
+Neil's usual 80/20 promote-vs-create rule; worth watching as a soft contradiction). The
+free-courses roundup (`yt-SgDDfVCAkfk`, 2020-02-08) is a dated resource list — no new spine.
+All dated 2019-08 → 2020-04.
