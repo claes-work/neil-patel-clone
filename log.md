@@ -595,3 +595,50 @@ Next iteration: **synthesis debt reset to 0/10** (checkpoint drained). Stage mac
 select **Stage B** — the next open P1 long-form is @MarketingSchoolPod (attribution-gated:
 tag Neil vs Eric Siu on every episode, per SUBJECT.md). Synthesis debt after this pass:
 **0** — this pass drained batches #1–#9; new debt accrues from the next ingest batch onward.
+
+## [2026-07-19] ingest | yt batch (@MarketingSchoolPod, 8) — P1 #10, first co-hosted batch
+
+First ingest batch on **@MarketingSchoolPod** (the daily "Marketing School" podcast video
+feed, co-hosted with **Eric Siu**). 8 P1 long-form episodes, 2023-11-07 → 2024-01-11, all
+with captions. **8 ingested (L2), 0 skipped, 0 no-captions, 0 dup.** No yt-dlp failures, no
+rate-limiting.
+
+Sources (all → `wiki/sources/`, all L2, `attribution: co-hosted`):
+- 2023-11-07 `yt-AfMYzSXrXIk` Ep. 2596 — YouTube Shorts virality (Jenny Hoyos case) — social-media, content-marketing
+- 2023-11-25 `yt-VJ9q__0DedU` Ep. 2614 — TikTok Shops early-mover thesis — social-media, agency-entrepreneurship, content-marketing
+- 2023-11-27 `yt-EUVspvV6_UQ` Ep. 2616 — Will the SEO industry go extinct — seo, ai-marketing, agency-entrepreneurship
+- 2023-12-01 `yt-Aguy9Pe0vqw` Ep. 2620 — Will Google's AI kill your SEO traffic (SGE) — seo, ai-marketing, content-marketing
+- 2023-12-12 `yt-I23QpThPN3c` Ep. 2631 — 0 to 2.3M subs (Sam Sulek) — content-marketing, social-media
+- 2023-12-20 `yt-YObiIo42Q44` Ep. 2639 — Thrasio's billion-dollar mistake — agency-entrepreneurship, paid-ads
+- 2024-01-05 `yt-02aOEbWV98c` Ep. 2655 — Generative Engine Optimization ★L3-candidate — ai-marketing, seo, content-marketing
+- 2024-01-11 `yt-f96p3Jj1MFI` — Stop wasting money on SEO — paid-ads, seo, analytics-cro, social-media, agency-entrepreneurship
+
+**Attribution handling (SUBJECT.md gate):** captions carry NO speaker labels, so speakers
+were inferred per episode (Eric hosts/introduces/screen-shares and prompts "Neil…"; the one
+addressed as Neil = Neil). Only Neil-attributed lines went into each page's verbatim
+voice-training quote bank; Eric's material was quarantined in a per-page "Eric Siu (co-host,
+context — NOT persona data)" section linking [[wiki/entities/eric-siu]]. Genuinely ambiguous
+turns were flagged inline `(attribution: uncertain)` and kept OUT of the voice bank — notably
+a platform-feature-push aside (Ep. 2614), a content-freshness/Wikipedia block (Ep. 2620), a
+Ty-Lopez authenticity riff (Ep. 2631), the Amazon take-rate arbitrage monologue (Ep. 2639,
+resolved to Eric via "to be clear on what Eric's trying to say"), and a "humble/hungry/smart"
+hiring aside (Ep. 2611-style close of Stop-Wasting-Money). On-air stats (subscriber counts,
+GMV, ad-cost benchmarks) marked self-reported/unverified; caption garbles corrected (Thrasio,
+NP Digital, ROAS, DTC, CPC figures).
+
+Bookkeeping: 8 ledger rows → L2 (domains + index handles); 8 rows inserted into
+`wiki/sources/youtube-index.md` in date order (footer 72→80); `index.md` YouTube count 72→80.
+
+Synthesis notes: New (accrues as debt for the next synthesis pass): (1) **Neil's dated AI-search
+thesis, 2023-11 → 2024-01** — "SEO won't die, it evolves; AI cuts organic clicks but you
+optimize to be *pulled into* AI engines" (Eps. 2616/2620), maturing into an explicit
+**Generative Engine Optimization** framing with a proprietary 82-ranking-factors finding
+(relevancy + brand mentions drive LLM recommendations, Ep. 2655) — the datable *origin* of
+what he later brands "Search Everywhere Optimization" (2025); promote with dates preserved,
+do NOT present as current. (2) **TikTok Shops as a break-even customer-acquisition channel**
+(Ep. 2614) — an early-2023 precursor consistent with the 2026-07-15 @neilpatel TikTok Shop
+page; candidate to merge into a social-commerce topic. (3) Business-discipline lessons from
+the **Thrasio** aggregator collapse (debt + ad-arbitrage fragility, Ep. 2639). (4) Neil's
+**anti-business-coach** stance vs Eric's pro-coaching (Ep. "Stop Wasting Money") — a
+persona/voice belief with clear dissent from the co-host. First cross-source **entity signal
+for Eric Siu** as recurring co-host (context only). ★L3-candidate: Ep. 2655 (GEO).
