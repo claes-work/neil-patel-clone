@@ -2527,3 +2527,55 @@ Adam Lodolce asides (NON-subject): 7-day payback / Wicked Reports (vTrLHTv3TOw);
 to solve" + Viewship-pivot anecdote (y626q-G5ZpM). Captions clean, minor garbles noted per page
 (Qualaroo, cotton-t-shirts, viewer names). Synthesis debt now 5/10 batches since pass 5 — no
 checkpoint yet.
+
+## [2026-07-20] ingest | yt batch (@neilpatel, 8) — P2 long-form (2018-11 solo tactical + summit + Q&A-Thursday era, cont. 32)
+
+Ingested 8 P2 long-form videos from @neilpatel (2018-11-03 → 2018-11-20) to L2, continuing the
+2018 solo-tactical drain. All 8 captions fetched cleanly (0 no-captions, 0 429s, 0 dup/skip).
+Mix: 2 live-summit screen-share sessions (hosts **Clayton Wood / Vasil** — context only), 2
+Q&A-Thursday episodes (interviewer **Adam Lodolce / viewership.com** — context only; his asides
+do NOT train the persona), and 4 solo monologues. One late Eric Siu co-presenter cameo in the
+landing-page talk (context). New source pages: 2018-11-03 One (SHOCKING) Reason Large Companies
+Fail (gbNMCvAFo_I), 2018-11-06 Advanced Content Marketing Strategy / Look Into Neil's Brain
+(iwdtj5I-HYg), 2018-11-08 Why I HATE Adsense (oafFXuOygJM), 2018-11-10 Never Burn Bridges
+(dn6cwcon5IM), 2018-11-13 7 SEO Experiments (R1oWfzR98v4), 2018-11-15 Brick and Mortar to Online
+(xQDwBwaT3yc), 2018-11-17 #1 Tip / conversion optimization (av9WfdR4cVk), 2018-11-20 7 Landing
+Page Hacks (K7LmWEPII7g). youtube-index footer 413 → 421; index.md count bumped. Ledger rows set L2.
+
+Synthesis notes: batch is heavy with ★ L3-candidates (6 of 8). NEW/reinforced: **7 SEO experiments**
+(R1oWfzR98v4) is a canonical, structured statement of Neil's experiment-driven SEO doctrine —
+neilpatel.com **9,029 → 449,000 organic/mo (2015-17)** via: (1) publishing **quantity flattens**
+after a few hundred posts → real value is surfacing unpredictable **natural winners** to
+skyscraper+link-build; (2) **CTR raises rankings**, test title tags fast **on Twitter** vs the slow
+Search-Console loop; (3) **manufactured brand-query spikes** — the "Who is Neil Patel" same-day
+influencer campaign, **+24%** (Google favors brands, Google Trends as proxy); (4) **tools > content**
+(SEO Analyzer ranked with no links, top page); (5) **bounce/user metrics** — removing the *entry*
+pop-up + content above the fold cut US bounce **85.7→72.9%**, ~doubled traffic (note: mobile pop-ups
+= no penalty in his data); (6) **thoroughness > keyword density**; (7) **dateless URLs** (/y/m/d/title
+→ /blog/title) **+40% in one month**, must change everything at once. Directly reinforces the same-week
+**content-marketing session** (iwdtj5I-HYg): **quantity wins + rewrite the Search-Console winners
+more thorough + competitor top-page mining (Ahrefs/BuzzSumo) + tools out-ROI content + go-niche vs
+authority (Hummingbird)** — both promote into `wiki/topics/seo/` + `content-marketing/` and tie to the
+prior 2018-10-30 "blog LESS, promote more" thesis (distribution vs production). **CRO over acquisition**
+(av9WfdR4cVk) — a clean canonical belief: conversion optimization is cheaper/more effective than
+acquisition and lets you out-bid competitors on ad spend; ties to the LTV/ad-spend model from cont. 31.
+**Landing-page hacks** (K7LmWEPII7g) — engage-first quizzes **+108%/+52%**, headline dominance
+(8/10 read headline, odd numbers, 6 words), checkout bumps, GeoIP copy **+12-27%**, "I need a favor"
+referral email **+6.4%**, and a **SaaS-recurring-revenue wealth thesis** (sells 6-10x yearly revenue
+at breakeven; PE leverages bank debt), list **~550k/30%+ open** (self-reported bio metric). ⚠️ ETHICS:
+that talk relays several **deceptive affiliate tactics** (fake scarcity, "creepy" GeoIP profiling, fake
+news-style content pages, artificial friction, fake webinar chats) — Neil **explicitly disavows some**
+("I wouldn't create false steps"); at synthesis, promote only the principled tactics and mark the
+manipulative ones **reported-not-endorsed**. ⚠️ also a dated-and-wrong 2018 prediction ("AI won't
+matter on landing pages soon, VR will") — flag, do not present as current. **BIOGRAPHY (self-reported)**:
+two persona-worthy origin stories — the **Rockwall, TX early cloud-computing deal** (before AWS), Neil
+**lost >$1M** to fraud incl. a fake-cancer treatment payment, never pursued because the woman has kids
+(dn6cwcon5IM, grounds "never burn bridges + karma" value); and the **immigrant-mother** who taught free
+for six months pushing the kids in a stroller (xQDwBwaT3yc, grounds the "make time / hustle" value;
+consistent with SUBJECT.md family background). xQDwBwaT3yc also gives the **pre-sell-before-you-build**
+tactic ("**sold >$500k of Hustle before launch**"). **AdSense** (oafFXuOygJM) — own the product/audience,
+don't rent from Google (platform/demonetization risk) — kin of the earlier "own your platform" stance.
+"Big companies fail by not adapting" (gbNMCvAFo_I) — reinforces execution/adaptation > money/smarts.
+Captions clean; minor garbles noted per page (Vasil surname uncertain, Babbel/Qualaroo/LeadPages,
+Rockwall "rockwell", influencer/name spellings). **Synthesis debt now 6/10 batches since pass 5 — no
+checkpoint yet; Stage S due at 10 (or channel/era completion).**
