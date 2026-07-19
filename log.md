@@ -869,3 +869,47 @@ threads — date-check the "brand mentions ≈ links" claim against earlier posi
 problems, then script content + case studies around them (Ep 2026-02-12). ★L3-candidates: 2026-01-16,
 2026-01-19, 2026-03-20, 2026-03-30, 2026-04-03. Synthesis debt now 6 batches since pass 1 (checkpoint
 at 10).
+
+## [2026-07-19] ingest | yt batch (@MarketingSchoolPod, 8) — P1 long-form (2026-04→2026-05, AI-era) + 1 dup
+Stage B (first-matching-rule: open P1 long-form on @MarketingSchoolPod). Prepared 8 P1 rows
+(oldest-first, 2026-04-06 → 2026-05-25). Ingested 7 to L2: jWMr3QOtIqs, 3OXIyYkVCdQ, njxc7s9qH_M,
+hF43ZlHhfuQ, _zbpDGGUYqg, YQToOJWoCsI, cT6XP1USylM. Captions 8/8 ok, 0 no-captions, no rate-limiting.
+**Dedup:** IOH4fvYHf-I (2026-04-13 "OpenAI Just Took A BIG Hit") is a subset of the 2026-04-17
+compilation hF43ZlHhfuQ — its IKEA/Billy opening + OpenAI/Bret-Taylor/Sierra segment are both contained
+in that 17.9k-word multi-episode roundup (two "see you tomorrow" sign-offs) — so it was marked
+`skipped, dup-of:hF43ZlHhfuQ`, no page; hF43ZlHhfuQ ingested as the canonical superset. L2 total
+120→127. Open P1 long-form on @MarketingSchoolPod 12→4 (7 ingested + 1 dup removed; P2 742 untouched);
+@neilpatel P2 1085 untouched. One agent per video wrote only its own source page; coordinator did all
+shared-file bookkeeping (ledger, youtube-index, index.md, this log).
+
+Attribution (co-hosted show — only Neil trains the persona): every page tags Neil vs Eric per line;
+Eric's substance quarantined to a co-host context section ([[wiki/entities/eric-siu]]), uncertain
+lines to an attribution-notes section, only Neil verbatim in the quote banks. Captions carry NO speaker
+labels (only HTML-escaped `>>` turn markers, many stripped backchannels), so attribution is fully
+inference-based (direct address "So Neil…", self-reference tells — NP Digital / Ubersuggest for Neil vs
+Single Grain / ClickFlow / "Single Brain" / IM8 for Eric). Two episodes (jWMr3QOtIqs, njxc7s9qH_M) were
+Eric-heavy news-reaction with only a thin Neil core; ambiguous influencer/agent-commerce/underpriced-
+channel blocks were held OUT of the Neil banks rather than guessed. Caption garbles corrected/flagged:
+**"open claw"/"OpenClaw" = uncertain Claude-family open-source agent tool (flagged, not asserted)**,
+"cloud code"/"claw" = Claude Code, "Enthroic" = Anthropic, Garry Tan, Andrej Karpathy, Bret Taylor,
+Marc Andreessen, Manus, Writesonic, Cluely, "Nemo claw" ≈ Nvidia NeMo, singlebrain→singlegrain.com;
+Evertune chart figures verified clean (Gemini 65.1 / Google AI-mode 62.3 / Perplexity 60.4 / AIO 55.2
+/ ChatGPT 50.1 / Copilot 39.8%).
+
+Synthesis notes: New (accrues as debt; much of this batch is EPHEMERAL 2026-Q2 AI/model news-reaction —
+Meta AI-code mandates, Oracle/Nvidia cuts, a16z jobs charts — which must NOT be promoted; only the
+scoped Neil frameworks below carry): (1) **AI vanity-metric trap** — judge AI/marketing by full-funnel
+revenue, not engagement vanity metrics (Ep 2026-04-07 ★); pairs with the payment-processor-by-country
+CRO play. (2) **"AI adapts to the person" team-adoption model** — let natural adopters build the tooling
+so AI conforms to each specialist's workflow (standardized output, no "slop"); extends the same thesis
+in 2026-04-03 (Ep 2026-04-09 ★). (3) **Two paid-ads levers under AI = creative + first-party data**;
+apply AI to the actual ROI driver, not "AI theater"; co-branded intimate events as brand moat;
+reskill-don't-cut (Ep 2026-04-17 ★). (4) **AI raises marketing WORK and SPEND, not headcount cuts** —
+marketers work more (via tokens/agents), spend rises, don't "spend to grow at all cost" (Ep 2026-05-11
+★). (5) **AEO via listicles, but 3rd-party not self-published** — LLMs cite listicles heavily (Evertune
+data), yet Google demotes SELF-published listicles → earn citations through collaboration / third-party
+listings (Ep 2026-05-25 ★); extends the 2026-04-03 "listicles hurt your own organic within ~6 months"
+finding — reconcile at synthesis. (6) Minor coinage (not starred): "quick and decent" replaces "quick
+and dirty" in the AI era; forced-continuity ethics stance (Ep 2026-04-20). ★L3-candidates: 2026-04-07,
+2026-04-09, 2026-04-17, 2026-04-20, 2026-05-11, 2026-05-25. Synthesis debt now 7 batches since pass 1
+(checkpoint at 10).
