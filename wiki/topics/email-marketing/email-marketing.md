@@ -70,6 +70,22 @@ The strategic case: platforms can change algorithms or disappear overnight, but 
 - **Own the audience; direct traffic to email** (2025-04-29): relying on social platforms means you don't truly own your audience — drive traffic to your own website/landing pages and collect emails for direct communication and selling. Email subscribers are more valuable than social followers because the emailed subscriber is likely to see the message, whereas most social followers won't see a post. [[2025-04-29-yt-ybttlXsLPXc]]
   > "Long-term wealth comes from leveraging an audience, not short-term money grabs. However, if you rely on social media platforms, that means you truly don't own your audience." [[2025-04-29-yt-ybttlXsLPXc]]
 
+## Deliverability & owned-channel tactics (2017 solo era)
+
+Two 2017-dated additions that sit *upstream* of the sending playbook above — getting into the
+inbox at all, and mining an overlooked owned surface.
+
+- **Email deliverability system (2017-08-17).** Deliverability (inbox placement) is the
+  precondition for opens: **gradually warm up the sending IP/list** (ramp 1k → … → 100k rather
+  than blasting cold), use **casual, non-salesy subject lines**, **scrub non-openers**, and
+  keep emails **text-based / low-HTML** to dodge spam filters and the Promotions tab
+  ([[2017-08-17-yt-7l7RocbBS4M]]).
+- **Email signature as a traffic channel (2017-08-13).** Turn your signature into
+  distribution: link your site, add **one** social-follow ask, a "check out my latest post"
+  link, and a link to press about you. Governed by his recurring **overwhelm cap — never more
+  than ~2 asks at once** (the same "don't overwhelm" heuristic he applies to opt-ins and CTAs)
+  ([[2017-08-13-yt-LeRnQlUrwl4]]).
+
 ## Key source pages
 
 - [[2021-01-25-yt-Gxd4NeKQg58]] — Email Marketing Unlocked, lesson 1 (zero→50k subscribers): send-timing heuristic, abandoned-cart/nurture/flash-sale/win-back cadences, Semantics FM case study, "digital ATM."
@@ -79,3 +95,5 @@ The strategic case: platforms can change algorithms or disappear overnight, but 
 - [[2025-04-29-yt-ybttlXsLPXc]] — Millionaire in 12 months: own-the-audience, lead-magnet exit-intent quiz, subscribers > social followers.
 - [[2019-04-22-yt-DoLzQN1m7sU]] — Career in Digital Marketing: email + push as the brand/distribution step ("can't build a brand without collecting emails").
 - [[2025-03-25-yt-6RNJpItArSQ]] — Learn Digital Marketing in 13 Minutes: A/B testing email subject lines (Mailchimp/ConvertKit).
+- [[2017-08-17-yt-7l7RocbBS4M]] — Email deliverability system (IP/list warmup, scrub, low-HTML).
+- [[2017-08-13-yt-LeRnQlUrwl4]] — Email signature as a traffic channel; the "max 2 asks" overwhelm cap.

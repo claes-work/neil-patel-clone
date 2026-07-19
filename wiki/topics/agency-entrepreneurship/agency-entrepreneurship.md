@@ -296,6 +296,36 @@ fundraising/financial figures are self-reported/unverified).
   free product to earn the right to sell the big-TAM one: **free payroll → sell insurance/401k**;
   a cleaner instance of the existing free-tool → services logic ([[2023-11-03-yt-smz-vLoVJZA]]).
 
+## 2017 solo-era operating principles (@neilpatel P2)
+
+Durable business primitives from the 2017 solo run — several are the datable *seeds* of
+positions he sharpens years later.
+
+- **The "ugly / tumbleweed" niche heuristic (2017-06-06).** Unsexy, low-competition verticals
+  are the most profitable; validate demand first via keyword/Trends volume before entering
+  ([[2017-06-06-yt-kig9iDpgt1c]]). This is the 2017 seed of his later **"the money's in the
+  ugly, not the sexy"** AI-era line (see [[wiki/topics/ai-marketing|ai-marketing]]) and the
+  go-to-market sibling of the boring-industry ideation trick
+  ([[wiki/topics/content-marketing|content-marketing]]).
+- **Freemium beats a paid incumbent (2017-06-09).** Give away a genuinely useful **free tool**
+  to out-market a bigger, paid competitor — framed via **KISSmetrics (free) vs. Mixpanel
+  (paid)** ([[2017-06-09-yt-rhOALq4FQwE]]). A dated precursor of his own Ubersuggest / Answer
+  The Public freemium → services playbook above.
+- **Monetization preference stack (2017-05-30).** An explicit ranked preference for how to
+  monetize traffic: **AdSense < affiliate/ClickBank < selling your own products** (his
+  favorite) ([[2017-05-30-yt-e37nYDjDI_Q]]).
+- **Optimize for lead QUALITY, not volume (2017-09-02).** "Most leads are crap" — qualify with
+  revenue / profit / 12-month-goals / timeline / budget form fields plus **Clearbit**
+  enrichment; **10 qualified leads beat 200 junk ones** ([[2017-09-02-yt-Q3uFxbONPF0]]). The
+  datable origin of his later anti-vanity-metric stance.
+- **Outsource on a budget (2017-09-03).** For cash-poor startups, prefer **Fiverr / Upwork**
+  over interns or full-time hires; **vet by ≥10 detailed positive reviews + response time**,
+  not lowest price (his own Upwork sales-copywriter example) ([[2017-09-03-yt-_CF6r_Ol3HA]]).
+- **De-risked "fake-site" learning loop (2017-06-19).** Never test unproven tactics on a real
+  or employer business; validate on a **free throwaway WordPress site** first and only promote
+  to production once it shows signs of working — a reusable learning-by-doing principle
+  ([[2017-06-19-yt-Z4PbCulOhOA]]).
+
 ## Key source pages
 
 - [[2016-11-25-yt--dCls0VoY58]] — "Learn REAL Digital Marketing In Just 5 Minutes a Day":
@@ -330,3 +360,11 @@ fundraising/financial figures are self-reported/unverified).
 - [[2026-07-16-yt-y74lGUnI5Zg]] — Debt "turns" framework; SBA "best debt"; clean-story spinoff fundraising.
 - [[2026-07-17-yt-L03nbcDp8v8]] — Product-as-marketing decay; FREE as the real distribution lever; conferences "three-for-one."
 - [[2023-11-03-yt-smz-vLoVJZA]] — Small-TAM freebie → big-TAM monetization (free payroll → insurance/401k).
+
+### 2017 solo-era operating principles (@neilpatel P2)
+- [[2017-06-06-yt-kig9iDpgt1c]] — "Ugly/tumbleweed" niche heuristic (validate demand first).
+- [[2017-06-09-yt-rhOALq4FQwE]] — Freemium beats a paid incumbent (KISSmetrics vs Mixpanel).
+- [[2017-05-30-yt-e37nYDjDI_Q]] — Monetization preference stack (AdSense < affiliate < own products).
+- [[2017-09-02-yt-Q3uFxbONPF0]] — Optimize for lead quality, not volume (10 qualified > 200 junk).
+- [[2017-09-03-yt-_CF6r_Ol3HA]] — Outsource on a budget (Fiverr/Upwork; vet by reviews).
+- [[2017-06-19-yt-Z4PbCulOhOA]] — De-risked "fake-site" learning loop.

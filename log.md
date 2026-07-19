@@ -1389,3 +1389,56 @@ stance. (8) **Outsource-on-a-budget (\_CF6r_Ol3HA 2017-09-03)** — for cash-poo
 interns/full-time hires; vet by ≥10 detailed positive reviews + response time, not lowest price; concrete
 example of his own Upwork sales-copywriter. All 2017-dated; none contradict current positions. **Synthesis
 debt now 10/10 — the Stage S checkpoint is DUE and MUST run before the next ingest batch.**
+
+## [2026-07-19] lint | synthesis pass 3 — @neilpatel 2017 P2 solo tactical era (batches #18–#27)
+Stage S (first matching rule: the ingest driver printed `SYNTHESIS DUE` — 10 ingest batches since
+pass 2, debt 10/10). Drained the 10 accumulated `Synthesis notes:` lines from the @neilpatel
+2017-05 → 2017-09 solo tactical run (batches #18–#27, 215 L2 sources total; fully Neil-attributed,
+no co-host quarantine). Quality-over-volume: the run was mostly period-tactical reinforcement of the
+already-captured 2017 playbook, so pure repeats were dropped (they stay L2 as source pages) and only
+genuinely-new frameworks were promoted — into the topic hubs primarily, with a small, high-signal set
+into persona. No new topic pages (all 8 hubs existed; ai-marketing untouched this pass).
+
+Promotions by page:
+- **wiki/topics/seo** — 2017 origin of the brand→branded-search→rankings thesis (Google Trends as a
+  brand-size diagnostic, 2017-05-20; brand drives branded search, 2017-06-04); a new "2017 solo-era
+  tactical playbook" section: subdirectory-over-subdomain site architecture (2017-06-16 / 2017-07-26,
+  ~90% vs 100% link juice), tier-two link building (2017-07-19), hreflang/internationalization
+  (2017-07-20), local link building (2017-08-21), the earlier 2017 URL-date-removal +58% datapoint
+  (2017-07-17) + "one structural change beat years of link building" refrain, blog-URL categories
+  (2017-08-26), CTR-from-paid-ads (2017-06-02), pogo-sticking as a ranking signal (2017-08-07),
+  get-indexed 3-step (2017-08-22), site-speed ladder (2017-08-24), Google News (2017-08-14); AMP-boost
+  prediction (2017-07-07) flagged as superseded/falsified.
+- **wiki/topics/analytics-cro** — a 2017 CRO cluster: data-over-guesswork starter sequence (2017-06-22),
+  A/B-test validity thresholds (2017-08-23), opt-in cannibalization + message congruence (2017-08-01),
+  CTA optimization rules (2017-08-12), copy=objection-handling (2017-08-02), social-proof placement>volume
+  (2017-08-11).
+- **wiki/topics/content-marketing** — adjacent-emotion ideation (2017-05-29), About-page 5-part framework
+  (2017-06-07), curation automation stack (2017-08-31), Yesware/Boomerang outreach (2017-09-01).
+- **wiki/topics/paid-ads** — FB-vs-Google intent heuristic (2017-08-03), retargeting rule-of-seven + budget
+  anchor (2017-08-04), don't-boost-Facebook-posts (2017-08-16), affiliate-as-CPA (2017-07-06).
+- **wiki/topics/social-media** — LinkedIn native-publishing repurposing (2017-06-23), never-buy-Facebook-fans
+  (2017-07-24), relevance-over-reach influencer rule (2017-07-31); all into the dated Legacy section.
+- **wiki/topics/email-marketing** — email deliverability system (2017-08-17), email-signature-as-channel +
+  "max 2 asks" overwhelm cap (2017-08-13).
+- **wiki/topics/agency-entrepreneurship** — "ugly/tumbleweed" niche heuristic (2017-06-06, seed of "money's
+  in the ugly"), freemium-beats-incumbent (2017-06-09), monetization preference stack (2017-05-30),
+  lead-quality-not-volume (2017-09-02), outsource-on-a-budget (2017-09-03), fake-site sandbox (2017-06-19).
+- **persona/beliefs.md** (32→34 sources): "one-up yourself, not your competition" (2017-07-05);
+  "optimize for lead quality, not volume" (2017-09-02, the 2017 seed of his anti-vanity-metric arc).
+- **persona/voice.md** (28→32 sources): "P.S. if you shared this it would make my year" share-close
+  (2017-05-25), the dyslexia/bad-grammar credibility move (2017-06-21), the one-up-yourself refrain
+  (2017-07-05), and the "one structural change beat years of link building" result refrain (2017-07-17).
+- **persona/biography.md** (16→18 sources): ~2001 SEO start ("16 years an SEO" in 2017-07-28), the candid
+  ~$400k Facebook-fans mistake (2017-07-24).
+- **persona/system-prompt.md** recompiled **v2 → v3** (compiled_from_sources 135 → 215).
+
+Contradictions/date-flags carried, not smoothed: AMP-will-boost-rankings (2017) now falsified by AMP
+deprecation; the 2017 brand-signal origin explicitly linked forward to the 2026 "brand mentions ≈ links"
+refinement without collapsing the two dates.
+
+Bookkeeping: high-water mark advanced to "batches #1–#27 / 215 L2" + pass-3 Done checkpoint in
+`pipeline/synthesis-state.md`; `index.md` persona counts/version (v2→v3) and the seven edited hub markers
+updated. No new topic pages. No yt-dlp / rate-limit activity (synthesis is local-only). No errors. Commit + push.
+
+Synthesis notes: none (this IS the synthesis pass; debt drained to 0 through batch #27).

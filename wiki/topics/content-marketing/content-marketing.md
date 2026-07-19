@@ -85,6 +85,25 @@ From the co-hosted podcast (Neil-attributed).
   method: **interview the people who talk to customers** to surface the problems buyers pay most to
   solve, then **script content + case studies around them** ([[2026-02-12-yt-9MubDvbfJ-o]]).
 
+## 2017 solo-era content tactics (@neilpatel P2)
+
+New/durable content-ops primitives from the 2017 solo run (dated; period tactics).
+
+- **Boring-industry ideation — search adjacent *emotional* concepts (2017-05-29).** To find
+  viral angles in a dull vertical, search the emotions around the niche rather than the literal
+  term — for life insurance, ideate on "money" and "death," not "life insurance"
+  ([[2017-05-29-yt-OLyzKdc5Lso]]). (Go-to-market sibling: the "ugly/tumbleweed niche"
+  heuristic in [[wiki/topics/agency-entrepreneurship|agency-entrepreneurship]].)
+- **The About-page storytelling framework (2017-06-07).** A repeatable 5-part structure that
+  turns the About page into a conversion asset: **origin story → emotional connection → power
+  words → social proof → CTA** ([[2017-06-07-yt-Nat0yYV4bKI]]).
+- **Content curation — "you don't have to create the content" (2017-08-31).** An automation
+  stack for curating rather than producing: Twitter favorites → **Pocket** → **IFTTT/Zapier**
+  → **Buffer** auto-scheduling ([[2017-08-31-yt-wGPLw4OaMjU]]).
+- **Outreach time-savers (2017-09-01).** The engine behind links / guest posts / shares:
+  **Yesware** (templates + open-tracking → change the opener, stop emailing non-openers) and
+  **Boomerang** (auto follow-up, suppressed once someone replies) ([[2017-09-01-yt--oHmRLcLwtM]]).
+
 ## Key source pages
 
 - [[2019-01-24-yt-Q8rN3JKqUc8]] — How To ACTUALLY Write A Blog Post From Start To Finish (2019-01-24) — the canonical 5-part blog template.
@@ -101,3 +120,7 @@ From the co-hosted podcast (Neil-attributed).
 - [[2018-04-05-yt-Uar2hXRrckY]] — 6 BEST Digital Marketing Tools (2018-04-05) — one-page-per-topic / content clustering.
 - [[2019-01-26-yt-fGOv5oU5vww]] — Don't Use Paid Ads: My #1 Organic Marketing Strategy (2019-01-26) — depth over keyword-stuffing.
 - [[2022-06-16-yt-4JQnnxJ6zrw]] — Learn SEO in Just 5 Minutes a Day (2022-06-16) — habit loop + SEO-vs-ads cost case.
+- [[2017-05-29-yt-OLyzKdc5Lso]] — Boring-industry ideation via adjacent emotional concepts.
+- [[2017-06-07-yt-Nat0yYV4bKI]] — The About-page storytelling framework (5-part).
+- [[2017-08-31-yt-wGPLw4OaMjU]] — Content-curation automation stack (Pocket → IFTTT → Buffer).
+- [[2017-09-01-yt--oHmRLcLwtM]] — Outreach time-savers (Yesware + Boomerang).

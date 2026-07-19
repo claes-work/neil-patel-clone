@@ -123,6 +123,38 @@ From the co-hosted podcast (Neil-attributed unless noted).
   > Attribution caveat: most of the study's specifics were delivered by NP Digital colleagues on
   > that episode, not by Neil — so this is recorded as an agency data point, not persona voice.
 
+## 2017 solo-era CRO cluster (@neilpatel P2)
+
+Concrete testing and conversion primitives from Neil's 2017 solo run — several sharpen the
+frameworks above with specific rules. All 2017-dated; figures self-reported.
+
+- **The "data over guesswork" CRO starter sequence (2017-06-22, ★).** A reusable order of
+  operations: qualitative **survey feedback** (Qualaroo / SurveyMonkey) → **wait for 30+
+  responses** to surface common objections → layer **Crazy Egg heatmaps** for behavioral data
+  → only *then* **A/B test** with a tool like Optimizely. Don't test on opinion; sequence from
+  cheap qualitative signal to quantitative validation ([[2017-06-22-yt-V0AeYa3HLlc]]).
+- **A/B-test validity thresholds (2017-08-23).** His concrete testing-rigor rule set,
+  independent of what the tool declares: aim for **~99% statistical significance**, AND run
+  **at least one full 7-day week** (day-of-week behavior differs), AND require **≥100
+  conversions per variation** before trusting a result ([[2017-08-23-yt-HxBAeweP6Fs]]).
+- **On-site opt-in cannibalization (2017-08-01).** Stacking pop-up + slider + alert bar does
+  **not** add linearly — roughly 5% + 5% + 5% nets ~12%, not 15% — though it's still net
+  positive; and every opt-in must obey **message congruence** (a slider's message must match
+  the page it clicks through to) ([[2017-08-01-yt-fBkPBS3e6ZE]]).
+- **CTA optimization rules (2017-08-12).** Benefit-aligned copy over a generic "Buy Now";
+  compose the hero image so a person's eyes **point at the CTA**; use benefit-relevant urgency
+  words; and **repeat the CTA beneath every benefit block** so no one has to scroll back up to
+  convert ([[2017-08-12-yt-Qie52V0_P3A]]).
+- **Copy is objection-handling, not prose (2017-08-02).** Survey to surface objections,
+  **segment visitors and write per segment**; "**length doesn't matter, answering objections
+  does**." Self-reported: ~8/10 read only the headline, and ~half of sales come from the email
+  **follow-up**, not the page itself ([[2017-08-02-yt-s2L6eRObBqw]]). Cross-link:
+  [[wiki/topics/email-marketing|email-marketing]].
+- **Social-proof placement beats volume (2017-08-11).** Generic site-wide "featured on"
+  badges don't convert; put testimonials **inside the sales copy at the decision point**.
+  Testimonial-quality checklist: image + full name + linked business + a specific, measurable
+  result ([[2017-08-11-yt-WfHqm6j29oo]]).
+
 ## Key source pages
 
 - [[2019-09-02-yt-hcPxMuxh5Tc]] — The Anatomy of a High Converting Landing Page (7-part anatomy; 8/10-read-the-headline; completions-not-clicks).
@@ -133,3 +165,9 @@ From the co-hosted podcast (Neil-attributed unless noted).
 - [[2018-12-10-yt-b-gwbVJqi9Y]] — How Digital Marketing Will Change in 2019 (CRO as necessity against rising ad costs; Crazy Egg / Hello Bar tool mentions).
 - [[2026-04-07-yt-3OXIyYkVCdQ]] — *(Marketing School)* AI vanity-metric trap; full-funnel revenue; payment-processor-by-country.
 - [[2024-08-21-yt-kSZtNlupakY]] — *(Marketing School)* NP Digital 3,000-landing-page study; B2B ~1.8% / B2C ~2.1% (mostly colleague-delivered).
+- [[2017-06-22-yt-V0AeYa3HLlc]] — Data-over-guesswork CRO starter sequence (survey → heatmaps → A/B test).
+- [[2017-08-23-yt-HxBAeweP6Fs]] — A/B-test validity thresholds (99% sig / full week / ≥100 conversions).
+- [[2017-08-01-yt-fBkPBS3e6ZE]] — On-site opt-in cannibalization; message congruence.
+- [[2017-08-12-yt-Qie52V0_P3A]] — CTA optimization rules (benefit copy, eye-path, repeat CTAs).
+- [[2017-08-02-yt-s2L6eRObBqw]] — Copy = objection-handling; segment + email follow-up.
+- [[2017-08-11-yt-WfHqm6j29oo]] — Social-proof placement beats volume; testimonial checklist.

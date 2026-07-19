@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-19
-sources: 32
+sources: 34
 ---
 
 # Beliefs
@@ -202,6 +202,12 @@ of 2017-12-04)* [[2017-12-04-yt-0-77jMAF1bw]]
 
 > verbatim: "ideas are a dime a dozen but it's all about execution" [[2017-12-04-yt-0-77jMAF1bw]]
 
+### "One-up yourself, not your competition"
+A characteristic competitive-mindset belief: treat being copied as flattery, and out-work
+"lazy" copiers by continually raising your own production quality (2,000-word posts → custom
+guides → podcasts → daily videos). **Benchmark against your past self, monthly — not against
+rivals.** *(as of 2017-07-05)* [[2017-07-05-yt-bac5SajMYK4]]
+
 ### Wealth philosophy — build big, then give it away (self-reported)
 From the biography research: Neil self-reports a 9-figure net worth ("at least $100 million"),
 a goal to reach **$1B annual revenue before age 50**, and an intention to die with a net worth
@@ -289,6 +295,13 @@ position with visible dissent, not a settled fact. *(as of 2024-01-11)* [[2024-0
 A public political stance **alienates your core customer base**, and a public company owes its
 shareholders profit — so brands should stay out of politics (his example: the Jaguar rebrand
 backlash). *(as of 2024-11-27)* [[2024-11-27-yt-IhUcHgPAZrg]]
+
+### Optimize for lead quality, not volume — "most leads are crap"
+A durable lead-gen doctrine dated well before his AI-era anti-vanity-metric stance: qualify
+hard (revenue, profit, 12-month goals, timeline, budget fields + Clearbit enrichment) because
+**10 qualified leads beat 200 junk ones.** *(as of 2017-09-02)* [[2017-09-02-yt-Q3uFxbONPF0]]
+The same "quality over vanity" logic later powers "traffic isn't everything" and "judge by
+full-funnel revenue, not vanity metrics."
 
 ### Monetization-timing — build the audience first, monetize after
 A reusable ordering principle: grow a channel's audience *before* trying to monetize it (his

@@ -85,6 +85,28 @@ remaining control surface in paid narrows to two levers.
   concrete CRO play — **select the payment processor by country** to lift checkout completion
   ([[2026-04-07-yt-3OXIyYkVCdQ]]). Cross-link: [[analytics-cro]].
 
+## 2017 solo-era paid tactics (@neilpatel P2)
+
+Earlier, channel-level paid mechanics from the 2017 solo run — precursors to the precision
+spine above (dated; self-reported figures).
+
+- **Facebook-vs-Google intent heuristic (2017-08-03).** Google captures **active purchase
+  intent**; Facebook is **social/browse with no intent** — so on Facebook you must *educate
+  first* (blog / webinar) before selling, with an exception for low-ticket direct-to-checkout
+  offers ([[2017-08-03-yt-d8_m8-Gmuf8]]). A clean framing of *why* his precision spine buys
+  bottom-of-funnel intent on Google.
+- **Retargeting — rule of seven + dynamic price-drop (2017-08-04).** Plan for **~7 ad
+  exposures** before a conversion, and use **progressive-price-drop dynamic retargeting**
+  (Overstock example). Dated budget anchor: ~$200k/mo total ad spend with ~$40k (≈20%) into
+  retargeting ([[2017-08-04-yt-2uk_fXZ_xnI]]).
+- **"Don't boost Facebook posts" (2017-08-16).** For the 99% who aren't expert copywriters,
+  boosted-post traffic dies when spend stops and blog posts don't convert — spend on
+  product/service/landing-page ads instead. Explicitly **not** a blanket anti-Facebook-ads
+  stance ([[2017-08-16-yt-tj3VF2bx2s4]]).
+- **Affiliate marketing as a CPA/performance channel (2017-07-06).** A pay-per-result
+  acquisition channel for cash-poor founders; **pay Net 30** to guard against refunds/fraud
+  ([[2017-07-06-yt-4ZrSmfo16sk]]).
+
 ## Key source pages
 
 - [[2020-04-16-yt-S-hn2ThmQEw]] — *7 Google Ads Hacks That'll Make Your Campaigns Scale Profitably* (2020) — the precision-targeting spine: remarketing, long-tail, exclusions, locations, extensions, UTM, competitor bidding.
@@ -96,3 +118,7 @@ remaining control surface in paid narrows to two levers.
 - [[2019-07-22-yt-LdnWx49LUJc]] — *The Fastest Ways to Bring Traffic to a New Website* (2019) — only a minor paid touch (free AdWords credits for a small-budget launch boost); no ad benchmarks.
 - [[2026-04-17-yt-hF43ZlHhfuQ]] — *(Marketing School)* two AI-era levers: creative + first-party data; co-branded events; reskill-don't-cut.
 - [[2026-04-07-yt-3OXIyYkVCdQ]] — *(Marketing School)* judge paid by full-funnel revenue; payment-processor-by-country CRO play.
+- [[2017-08-03-yt-d8_m8-Gmuf8]] — Facebook-vs-Google intent heuristic (educate first on FB).
+- [[2017-08-04-yt-2uk_fXZ_xnI]] — Retargeting: rule of seven + dynamic price-drop; budget anchor.
+- [[2017-08-16-yt-tj3VF2bx2s4]] — "Don't boost Facebook posts" (not blanket anti-FB-ads).
+- [[2017-07-06-yt-4ZrSmfo16sk]] — Affiliate as a CPA/performance channel; pay Net 30.

@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-19
-sources: 16
+sources: 18
 ---
 
 # Biography
@@ -44,6 +44,15 @@ These enrich the timeline above with the fuller narratives Neil tells in his own
 
 - **"4 multimillion-dollar businesses by 28."** He says he built his **first multimillion-dollar company before 21** and **four before 28** — "quick… not as quick as Mark Zuckerberg." He downplays talent ("I'm not that smart"), names his college as "a mediocre college called Cal State Fullerton," and attributes results to focus, an 80–90-hour work week to out-work competitors, one-product focus, fast adaptation, and learning from failure. 🗣️ ([[2017-11-12-yt-k_eXA4cY53M]]) The same "four multimillion-dollar companies" claim recurs in his channel-intro/mission video ("Learn REAL Digital Marketing In Just 5 Minutes a Day"), which also anchors the "ripped off by agencies → self-taught" origin. 🗣️ ([[2016-11-25-yt--dCls0VoY58]])
 - **Crazy Egg go-to-market (self-reported).** Because heat-map/usability software was a category few were searching for, he says demand had to be *created*: build a prototype → put it in front of users → refine messaging after discovering many prospects saw it as a **web-design** tool, not a **marketing** tool → advertise cheap banner ads on **CSS-gallery sites** (e.g., CSS Vault) where designers browsed → **10,000+ beta signups before launch** off just a homepage screenshot + email opt-in. For PR without a budget, he seeded **free Crazy Egg accounts to blogs like TechCrunch and Mashable**, which then wrote up their own heat maps. He says the product reached **100,000 users**. 🗣️ ([[2021-03-04-yt-H_AUV7Iq2Ec]])
+- **SEO-start marker (self-reported).** In a 2017-07-28 video Neil describes himself as
+  **"16 years an SEO,"** which puts his SEO start at **~2001** — consistent with the
+  teenage-hustle origin above and a useful anchor for dating his "old-school SEO" era. 🗣️
+  ([[2017-07-28-yt-SraX4EHcf00]])
+- **The Facebook-fans mistake (self-reported).** A candid self-critical datapoint from 2017:
+  he says he spent **~$400,000 buying ~900,000 Facebook fans he "wishes he never had,"** and
+  watched Facebook referral traffic collapse from 100k+ to <50k/month as the algorithm
+  tightened — his own evidence for the "earned audience on a rented platform decays" lesson. 🗣️
+  ([[2017-07-24-yt-d--xYXrnJTE]])
 - **The QuickSprout "100K challenge" (self-reported).** To prove anyone can go **$0→$100k/month in 12 months**, he ran a business *without using his name* and let his blog audience pick it — a nutrition/supplements site (**Nutrition Secrets**) fronted by a friend, "Mike." It was grown via content marketing and guest posting and monetized by selling supplements on-site and on **Amazon**; he says pushing the site's **email list at Amazon lifted its fish-oil rankings** and revenue. Candid caveat: the challenge targeted **revenue, not profit** — he admits "the business did not make a lot of profit." 🗣️ ([[2021-03-04-yt-H_AUV7Iq2Ec]])
 
 ## Personal life (name-free by policy)

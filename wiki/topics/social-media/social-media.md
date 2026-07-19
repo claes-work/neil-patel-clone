@@ -244,6 +244,17 @@ changed. Date-flag before reuse.
   Note the tonal shift from this 2018 "harder than ever" framing to the 2025 "never been
   easier to grow" thesis [[2025-04-01-yt-E6ZSIZ89Ekg]] — same single-channel discipline,
   opposite read on difficulty as discovery-first algorithms matured.
+- **LinkedIn native-publishing repurposing (2017).** Publish old-content excerpts *natively*
+  on LinkedIn with a "click to continue reading" back-link to your site; Neil claims this took
+  him from **<2,000 to >33,000 monthly LinkedIn visitors** (self-reported) [[2017-06-23-yt-xnjZeg_5lQA]].
+  A concrete precursor to his later "test-then-repost" repurposing engine.
+- **Never buy Facebook fans (2017).** A candid, self-critical bio/spend datapoint: he spent
+  **~$400k buying ~900k Facebook fans he "wishes he never had,"** and watched his Facebook
+  referral traffic collapse from 100k+ to <50k/month as the algorithm tightened — a dated
+  **"earned audience on a rented platform decays"** lesson [[2017-07-24-yt-d--xYXrnJTE]].
+- **Relevance-over-reach influencer rule (2017).** His **Neymar $60k-charity decline** (a B2B
+  mismatch) anchors the rule that **relevance and consistency beat raw follower count**: plan a
+  6+ month branding horizon and negotiate directly, not through agencies [[2017-07-31-yt-DhOrRQmQ-Z8]].
 
 ## Key source pages
 
@@ -265,3 +276,6 @@ changed. Date-flag before reuse.
 - [[2024-12-18-yt-YogL0Fx_2NE]] — Personal-brand fragility ($HAWK rug-pull) — Marketing School
 - [[2024-11-27-yt-IhUcHgPAZrg]] — Keep politics out of marketing (Jaguar rebrand) — Marketing School
 - [[2025-01-13-yt-g0lJPKjLE4k]] — Follower gains from tags / high-production video — Marketing School
+- [[2017-06-23-yt-xnjZeg_5lQA]] — LinkedIn native-publishing repurposing (<2k → >33k/mo) — dated
+- [[2017-07-24-yt-d--xYXrnJTE]] — Never buy Facebook fans (~$400k / ~900k; traffic decay) — dated
+- [[2017-07-31-yt-DhOrRQmQ-Z8]] — Relevance-over-reach influencer rule (Neymar decline) — dated

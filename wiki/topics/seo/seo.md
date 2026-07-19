@@ -330,6 +330,16 @@ From [[2020-05-16-yt-k04rHijEPSw]] (2020-05-16, SEO Unlocked), [[2019-07-04-yt-J
   > how you sort out the cesspool."
 - Social signals: "no effect on ranking according to Google," but a correlation between
   high-ranking pages and social signals ([[2020-03-26-yt-wc_uo1prLg8]], 2020-03-26).
+- **The 2017 origin of the brand→branded-search→rankings thesis.** The brand-queries idea
+  is older than the 2018 BMW-vs-GM framing: as early as 2017 Neil taught (a) using **Google
+  Trends as a brand-size diagnostic** — type your own company name in and aim for a line
+  "climbing up and to the right"; flat/declining diagnoses too little marketing or marketing
+  that fails to connect emotionally ([[2017-05-20-yt-q5wHgm7xtEk]], 2017-05-20); and (b) that
+  **building a real brand drives branded search volume, which Google reads as a trust/
+  authority signal** lifting rankings beyond links/on-page ([[2017-06-04-yt-nTOGKiy4F_0]],
+  2017-06-04). Together these are one thesis — brand → branded search → rankings — and the
+  datable seed of the 2026 "unlinked brand mentions count like links" refinement (see
+  [[wiki/topics/ai-marketing|ai-marketing]]).
 
 ## Search Everywhere Optimization (the 2026 thesis)
 
@@ -399,6 +409,60 @@ SEO-relevant thread is noted here:
   > Google's AI is stalking your brand, your website, your reviews, and even your social
   > posts, and using that to decide if your ad should show up.
 
+## 2017 solo-era tactical playbook (@neilpatel P2)
+
+A cluster of concrete, dated tactics from Neil's 2017 solo teaching run. They are
+period-accurate 2017 mechanics — several predate or extend the frameworks above; date-check
+before reuse.
+
+- **Site architecture — subdirectory over subdomain.** Google treats a subdomain "almost
+  like a separate site," so a `/blog` **subdirectory** borrows the main domain's authority and
+  ranks faster than a `blog.` subdomain ([[2017-06-16-yt-ancECphk_9c]], 2017-06-16). He later
+  quantifies it with an own-test figure — **~90% of link juice transfers through a subdomain
+  vs. ~100% through a subdirectory** — and gives the routing rule: **single-topic site →
+  subdirectory; multi-topic → subdomain**, because "Google favors niche sites"
+  ([[2017-07-26-yt-xZAM1l8cxbs]], 2017-07-26).
+- **Tier-two link building.** A distinct link-building play: build links **to the pages that
+  already link to you**, strengthening those linking pages so their link to you carries more
+  weight ([[2017-07-19-yt-peXc2E-Lzgw]], 2017-07-19).
+- **Internationalization / hreflang.** Neil calls international SEO (hreflang tags, per-country
+  content) **"one of the biggest driving factors of my growth,"** noting the US is under half
+  of neilpatel.com's traffic ([[2017-07-20-yt-GcIRv2AE59I]], 2017-07-20).
+- **Local link building.** For local SEO: Moz Local directory listings, Yelp city sections,
+  a chamber-of-commerce link, non-compete local cross-promotion, and Ahrefs
+  competitor-backlink outreach ([[2017-08-21-yt-xpmvv0IfhTM]], 2017-08-21).
+- **Removing dates from URLs — the earlier (2017) datapoint.** The date-removal win (captured
+  above from 2020 as ~50% in ~30 days) has a 2017 antecedent: removing dates from permalinks
+  (`/month/year/title` → `/blog/title`) drove **+58% search traffic (283k → 449k, Dec 2016 →
+  Jan 2017)**, with his recurring refrain that **"one structural change beat years of link
+  building"** ([[2017-07-17-yt-TwQhVr9MXyE]], 2017-07-17; requires a 301 from the old URL).
+- **Blog-URL categories are size-dependent.** Skip URL category folders under ~100 pages;
+  use them at 1000+ posts to signal topic clusters to Google; single-hyphen slugs, never
+  double dashes ([[2017-08-26-yt-MB9cfH1OfH8]], 2017-08-26).
+- **Reverse-engineer CTR copy from the top *paid* ads.** Study the highest-CTR paid AdWords
+  ads for a term and mirror their title/meta framing organically — positioning click-through
+  and user signals as a ranking lever independent of link building
+  ([[2017-06-02-yt-qSDVFMTWN6w]], 2017-06-02).
+- **Pogo-sticking is a ranking signal.** On "product pages = money pages," Neil names
+  **bounce-back-to-Google (pogo-sticking) as a negative ranking signal**, and cross-linking
+  → better crawl/indexation → collective ranking lift for the linked pages
+  ([[2017-08-07-yt-_e_0iu54wUQ]], 2017-08-07).
+- **Get a new site indexed (3-step).** Google Search Console (see crawl errors / indexed
+  pages) + an XML sitemap via Yoast + submit the sitemap — with an explicit new-site patience
+  caveat of **~4–6 months to a year** before real ranking ([[2017-08-22-yt-4xBWaXpZD7M]],
+  2017-08-22).
+- **Site speed = revenue.** He frames speed via an Amazon "**~1% of revenue per second of
+  load time**" figure (attributed to an "Amazon study," not independently verified) and a fix
+  ladder: Google PageSpeed → AMP for mobile → CDN (names Akamai) → caching (W3 Total Cache on
+  WordPress) ([[2017-08-24-yt-13jOMJhKISE]], 2017-08-24).
+- **Google News as fast-but-short-lived traffic.** Trends-sourced news content + a Google
+  News sitemap in GSC + unique keyword URLs can spike traffic — but explicitly for hours, not
+  days ([[2017-08-14-yt-13BsYXkenhs]], 2017-08-14).
+
+> ⚠️ Dated/superseded prediction: in 2017 Neil predicted **AMP would boost rankings**
+> ([[2017-07-07-yt-kFCs5dx9LVI]], 2017-07-07) — now falsified by Google's later deprecation of
+> AMP. Do NOT present as current; his own 2019 read already found AMP's payoff uneven (above).
+
 ## Signature framing: "get loved by Google"
 
 Neil's recurring sign-off phrase, worth capturing verbatim as voice:
@@ -437,3 +501,18 @@ many small things well, for the user, and rankings follow.
 - [[2024-03-01-yt-LZuR52_nNFA]] — "Old-school SEO is dead" / 94.29% of pages get zero traffic (Marketing School)
 - [[2025-09-25-yt-BfPayCQHNcE]] — Reddit SEO: native participation; 70%+ AI-reply removal (Marketing School)
 - [[2025-10-18-yt-suqrDn5N_D4]] — SEO-career adaptation: package for AI, brand mentions ≈ links (Marketing School)
+- [[2017-05-20-yt-q5wHgm7xtEk]] — Google Trends as a brand-size diagnostic ("up and to the right")
+- [[2017-06-04-yt-nTOGKiy4F_0]] — Brand → branded search → rankings thesis (2017 origin)
+- [[2017-06-02-yt-qSDVFMTWN6w]] — Reverse-engineer CTR copy from top paid ads
+- [[2017-06-16-yt-ancECphk_9c]] — Subdirectory over subdomain (authority borrowing)
+- [[2017-07-17-yt-TwQhVr9MXyE]] — Removing dates from URLs: +58% traffic (2017 datapoint)
+- [[2017-07-19-yt-peXc2E-Lzgw]] — Tier-two link building (links to your linkers)
+- [[2017-07-20-yt-GcIRv2AE59I]] — Internationalization / hreflang as a growth driver
+- [[2017-07-26-yt-xZAM1l8cxbs]] — Subdomain ~90% vs subdirectory ~100% link juice
+- [[2017-08-07-yt-_e_0iu54wUQ]] — Product pages = money pages; pogo-sticking as a ranking signal
+- [[2017-08-14-yt-13BsYXkenhs]] — Google News as fast-but-short-lived traffic
+- [[2017-08-21-yt-xpmvv0IfhTM]] — Local link building (Moz Local, Yelp, chamber, outreach)
+- [[2017-08-22-yt-4xBWaXpZD7M]] — Get a new site indexed (GSC + Yoast XML sitemap); ~4–6mo patience
+- [[2017-08-24-yt-13jOMJhKISE]] — Site speed = revenue (Amazon 1%/sec; PageSpeed→AMP→CDN→cache)
+- [[2017-08-26-yt-MB9cfH1OfH8]] — Blog-URL categories are size-dependent; single-hyphen slugs
+- [[2017-07-07-yt-kFCs5dx9LVI]] — AMP-will-boost-rankings prediction (now falsified — dated)

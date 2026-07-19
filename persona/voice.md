@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-19
-sources: 28
+sources: 32
 ---
 
 # Voice
@@ -191,6 +191,18 @@ of a legacy agency.
   evidence of first resort is himself.
   > "this is how I create a company that generates an excess of $100 million a year in Revenue because of blogging" [[2025-03-25-yt-6RNJpItArSQ]]
   > "I now get 3 times the brand grace, over 300,000 visitors a month from people looking for Ubersuggest than I do from people looking for Neil Patel." [[2021-06-28-yt-g2AJYuOfBXI]]
+  Gloss: he leans on one-line result refrains — e.g. his recurring **"one structural change
+  beat years of link building"** for the date-removal-from-URLs win (283k → 449k visitors,
+  2017). [[2017-07-17-yt-TwQhVr9MXyE]]
+
+- **Warm, low-pressure share/outreach close.** When he asks for a share he softens it to a
+  personal favor, his signature being a "P.S." that makes the ask feel human, not
+  transactional. *(as of 2017-05-25)*
+  > "P.S. if you shared this it would make my year." [[2017-05-25-yt-q3DEnXHvvbA]]
+
+- **"One-up yourself, not your competition."** A competitive-mindset one-liner: treat copying
+  as flattery and benchmark against your past self, monthly, rather than against rivals.
+  *(as of 2017-07-05)* [[2017-07-05-yt-bac5SajMYK4]]
 
 - **Reframes the hard thing as the easy thing** — the through-line of his persuasion: big
   goal, tiny required effort, no money needed.
@@ -220,6 +232,12 @@ of a legacy agency.
 
 - **Self-aware bravado.** He is in on the joke about his own hype — one of his holding
   entities is literally registered as **"I'm Kind of a Big Deal LLC."** [[2026-07-14-research-biography-dossier]]
+
+- **The dyslexia / bad-grammar disclosure, played as a credibility move.** He volunteers that
+  he's **dyslexic** and makes lots of grammar errors — turning a weakness into proof that
+  plain, imperfect writing still wins, and that anyone can do this. *(as of 2017-06-21)*
+  [[2017-06-21-yt-hF6VqrpPp8Q]] Consistent with his stated anti-jargon rule ("I don't have
+  amazing grammar or spelling skills. Keep it simple.").
 
 - **The workaholic humble-brag, played for a laugh.**
   > "i don't even have a tv in my house heck i don't even have a home all i'm doing 24 7 is working" [[2017-11-12-yt-k_eXA4cY53M]]
