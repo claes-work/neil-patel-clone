@@ -118,6 +118,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2017-09-19 — [Drive More Traffic And Sales By Fixing This Website ERROR | The 404 Hack (turn 404s into recovered traffic via 301 redirects)](2017-09-19-yt-ymIL_yvXZiw.md) — seo, analytics-cro
 - 2017-09-20 — [The RIGHT Way to Drive More Online Sales By Discounting Your Products (bundle/threshold offers, not main-item price cuts)](2017-09-20-yt-X-QgSpzub0s.md) — analytics-cro, content-marketing
 - 2017-09-21 — [3 Ways to Make Eye Popping Social Media Images FAST (Canva three-step workflow for fast, unique social images)](2017-09-21-yt-TYP-ZDAwWwE.md) — social-media, content-marketing
+- 2017-09-22 — [5 Simple Steps to Driving Free Traffic and Sales From Your Facebook Fan Page (brand imagery, post-type testing, Insights targeting, Facebook shop, competitor benchmarking)](2017-09-22-yt-29Z7xkOJ3Z0.md) — social-media, content-marketing
+- 2017-09-25 — [4 Facebook Marketing Tips to Boost Engagement on Your Page | How Often Should You Post? (post daily/multiple times but engagement-per-post drops; Insights timing, spacing, targeting)](2017-09-25-yt-8qjhcUxhfg0.md) — social-media, content-marketing
+- 2017-09-26 — [How to Get 7 Times More Twitter Traffic | Twitter Marketing Tips (one-week test: 749→5,623 visitors going from 1x to 40x/day; post ≥10x/day, non-link community engagement)](2017-09-26-yt-pLmQzpWng7o.md) — social-media, content-marketing
+- 2017-09-27 — [3 LinkedIn Marketing Tips That Will Generate New Customers and Boost Engagement (B2B lead-gen; post 2-3x/day spaced 2h+, vary post types, grow influencer network)](2017-09-27-yt-IqAwho3SUUA.md) — social-media, content-marketing
+- 2017-09-28 — [4 Ways to Use Pinterest to Drive Traffic and Grow Your Ecommerce Business (pin 10+/day, re-pin others, relate pins to products — Kissmetrics infographic case, community commenting)](2017-09-28-yt-FDzBMxzgZCo.md) — social-media, content-marketing
+- 2017-09-29 — [How to Run Split Tests and Optimize Your Website for Conversions (Crazy Egg scroll/heat maps + recordings → WYSIWYG edits → A/B test; "I test everything")](2017-09-29-yt-XDoKXaGrUxE.md) — analytics-cro
+- 2017-09-30 — [1 Secret Website Hack to Increase Conversions and Skyrocketing Ecommerce Sales (manufactured urgency: countdown timers + scarcity/limited-stock; woot.com, Shopify Booster theme)](2017-09-30-yt-yJEVVGKnQXw.md) — analytics-cro, content-marketing
+- 2017-10-01 — [3 Easy Ways to Increase Your Online Revenue by 15% (or More) Without Acquiring New Customers (upsells/downsells with speed+automation, email marketing automation via Hello Bar, keep selling existing customers — Amazon)](2017-10-01-yt-GAfvXdWt3a8.md) — analytics-cro, email-marketing
 - 2017-11-01 — [HOW TO HACK INSTAGRAM: How to Get Your Customers to Promote Your Products On Instagram](2017-11-01-yt-UQR9Nrk626w.md) — social-media, content-marketing
 - 2017-11-12 — [How I Started 4 Multimillion Dollar Businesses By the Time I Was 28](2017-11-12-yt-k_eXA4cY53M.md) ★ — agency-entrepreneurship
 - 2017-11-22 — [1 Simple Hack to Build Hundreds of Backlinks (competitor-infographic tactic)](2017-11-22-yt-k9wddku3y54.md) — seo, content-marketing
@@ -244,4 +252,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2026-07-17 — [Your Software Is Now Your Best Marketing Channel (MS, co-hosted — Neil qualifies the "product = best channel" thesis: he pioneered it ~7-8 yrs ago (bought Ubersuggest ~$120k) but the real lever is FREE not feature-cadence, and it works "not as well as it used to" now everyone builds product; his biggest current lead-driver is conferences (a "three-for-one": speak + sponsor + side-events + branding); a premium on all good talent, not just "AI talent"; anti-vision-board)](2026-07-17-yt-L03nbcDp8v8.md) — ai-marketing, agency-entrepreneurship, content-marketing
 
 ---
-_231 videos ingested (L2) so far._
+_239 videos ingested (L2) so far._

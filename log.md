@@ -1502,3 +1502,34 @@ learn-by-doing SEO, Crazy Egg as house testing tool). Two candidate nuggets for 
 Neil's explicit definition of growth hacking as cross-functional rapid experimentation (not a role), and
 the "build a junk WordPress site to learn SEO by doing" method — both add specificity to existing
 persona positions rather than contradicting them. Synthesis debt now 2/10 (checkpoint at 10).
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P2 long-form (2017-09→10 solo social-distribution/CRO era, cont. 9)
+Ingested 8 @neilpatel P2 long-form videos (2017-09-22 → 2017-10-01), all solo/Neil-fronted (no
+attribution gating). 8 ok, 0 skipped, 0 no-captions, 0 dup, 0 rate-limit. Pages:
+(1) **Facebook fan page free traffic (29Z7xkOJ3Z0 2017-09-22)** — 5 steps: brand/self imagery, test
+post types, read Insights for geo/timing targeting, set up a Facebook shop, follow competitor pages to
+benchmark. (2) **Facebook posting frequency (8qjhcUxhfg0 2017-09-25)** — post daily/multiple times but
+notes an explicit tradeoff: more posts = less engagement per post; use Insights timing, space posts
+hours apart, target by country/language. (3) **Twitter 7x traffic (pLmQzpWng7o 2017-09-26)** — a
+one-week team test: 1 post/day averaged 749 visitors vs 40 posts/day → 5,623 (~7.5x, sub-linear); post
+≥10x/day, and on non-link posts engage the community so link-posts get more clicks. (4) **LinkedIn B2B
+(IqAwho3SUUA 2017-09-27)** — LinkedIn for corporate lead-gen; post 2-3x/day spaced 2h+, vary post types
+(blog links, native excerpts w/ "continue reading", quote status updates), grow influencer network.
+(5) **Pinterest ecommerce (FDzBMxzgZCo 2017-09-28)** — pin 10+/day, re-pin others' content (not only
+originals), relate pins to your products (Kissmetrics marketing infographics were a top traffic source),
+comment on others' boards to grow followers. (6) **Crazy Egg split testing (XDoKXaGrUxE 2017-09-29)** —
+3-step CRO: install Crazy Egg (scroll maps, heat maps, recordings) → fix via WYSIWYG editor → A/B test;
+"everyone makes mistakes, I test everything." (7) **Urgency website hack (yJEVVGKnQXw 2017-09-30)** —
+manufacture urgency: countdown timers on expiring deals + scarcity/limited-stock displays; cites
+woot.com pioneer and the Shopify Booster theme. (8) **Increase revenue without new customers
+(GAfvXdWt3a8 2017-10-01)** — 3 levers on existing customers: upsells/downsells where speed+automation
+drive conversion, email marketing automation (Hello Bar capture + sequences), and keep creating new
+products for existing buyers (Amazon as exemplar).
+Synthesis notes: Coherent 2017 solo "distribution + CRO" cluster; mostly reinforces existing persona
+positions (post-volume-over-perfection distribution doctrine, Crazy Egg as house testing tool, test-
+everything CRO culture). Candidate nuggets for the next synthesis: (a) the explicit posting-volume /
+engagement-per-post tradeoff stated across Facebook+Twitter+LinkedIn (a quantified distribution
+heuristic — "post ≥10x/day; traffic scales sub-linearly but rises substantially"); (b) the
+existing-customer-revenue framing (upsells+downsells / automation / more products to same base) as an
+early statement of a retention/LTV lever. Both add specificity rather than contradicting. Synthesis
+debt now 3/10 (checkpoint at 10).
