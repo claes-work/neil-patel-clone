@@ -2429,3 +2429,48 @@ Subscribers.com browser-push + fast-drip re-engagement (Ubersuggest→agency→Y
 complements the existing email-capture/drip playbook — consolidate rather than promote separately.
 Probable caption garbles noted on pages: "koalaroo" ≈ Qualaroo; "scitec upwork" ≈ "sites like
 Upwork". Synthesis debt now 3/10 batches since pass 5 — no checkpoint yet.
+
+## [2026-07-20] ingest | yt batch (@neilpatel, 8) — P2 long-form (2018-09→10 solo tactical + Q&A-Thursday era, cont. 30)
+
+Ingested 8 P2 long-form videos from @neilpatel (2018-09-27 → 2018-10-13) to L2, continuing
+the 2018 solo-tactical + Q&A-Thursday drain. All captions fetched cleanly (0 no-captions,
+0 429s, 0 dup/skip). Mix: 3 Q&A-Thursday episodes (interviewer **Adam Lodolce / Viewership**
+— context only; his tactical asides are non-subject and do NOT train the persona) + 5 solo.
+New source pages: 2018-09-27 Backlink HACKS / index faster (qgPoztS9CWM), 2018-09-29 WordPress
+Mistakes for Startup Sites (SEqUoEYdPzo), 2018-10-02 Best Alternative to Google Ads (5lW635Uo7dw),
+2018-10-04 Manage Multiple Social Media Accounts (5dyn03RSWVA), 2018-10-06 Word-Of-Mouth Marketing
+(_6NHKgUH8ts), 2018-10-09 7 Unknown Marketing Tools (cBC-E1bTSi0), 2018-10-11 Improve Bounce Rate
+by Embedding Video (8Zg8aVvxFgI), 2018-10-13 Undercut Your Competitors Price (TLTL8mzkVLE).
+youtube-index footer 397 → 405; index.md count bumped. Ledger rows set L2.
+
+Synthesis notes: several ★ L3-candidates for the next pass. NEW/reinforced: **free-product-as-
+acquisition-channel** — the clearest early statement of this core Neil thesis: build a free
+product + growth-hack instead of buying rising Google-Ads traffic; Dropbox CAC ~$200-300 vs
+~$60/yr LTV → invite/referral flows; **Ubersuggest costs him ~$150k/mo vs an estimated ~$600k/mo
+to buy the same traffic on ads** (self-reported); "the moment you stop google ads you don't have
+any more traffic"; HubSpot free email-sig tool = 7-figures/yr (5lW635Uo7dw) — this is the direct
+ancestor of the 2026 MS "product = best marketing channel, but FREE is the lever" clips; good
+spine for a topic page, date-stamp the figures. **Pricing: undercut to grow** — "pricing has a
+huge impact on growth rate"; gun-safe patent-expiry $100M→$5M (a slightly-worse, much-cheaper
+substitute wins); loss-leader dynamics; ideal = equal/greater value at a lower price; **luxury
+goods excepted** (deep discount signals low quality) (TLTL8mzkVLE). ⚠️ CONTRADICTION: this
+compete-on-low-price stance is in tension with Neil's frequent premium/value + "sell your own
+higher-margin products" messaging — reconcile & date-stamp at synthesis, not a universal rule.
+**Word-of-mouth = best marketing** — earned via great product + customer care, not SEO/social
+popularity; Slack grew on product love, Zappos radical service (random free overnight shipping)
+→ >$1B (_6NHKgUH8ts); pairs with the free-product clip. **Engagement-as-ranking-signal** (two
+mutually reinforcing clips): Twitter as a fast headline A/B tester → adopt the highest-CTR title
+because click behavior signals relevance to Google (cBC-E1bTSi0); embed RELEVANT video/audio to
+cut bounce & raise time-on-site (helps Panda), relevance mandatory (8Zg8aVvxFgI) — capture both
+under an "engagement/dwell-time signals" SEO note. **Tool stack**: MeetEdgar (auto re-share old
+content 4-7×), Subscribers.com push, Typeform (survey audience for topics), Canva (custom
+graphics beat stock), LeadQuizzes (quiz + email capture) (cBC-E1bTSi0). **Social/agency ops**:
+post to Facebook NATIVELY — 3rd-party schedulers cut reach ~2-3x (self-reported, admittedly
+untested since ~2016-17 → date-stamp), "every platform is selfish"; standardized month-end
+per-network reporting; niche clients into one industry; communicate regularly or clients assume
+no work is happening (5dyn03RSWVA). **Reinforced throughlines**: SEO tools (Ahrefs/SEMrush) are
+NOT Google & get crawler-blocked, DA is not a Google metric & varies by tool, relevancy>authority
+(qgPoztS9CWM); ship-first / traction over WP design & plugins (SEqUoEYdPzo). Adam Lodolce asides
+(NON-subject): FB-promote-your-press + retargeting (qgPoztS9CWM); Basecamp weekly client updates
++ his own 30k→700k/6mo growth anecdote (8Zg8aVvxFgI, 5dyn03RSWVA). Captions clean, no
+name/number garbles. Synthesis debt now 4/10 batches since pass 5 — no checkpoint yet.

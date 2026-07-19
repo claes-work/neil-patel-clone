@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-20 (ingest: @neilpatel batch — 8 P2 long-form L2, 2018-09 solo tactical + Q&A-Thursday era (★international-SEO playbook — market-selection first / manual translation / hreflang / subdomains>subdirectories self-critique / PPC-test / dominate-home-first, ★passion-not-caffeine + find-your-calling-by-trying-small-things, ★page-2→page-1 SEO (Ahrefs competitor-link outreach / title-tag CTR / keywords-as-problems / BRAND as top ranking factor), ★sell-your-own-products = 10x more than YT/FB ads, ★cut-yourself-before-your-team + reimburse-team-with-equity, ★sales dept ≤10% of first-year revenue (base+commission), ★"business never sleeps" hustle stance (watch for later softening), Subscribers.com browser-push + fast-drip); 397 videos L2)_
+_Last updated: 2026-07-20 (ingest: @neilpatel batch — 8 P2 long-form L2, 2018-09→10 solo tactical + Q&A-Thursday era (★free-product-as-acquisition-channel — Ubersuggest ~$150k/mo vs est. ~$600k/mo ads, Dropbox invite-flows, "ads stop = traffic stops"; ★undercut-price to grow — gun-safe patent $100M→$5M, loss-leader, luxury-goods exception ⚠️tension vs premium/value stance; ★word-of-mouth = best marketing (product+care, Zappos/Slack); ★engagement-as-ranking-signal — Twitter headline A/B → Google CTR, embed-video → time-on-site/Panda; ★ship-first traction over WP design/plugins; SEO tools≠Google & DA-not-a-metric; MeetEdgar re-share + post-FB-natively "platforms are selfish"; agency: month-end reporting, niching, communicate-or-lose-clients); 405 videos L2)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life/career timeline (England → Orange County → Crazy Egg/KISSmetrics → NP Digital → Ubersuggest → Marketing School), registry/court-verified vs self-reported marked per claim.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe.
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 397 videos ingested (L2).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 405 videos ingested (L2).
 
 ## Topics
 
