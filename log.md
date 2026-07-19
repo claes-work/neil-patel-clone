@@ -1140,3 +1140,34 @@ framing, plus the self-deprecating "I'm dyslexic / lots of grammar errors" credi
 rest (clickbait title formulas, bounce-rate on-page hygiene, BuzzSumo/Quora ideation, on-site
 lead-capture tactics, 5-tool traffic roundup) are standard 2017 tactics that overlap prior blogging/
 SEO videos — fold lightly or drop as repeats. All 2017-dated; none contradict current positions.
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P2 long-form (2017-06 solo era, cont. 3)
+Stage B (first matching rule: synthesis debt 3/10 — no checkpoint; persona fresh (v2, pass 2);
+no zero-row TARGET; P1 already drained → open P2 exists). Continued @neilpatel P2 — the
+Neil-fronted primary corpus is fully Neil-attributed (no co-host quarantine → cleanest persona
+signal). Selection was priority-2, oldest-first: the 2017-06-22→2017-06-29 solo run
+(V0AeYa3HLlc, xnjZeg_5lQA, MiI-O2lSyLA, BbNjhpbrRMc, LJ9YT7McM8o, ZKHwu3aZwKY, wnebdnPklo8,
+DC8LZx4zNKU). Captions: 8/8 ok, 0 no-captions, 0 skipped, 0 dup, NO rate-limiting (no yt-dlp
+failures). L2 total 159→167. @neilpatel open long-form 1082→1074 (P2 1061→1053, P3 21); MS
+766 (P2 738 / P3 28) untouched; shorts 2682 untouched. One agent per video wrote only its own
+source page; coordinator did all shared-file bookkeeping (ledger, youtube-index, index.md, log).
+
+Attribution: all 8 are solo @neilpatel main-channel educational videos — single speaker, fully
+Neil-attributed, no guest/co-host, so the whole batch is persona-eligible (nothing quarantined,
+no uncertain-attribution flags).
+
+Synthesis notes: mostly period-tactical reinforcement; two ★ L3-candidates flagged for the next
+synthesis pass. (1) **CRO starter framework (V0AeYa3HLlc 2017-06-22)** — despite a "Persuasion
+Techniques" clickbait title the content is a clean, reusable conversion-optimization sequence:
+qualitative survey feedback (Qualaroo/SurveyMonkey) → wait for 30+ responses to surface common
+objections → layer Crazy Egg heatmaps for behavioral data → only then A/B test with Optimizely;
+"data over guesswork" sequencing rule worth a distilled analytics-cro concept page. (2) **LinkedIn
+native-publishing repurposing play (xnjZeg_5lQA 2017-06-23)** — publish old-content excerpts
+natively on LinkedIn with a "click to continue reading" back-link; Neil claims it took him from
+<2,000 to >33,000 monthly LinkedIn visitors — a concrete, repeatable content-repurposing tactic
+that recurs across his videos (content-marketing/social-media). Minor debt: outbound-links-as-
+topical/neighborhood-signal + reciprocal-backlink claim (DC8LZx4zNKU 2017-06-29) and
+Facebook-Groups-bypass-fan-page-reach note (ZKHwu3aZwKY/wnebdnPklo8) — one line each on the
+relevant topic pages. The remainder (LinkedIn lead-sourcing tactics, local-SEO primer, plagiarism
+/duplicate-content Q&A, 7-source traffic roundup) are standard 2017 tactics overlapping prior
+videos — fold lightly or drop as repeats. All 2017-dated; none contradict current positions.
