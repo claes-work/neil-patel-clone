@@ -168,7 +168,15 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2017-11-11 — [What are the best times to post on Instagram? (Iconosquare for follower regions; post mornings — algo buries stale posts; time to audience behavior not just TZ — Jessica-the-model anecdote)](2017-11-11-yt-6HVvHIwqYu4.md) — social-media, content-marketing, analytics-cro
 - 2017-11-12 — [How I Started 4 Multimillion Dollar Businesses By the Time I Was 28](2017-11-12-yt-k_eXA4cY53M.md) ★ — agency-entrepreneurship
 - 2017-11-13 — [4 Local SEO Marketing Strategies to Build Your Brick And Mortar Business (rank free vs AdWords: Google My Business + localized pack, Google reviews, NAP on contact page, Yoast, topical content, Search Console + XML sitemap)](2017-11-13-yt-UHG4wDlvAMY.md) — seo, content-marketing
+- 2017-11-14 — [4 Easy Ways to Measure Content Marketing ROI (Google Analytics + goal tracking; SEM rush traffic-value estimate; be patient — a year to work; neilpatel.com traffic "worth half a million/month")](2017-11-14-yt-WgWJiOqT6Oo.md) — content-marketing, analytics-cro
+- 2017-11-15 — [SEO Test 101: How to Measure Your SEO Efforts (5 metrics: search traffic, GSC impressions-before-clicks, Ahrefs backlinks vs competitors, content cadence 3+/wk, indexed pages/sitemap)](2017-11-15-yt-rUw8nu4Omqo.md) — seo, analytics-cro
+- 2017-11-16 — [Is Your Social Media Marketing Working? (4 metrics: new-fan growth RATE not total, competitor growth via SocialBlade, engagement %, posting volume; engage to build loyal community)](2017-11-16-yt-if69s7576SY.md) — social-media, analytics-cro
+- 2017-11-17 — [PPC Calculator: How to Measure ROI For PPC (ad platforms over-report conversions; optimizing on inflated numbers loses money; verify against your database + bank account)](2017-11-17-yt-PKjzTgAPYx0.md) — paid-ads, analytics-cro
+- 2017-11-18 — [6 Tips to Writing an Amazing Blog Post (conversational tone, headline via BuzzSumo, educational/actionable, freshness, mixed media, cite sources; "be the dumbest person in the room")](2017-11-18-yt-P8wWBZc978E.md) — content-marketing, seo
+- 2017-11-20 — [How Long Does It Take to Boost SEO Rankings? (neilpatel.com 9k→89k→450k visitors/mo over 2yr; 3mo impressions, 6mo non-brand traffic, 2yr bulk; needs 1 post/wk + 5-10 links/mo + weekly promotion)](2017-11-20-yt-XCUD80O5RuY.md) ★ — seo, content-marketing
+- 2017-11-21 — [3 Ways to Write Content That Will Go Viral (shares are driven by the HEADLINE not content: 5-7 words, adjectives like "effortlessly", curiosity gap — but don't trick or lose trust)](2017-11-21-yt-VozfuBgjSmg.md) — content-marketing, social-media
 - 2017-11-22 — [1 Simple Hack to Build Hundreds of Backlinks (competitor-infographic tactic)](2017-11-22-yt-k9wddku3y54.md) — seo, content-marketing
+- 2017-11-26 — [Top 3 Ways to Generate More Organic Search Traffic (competitor-driven skyscraper: Ahrefs → write better/longer, email their linkers with a 2-step template, repeat in BuzzSumo; "Hummingbird promotes thorough content")](2017-11-26-yt-RnwgCmcH-IU.md) — seo, content-marketing
 - 2017-11-28 — [3 Powerful SEO Tips To Rank #1 On Google](2017-11-28-yt-gmB_TC92I8w.md) — seo, content-marketing
 - 2017-12-04 — [Business Advice 101: How I Lost $1 Million When I Was 21](2017-12-04-yt-0-77jMAF1bw.md) ★ — agency-entrepreneurship
 - 2017-12-16 — [How to Start a Business and Grow it to a Billion Dollar Company](2017-12-16-yt--p6CvtzUgk0.md) ★ — agency-entrepreneurship
@@ -292,4 +300,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2026-07-17 — [Your Software Is Now Your Best Marketing Channel (MS, co-hosted — Neil qualifies the "product = best channel" thesis: he pioneered it ~7-8 yrs ago (bought Ubersuggest ~$120k) but the real lever is FREE not feature-cadence, and it works "not as well as it used to" now everyone builds product; his biggest current lead-driver is conferences (a "three-for-one": speak + sponsor + side-events + branding); a premium on all good talent, not just "AI talent"; anti-vision-board)](2026-07-17-yt-L03nbcDp8v8.md) — ai-marketing, agency-entrepreneurship, content-marketing
 
 ---
-_279 videos ingested (L2) so far._
+_287 videos ingested (L2) so far._

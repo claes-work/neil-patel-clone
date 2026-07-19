@@ -1680,3 +1680,39 @@ A/B test to their real behavior; volume + all-day cadence beat single "magic hou
 stable pattern. Local-SEO (11-13) extends the SEO domain into brick-and-mortar/GMB, first sustained local-SEO
 material. Self-reported metrics flagged in-page (Twitter 5k→22k; LinkedIn 5-10x), not audited. Contradiction
 flag: none. Synthesis debt now 8/10 (checkpoint at 10).
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P2 long-form (2017-11 solo measurement/ROI tactical era, cont. 15)
+Ingested 8 P2 @neilpatel solo videos (2017-11-14 → 2017-11-26), all with captions; 0 skipped,
+0 no-captions, 0 duplicates, 0 rate-limits. All Neil-fronted solo (no attribution gating). Pages:
+(1) **Content-marketing ROI (WgWJiOqT6Oo 2017-11-14)** — measure via Google Analytics + goal/conversion
+tracking; SEM rush estimates traffic dollar-value; be patient (results in 6mo, real payoff after a year);
+self-reported: neilpatel.com traffic "worth in excess of half a million/month" (buy-value, not income).
+(2) **SEO metrics (rUw8nu4Omqo 2017-11-15)** — 5 metrics: search traffic (GA), impressions-before-clicks
+(Google Search Console), backlinks vs competitors (Ahrefs), content cadence (3+/wk min, 1-2/day ideal),
+indexed pages/sitemap (GSC + Yoast); restates the 6mo→1yr→2yr SEO timeline. (3) **Social metrics
+(if69s7576SY 2017-11-16)** — 4 metrics: new-fan GROWTH RATE (not total), competitor growth via SocialBlade,
+engagement %, posting volume (multiple/day); engage/respond to build a loyal community. (4) **PPC ROI
+(PKjzTgAPYx0 2017-11-17)** — ad platforms (Facebook/AdWords/even GA) systematically OVER-report conversions;
+optimizing spend on inflated numbers loses money; verify against your own database + bank account, apply a
+rule-of-thumb discount. (5) **Great blog post — 6 tips (P8wWBZc978E 2017-11-18)** — conversational tone,
+headline (BuzzSumo; 8/10 read headline, 2/10 read on), educational/actionable step-by-step, freshness,
+mixed media formats, cite sources; "want to be the dumbest person in the room." (6) **SEO timeline
+(XCUD80O5RuY 2017-11-20)** ★ — neilpatel.com 9k→89k→450k visitors/mo over 2yr; 3mo impressions, 6mo
+non-brand traffic, 1yr kicks in, 2yr bulk; requires ≥1 post/wk + 5-10 links/mo + weekly promotion; caveats
+his own 10+yr head start. (7) **Viral content / social shares (VozfuBgjSmg 2017-11-21)** — shares driven by
+the HEADLINE not content (his studies: shares > traffic = shared unread): 5-7 words, adjectives
+("effortlessly"), curiosity gap ("number 6 will shock you") — but don't trick or lose trust. (8) **Organic
+traffic — top 3 ways (RnwgCmcH-IU 2017-11-26)** — competitor-driven skyscraper: Ahrefs → find popular
+competitor pages → write better/longer (10→101) → email their linkers with a 2-step template → repeat in
+BuzzSumo; "Hummingbird promotes thorough content."
+Synthesis notes: This batch forms a coherent "measurement/ROI" mini-series (11-14→11-17: content, SEO,
+social, PPC ROI all as "how to measure X") — a durable cross-channel measurement doctrine worth a synthesis
+topic page (candidate: analytics-cro/measuring-roi), with a recurring Neil principle: platform-reported
+numbers over-count, so validate against your own database/revenue. The SEO timeline (11-20 ★, L3-candidate)
+contributes a concrete owned-site growth curve (9k→89k→450k over 2yr) plus his "instrument leading metrics
+(impressions before clicks) not just traffic" stance — strong persona/topic data. Headline-primacy doctrine
+reinforced across 11-18 & 11-21 (the "8/10 read the headline, 2/10 read on" rule now recurs many times;
+stable pattern). Skyscraper/competitor-one-up outreach (11-26) recurs (also 11-05 blog-virality) — stable
+link-building pattern. Self-reported metrics flagged in-page (half-a-million traffic value; 9k→450k growth),
+not audited. Contradiction flag: none. Synthesis debt now 9/10 (checkpoint at 10) — next batch triggers a
+Stage S synthesis checkpoint.
