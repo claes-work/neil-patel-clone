@@ -401,3 +401,67 @@ competitors = not loyal, they'll link to you" (`yt-yUvEB7yiBFk`); staged Instagr
 evolution — reciprocal lives while small → one-way appearances once large, to avoid own-audience
 live fatigue (`yt-NT9pucaSoXw`); the "5 minutes a day" habit-loop packaging + SEO-vs-ads cost
 argument (`yt-4JQnnxJ6zrw`). All dated 2021-01 → 2022-06.
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P1 long-form #8
+
+Eighth @neilpatel P1 batch, 8 videos (2022-08 → 2025-05), all L2. Eight OK captions,
+0 no-captions, 0 skipped, 0 dups, 0 yt-dlp failures (no rate-limiting). One subagent per
+video wrote its own `wiki/sources/` page; coordinator did all ledger/index/log updates.
+This batch pushes the corpus into Neil's 2025 material — AI-era money-making, a full social
+strategy, LinkedIn organic growth, plus two older business landmarks (the Answer The Public
+acquisition and a Zero-to-$10M scaling talk). All Neil solo except the $10M talk, which is an
+interview where Neil is the guest (host framing excluded from persona data). Videos:
+- `yt-DhBeyS-C8VQ` (2022-08-06) Why we Acquired Answer the Public ★ — first-person acquisition
+  origin story + "grow by acquisition, not only marketing" framework; freemium → premium and
+  tool → agency funnel logic. New company facts: NP Digital "700+ employees globally"; Ubersuggest
+  drives ~30% of NP Digital's agency customers.
+- `yt-7mMFfJE8cEc` (2023-01-21) How I Built a Website to 4M Visitors/Month — long-tail keywords as
+  the single lever; names an SMB division "NPD Accelerate"; long-tail ~2–3x faster than head terms.
+- `yt-f9MnUdKVBHs` (2023-07-03) Taking Your Business From Zero to $10 Million — stage-by-stage
+  scaling (TAM over niche, poach promoted-at-competitor hires, free-software → services funnel with
+  the rationale that services markets are ~10x larger than software markets). Interview; Neil = guest.
+- `yt-IaJKo9CxxXA` (2025-02-18) How to Get Rich in the New Era of A.I. — five AI-service business
+  models (agents, translation, podcasts, infographics, websites) with a named tool stack (CrewAI,
+  ElevenLabs, Opus, Piktochart-style, 10Web) and a "brain vs. body" models-vs-agents framing.
+- `yt-6RNJpItArSQ` (2025-03-25) Learn Digital Marketing in 13 Minutes — beginner-to-expert roadmap
+  (test on X → repost winners; Ubersuggest blogging + backlink outreach; Crazy Egg heatmaps/A-B;
+  AI+humans; masterminds). Notable: KISSmetrics "Sign in with Google" +90% conversion, later
+  dropped over privacy — a "what works now won't work forever" datapoint.
+- `yt-E6ZSIZ89Ekg` (2025-04-01) How to Master Social Media in 2025 ★ — end-to-end social framework
+  (algorithm/hook model → X as a penalty-free test bed → "search has moved to the social web"
+  social-SEO → copy-the-mechanism remix → repurpose at scale → email-list backstop).
+- `yt-ybttlXsLPXc` (2025-04-29) If I Wanted to Become a Millionaire in 12 Months ★ — canonical
+  own-your-audience wealth blueprint; monetize 1% of traffic; visitor → email → recurring-revenue
+  math; competitor-agnostic backlink outreach; Toyota+Ferrari multi-price-point monetization.
+- `yt-zBlvV0W4bDc` (2025-05-23) The Best LinkedIn Growth Strategy For 2025 — "LinkedIn is starving
+  for content" (9B weekly impressions, ~1% posting); reverse Dream 100 (connect with a target's
+  network), hook → curiosity → question post structure, engage-before-you-post, "see more" as an
+  explicit algorithmic signal.
+
+Caption garbles caught & corrected in paraphrase only (quotes left verbatim): CrewAI / ElevenLabs /
+Opus / Piktochart / 10Web / Grok / Crunchbase (`yt-IaJKo9CxxXA`); Ubersuggest, KISSmetrics, ChatGPT,
+WYSIWYG (`yt-6RNJpItArSQ`); Cristiano Ronaldo, Adweek, neilpatel.com (`yt-ybttlXsLPXc`); Omnicom/WPP
+and a garbled HubSpot revenue figure paraphrased to intent, no quote used (`yt-f9MnUdKVBHs`). No hard
+contradictions flagged.
+
+Ledger after: L2=64, L3=0. Open long-form P1 @neilpatel 4, @MarketingSchoolPod 60 (64 total P1
+remaining); P2 ~1,831; open shorts ~2,682. Ingest batches since last synthesis: 8 (checkpoint at 10)
+— Stage S ~2 batches away (P1 will fully drain on @neilpatel next batch, then move to
+@MarketingSchoolPod P1 with attribution-gating).
+
+Synthesis notes: strong 2025 + business-model spine to promote at next Stage S —
+(1) **Acquisition-as-growth-channel** framework (`yt-DhBeyS-C8VQ`, L3-candidate) + the
+**free-software → high-margin-services funnel** with the "services markets ~10x software markets"
+rationale (`yt-f9MnUdKVBHs`) — a reusable business-model pattern that reframes the Ubersuggest /
+Answer The Public / NP Accelerate giveaways as deliberate lead-capture, not just SEO plays.
+(2) **X as a penalty-free testing bed** + "test on X → repost top 10–20% winners elsewhere" and
+**"search has moved to the social web"** social-SEO thesis with split figures (`yt-E6ZSIZ89Ekg`,
+`yt-6RNJpItArSQ`; L3-candidate) — extends the long-tail/AnswerThePublic keyword doctrine onto social.
+(3) **Own-your-audience millionaire model** (`yt-ybttlXsLPXc`, L3-candidate): 1M visitors × 1% ×
+$30/mo math (arithmetic is aspirational/garbled — paraphrased faithfully, not endorsed),
+competitor-agnostic backlink outreach, Toyota+Ferrari price-laddering.
+(4) **AI-service business models + endorsed 2025 tool stack** (`yt-IaJKo9CxxXA`): CrewAI, ElevenLabs,
+Opus, Piktochart-style, 10Web; "brain vs. body" models-vs-agents framing — new ai-marketing material.
+(5) **New entity + company facts** for entities pages: Answer The Public (acquisition origin source),
+NP Digital "700+ employees", Ubersuggest → ~30% of agency customers, NPD Accelerate SMB division.
+(6) Persona-scale markers (2025): Neil now claims 1M+ followers per network. All dated 2022-08 → 2025-05.

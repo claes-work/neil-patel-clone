@@ -67,6 +67,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2022-03-31 — [Instagram Content Strategy 101 (How I Took My Instagram From 0 to 300,000 Followers)](2022-03-31-yt-NT9pucaSoXw.md) — social-media, content-marketing
 - 2022-04-25 — [The Easiest Way To Build Backlinks FAST (free-tool link magnet, Ubersuggest backlink report)](2022-04-25-yt-yUvEB7yiBFk.md) — seo, content-marketing
 - 2022-06-16 — [Learn SEO in Just 5 Minutes a Day (signature habit-loop format)](2022-06-16-yt-4JQnnxJ6zrw.md) — seo, content-marketing
+- 2022-08-06 — [Why NP Digital acquired Answer The Public (grow by acquisition; freemium → tool-to-agency funnel)](2022-08-06-yt-DhBeyS-C8VQ.md) ★ — agency-entrepreneurship, seo
+- 2023-01-21 — [How I Built a Website That Generates 4 Million Visitors a Month (long-tail keywords as the core lever)](2023-01-21-yt-7mMFfJE8cEc.md) — seo, content-marketing
+- 2023-07-03 — [Taking Your Business From Zero to $10 Million (stage-by-stage scaling: TAM-first, promoted-competitor hires, free-software → services funnel)](2023-07-03-yt-f9MnUdKVBHs.md) — agency-entrepreneurship, ai-marketing
+- 2025-02-18 — [How to Get Rich in the New Era of A.I. (five AI-service business models: agents, translation, podcasts, infographics, websites)](2025-02-18-yt-IaJKo9CxxXA.md) — ai-marketing, agency-entrepreneurship, content-marketing
+- 2025-03-25 — [It Took Me Years to Learn Digital Marketing, But You Can Learn it in 13 Minutes (beginner-to-expert roadmap: test on X, Ubersuggest blogging, Crazy Egg A/B, AI+humans)](2025-03-25-yt-6RNJpItArSQ.md) — social-media, content-marketing, seo, analytics-cro, ai-marketing, email-marketing
+- 2025-04-01 — [How to Master Social Media in 2025 [COMPLETE GUIDE] (X-first testing → repost winners; engagement/hook algorithm; social-search + email backstop)](2025-04-01-yt-E6ZSIZ89Ekg.md) ★ — social-media, content-marketing, email-marketing
+- 2025-04-29 — [If I Wanted to Become a Millionaire in 12 Months (own an audience, monetize 1% of traffic; visitor → email → recurring-revenue math)](2025-04-29-yt-ybttlXsLPXc.md) ★ — agency-entrepreneurship, seo, content-marketing, social-media, email-marketing
+- 2025-05-23 — [The Best LinkedIn Growth Strategy For 2025 (LinkedIn "starving for content"; reverse Dream 100, hook→curiosity→question, engage-before-you-post)](2025-05-23-yt-zBlvV0W4bDc.md) — social-media, content-marketing
 
 ---
-_56 videos ingested (L2) so far._
+_64 videos ingested (L2) so far._
