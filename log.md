@@ -1171,3 +1171,36 @@ Facebook-Groups-bypass-fan-page-reach note (ZKHwu3aZwKY/wnebdnPklo8) — one lin
 relevant topic pages. The remainder (LinkedIn lead-sourcing tactics, local-SEO primer, plagiarism
 /duplicate-content Q&A, 7-source traffic roundup) are standard 2017 tactics overlapping prior
 videos — fold lightly or drop as repeats. All 2017-dated; none contradict current positions.
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P2 long-form (2017-07 solo era)
+Stage B (first matching rule: synthesis debt 4/10 — no checkpoint banner; persona fresh (v2, pass 2);
+no zero-row TARGET; P1 already drained → open P2 exists). Continued @neilpatel P2 — the Neil-fronted
+primary corpus is fully Neil-attributed (no co-host quarantine → cleanest persona signal). Selection
+was priority-2, oldest-first: the 2017-07-05→2017-07-16 solo run (bac5SajMYK4, 4ZrSmfo16sk,
+kFCs5dx9LVI, EpiAIQpWLLs, 2JlhzWgq3rg, R9faZeZaDu8, E8f3lCBrijk, 4fqpLCnzV3s). Captions: 8/8 ok,
+0 no-captions, 0 skipped, 0 dup, NO rate-limiting (no yt-dlp failures). L2 total 167→175. @neilpatel
+open long-form 1074→1066 (P2 1053→1045, P3 21); MS 766 (P2 738 / P3 28) untouched; shorts 2682
+untouched. Coordinator did all shared-file bookkeeping (ledger, youtube-index, index.md, log).
+
+Attribution: all 8 are solo @neilpatel main-channel educational videos — single speaker, fully
+Neil-attributed, no guest/co-host, so the whole batch is persona-eligible (nothing quarantined,
+no uncertain-attribution flags).
+
+Synthesis notes: mostly period-tactical reinforcement of the 2017 solo-era CRO/SEO playbook; one
+★ L3-candidate flagged for the next synthesis pass. (1) **"One-up yourself, not your competition"
+mindset (bac5SajMYK4 2017-07-05)** — a characteristic Neil belief/voice nugget: treat being copied
+as flattery, out-work "lazy" copiers by continually raising production quality (2,000-word posts →
+custom-designed guides → podcasts → daily videos), and benchmark against your past self monthly, not
+against rivals — worth a distilled agency-entrepreneurship/mindset belief + a voice.md catchphrase.
+Minor debt worth one line each on the relevant topic pages: (a) affiliate marketing = CPA/performance
+channel for cash-poor founders, pay Net 30 to guard refunds/fraud (4ZrSmfo16sk 2017-07-06, paid-ads);
+(b) Domain Authority > PageRank as a working SEO metric because it updates frequently = a leading
+indicator ahead of the 6mo–1.5yr rankings lag (E8f3lCBrijk 2017-07-14, seo — note: a dated 2017
+tooling stance, Moz/Ahrefs); (c) 2017-07 AMP-will-boost-rankings prediction (kFCs5dx9LVI) is now
+falsified by Google's later AMP deprecation — flag as a dated/superseded prediction, do NOT promote
+as current; (d) hiring-an-SEO live-interview test "name 5 fixes on the spot" + Search-Console-
+impressions-as-leading-signal (4fqpLCnzV3s 2017-07-16, agency-entrepreneurship). The 7-CRO-hacks
+video (2JlhzWgq3rg) is a quantified tactic list (countdown +11%, $1 trial +15%, geo-headline +20%)
+overlapping prior CRO videos — fold lightly. Storytelling/time-on-site (EpiAIQpWLLs) and blog-comments
+(R9faZeZaDu8) reinforce existing content-marketing tactics. All 2017-dated; none contradict current
+positions except the AMP prediction noted above.
