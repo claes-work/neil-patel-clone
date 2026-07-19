@@ -27,6 +27,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2017-12-26 — [YouTube Video SEO: How to Get Over 25,000 Subscribers in a Year — 5 Tips](2017-12-26-yt-el3CXWhK8W8.md) — social-media, seo, content-marketing
 - 2018-01-11 — [7 Free Tools to Rank #1 in Google](2018-01-11-yt-jhnNOlhPbyc.md) — seo, analytics-cro
 - 2018-02-06 — [How to Make a Landing Page That Converts — 5 Tips](2018-02-06-yt-HJUm-MwLJMg.md) — analytics-cro, content-marketing
+- 2018-04-05 — [6 BEST Digital Marketing Tools to Grow Your Business Online](2018-04-05-yt-Uar2hXRrckY.md) — analytics-cro, seo
+- 2018-04-24 — [How I Got 100,000 Subscribers in Less Than a Year](2018-04-24-yt-9wR8IK-fSTM.md) — social-media, content-marketing
+- 2018-08-14 — [How to Promote Your YouTube Video When You Have ZERO Subscribers](2018-08-14-yt-jA0AzR9ByM8.md) — social-media, seo, content-marketing
+- 2018-09-18 — [How to Start Social Media Marketing (4 ESSENTIAL Tips for Beginners)](2018-09-18-yt--tdFvJLw2UQ.md) — social-media, content-marketing
+- 2018-11-27 — [How to Create a Digital Product That Generates (AT LEAST) $100,000 Per Month](2018-11-27-yt-dU4rWLHAcoo.md) ★ — agency-entrepreneurship, email-marketing, paid-ads
+- 2018-12-10 — [How Digital Marketing Will Change in 2019](2018-12-10-yt-b-gwbVJqi9Y.md) — content-marketing, seo, analytics-cro
+- 2018-12-15 — [Rank #1 on Google Using 7 Free SEO Tools](2018-12-15-yt-snqHKBYfkQw.md) — seo, content-marketing, analytics-cro
+- 2019-01-24 — [How To ACTUALLY Write A Blog Post From Start To Finish](2019-01-24-yt-Q8rN3JKqUc8.md) ★ — content-marketing, seo
 
 ---
-_16 videos ingested (L2) so far._
+_24 videos ingested (L2) so far._

@@ -128,3 +128,43 @@ captions) to rank; emotional content + embed-outreach. (6) CRO: lead-capture pag
 product pages ~3–10% conversion benchmarks; video can lower conversion rate but raise
 customer quality/LTV — test it; "KISSmetrics = keep it simple silly" naming anecdote.
 All dated 2017-11 → 2018-02.
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P1 long-form #3
+
+Third real ingest batch. Stage machine (`.claude/commands/ingest-loop.md`, first-match)
+selected **Stage B** (open P1 long-form rows exist). Not-taken rules: Stage S not due
+(2 batches since synthesis, checkpoint at 10; no `>>> CHECKPOINT`, no channel/era
+complete); Stage P not stale (2 batches since last synthesis/persona entry <10, no new
+topic pages, P1 far from drained, and this is not the first loop run — batch #1 already
+resolved the first-run persona clause); Stage A n/a (both TARGET channels enumerated).
+Channel @neilpatel (Neil-fronted primary corpus, persona-first). Selection = clone's own
+rule: priority-ascending then oldest-`published` first → next 8 oldest open P1 rows
+(2018-04 → 2019-01).
+
+Processed: **8 ingested (L2), 0 skipped, 0 no-captions, 0 dup.** All captions fetched
+clean on the first try — no rate limiting (0 429s). Two rows flagged **★ L3-candidate**
+for the next synthesis: `yt-dU4rWLHAcoo` (end-to-end automated-webinar $100K/mo digital-
+product funnel with quantified benchmarks) and `yt-Q8rN3JKqUc8` (canonical start-to-finish
+blog-post writing workflow). All 8 are solo Neil videos → fully Neil-attributed;
+self-reported revenue/benchmark claims (e.g. "$100,000/month", ad-spend ROAS tiers) marked
+as such in-page. Caption garbles caught and handled in-page (tool names verified, not
+carried into paraphrase). No contradictions surfaced against existing pages.
+
+Ledger after: L2=24, L3=0. Open long-form P1 @neilpatel 44, @MarketingSchoolPod 60
+(104 total P1 remaining); P2 ~1,831; open shorts ~2,682. Ingest batches since last
+synthesis: 3 (checkpoint at 10) — Stage S still 7 batches away.
+
+Synthesis notes: two genuinely-new systems to promote at next Stage S — (1) **Automated-
+webinar digital-product funnel** (`yt-dU4rWLHAcoo`, 2018-11-27): the most quantified
+funnel Neil has laid out so far — ~3.6 sales per 100 registrations (split ~50/50
+live-vs-followup-email), ~70% webinar show-up from short 15-minute recurring webinars,
+Facebook-ad ROAS tiers ($2/$3/$5 return per $1), a $997 price anchored down from a $22K
+value stack, and a named tool stack (WebinarJam, InfusionSoft, PlusThis, PicSnippets,
+TurboDial). New paid-ads + email-marketing + agency-entrepreneurship material. (2) **Neil's
+6 foundational free-tool stack + content-clustering rewrite workflow** (`yt-Uar2hXRrckY`,
+2018-04-05): Google Analytics, Ubersuggest, Google Search Console, Crazy Egg, Subscribers,
+HubSpot — plus a "one page per topic" anti-keyword-cannibalization consolidation/rewrite
+tactic. Remaining six videos (100K-subs growth story, promoting a video with zero subs,
+social-media beginner tips, 2019 predictions, 7 free SEO tools, blog-post workflow) mostly
+reinforce already-captured YouTube-growth / SEO-tool / content-depth themes — fold in as
+corroboration, not new spine. All dated 2018-04 → 2019-01.
