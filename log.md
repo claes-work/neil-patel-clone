@@ -1716,3 +1716,58 @@ stable pattern). Skyscraper/competitor-one-up outreach (11-26) recurs (also 11-0
 link-building pattern. Self-reported metrics flagged in-page (half-a-million traffic value; 9k→450k growth),
 not audited. Contradiction flag: none. Synthesis debt now 9/10 (checkpoint at 10) — next batch triggers a
 Stage S synthesis checkpoint.
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P2 long-form (2017-11→12 solo wealth-mindset/monetization tactical era, cont. 16)
+Ingested 8 P2 @neilpatel solo videos (2017-11-30 → 2017-12-28), all with captions; 0 skipped,
+0 no-captions, 0 duplicates, 0 rate-limits. All Neil-fronted solo (no attribution gating). Pages:
+(1) **7 Secrets to Making Millions Online (4QrWo-SOlWo 2017-11-30)** — wealth-mindset repackaging: focus
+(one idea, Buffett/Gates story), solve a problem, easy/affordable, learn from mistakes, execute fast, read,
+study competitors' founder interviews; bio: "started my career picking up trash and cleaning restrooms."
+(2) **Facebook Ads → six-figure business (P2KWsco-gig 2017-12-07)** — evergreen AUTOMATED WEBINAR FUNNEL:
+WebinarJam + EverWebinar (recorded replay every 15min) + Twilio SMS; 30-40min education → ask-permission-to-
+pitch → discounted offer $500-1500 w/ demonstrated anchor + countdown; chat-comment = 3x buy; remarketing
+video ad; $1 trial (+15% sales); sell-before-you-build; net-30 cards as float; econ: $6/reg → 3.6 sales/100
+regs on a ~$1k product, ~20% refunds. (3) **NYT bestseller author (EeoqtgXO4U8 2017-12-10)** ★ — candid
+Hustle reverse-engineering: presell (counts to week 1), sell multichannel (Amazon-only looks like gaming),
+placement is discretionary (need strong publisher), generate press; the two decisive levers = $500k corporate
+bulk buys via SERVICE TRADES ("$100k of books × 5") + ResultSource laundering pre-sale money to look organic,
+spread over weeks; candid: bestseller "didn't do much for me" (no higher fees/traffic/growth) because
+off-core-topic; $500k advance; advises single-author on-core-topic book. (4) **Business motivation / behind
+the scenes (wKFbxYKmMYI 2017-12-11)** — money-is-hollow minimalism (a car/home just means you work more),
+work-as-play, business as a "sport / scoreboard" to compete with friends (not money), protect-your-brand by
+over-delivering free sessions; bio: Hollywood home robbed 2x in 2 months (nothing to steal), partner Mike
+[Kamo] two Lamborghinis. (5) **4 tips to my younger self (Pc1OXZgrjo8 2017-12-14)** — passion≠money; focus
+on a BIG idea with large TAM (Crazy Egg = his "first real business," millions in profit but capped — TAM too
+small; size via Google Finance/Trends); move fast (don't treat business "like a baby"); learn from mistakes;
+80/20; candid self-assessment "I'm a terrible manager… worst boss ever, I pay well but management-wise I
+suck," others run the company; he focuses only on traffic-gen + brand. (6) **Rank #1 for 'SEO'
+(_3PSOO-8gqU 2017-12-19)** — pillar content (Moz Beginner's Guide as #1 exemplar), beautiful design, fast
+load (>50% mobile), cross-link the pillar from EVERY page, Ahrefs linker outreach (100→~5), patience (/seo
+page took 1.5yr, top-1000→100→p5→4→3→2→1), brand as tiebreaker (BMW vs GM). (7) **Social media influencer /
+personal brand (kLONm0YOSjA 2017-12-21)** — consistency over years, multi-format (blog/podcast/video),
+engage/respond, meet-in-person/conferences ("numbers game… like dating"), 5-10yr timeline; MARKETING SCHOOL
+PODCAST ORIGIN: "my buddy Eric [Siu] was like Neil we should produce a podcast… over half a million listens/
+month"; 2017 reach 900k FB / 1M monthly blog readers. (8) **Blog to $1k/month (_9OpUvPoXoY 2017-12-28)** —
+traffic-before-monetization, long-form 2000+ words, passion topics, BuzzSumo skyscraper (10→101), HIGH-TICKET
+over low-ticket (blog visitors convert worse; ~100-300 visitors/$50 sale; his blog lands consulting clients
+at min $120k/yr up to 7 figures; blog "roughly seven figures" in a month).
+Synthesis notes: Several genuinely-new items for the next (4th) synthesis pass. NEW TACTIC — evergreen
+automated webinar funnel (12-07): WebinarJam/EverWebinar/Twilio, ask-permission-to-pitch, demonstrated-anchor
++ countdown, chat-comment=3x-buy, $1-trial, sell-before-you-build, with concrete $6/reg→3.6-sales economics
+(candidate: paid-ads and/or analytics-cro). NEW BIO/CANDID (12-10 ★, L3-candidate) — Hustle NYT-bestseller
+mechanics + unusually candid admission it "didn't do much" financially (off-core-topic), the $500k
+service-trade corporate bulk-buy method, ResultSource, and $500k advance — strong biography + agency-
+entrepreneurship data (self-reported; ResultSource/book-list-gaming is reputationally sensitive, keep neutral).
+NEW MINDSET/BELIEFS (12-11 & 12-14) — money-is-hollow minimalism, "business is a sport/scoreboard vs my
+friends" as his real motivator, and the candid "I'm a terrible manager, others run the company / I only do
+traffic-gen + brand" self-awareness (persona beliefs + biography). NEW FRAMEWORK (12-14) — focus on a big
+idea with a LARGE TAM, sized via Google Finance/Trends, with the Crazy Egg "great business but TAM-capped"
+worked example (agency-entrepreneurship). REINFORCED (drop as repeats unless promoting the case study):
+brand-as-ranking-tiebreaker + pillar/skyscraper/patience (12-19 restates BMW-vs-GM + 1.5yr /seo climb),
+personal-brand consistency/multi-format/5-10yr (12-21), long-form + high-ticket monetization (12-28).
+NEW BIO DATUM — Marketing School podcast ORIGIN (Eric Siu proposed it; ~500k listens/mo in 2017) — good for
+biography timeline. ⚠️ CONTRADICTION flagged on-page: "grew up dirt poor" (12-11) vs "didn't grow up dirt
+poor… middle class America" (11-30, same week) — childhood economic status inconsistent, treat self-reported.
+Synthesis debt now 10/10 — **checkpoint reached; next iteration is a Stage S synthesis pass** (drains
+batches #28–#37 debt: the @neilpatel 2017-10→12 P2 tactical run since pass 3, i.e. the 40th `Synthesis
+notes:` line onward vs the pass-3 high-water mark).

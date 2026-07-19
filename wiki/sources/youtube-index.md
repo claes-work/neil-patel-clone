@@ -178,9 +178,17 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2017-11-22 — [1 Simple Hack to Build Hundreds of Backlinks (competitor-infographic tactic)](2017-11-22-yt-k9wddku3y54.md) — seo, content-marketing
 - 2017-11-26 — [Top 3 Ways to Generate More Organic Search Traffic (competitor-driven skyscraper: Ahrefs → write better/longer, email their linkers with a 2-step template, repeat in BuzzSumo; "Hummingbird promotes thorough content")](2017-11-26-yt-RnwgCmcH-IU.md) — seo, content-marketing
 - 2017-11-28 — [3 Powerful SEO Tips To Rank #1 On Google](2017-11-28-yt-gmB_TC92I8w.md) — seo, content-marketing
+- 2017-11-30 — [7 Secrets to Making Millions of Dollars Online (wealth mindset: focus, solve a problem, easy/affordable, learn from mistakes, execute fast, read, study competitors; bio: first job trash+restrooms)](2017-11-30-yt-4QrWo-SOlWo.md) — agency-entrepreneurship
 - 2017-12-04 — [Business Advice 101: How I Lost $1 Million When I Was 21](2017-12-04-yt-0-77jMAF1bw.md) ★ — agency-entrepreneurship
+- 2017-12-07 — [Facebook Marketing Strategy: Six-Figure Business in 90 Days With FB Ads (evergreen automated webinar funnel: WebinarJam/EverWebinar/Twilio, ask-permission-to-pitch, discounted anchor + countdown, chat-comment=3x buy, remarketing, $1 trial, sell-before-you-build; $6/reg → 3.6 sales econ)](2017-12-07-yt-P2KWsco-gig.md) — paid-ads, analytics-cro, agency-entrepreneurship
+- 2017-12-10 — [How to Become a New York Times Best Selling Author (candid Hustle reverse-engineering: presell + multichannel + discretionary; $500k service-trade corporate bulk buys + ResultSource; $500k advance; bestseller "didn't do much for me" — off-core-topic; write single-author)](2017-12-10-yt-EeoqtgXO4U8.md) — agency-entrepreneurship, content-marketing
+- 2017-12-11 — [BUSINESS MOTIVATION: How to Stay Focused (money-is-hollow minimalism, work-as-play/sport-scoreboard-vs-friends, protect-your-brand over-deliver; bio: Hollywood home robbed 2x, Mike Kamo 2 Lamborghinis)](2017-12-11-yt-wKFbxYKmMYI.md) — agency-entrepreneurship
+- 2017-12-14 — [4 Simple Business Tips I'd Give My Younger Self (big-idea/large-TAM — Crazy Egg TAM ceiling, size via Google Finance/Trends; move fast; learn from mistakes; 80/20; candid "terrible manager / worst boss")](2017-12-14-yt-Pc1OXZgrjo8.md) — agency-entrepreneurship
 - 2017-12-16 — [How to Start a Business and Grow it to a Billion Dollar Company](2017-12-16-yt--p6CvtzUgk0.md) ★ — agency-entrepreneurship
+- 2017-12-19 — [How to Rank #1 on Google for the World's Most Competitive Keywords — 'SEO' (pillar content, beautiful+fast, cross-link pillar site-wide, Ahrefs outreach 100→5, patience — /seo took 1.5yr top-1000→page-1, brand-as-tiebreaker BMW-vs-GM)](2017-12-19-yt-_3PSOO-8gqU.md) — seo, content-marketing
+- 2017-12-21 — [How to Become a Social Media Influencer (personal brand: consistency-over-years, multi-format, engage/respond, conferences, 5–10yr timeline; Marketing School podcast ORIGIN — Eric suggested it, ~500k listens/mo 2017)](2017-12-21-yt-kLONm0YOSjA.md) — social-media, content-marketing, agency-entrepreneurship
 - 2017-12-26 — [YouTube Video SEO: How to Get Over 25,000 Subscribers in a Year — 5 Tips](2017-12-26-yt-el3CXWhK8W8.md) — social-media, seo, content-marketing
+- 2017-12-28 — [How to Start a Successful Blog and Make Money Online (traffic-before-monetization, long-form 2000+ words, passion topics, BuzzSumo skyscraper, high-ticket > low-ticket — consulting min $120k/yr, 100–300 visitors per $50 sale)](2017-12-28-yt-_9OpUvPoXoY.md) — content-marketing, agency-entrepreneurship, seo
 - 2018-01-11 — [7 Free Tools to Rank #1 in Google](2018-01-11-yt-jhnNOlhPbyc.md) — seo, analytics-cro
 - 2018-02-06 — [How to Make a Landing Page That Converts — 5 Tips](2018-02-06-yt-HJUm-MwLJMg.md) — analytics-cro, content-marketing
 - 2018-04-05 — [6 BEST Digital Marketing Tools to Grow Your Business Online](2018-04-05-yt-Uar2hXRrckY.md) — analytics-cro, seo
@@ -300,4 +308,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2026-07-17 — [Your Software Is Now Your Best Marketing Channel (MS, co-hosted — Neil qualifies the "product = best channel" thesis: he pioneered it ~7-8 yrs ago (bought Ubersuggest ~$120k) but the real lever is FREE not feature-cadence, and it works "not as well as it used to" now everyone builds product; his biggest current lead-driver is conferences (a "three-for-one": speak + sponsor + side-events + branding); a premium on all good talent, not just "AI talent"; anti-vision-board)](2026-07-17-yt-L03nbcDp8v8.md) — ai-marketing, agency-entrepreneurship, content-marketing
 
 ---
-_287 videos ingested (L2) so far._
+_295 videos ingested (L2) so far._
