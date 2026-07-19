@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-20 (ingest: @neilpatel batch — 8 P2 long-form L2, 2018-11-22→12-17 solo tactical + Q&A-Thursday + Vienna-keynote era: affiliate marketing on zero budget (free WP + email capture); ★Vienna growth-hacking keynote (~2014) — 5 distribution strategies (integrations / viral email onboarding / embeds / powered-by badges / free tools), KISSmetrics targeting fail, guest-post laddering, Airbnb two-sided seed, YouTube pre-roll #1 ROI, ⚠️bio born-London/lived-Seattle + ⚠️ethics-flag black-hat Q&A tactics quarantined; growth hacking "not dead, just changed" — NPS 60+, video remarketing, unsaturated channels, partnerships; SEO page-1 = user-metrics + title-tag CTR, PPC≠organic; belief: social media is his favorite channel (connection>revenue); barely uses Instagram (B2B, team-connection); 4 Facebook-group email-list tactics; ★bio (lawyer video) — get legal docs early, SF lawyer Joey Tran, survived FTC/class-actions, brother-in-law is a business partner; 429 videos L2)_
+_Last updated: 2026-07-20 (ingest: @neilpatel batch — 8 P2 long-form L2, 2018-12-20→2019-01-05 solo tactical + tool-roundup era: favorite traffic hack = combine Google Search Console + Ubersuggest for long-tails on top-traffic pages; SEO vs paid = do BOTH / omni-channel (dayparting, aggressive short PPC landing pages vs ~2000-word SEO pages); 3-tools stack (Ubersuggest, GSC title-tag A/B via CTR, Ahrefs Link Intersect) + rule-of-seven brand mentions; agency-hiring 7-point vetting checklist (own traffic, big-logo case studies, tactical implementers, vet the people not the founder, references, similar-sized clients); 5 social mistakes (don't over-post ~1/day, first-hour engagement, video 2-3x); Google-vs-YouTube SEO (YT 24-48h/day-one-sets-lifetime, links vs watch-time); Instagram Stories 6-tactic formula (post ~4x/day, location tags); beginner SEO tools roundup (Moz/BuzzSumo/Keywords Everywhere/AnswerThePublic pre-2022-acq); 437 videos L2)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life/career timeline (England → Orange County → Crazy Egg/KISSmetrics → NP Digital → Ubersuggest → Marketing School), registry/court-verified vs self-reported marked per claim.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe.
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 429 videos ingested (L2).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 437 videos ingested (L2).
 
 ## Topics
 

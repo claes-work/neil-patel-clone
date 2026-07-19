@@ -2635,3 +2635,54 @@ Seattle" not in SUBJECT.md, and the keynote is a ~2014 re-upload (date opinions 
 — social media is his *favorite* channel for connection despite Google's revenue (p0Qgg3XSft4); (5) tactic —
 NPS 60+ as the growth-readiness gate + video-remarketing of abandoners (cAq0ulz6Hpw); (6) ⚠️ ethics — several
 black-hat tactics in the Vienna Q&A to keep OUT of persona (reported-not-endorsed).
+
+## [2026-07-20] ingest | yt batch (@neilpatel, 8) — P2 long-form (2018-12-20→2019-01-05 solo tactical + tool-roundup era, cont. 34)
+
+Ingested 8 @neilpatel P2 long-form (2018-12-20 → 2019-01-05) to L2. All captions clean; 0 no-captions,
+0 dup, 0 skipped, 0 yt-dlp failures / 429s. All eight are Neil-fronted solo tactical monologues (no
+guests, no attribution splits). Era is tightly SEO/tools-and-tactics with a social-media cluster.
+
+- **WTWZQ_4_zNk** (2018-12-20) — "favorite traffic hack": **combine Google Search Console + Ubersuggest**
+  — take the head terms already driving your traffic (from GSC), pull their long-tails in Ubersuggest,
+  blend into the ranking page, update title/meta, **resubmit for re-indexing** → long-tail rankings in
+  ~30 days. Both tools free; failure mode is using them separately.
+- **7V3HMRJ8U40** (2018-12-22) — **SEO vs paid = do BOTH** / omni-channel. Paid pros: instant/scalable,
+  geo-target, **dayparting**, aggressive short landing pages; SEO's top pages are ~2000-word content that
+  gets *read* not bought. SEO pros: persistent traffic, ~free/DIY, organic gets most clicks — but 3-6mo→1yr
+  and **algo-slap** risk. "If paid is profitable, SEO for sure is."
+- **GK-0Ix1fUz8** (2018-12-24) — **3-tools-to-rank-#1**: Ubersuggest (long-tails), **GSC to A/B-test title
+  tags** (if searchers click #2 over #1, Google promotes #2 → put page-1 terms in title, use action
+  words/magazine headlines), **Ahrefs Link Intersect**; bonus Subscribers push + **"rule of seven"** +
+  Google brand mentions / Google Trends.
+- **KNYC72i7lHE** (2018-12-27) — **7-point agency-hiring vetting checklist**: (1) they must have traffic to
+  their own site, (2) case studies/testimonials with big logos, (3) tactical implementers not just
+  strategists, (4) vet the *people on your account* not the founder — Neil says (self-ref) he does much of
+  NP Digital's hiring and is "picky", (5) regular comms, (6) references (existence > the calls), (7)
+  similar-sized clients not only Google/Facebook-scale.
+- **TnQt_-uwR7g** (2018-12-29) — **5 social mistakes**: over-posting (max ~1/day; volume works on Twitter
+  not most sites), mediocre content (model via BuzzSumo/Social Blade), not using video (2-3x engagement),
+  **not driving first-hour engagement** (push new posts to email/push list — "opposite of SEO"), not
+  engaging back (reply every comment).
+- **2s6h_DIZDAA** (2018-12-31) — **Google vs YouTube SEO**: YT ranks in 24-48h and day-one sets lifetime
+  vs Google 3-6mo→1yr; Google authority compounds via links, **YT authority fluctuates month-to-month**
+  (dud videos tank it); Google = links + dwell/stickiness, YT = watch-time/engagement (incl. session watch
+  across other videos); YT "wide open", ~30-day results.
+- **Wstj3a07_b8** (2019-01-03) — **Instagram Stories 6-tactic formula**: post ~4x/day (Stories reward
+  volume, opposite of feed), video/Boomerangs over photos, tag relevant accounts, **searched hashtags via
+  Ubersuggest** (search data transfers to IG), polls/questions/sliders, **location-based tags** to trigger
+  IG amplification.
+- **jbB-ZZ4k8X0** (2019-01-05) — **beginner SEO tools roundup**: Moz (on-page audit + urgency triage),
+  Ubersuggest (long-tails), BuzzSumo (social-share content ideas), Keywords Everywhere (free Chrome ext,
+  volume in-SERP), Ahrefs Link Intersect, Google Trends (brand-vs-competitor over time/region),
+  **AnswerThePublic** (question mining, Quora-style). ⚠️ Note: NP Digital acquired AnswerThePublic in
+  2022 — at this 2019 date Neil recommends it as a third-party tool, did not yet own it (flagged on page).
+
+Synthesis notes: mostly reinforces the established 2017-18 tactical canon (Ubersuggest long-tail refresh,
+GSC title-tag CTR A/B, Ahrefs Link Intersect, rule-of-seven brand mentions, first-hour social engagement,
+YT-vs-Google ranking speed) — high repetition, low novelty for topics. Two items worth a look at the next
+synthesis pass: (1) the **7-point agency-hiring vetting checklist** (KNYC72i7lHE) is the most structured
+statement of how Neil evaluates agencies from the buyer side and could seed/expand an
+agency-entrepreneurship topic page; (2) the explicit **"combine GSC + Ubersuggest, resubmit for
+re-indexing"** workflow (WTWZQ_4_zNk) is a cleaner canonical version of the recurring long-tail-refresh
+tactic. No new beliefs requiring persona changes; no contradictions with prior sources; the AnswerThePublic
+pre-acquisition framing is date-stamped, not a contradiction.
