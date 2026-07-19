@@ -1837,3 +1837,53 @@ markers (→ pass 4) updated. No new topic pages. No yt-dlp / rate-limit activit
 local-only). No errors. Commit + push.
 
 Synthesis notes: none (this IS the synthesis pass; debt drained to 0 through batch #37).
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P2 long-form (2018-01 solo tactical/career era, cont. 17)
+Prepared 8 P2 @neilpatel long-form (2018-01-02 → 2018-01-23); ingested **7** to L2, **1 skipped**
+(garbled captions), 0 no-captions, 0 duplicates, 0 rate-limits. All Neil-fronted (no @MarketingSchoolPod
+attribution gating). **Skipped: "10 Business Tips for Building a Multi Million Dollar Company"
+(HttuJJY6XGo 2018-01-02)** — auto-caption is unusable word-salad ASR; ledger `status=skipped`,
+`notes=garbled-captions`, no page (fidelity: no reliable text → no ingest, per "watch caption garbles").
+Pages:
+(1) **SEO Training: 3 steps to 100K visitors/mo (wHLi-rzTYrs 2018-01-04)** — live COACHING session
+("Adam"/viewership.com; coachee = context only): reframe arbitrary traffic goals, agency-over-info-products,
+give-away-secret-sauce (payers won't DIY), first sell video to influential already-profitable blogs
+(Legion Athletics/Muscle For Life), then the standard BuzzSumo→Ahrefs outreach grind (100 emails→~5 links),
+link-out-to-competitors-then-tell-them, outsource outreach via Upwork w/ Gmail-draft workflow; timeline
+3mo impressions / 10–12mo real traffic; needs mainstream keywords (30–40k+/mo, Google Keyword Planner /
+Ubersuggest). (2) **Find a Dream Job You Love (tgiNidFnpyI 2018-01-06)** — career/mindset: don't jump to
+another hated corporate job, take a flexible side-job (Uber) as a stepping stone to buy time, try things
+daily, passion=what-you're-good-at (Gladwell 10k hours); marketing-origin anecdote ("had to market my own
+business… wait, I love this"). (3) **7 Ways to Grow eCommerce 50%+ (ECFguym4230 2018-01-09)** — CRO tactical:
+one product/pain point (+Oberlo), upsell/downsell→LTV, FB-ads-for-discovery vs Google-ads-for-intent,
+subscriptions (Dollar Shave Club, ReCharge), recover ~75.6% abandoned carts (email + Hello Bar exit-intent),
+optimize checkout (Baymard; remove fields; 2-step ≈ +10%), ReferralCandy reward-BOTH-sides (Uber).
+(4) **Stand Out in 2018 — 4 Social tips (usKMKq977iA 2018-01-13)** — ride new channels/features (Facebook
+Watch cross-post free reach), be transparent (Pat Flynn/SPI income reports; his own NP-blog 0→1M &
+former Nutrition Secrets 0→$100k/mo journeys), video-builds-deeper-connection (beats blog/podcast on
+resonance), long-game 3+yr plan + weekly consistency (GaryVee arc). (5) **Create a Personal Brand
+(OjA5uYe7PW0 2018-01-18)** ★ — INTERVIEW (interviewer = context only): corporate-blog-to-sell vs
+personal-blog-for-serial-entrepreneur (NP brand ironically became NP Digital), avoid unmonetizable
+lifestyle content, chase big TAM ($100B+ digital ads, "1% = billionaire"), goal = **largest
+marketing-technology company in the world / "scoreboard, highest score"** (not #1 — HubSpot/Adobe/Google
+$700B/FB $500B), OWN-YOUR-AUDIENCE/email (algo-proof), SEMrush→Ahrefs-least-backlinks skyscraper; "buddy
+Mike who runs Dr Axe 20M/mo" flagged **uncertain** (Dr. Axe is publicly Josh Axe). (6) **Find Your Passion
+(tOe3qILUS_I 2018-01-20)** ★ — mindset + ORIGIN STORY: school won't prepare you, try things free daily,
+find-what-you-hate-first; doctor→computer-science(quit over lab classes)→business, first business failed,
+**cleaned theme-park restrooms/toilets to fund marketing agencies that failed**, then self-taught marketing;
+"2–3x more money if I never went to college"; mom is a teacher (self-reported). (7) **Build Unique Links
+(arUq0I5PQoY 2018-01-23)** — link building: links=#1 factor (Moz), **23,000 links to neilpatel.com**;
+infographic engine (BuzzSumo→in-depth list article→visual infographic w/ embed code via WP Embed Code
+Generator; Infogram/Canva/Dribbble <$500), BuzzSumo view-shares + Ahrefs-linker outreach, skyscraper
+(credits **Brian Dean**), Hello Bar email capture (subscribers = most loyal linkers).
+Synthesis notes: Mostly reinforcement of the established playbook (BuzzSumo→Ahrefs skyscraper/outreach,
+Hello Bar, transparency, long-game consistency, TAM-first) — note continuity, not novelty. GENUINELY-NEW
+for the next (5th) synthesis / persona pass, all ★ persona/biography-weighted: (a) the **origin story** in
+01-20 — doctor→CS→business arc, first-business failure, theme-park restroom job funding *failed* agencies,
+self-taught marketing (corroborates & extends the "picking up trash / cleaning restrooms" line from batch
+#37's 11-30 video → strong biography.md candidate); (b) 01-18 belief cluster — **corporate-vs-personal-blog
+rule**, **TAM-first market selection**, **"largest marketing-technology company / scoreboard" ambition**,
+and **own-your-audience** doctrine (beliefs.md candidates); (c) 01-13 growth-journey figures (NP-blog
+0→1M, Nutrition Secrets 0→$100k/mo — bio). NEW ENTITY candidates: Brian Dean (skyscraper attribution),
+Pat Flynn / Smart Passive Income (transparency exemplar). Attribution/quality flags recorded on-page:
+"Mike/Dr Axe" uncertain; several caption garbles corrected (Social Blade, SEMrush, TAM).
