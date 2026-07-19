@@ -1234,3 +1234,36 @@ user-first Google-proofing) reinforce existing seo/analytics-cro pages. One peri
 contradiction-watch: the Alexa.com rank tactic (9SRxQpkXzx0) is now obsolete (Alexa.com retired by
 Amazon 2022) — flagged in the source page, do not present as current. All 2017-dated; none contradict
 current positions.
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P2 long-form (2017-07 solo era, cont. 5)
+Stage B (first matching rule: synthesis debt 6/10 — no checkpoint banner; persona fresh (v2, pass 2);
+no zero-row TARGET; no open P1 → open P2 exists). Continued @neilpatel P2 — the Neil-fronted primary
+corpus is fully Neil-attributed (no co-host quarantine → cleanest persona signal). Selection was
+priority-2, oldest-first: the 2017-07-24→2017-07-31 solo run (d--xYXrnJTE, FXiR27EY7QU, xZAM1l8cxbs,
+LJSuS3kRVGs, SraX4EHcf00, RecJ_Gt_lX8, 1IJpJIGQ32I, DhOrRQmQ-Z8). Captions: 8/8 ok, 0 no-captions,
+0 skipped, 0 dup, NO rate-limiting (no yt-dlp failures). L2 total 183→191. @neilpatel open long-form
+1058→1050 (P2 1037→1029, P3 21); MS 766 (P2 738 / P3 28) untouched; shorts 2682 untouched.
+Coordinator did all shared-file bookkeeping (ledger, youtube-index, index.md, log).
+
+Attribution: all 8 are solo @neilpatel main-channel educational videos — single speaker, fully
+Neil-attributed, no guest/co-host, so the whole batch is persona-eligible (nothing quarantined,
+no uncertain-attribution flags).
+
+Synthesis notes: mostly period-tactical reinforcement of the 2017 solo-era playbook; most claims echo
+existing seo/analytics-cro/social-media pages — fold lightly at the next synthesis pass. New/notable
+for synthesis: (1) **Subdomains vs subdirectories (xZAM1l8cxbs 2017-07-26)** — concrete own-test figure
+"~90% of link juice transfers through a subdomain vs 100% through a subdirectory," plus the
+single-topic→subdirectory / multi-topic→subdomain rule and "Google favors niche sites"; a good dated,
+cited SEO architecture belief — candidate for a topics/seo site-architecture page. (2) **Never buy
+Facebook fans (d--xYXrnJTE 2017-07-24)** — bio/spend detail: ~$400k spent buying ~900k FB fans he
+"wishes he never had," and his FB traffic collapsing 100k+→<50k/mo as the algorithm tightened → a dated
+platform-decay belief ("earned audience on a rented platform decays") + a candid self-critical voice
+nugget. (3) **Relevance-over-reach influencer rule (DhOrRQmQ-Z8 2017-07-31)** — the Neymar $60k-charity
+decline (B2B mismatch) is a vivid dated anecdote + belief (relevance/consistency > follower count, 6+
+month branding horizon, negotiate direct not via agencies). (4) **Never redesign / A-B test page-by-page
+(LJSuS3kRVGs 2017-07-27)** reinforces the CRO-over-aesthetics stance; (5) **SEO experiments
+(RecJ_Gt_lX8 2017-07-29)** — one-change-at-a-time + the Googlebot-redirect mistake anecdote explicitly
+ties back to the 2017-07-20 hreflang/internationalization video (same incident). Bio: "16 years an SEO"
+as of 2017-07-28 → implies SEO start ~2001. Period artifact for contradiction-watch: the Alexa.com
+"3rd most popular site" datapoint (1IJpJIGQ32I) is obsolete (Alexa retired 2022) — flagged in-page, do
+not present as current. All 2017-dated; none contradict current positions.
