@@ -150,7 +150,15 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2017-10-24 — [How I Get Over $500,000 Worth of FREE Traffic Each Month to My Website (multi-channel organic: email+SEO+content+social, BuzzSumo one-upping; self-reported $500k/mo figure, unverified)](2017-10-24-yt-KV6UG5LV5Hs.md) — seo, content-marketing
 - 2017-10-25 — [How to Run a Profitable Social Media Contest | Go Viral And Make More Money Online! (contest = lead-gen front funded by post-contest email upsell; Gleam.io share-to-win + 1% FB lookalike)](2017-10-25-yt-1qfccvWhjEI.md) — social-media, paid-ads, email-marketing
 - 2017-10-26 — [3 Simple Steps to Marketing Your Mobile App | Get More Exposure and Installs! (performance-based PR, pre-launch blogger early-access, cheap in-app cross-promo + FB app-install ads)](2017-10-26-yt-D_W7t7T-5oM.md) — content-marketing, paid-ads, social-media
+- 2017-10-27 — [How to Skyrocket Your Google Adwords ROI | PPC Advertising Tips (lift Quality Score via ad-to-landing-page relevance to cut CPC and win better positions)](2017-10-27-yt-Ru3jcnHWVJE.md) — paid-ads, analytics-cro
+- 2017-10-28 — [Reddit Marketing 101: 5 Steps to Drive Free Traffic from Reddit (value-first subreddit participation, build karma, share content sparingly to avoid bans)](2017-10-28-yt-U0F1JrmoxTw.md) — social-media, content-marketing
+- 2017-10-29 — [How to Improve Your Yelp Reviews And Stay Above 4.5 Stars! (solicit reviews from happy customers, recover unhappy ones offline, never fake reviews)](2017-10-29-yt-smMCFddgRc8.md) — analytics-cro, social-media, agency-entrepreneurship
+- 2017-10-30 — [4 Growth Hacks to Supercharge Your Referral Program (double-sided incentives, prompt at peak-happiness moments, make sharing frictionless)](2017-10-30-yt-VVTkw5ituFU.md) — analytics-cro, agency-entrepreneurship
+- 2017-10-31 — [How to Get Lots of REAL Yelp Reviews Fast | 5 Yelp Reputation-Management Tips (ask in person, funnel via email/receipts, respond to every review)](2017-10-31-yt-ClNQ8lNt3zw.md) — analytics-cro, social-media, agency-entrepreneurship
 - 2017-11-01 — [HOW TO HACK INSTAGRAM: How to Get Your Customers to Promote Your Products On Instagram](2017-11-01-yt-UQR9Nrk626w.md) — social-media, content-marketing
+- 2017-11-02 — [How to Drive Traffic to Your Blog Posts Using LinkedIn (native teaser posts with "continue reading" link + in-niche connections + PS email shares; title's 60k/mo figure unsubstantiated in video)](2017-11-02-yt-H0QNgSGGF20.md) — social-media, content-marketing
+- 2017-11-03 — [Should You Use Hashtags on Instagram? | How to Get More Instagram Followers (skip hashtags on FB/Twitter/LinkedIn; use 5-7 specific traffic-driving tags on IG, found via Ubersuggest)](2017-11-03-yt--Iov5WB-1F0.md) — social-media
+- 2017-11-04 — [How to Promote Your Blog Without Paid Ads | 5 Sneaky Ways to Explode Blog Traffic (piggyback competitors: social engagement, blog comments, Ahrefs/BuzzSumo outreach, skyscraper content, convert haters)](2017-11-04-yt-FLfBqUKQyMU.md) — content-marketing, social-media, seo
 - 2017-11-12 — [How I Started 4 Multimillion Dollar Businesses By the Time I Was 28](2017-11-12-yt-k_eXA4cY53M.md) ★ — agency-entrepreneurship
 - 2017-11-22 — [1 Simple Hack to Build Hundreds of Backlinks (competitor-infographic tactic)](2017-11-22-yt-k9wddku3y54.md) — seo, content-marketing
 - 2017-11-28 — [3 Powerful SEO Tips To Rank #1 On Google](2017-11-28-yt-gmB_TC92I8w.md) — seo, content-marketing
@@ -276,4 +284,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2026-07-17 — [Your Software Is Now Your Best Marketing Channel (MS, co-hosted — Neil qualifies the "product = best channel" thesis: he pioneered it ~7-8 yrs ago (bought Ubersuggest ~$120k) but the real lever is FREE not feature-cadence, and it works "not as well as it used to" now everyone builds product; his biggest current lead-driver is conferences (a "three-for-one": speak + sponsor + side-events + branding); a premium on all good talent, not just "AI talent"; anti-vision-board)](2026-07-17-yt-L03nbcDp8v8.md) — ai-marketing, agency-entrepreneurship, content-marketing
 
 ---
-_263 videos ingested (L2) so far._
+_271 videos ingested (L2) so far._

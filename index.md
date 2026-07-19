@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-19 (ingest: @neilpatel batch — 8 P2 long-form, 2017-10 solo tactical era (brand color schemes/CRO, Google search operators for market research, SERP-CTR playbook, high-ticket sales funnel, AdWords Quality Score, multi-channel free-traffic, profitable social contests, mobile-app install marketing); 263 videos L2)_
+_Last updated: 2026-07-19 (ingest: @neilpatel batch — 8 P2 long-form, 2017-10→11 solo tactical era (AdWords ROI/Quality Score, Reddit free traffic, Yelp reviews/reputation ×2, referral-program growth hacks, LinkedIn blog distribution, Instagram hashtags, promote-blog-without-ads); 271 videos L2)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life/career timeline (England → Orange County → Crazy Egg/KISSmetrics → NP Digital → Ubersuggest → Marketing School), registry/court-verified vs self-reported marked per claim.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe.
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 263 videos ingested (L2).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 271 videos ingested (L2).
 
 ## Topics
 

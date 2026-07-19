@@ -1621,3 +1621,31 @@ mobile-app install channel set (performance-based PR, blogger early access, in-a
 platform-specific tactic cluster distinct from his usual website/SEO material. Flag: the
 "$500k/mo free traffic" figure is self-reported (SUBJECT.md self-reported-figures rule). All add
 specificity rather than contradicting. Synthesis debt now 6/10 (checkpoint at 10).
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P2 long-form (2017-10→11 solo tactical era, cont. 13)
+Ingested 8 P2 @neilpatel solo videos (2017-10-27 → 2017-11-04), all with captions; 0 skipped,
+0 no-captions, 0 duplicates, 0 rate-limits. Pages: (1) **AdWords ROI (Ru3jcnHWVJE 2017-10-27)** —
+raise Quality Score through tight ad→landing-page relevance to lower CPC and win better ad positions.
+(2) **Reddit free traffic (U0F1JrmoxTw 2017-10-28)** — value-first subreddit participation, build karma,
+share your own content sparingly to avoid bans. (3) **Yelp 4.5+ stars (smMCFddgRc8 2017-10-29)** — solicit
+reviews from happy customers, recover unhappy ones offline, never fake reviews. (4) **Referral-program
+growth hacks (VVTkw5ituFU 2017-10-30)** — double-sided incentives, prompt at peak-happiness moments, make
+sharing frictionless. (5) **Yelp reviews fast (ClNQ8lNt3zw 2017-10-31)** — 5 reputation-management tips
+(ask in person, funnel via email/receipts, respond to every review); sibling of the 10-29 Yelp video.
+(6) **LinkedIn blog distribution (H0QNgSGGF20 2017-11-02)** — post native teaser paragraphs with a
+"continue reading" link, connect in-niche (30k connection cap), PS email shares; the title's "60,000
+visitors/month" figure is NOT stated or substantiated in the transcript (only "over a thousand
+visitors a day") — flagged in the page, not repeated as a claim. (7) **Instagram hashtags (-Iov5WB-1F0
+2017-11-03)** — skip hashtags on FB/Twitter/LinkedIn, use 5-7 specific traffic-driving tags on Instagram
+(a visual network), found via Ubersuggest. (8) **Promote blog without paid ads (FLfBqUKQyMU 2017-11-04)**
+— 5 free tactics that piggyback competitors: social engagement, blog comments, Ahrefs/BuzzSumo outreach,
+skyscraper content (credited to Brian Dean), converting haters.
+Synthesis notes: Consistent continuation of the 2017 solo tactical cluster; reinforces existing persona
+positions (test-everything CRO, Ubersuggest as house tool, email as the profit backstop, competitor
+one-upping). Candidate nuggets for the next synthesis: (a) the AdWords Quality-Score→relevance→cheaper-CPC
+mental model (reinforces the earlier "Google optimizes its own revenue" model); (b) reputation/reviews as
+a distinct local-marketing tactic cluster (Yelp ×2 + referral programs) — first sustained review/reputation
+material in the corpus; (c) LinkedIn as a B2B blog-distribution channel (native-teaser + PS-email pattern);
+(d) the platform-specific hashtag doctrine (Instagram-only, 5-7 specific tags). Contradiction flag: none;
+all add specificity. Data-integrity flag: the LinkedIn video's title metric ("60k/mo") is unsubstantiated —
+do not promote it as a claim. Synthesis debt now 7/10 (checkpoint at 10).
