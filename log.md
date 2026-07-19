@@ -534,3 +534,64 @@ L3-candidate): a quotable, recurring flagship claim with a concrete self-reporte
 (6) Minor/dated tactical nuggets (2017 cluster): BuzzSumo sharer-outreach loop, exit-popup-GIF
 opt-in, Hello Bar list-building, competitor Pages-to-Watch mining — commodity, low promotion
 priority; the Hello Bar "700K emails" figure is title-only self-reported.
+
+## [2026-07-19] lint | synthesis pass 1 — @neilpatel P1 era (first synthesis pass)
+
+Stage machine (`.claude/commands/ingest-loop.md`, first-match) selected **Stage S** — a
+channel/era just completed (**@neilpatel P1 fully drained** at batch #9) and the debt was
+at 9/10, satisfying the Stage S trigger "a channel/era just completed." Not-taken rules:
+Stage P not chosen (synthesis is the higher-priority first-match once a checkpoint is due;
+persona is refreshed inside this pass anyway); Stage A/B/C n/a (Stage S is due before
+further ingest). This is the **first synthesis pass ever** on the clone — high-water mark
+was "nothing yet," all 8 `wiki/topics/` hubs were empty stubs, and `persona/beliefs.md` /
+`voice.md` / `system-prompt.md` were bootstrap skeletons.
+
+Scope: promoted the 9 accumulated `Synthesis-notes` debt lines (batches #1–#9, 72 L2 source
+pages spanning 2016-11 → 2026-07) into topics + persona. Method: one single-writer subagent
+per file (the concurrency rule — each edited exactly ONE file; coordinator did all
+shared-file bookkeeping). Every promotion dated + cited to its `wiki/sources/` page with
+bare-slug wikilinks; verbatim quotes kept as quotes; self-reported figures marked;
+contradictions/position-changes flagged with `> ⚠️` callouts.
+
+Pages written/updated (13 content files + 4 bookkeeping):
+- **8 topic hubs** (all: stub → substantive, cited framework page): seo (19 sources cited;
+  SEO timeline, on-page/CTR, content depth/refresh, skyscraper, Ubersuggest workflow,
+  technical, Search Everywhere Optimization), content-marketing (11; blog template, ~2-year
+  patience, give-nine-ask-once, distribution), paid-ads (7; precision targeting, ROAS,
+  2026 AI-mode, TikTok Shop flywheel), analytics-cro (6; landing-page anatomy, quantified
+  CRO levers, above/below fold, "traffic isn't everything", Crazy Egg), social-media (14;
+  personal-brand engine, LinkedIn/IG/X/YouTube, social-SEO, TikTok Shop, legacy tactics),
+  email-marketing (7; list building, send timing/cadence, funnel, owned-audience backstop),
+  ai-marketing (5; AI-service models, Search Everywhere, Google AI-mode, the 8 2026 bets),
+  agency-entrepreneurship (10; TAM governs outcomes, acquisition & free-tool→services funnel,
+  automated-webinar funnel, own-your-audience monetization, agency finance).
+- **persona/beliefs.md**: 17 dated beliefs across Frameworks/Values/Opinions (19 sources),
+  3 `⚠️` evolution flags (work-ethic softening 2017→2023; keyword stance 2020→2025;
+  TAM self-reported framing).
+- **persona/voice.md**: 11 verbatim signature catchphrases + cadence/register/rhetoric/humor
+  (21 sources). Flagged 3 briefed phrases not found verbatim ("every side of the table" →
+  actual is "every single side of marketing"; "search has moved to the social web" is a
+  paraphrase; "I'm kind of a big deal" is an entity name, not a spoken quote) — none quoted
+  as verbatim.
+- **persona/biography.md**: augmented (1 → 11 sources) with first-party origin detail (ad
+  agency at 16, $1M loss at 21, Crazy Egg GTM, QuickSprout "100K challenge") and dated
+  company/scale facts (NP Digital 700+ employees, Ubersuggest ~30% of agency customers,
+  NPD Accelerate, ASO acquisition w/ garbled name flagged, 6–9M→1M+ follower scale markers).
+- **persona/system-prompt.md**: compiled **v1** (compiled_from_sources: 72). Persona mode
+  (`/neilpatel`) is now loadable — previously refused (no clone existed).
+- Bookkeeping: `pipeline/synthesis-state.md` (checkpoint → Done, high-water mark advanced to
+  "@neilpatel P1 era, batches #1–#9"), `index.md` (topic + persona rows refreshed), this
+  `log.md` entry. Fixed one dangling entity wikilink (`hello-bar` → `hello-bar-quick-sprout`)
+  in analytics-cro.
+
+Ledger unchanged by this pass (synthesis promotes, it does not ingest): L2=72, L3=0 (the L2
+sources remain L2 as source pages; "L3" tier is reserved for the full per-source ceremony,
+not conferred by synthesis promotion). Open long-form after: **@neilpatel P1 = 0** (drained);
+open P1 = @MarketingSchoolPod 60 (all attribution-gated w/ Eric Siu); open P2 ≈ 1,827
+(@neilpatel ~1,085 + @MarketingSchoolPod ~742); open shorts ~2,682. No rate-limiting (no
+yt-dlp calls this pass). No unresolved errors.
+
+Next iteration: **synthesis debt reset to 0/10** (checkpoint drained). Stage machine will
+select **Stage B** — the next open P1 long-form is @MarketingSchoolPod (attribution-gated:
+tag Neil vs Eric Siu on every episode, per SUBJECT.md). Synthesis debt after this pass:
+**0** — this pass drained batches #1–#9; new debt accrues from the next ingest batch onward.

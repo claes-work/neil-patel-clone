@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-19 (ingest: @neilpatel P1/P2 batch, 72 videos)_
+_Last updated: 2026-07-19 (synthesis pass 1: @neilpatel P1 era → topics + persona, system-prompt v1)_
 
 ## Sources
 
@@ -11,14 +11,14 @@ _Last updated: 2026-07-19 (ingest: @neilpatel P1/P2 batch, 72 videos)_
 
 ## Topics
 
-- [wiki/topics/seo/seo.md](wiki/topics/seo/seo.md) — keyword research, on-page, links, technical SEO, Ubersuggest (hub).
-- [wiki/topics/content-marketing/content-marketing.md](wiki/topics/content-marketing/content-marketing.md) — blogging, content strategy, repurposing (hub).
-- [wiki/topics/paid-ads/paid-ads.md](wiki/topics/paid-ads/paid-ads.md) — PPC, Google/Meta ads, media buying (hub).
-- [wiki/topics/analytics-cro/analytics-cro.md](wiki/topics/analytics-cro/analytics-cro.md) — analytics, A/B testing, conversion optimization (hub).
-- [wiki/topics/social-media/social-media.md](wiki/topics/social-media/social-media.md) — platform growth, short-form, engagement (hub).
-- [wiki/topics/email-marketing/email-marketing.md](wiki/topics/email-marketing/email-marketing.md) — newsletters, list building, automation (hub).
-- [wiki/topics/ai-marketing/ai-marketing.md](wiki/topics/ai-marketing/ai-marketing.md) — AI search visibility, AI tools in marketing (hub).
-- [wiki/topics/agency-entrepreneurship/agency-entrepreneurship.md](wiki/topics/agency-entrepreneurship/agency-entrepreneurship.md) — running NP Digital, personal brand, hustle (hub).
+- [wiki/topics/seo/seo.md](wiki/topics/seo/seo.md) — SEO timeline/patience, on-page & CTR, content depth/refresh, skyscraper links, Ubersuggest workflow, technical SEO, Search Everywhere Optimization (hub, synthesized pass 1).
+- [wiki/topics/content-marketing/content-marketing.md](wiki/topics/content-marketing/content-marketing.md) — blog-post template, the ~2-year patience thesis, give-nine-ask-once, distribution & repurposing (hub, synthesized pass 1).
+- [wiki/topics/paid-ads/paid-ads.md](wiki/topics/paid-ads/paid-ads.md) — precision targeting, paid social & ROAS, the 2026 AI-mode shift, TikTok Shop acquisition flywheel (hub, synthesized pass 1).
+- [wiki/topics/analytics-cro/analytics-cro.md](wiki/topics/analytics-cro/analytics-cro.md) — landing-page anatomy, quantified CRO levers, above/below the fold, "traffic isn't everything," Crazy Egg (hub, synthesized pass 1).
+- [wiki/topics/social-media/social-media.md](wiki/topics/social-media/social-media.md) — personal-brand engine, LinkedIn/Instagram/X/YouTube playbooks, social-SEO, TikTok Shop, legacy tactics (hub, synthesized pass 1).
+- [wiki/topics/email-marketing/email-marketing.md](wiki/topics/email-marketing/email-marketing.md) — list building, send timing & cadence, email in the funnel, owned-audience backstop (hub, synthesized pass 1).
+- [wiki/topics/ai-marketing/ai-marketing.md](wiki/topics/ai-marketing/ai-marketing.md) — AI-service business models, Search Everywhere, Google AI-mode, the eight 2026 bets (hub, synthesized pass 1).
+- [wiki/topics/agency-entrepreneurship/agency-entrepreneurship.md](wiki/topics/agency-entrepreneurship/agency-entrepreneurship.md) — TAM governs outcomes, acquisition & free-tool→services funnel, automated-webinar funnel, own-your-audience monetization (hub, synthesized pass 1).
 
 ## Entities
 
@@ -34,11 +34,11 @@ _Last updated: 2026-07-19 (ingest: @neilpatel P1/P2 batch, 72 videos)_
 
 ## Persona (THE PRODUCT)
 
-- [persona/biography.md](persona/biography.md) — dated life timeline, v1 (bootstrap; cites the biography dossier).
-- [persona/voice.md](persona/voice.md) — how they talk (empty skeleton).
-- [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/opinions (empty skeleton).
-- [persona/appearance.md](persona/appearance.md) — how they look/present (empty skeleton).
-- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt (not compiled yet).
+- [persona/biography.md](persona/biography.md) — dated life timeline, augmented pass 1 (11 sources; first-party origin/company detail from his own videos).
+- [persona/voice.md](persona/voice.md) — how they talk: 11 signature catchphrases + cadence/register/rhetoric, cited verbatim (21 sources, synthesized pass 1).
+- [persona/beliefs.md](persona/beliefs.md) — 17 dated, cited frameworks/values/opinions (19 sources, synthesized pass 1).
+- [persona/appearance.md](persona/appearance.md) — how they look/present (empty skeleton — needs watched-video samples).
+- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt **v1** (2026-07-19; Persona mode now loadable).
 
 ## Other
 
