@@ -1560,3 +1560,28 @@ pay them less (connects affiliate marketing to his broader CRO doctrine); (b) em
 (sender-name testing + casual/lowercase subject lines + name personalization) as a concrete
 email-marketing tactic set; (c) product-differentiation-by-storytelling+USP as an early positioning
 statement. All add specificity rather than contradicting. Synthesis debt now 4/10 (checkpoint at 10).
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P2 long-form (2017-10 solo tactical/CRO era, cont. 11)
+Ingested 8 @neilpatel P2 long-form videos (2017-10-10 → 2017-10-18), the daily solo tactical era, all
+fully Neil-attributed. All 8 had captions (0 no-captions, 0 dup, 0 skipped); L2 total 247 → 255.
+(1) **Linkable content for backlinks (LKVXZoIEPXU 2017-10-10)** — make your site linkable via 4 asset
+types: a blog, B2B case studies, detailed guides/ebooks, and infographics. (2) **Contact-page CRO
+(nYNLRAwpiog 2017-10-11)** — get more inbound contacts by telling a story on the contact page,
+filtering the audience, and using a dropdown to route to the right person. (3) **CTA-button placement
+(BxELmZ-NAq4 2017-10-12)** — best spots are under each product, after reviews, and at high
+scroll-density areas, validated by A/B testing (Crazy Egg). (4) **Stop copying competitors
+(NfibQEvu6Co 2017-10-14)** — you can't see their full context, their moves may reflect opinion not
+data, and you need your own USP. (5) **Negative-review reputation management (VJoFS5lBXg8 2017-10-15)**
+— always respond positively/professionally to negative reviews, and keep improving so you earn fewer
+over time. (6) **Facebook Live sales (ldy9X0uQ0LM 2017-10-16)** — educate viewers, transition to a
+website bonus offer, then boost the video. (7) **Cart-abandonment recovery (HKrbB4KoLFo 2017-10-17)**
+— two-step checkout to capture email for recovery, remarketing back to the cart, and Crazy Egg
+checkout optimization. (8) **Email-CTR hacks (cio1MNOYiaw 2017-10-18)** — tell a story, use 2-3 links,
+and write casual benefit-driven anchor text.
+Synthesis notes: Consistent continuation of the 2017 solo tactical cluster; mostly reinforces existing
+persona positions (test-everything CRO culture, Crazy Egg as the house testing tool, story-first copy).
+Candidate nuggets for the next synthesis: (a) the "don't copy competitors" reasoning triad (hidden
+context / opinion-not-data / need-your-own-USP) as an explicit early positioning stance; (b) the
+"respond positively to every negative review + reduce root causes" reputation doctrine; (c) two-step
+checkout as an email-capture-for-recovery mechanism (ties cart-abandonment to his email + CRO stack).
+All add specificity rather than contradicting. Synthesis debt now 5/10 (checkpoint at 10).

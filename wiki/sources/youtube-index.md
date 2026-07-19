@@ -134,6 +134,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2017-10-07 — [How to DOUBLE Your Email Open Rates (test the sender name, casual + lowercase subject lines, personalize the recipient's name)](2017-10-07-yt-E5UZug6310g.md) — email-marketing
 - 2017-10-08 — [How to Use Instagram Stories To Promote Your Business (build anticipation, tell a coherent story, visually showcase products/results)](2017-10-08-yt-ySvL3E1GeSU.md) — social-media
 - 2017-10-09 — [1 Simple Facebook Marketing Tip to Engage With Your Fans! (optimize your cover photo to relate to fans + brand and drive engagement)](2017-10-09-yt-VZUMAaRT3hA.md) — social-media
+- 2017-10-10 — [How to Make Your Website More Linkable (4 Ways to Earn More Backlinks) (four linkable-asset types: blog, B2B case studies, detailed guides/ebooks, infographics)](2017-10-10-yt-LKVXZoIEPXU.md) — seo, content-marketing
+- 2017-10-11 — [How to Get More Customers to Contact YOU (Hint: Optimize Your Contact Page) (contact-page tactics: tell a story, filter your audience, dropdown-route to the right person)](2017-10-11-yt-nYNLRAwpiog.md) — analytics-cro
+- 2017-10-12 — [Where Should You Place Your Call to Action Button? Here Are the Best Places (CTA placement: under each product, after reviews, high scroll-density spots — A/B tested via Crazy Egg)](2017-10-12-yt-BxELmZ-NAq4.md) — analytics-cro
+- 2017-10-14 — [3 Reasons Why You Should Stop Copying Your Competitor's Digital Marketing Strategy (you can't see their context, opinion beats data, and you need your own USP)](2017-10-14-yt-NfibQEvu6Co.md) — analytics-cro, agency-entrepreneurship
+- 2017-10-15 — [How to Respond to Negative Online Reviews | 2 CRITICAL Reputation Management Tips (always respond positively to negative reviews; keep improving to earn fewer over time)](2017-10-15-yt-VJoFS5lBXg8.md) — agency-entrepreneurship, social-media
+- 2017-10-16 — [3 Ways to Use Facebook Live To Generate Sales (educate viewers, transition to a website bonus offer, then boost the video)](2017-10-16-yt-ldy9X0uQ0LM.md) — social-media
+- 2017-10-17 — [3 Effective Shopping Cart Abandonment Strategies That Can Boost Sales by 10-20% (two-step checkout for email recovery, remarketing back to cart, Crazy Egg checkout optimization)](2017-10-17-yt-HKrbB4KoLFo.md) — analytics-cro
+- 2017-10-18 — [3 Email Marketing Hacks to Increase Your Click Through Rate and Boost Sales (tell a story, use 2-3 links, casual benefit-driven anchor text)](2017-10-18-yt-cio1MNOYiaw.md) — email-marketing
 - 2017-11-01 — [HOW TO HACK INSTAGRAM: How to Get Your Customers to Promote Your Products On Instagram](2017-11-01-yt-UQR9Nrk626w.md) — social-media, content-marketing
 - 2017-11-12 — [How I Started 4 Multimillion Dollar Businesses By the Time I Was 28](2017-11-12-yt-k_eXA4cY53M.md) ★ — agency-entrepreneurship
 - 2017-11-22 — [1 Simple Hack to Build Hundreds of Backlinks (competitor-infographic tactic)](2017-11-22-yt-k9wddku3y54.md) — seo, content-marketing
@@ -260,4 +268,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2026-07-17 — [Your Software Is Now Your Best Marketing Channel (MS, co-hosted — Neil qualifies the "product = best channel" thesis: he pioneered it ~7-8 yrs ago (bought Ubersuggest ~$120k) but the real lever is FREE not feature-cadence, and it works "not as well as it used to" now everyone builds product; his biggest current lead-driver is conferences (a "three-for-one": speak + sponsor + side-events + branding); a premium on all good talent, not just "AI talent"; anti-vision-board)](2026-07-17-yt-L03nbcDp8v8.md) — ai-marketing, agency-entrepreneurship, content-marketing
 
 ---
-_247 videos ingested (L2) so far._
+_255 videos ingested (L2) so far._
