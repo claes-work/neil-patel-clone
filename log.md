@@ -2474,3 +2474,56 @@ NOT Google & get crawler-blocked, DA is not a Google metric & varies by tool, re
 (NON-subject): FB-promote-your-press + retargeting (qgPoztS9CWM); Basecamp weekly client updates
 + his own 30k→700k/6mo growth anecdote (8Zg8aVvxFgI, 5dyn03RSWVA). Captions clean, no
 name/number garbles. Synthesis debt now 4/10 batches since pass 5 — no checkpoint yet.
+
+## [2026-07-20] ingest | yt batch (@neilpatel, 8) — P2 long-form (2018-10→11 solo tactical + Q&A-Thursday era, cont. 31)
+
+Ingested 8 P2 long-form videos from @neilpatel (2018-10-16 → 2018-11-01) to L2, continuing
+the 2018 solo-tactical + Q&A-Thursday drain. All captions fetched cleanly (0 no-captions,
+0 429s, 0 dup/skip). Mix: 3 Q&A-Thursday episodes (interviewer **Adam Lodolce / viewership.com**
+— context only; his tactical asides are non-subject and do NOT train the persona) + 5 solo.
+New source pages: 2018-10-16 Multi-Millionaire by LOSING Money / LTV (AbcoFUHcs9M), 2018-10-18
+How Much To Invest In Marketing (vTrLHTv3TOw), 2018-10-20 Dress For Success (BAqKCaJ0vRU),
+2018-10-23 Recover Dying Facebook Traffic (g-0n8p_liYE), 2018-10-25 Find the Perfect Niche
+(y626q-G5ZpM), 2018-10-27 Employees FIRST / team (yqUpNw8cikU), 2018-10-30 Blogging LESS for
+more traffic (ey1GbXO-Y7M), 2018-11-01 Accepting Bitcoin as Payment (-BnBgmjZZD8).
+youtube-index footer 405 → 413; index.md count bumped. Ledger rows set L2.
+
+Synthesis notes: several ★ L3-candidates for the next pass. NEW/reinforced: **LTV over day-one
+profit** — Neil's crisp **7/8/9-figure ad-spend model** (7-fig want $2 per $1 immediately; 8-fig
+break even up front; 9-fig OK to lose money up front), "the only way to grab the majority of the
+[ad] inventory is to be willing to lose money in the short run," Amazon-net-zero loss-leader,
+upsells/downsells + custom tracking (Mixpanel) as enablers (AbcoFUHcs9M) — direct kin of the
+2018-10-13 undercut/loss-leader clip and the same "$1 in / $2 back" language in the budget Q&A;
+promote to a **unit-economics/LTV** topic page, date-stamp figures. **Startup marketing budget**
+— run tiny $50–100 experiments, traction before profit, double down on winners, and **let budget
+= a channel's profitable capacity** (not a quarterly number); profitable tracked economics → easy
+VC; **rule of seven**; branding/billboards/TV valuable but **hard to track** (vTrLHTv3TOw). ⚠️ mild
+tension: this branding-worth-it-even-if-untrackable stance vs Neil's usual track-everything/
+performance-first framing — reconcile & date-stamp at synthesis. **Niche selection** — "pick a
+niche based off of passion, not income"; money follows problem-solving; **prioritize large TAM**
+("$50K easier from a $100B market than a $1M market"); size via **Google Trends + public-company
+market caps** (y626q-G5ZpM) — good spine for an opportunity-selection topic; note the niche-*market*
+vs low-competition-*keyword* distinction. **Team > founder** — "it's never you who's gonna build a
+successful company, it's your team"; hire people **better than you in their specialty**, treat as
+**team members with a say**, non-monetary care + raise wages over time, listen when multiple
+experts converge; **Richard Branson / VTEX Brazil** conference anecdote (biographical, self-reported)
+(yqUpNw8cikU) — feeds persona/beliefs (leadership) + a biography context note. **Blog LESS, promote
+more** — cut 7×→1×/week, **traffic 800K→1.6M/mo** (self-reported); volume≠traffic, promotion does;
+email every post (Hello Bar) + Subscribers.com push + cite-source/BuzzSumo outreach (10–30% share)
++ headline work (8/10 read, 2/10 click; 5–7 words); **80/20 write-vs-promote** (ey1GbXO-Y7M) —
+signature "distribution > production" thesis, promote to content-strategy page. **PERSONA APPEARANCE**:
+2018-10-20 is a rare direct statement on Neil's own dress/image — reversed his earlier belief; a
+Las Vegas **six-figure-on-clothes self-experiment** → more trust/work/higher pay; yet he personally
+prefers comfort (Lululemon) now and accepts leaving money on the table (BAqKCaJ0vRU) → feed
+persona/appearance.md + a dated belief; note the earlier-vs-current belief shift. **Dated 2018 crypto
+view**: don't accept Bitcoin on thin margins (±5–20%/day can exceed 5–30% margins); exceptions =
+cash-rich or very-high-margin; take USD then buy crypto with profits; still taxable; believes crypto
+is "a large part of the future" but volatile until institutional volume arrives (-BnBgmjZZD8) — mark
+2018, possibly superseded. Lower-tier tactical: Facebook organic-reach recovery — **first-comment
+link trick (credited Brian Dean)**, prime engagement before promo, boost best posts, Messenger via
+MobileMonkey 60%+ CTR (g-0n8p_liYE); ⚠️ note: Neil **explicitly invents an Elon Musk "testimonial"
+on camera as an illustration** — rhetorical only, must never be treated as a real quote/endorsement.
+Adam Lodolce asides (NON-subject): 7-day payback / Wicked Reports (vTrLHTv3TOw); "uniquely qualified
+to solve" + Viewship-pivot anecdote (y626q-G5ZpM). Captions clean, minor garbles noted per page
+(Qualaroo, cotton-t-shirts, viewer names). Synthesis debt now 5/10 batches since pass 5 — no
+checkpoint yet.

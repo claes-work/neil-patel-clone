@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-20 (ingest: @neilpatel batch — 8 P2 long-form L2, 2018-09→10 solo tactical + Q&A-Thursday era (★free-product-as-acquisition-channel — Ubersuggest ~$150k/mo vs est. ~$600k/mo ads, Dropbox invite-flows, "ads stop = traffic stops"; ★undercut-price to grow — gun-safe patent $100M→$5M, loss-leader, luxury-goods exception ⚠️tension vs premium/value stance; ★word-of-mouth = best marketing (product+care, Zappos/Slack); ★engagement-as-ranking-signal — Twitter headline A/B → Google CTR, embed-video → time-on-site/Panda; ★ship-first traction over WP design/plugins; SEO tools≠Google & DA-not-a-metric; MeetEdgar re-share + post-FB-natively "platforms are selfish"; agency: month-end reporting, niching, communicate-or-lose-clients); 405 videos L2)_
+_Last updated: 2026-07-20 (ingest: @neilpatel batch — 8 P2 long-form L2, 2018-10→11 solo tactical + Q&A-Thursday era (★LTV over day-one profit — 7/8/9-figure ad-spend model, lose money up front to win ad inventory, Amazon net-zero; ★startup marketing budget = tiny experiments → double down → budget=profitable capacity, rule of seven, branding-hard-to-track; ★niche by PASSION + large TAM — $50K easier from $100B than $1M, Google Trends/market-cap sizing; ★team builds the company not the founder — Branson/VTEX, hire smarter, team-members-with-a-say; ★blog LESS promote more — 800K→1.6M/mo, 80/20, headlines; ★dress-for-success Vegas 6-fig self-experiment (persona appearance); Facebook reach recovery — first-comment link (Brian Dean), boost, Messenger ⚠️invented Musk 'testimonial'; ★dated 2018 crypto view — don't take Bitcoin on thin margins); 413 videos L2)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life/career timeline (England → Orange County → Crazy Egg/KISSmetrics → NP Digital → Ubersuggest → Marketing School), registry/court-verified vs self-reported marked per claim.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe.
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 405 videos ingested (L2).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 413 videos ingested (L2).
 
 ## Topics
 
