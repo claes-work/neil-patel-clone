@@ -913,3 +913,57 @@ finding — reconcile at synthesis. (6) Minor coinage (not starred): "quick and 
 and dirty" in the AI era; forced-continuity ethics stance (Ep 2026-04-20). ★L3-candidates: 2026-04-07,
 2026-04-09, 2026-04-17, 2026-04-20, 2026-05-11, 2026-05-25. Synthesis debt now 7 batches since pass 1
 (checkpoint at 10).
+
+## [2026-07-19] ingest | yt batch (@MarketingSchoolPod, 8) — P1 drain (MS P1 era COMPLETE) + P2 backfill
+Stage B. Ingested 8 @MarketingSchoolPod episodes to L2: the last 4 open P1 long-form
+(2026-07-06 JJ_wuHYGrQM, 2026-07-15 cabAkWhHoiI, 2026-07-16 y74lGUnI5Zg, 2026-07-17 L03nbcDp8v8)
+plus 4 P2 daily episodes to fill batch size 8 (2023-11-02 rKhytWgW8Yg Ep.2589, 2023-11-03
+smz-vLoVJZA Ep.2591, 2023-11-04 UG_uyYrX9aQ Ep.2594, 2023-11-05 2CBUCFs7ozA Ep.2593). Captions:
+8/8 ok, 0 no-captions, 0 skipped, 0 dup, NO rate-limiting (no yt-dlp failures). L2 total 127→135.
+**Open P1 long-form on @MarketingSchoolPod 4→0 — the @MarketingSchoolPod P1 era is now COMPLETE.**
+MS P2 742→738; @neilpatel P2 1085 untouched; shorts untouched. One agent per video wrote only its
+own source page; coordinator did all shared-file bookkeeping (ledger, youtube-index, index.md,
+this log).
+
+Attribution (co-hosted show — only Neil trains the persona): every page tags Neil vs Eric per line;
+Eric's substance quarantined to a co-host context section ([[wiki/entities/eric-siu]]), uncertain
+lines to an attribution-notes section, only Neil verbatim in the quote banks. Captions carry no
+speaker labels (the 2023 P2 dailies had no `>>` markers at all), so attribution is inference-based off
+self-reference tells — NP Digital / Ubersuggest / AnswerThePublic / Kissmetrics / Mike Kamo for Neil
+vs Single Grain / SingleBrain / ClickFlow / Leveling Up ("Mr. Sue" ≈ Siu) for Eric. **Premise-vs-reality
+flag on cabAkWhHoiI (2026-07-15):** the episode's titled CRO/"revenue-agent" hook is entirely Eric's
+Single Grain autonomous-conversion-loop and is quarantined — Neil never engages the website topic;
+his half is personal finance/M&A, documented in the page Summary. **Premise flip on y74lGUnI5Zg
+(2026-07-16):** expected Eric-heavy (his SingleBrain fundraise) but flips Neil-heavy — Neil is the
+fundraising/finance advisor for most of the runtime (Eric confirms in third person "there's two parts
+that Neil had here"), giving unusually clean attribution. Fundraising/financial figures throughout are
+self-reported/unverified. Caption garbles corrected/flagged across pages: Rask, Mailmodo, Beehiiv,
+retention.com, Gong, Humanic, Opus Clip, Platinum Equity, Profound, SBA; tool/product names in the
+Ep.2594 roundup resolved in that page's attribution notes; Eli Schwartz (SEO) confirmed.
+
+Synthesis notes: New (accrues as debt for the next synthesis pass): (1) **GEO/AEO market read
+(★, JJ_wuHYGrQM 2026-07-06)** — Neil's sharpest AEO-vs-SEO data position yet: SEO still ~11x GEO
+budget, GEO adoption is enterprise-led, local search stays on Google, $1M+ GEO budgets rare (blocked
+by the ROI-tracking problem); the "Profound misconception" (AEO isn't buy-a-tool-and-publish-listicles;
+ChatGPT `site:` self-lookups peak ~20%); foundation-first — technical SEO must ride inside GEO pitches.
+(2) **"Budget problem, not money problem" management doctrine (★, JJ_wuHYGrQM)** — approve lump-sum
+spend now, expense against the region's future-year revenue tied to bonuses; plus a named
+reports-he-actually-uses list and an anti-"dashboarditis" stance. (3) **Debt-leverage "turns" framework
+(★, y74lGUnI5Zg 2026-07-16)** — size debt in turns of profit (half-to-one turn max, personally <1x),
+SBA as "the best debt," quantified affordability. (4) **Clean-story spinoff fundraising playbook (★,
+y74lGUnI5Zg)** — spin the sexy AI new-co out of the legacy agency ("investors like deals with no hair"),
+raise a smaller clean round (even a SAFE) then a bigger one later, keep the cash-flowing agency separate
+to contain risk. (5) **Agency M&A arbitrage / valuation thesis (JJ_wuHYGrQM ★ + cabAkWhHoiI + y74lGUnI5Zg)**
+— AI-agency valuations at 20-40x won't hold for a service business; the play is buying stalled-but-stable
+agencies at ~2x profit; distressed-acquisition economics (fixer-uppers ~2.5-4x, growth compresses the
+multiple; Platinum Equity model); NP Digital already hunting but passing on the multiples. (6) **Product-
+as-marketing refinement (L03nbcDp8v8 2026-07-17)** — near-dissent from the episode's own title: FREE is
+the real distribution lever (not feature-cadence "marketable moments"), and product-as-marketing is
+DECAYING now everyone builds product — Neil's biggest current lead-driver is conferences (a "three-for-one").
+(7) 2023 P2 dailies mostly restate known Neil tactics (programmatic SEO + AI-drafted content, AI-dubbing
+at scale, AMP emails, human+AI beats AI-alone, update-don't-rewrite "Wikipedia model", small-TAM-freebie →
+big-TAM monetization, downturn "buy don't sell") — no new frameworks, but the small-TAM→big-TAM worked
+example (free payroll → sell insurance/401k) and the downturn-acquisition stance (~$10M EBITDA target)
+are cleanly citable. ★L3-candidates this batch: 2026-07-06 (JJ_wuHYGrQM), 2026-07-16 (y74lGUnI5Zg).
+Synthesis debt now 8 batches since pass 1 (checkpoint at 10) — AND the @MarketingSchoolPod P1 era just
+completed, so the next iteration is a Stage S synthesis checkpoint (channel/era-complete rule fires).
