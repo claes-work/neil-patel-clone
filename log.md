@@ -277,3 +277,60 @@ floor for detailed guides** (`yt-Y772PSqmudo`, 2019-08-17 — a deliberate excep
 Neil's usual 80/20 promote-vs-create rule; worth watching as a soft contradiction). The
 free-courses roundup (`yt-SgDDfVCAkfk`, 2020-02-08) is a dated resource list — no new spine.
 All dated 2019-08 → 2020-04.
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P1 long-form #6
+
+Sixth @neilpatel P1 batch, 8 videos (2020-05 → 2020-10), all L2. Eight OK captions,
+0 no-captions, 0 skipped, 0 dups, 0 yt-dlp failures (no rate-limiting). One subagent per
+video wrote its own `wiki/sources/` page; coordinator did all ledger/index/log updates.
+This batch is dominated by Neil's free "Unlocked" course franchise (SEO Unlocked, Instagram
+Unlocked, YouTube Unlocked) plus two Ubersuggest Chrome-extension tutorials — all Neil solo,
+so fully subject-attributed. Videos:
+- `yt-Q_lySNxCag0` (2020-05-02) SEO Unlocked course intro ★ — transcript is ONLY the
+  welcome/intro segment despite the "4+ HOURS" title (lessons previewed, not taught; noted
+  in-page, no fabricated coverage).
+- `yt-pIbQfOcsEsE` (2020-05-04) "The ONLY Video You Need To Understand SEO" ★ — SEO
+  fundamentals primer (5 myths + core ranking factors).
+- `yt-PXDPqXHLSOY` (2020-05-11) On-page & Technical SEO Part 1 (SEO Unlocked wk2) ★ —
+  ~10-element on-page checklist + title/headline formulas.
+- `yt-k04rHijEPSw` (2020-05-16) SEO site audit via Ubersuggest (On-page Part 3).
+- `yt-eXBgXnKGTAw` (2020-06-20) & `yt-zHDATkRygTE` (2020-09-05) Ubersuggest Chrome extension
+  (SERP keyword insights / SEO-traffic + backlink outreach) — both overlap the master
+  Ubersuggest guide (`yt-_ve9cmRaem0`, 2020-03-02); kept as distinct feature-focused videos,
+  NOT marked dup.
+- `yt-eJ2NNy1F6y4` (2020-09-14) Instagram Unlocked welcome — low-signal framing, no tactics.
+- `yt-BJhTePXFvGo` (2020-10-05) YouTube Unlocked M1 L1 — roadmap intro, framing.
+
+Caption garbles caught & corrected in paraphrase only (quotes left verbatim): "adolf dassler"
+→ Adolf "Adi" Dassler and "gary burrell" → Gary Burrell (Q_lySNxCag0); "nielpatel.com" →
+neilpatel.com (k04rHijEPSw); Zuckerberg quote "Mozart grand era symphony" → "Mozart's grand
+opera" (eJ2NNy1F6y4); "scores"→course, "account"→count (eJ2NNy1F6y4). No contradictions
+flagged this batch. Several later course modules (SEO/Instagram/YouTube Unlocked) remain open
+in the ledger for future batches.
+
+Ledger after: L2=48, L3=0. Open long-form P1 @neilpatel 20, @MarketingSchoolPod 60
+(80 total P1 remaining); P2 ~1,831; open shorts ~2,682. Ingest batches since last synthesis:
+6 (checkpoint at 10) — Stage S ~4 batches away.
+
+Synthesis notes: strong SEO teaching spine + persona/voice signals to promote at next Stage S —
+(1) **SEO-mindset framework** (`yt-Q_lySNxCag0`): anticipate failure, delegate, keep learning,
+ask for feedback, "give give give before you ask," know your "why"; plus the signature phrase
+**"get loved by Google"** (recurs in `yt-eXBgXnKGTAw`) — both voice/persona-defining and L3
+persona candidates; recurring self-cited numbers (6M+ monthly visits / 4M+ from search, "200+
+ranking factors", team 100+) are persona-consistency anchors. (2) **SEO fundamentals scaffold**
+(`yt-pIbQfOcsEsE`): the "Fact or Fiction" 5-myth intro + "SEO is a 24-hour salesman" metaphor +
+core ranking-factor list; datable 2020 stats (93% of online experiences start with search;
+31.7% CTR at position 1 per Advanced Web Ranking; 7% conversion drop per second of page-speed
+delay per HubSpot). (3) **On-page formulas** (`yt-PXDPqXHLSOY`): title-tag formula (keyword-front
++ modifier-end; modifiers = buy/guide/review/online/offers/cheap/year), headline formula
+(number/trigger → adjective → keyword → promise), the "8 of 10 read the headline, 2 of 10 click"
+ratio + Ogilvy "80 cents of the dollar in the headline"; personal result — **removing dates from
+neilpatel.com URLs boosted SEO traffic ~50% in ~30 days**. (4) **Site-audit error-prioritization
+heuristic** (`yt-k04rHijEPSw`): fix critical errors → warnings → recommendations, biggest-bang +
+easiest-first; 301-vs-302 / redirect-loop stance. (5) **Ubersuggest extension heuristics**
+(`yt-eXBgXnKGTAw`, `yt-zHDATkRygTE`): no-click share as a traffic-potential filter, searcher
+age-range as a commercial-intent proxy, domain-score 0–100 definition, and competitor-backlink
+outreach as his favorite move — consolidate with the existing master Ubersuggest guide rather
+than duplicating. Course-intro videos (`yt-eJ2NNy1F6y4`, `yt-BJhTePXFvGo`) are framing-only; the
+one reusable signal is Neil's stated preference for **SEO-optimizing videos over relying on
+YouTube's suggested engine** for consistent traffic. All dated 2020-05 → 2020-10.

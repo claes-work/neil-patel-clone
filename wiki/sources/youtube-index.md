@@ -51,6 +51,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2020-03-02 — [The Definitive Guide to Ubersuggest for SEO and Content Marketing (full feature walkthrough)](2020-03-02-yt-_ve9cmRaem0.md) ★ — seo, content-marketing
 - 2020-03-26 — [How Long Does SEO Take to Work For a New Website? (~6-month traction rule)](2020-03-26-yt-wc_uo1prLg8.md) ★ — seo
 - 2020-04-16 — [7 Google Ads Hacks That'll Make Your Campaigns Scale Profitably (first paid-ads landmark)](2020-04-16-yt-S-hn2ThmQEw.md) ★ — paid-ads, analytics-cro
+- 2020-05-02 — [SEO Unlocked: FULL Free SEO Course With Neil Patel (course intro + SEO-mindset framework)](2020-05-02-yt-Q_lySNxCag0.md) ★ — seo, content-marketing
+- 2020-05-04 — [The ONLY Video You Need To Understand SEO (5 myths + core ranking factors)](2020-05-04-yt-pIbQfOcsEsE.md) ★ — seo, content-marketing
+- 2020-05-11 — [On-page and Technical SEO Part 1 — SEO Unlocked (title/headline formulas, on-page checklist)](2020-05-11-yt-PXDPqXHLSOY.md) ★ — seo, content-marketing, analytics-cro
+- 2020-05-16 — [How To Do An SEO Site Audit — On-page SEO Part 3 — SEO Unlocked (Ubersuggest audit, error prioritization)](2020-05-16-yt-k04rHijEPSw.md) — seo
+- 2020-06-20 — [Keywords Insights by Ubersuggest Chrome Extension: Keyword Ideas From the SERP](2020-06-20-yt-eXBgXnKGTAw.md) — seo
+- 2020-09-05 — [How to Get More SEO Traffic Using The Ubersuggest Chrome Extension (keyword + backlink-outreach)](2020-09-05-yt-zHDATkRygTE.md) — seo
+- 2020-09-14 — [Welcome to Instagram Unlocked: From 0 to 100,000 Followers (course welcome/intro)](2020-09-14-yt-eJ2NNy1F6y4.md) — social-media
+- 2020-10-05 — [How To Go From Zero to 100,000 Subscribers on YouTube — YouTube Unlocked M1 L1 (roadmap intro)](2020-10-05-yt-BJhTePXFvGo.md) — social-media, content-marketing
 
 ---
-_40 videos ingested (L2) so far._
+_48 videos ingested (L2) so far._
