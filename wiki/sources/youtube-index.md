@@ -110,6 +110,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2017-09-09 — [How to Increase The Average Order Value For Your Ecommerce Shop (upsells, bundles, product recommendations to lift AOV without more traffic)](2017-09-09-yt-zaLCQtOWKA8.md) — analytics-cro
 - 2017-09-10 — [How to Increase The Lifetime Value (LTV) of Your SaaS Customers (onboarding, usage/heatmap analysis, surveys, email re-engagement, product quality; Slack example)](2017-09-10-yt-RdehKbk7sEA.md) — analytics-cro, agency-entrepreneurship, email-marketing
 - 2017-09-11 — [How to Write Catchy Headlines That Convert | Copywriting Secrets (problem-headline + solution-subheadline formula; never stop A-B testing headlines)](2017-09-11-yt-b77fLPZ-GBI.md) — content-marketing, analytics-cro
+- 2017-09-12 — [What is Growth Hacking? (Drop Box Example) (growth hacking = cross-team rapid experimentation; Dropbox referral case; test with Crazy Egg)](2017-09-12-yt-ccaKaPHrNa8.md) — content-marketing, analytics-cro
+- 2017-09-13 — [How to Learn SEO: My Secret Method (learn-by-doing: build a junk WordPress test site, Yoast, cross-linking, Ahrefs outreach)](2017-09-13-yt-4za8NvwYr80.md) — seo, content-marketing
+- 2017-09-14 — [What's The Difference Between Do Follow and No Follow Links (dofollow vs nofollow explained; when to use each)](2017-09-14-yt-_XXEaGQLBVA.md) — seo
+- 2017-09-15 — [What Are Carousels And Should You Use Them On Your Site (carousels usually hurt conversions; never above the fold)](2017-09-15-yt-BQQRaHRQAVo.md) — analytics-cro, content-marketing
+- 2017-09-18 — [5 Ways To Make Money Blogging (five ways to monetize blog traffic and make money online)](2017-09-18-yt-_-k9b2UHzM0.md) — content-marketing
+- 2017-09-19 — [Drive More Traffic And Sales By Fixing This Website ERROR | The 404 Hack (turn 404s into recovered traffic via 301 redirects)](2017-09-19-yt-ymIL_yvXZiw.md) — seo, analytics-cro
+- 2017-09-20 — [The RIGHT Way to Drive More Online Sales By Discounting Your Products (bundle/threshold offers, not main-item price cuts)](2017-09-20-yt-X-QgSpzub0s.md) — analytics-cro, content-marketing
+- 2017-09-21 — [3 Ways to Make Eye Popping Social Media Images FAST (Canva three-step workflow for fast, unique social images)](2017-09-21-yt-TYP-ZDAwWwE.md) — social-media, content-marketing
 - 2017-11-01 — [HOW TO HACK INSTAGRAM: How to Get Your Customers to Promote Your Products On Instagram](2017-11-01-yt-UQR9Nrk626w.md) — social-media, content-marketing
 - 2017-11-12 — [How I Started 4 Multimillion Dollar Businesses By the Time I Was 28](2017-11-12-yt-k_eXA4cY53M.md) ★ — agency-entrepreneurship
 - 2017-11-22 — [1 Simple Hack to Build Hundreds of Backlinks (competitor-infographic tactic)](2017-11-22-yt-k9wddku3y54.md) — seo, content-marketing
@@ -236,4 +244,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2026-07-17 — [Your Software Is Now Your Best Marketing Channel (MS, co-hosted — Neil qualifies the "product = best channel" thesis: he pioneered it ~7-8 yrs ago (bought Ubersuggest ~$120k) but the real lever is FREE not feature-cadence, and it works "not as well as it used to" now everyone builds product; his biggest current lead-driver is conferences (a "three-for-one": speak + sponsor + side-events + branding); a premium on all good talent, not just "AI talent"; anti-vision-board)](2026-07-17-yt-L03nbcDp8v8.md) — ai-marketing, agency-entrepreneurship, content-marketing
 
 ---
-_223 videos ingested (L2) so far._
+_231 videos ingested (L2) so far._

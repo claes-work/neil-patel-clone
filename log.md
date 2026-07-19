@@ -1479,3 +1479,26 @@ recommendations to lift average order value without more traffic. (7) **SaaS LTV
 quality (Slack example). (8) **Catchy-headline formula (b77fLPZ-GBI 2017-09-11)** — problem-headline +
 solution-subheadline, and never stop A-B testing headlines; good verbatim voice data. All 2017-dated.
 Synthesis debt now 1/10 (checkpoint at 10).
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P2 long-form (2017-09 solo tactical/CRO era, cont. 8)
+Ingested 8 @neilpatel P2 long-form videos (2017-09-12 → 2017-09-21), all solo/Neil-fronted (no
+attribution gating). 8 ok, 0 skipped, 0 no-captions, 0 dup, 0 rate-limit. Pages:
+(1) **Growth hacking / Dropbox (ccaKaPHrNa8 2017-09-12)** — growth hacking framed as cross-team,
+data-driven rapid experimentation (not a "team of one"); Dropbox referral/PayPal-style examples;
+test everything with Crazy Egg. (2) **Learn SEO by doing (4za8NvwYr80 2017-09-13)** — his method:
+spin up a throwaway WordPress test site, use Yoast, practice on-page + cross-linking, then use Ahrefs
+to find and pitch link prospects; learn by doing not by reading. (3) **Dofollow vs nofollow
+(_XXEaGQLBVA 2017-09-14)** — link-attribute mechanics and when each is appropriate (sponsored/UGC =
+nofollow). (4) **Carousels (BQQRaHRQAVo 2017-09-15)** — carousels/sliders usually hurt conversions and
+should never sit above the fold; test before using. (5) **Make money blogging (_-k9b2UHzM0 2017-09-18)**
+— five monetization paths for blog traffic (info products, affiliate, ads/sponsorship, services, etc.).
+(6) **The 404 hack (ymIL_yvXZiw 2017-09-19)** — recover lost traffic/link equity by finding 404s and
+301-redirecting them to relevant live pages. (7) **Discount the right way (X-QgSpzub0s 2017-09-20)** —
+drive online sales with bundle/threshold offers rather than cutting the main item's price, to protect
+margin. (8) **Fast social images (TYP-ZDAwWwE 2017-09-21)** — a three-step Canva workflow for quick,
+distinctive social-media images.
+Synthesis notes: Mostly reinforces the established 2017 solo-tactical corpus (CRO testing culture,
+learn-by-doing SEO, Crazy Egg as house testing tool). Two candidate nuggets for the next synthesis:
+Neil's explicit definition of growth hacking as cross-functional rapid experimentation (not a role), and
+the "build a junk WordPress site to learn SEO by doing" method — both add specificity to existing
+persona positions rather than contradicting them. Synthesis debt now 2/10 (checkpoint at 10).
