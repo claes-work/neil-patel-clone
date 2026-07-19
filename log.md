@@ -1022,3 +1022,44 @@ Bookkeeping: high-water mark advanced + pass-2 Done checkpoint in `pipeline/synt
 yt-dlp / rate-limit activity (synthesis is local-only). Commit + push.
 
 Synthesis notes: none (this IS the synthesis pass; debt drained to 0 through batch #17).
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P2 long-form (2017-05→06 solo era)
+Stage B (first matching rule: synthesis debt 0 / persona freshly recompiled v2 by pass 2 /
+no zero-row TARGET / P1 drained → open P2 exists). Both channels have P2; picked @neilpatel
+under ROADMAP persona-first prioritization — the Neil-fronted primary corpus is fully
+Neil-attributed (no co-host quarantine), so it yields the cleanest persona signal per video.
+Selection was priority-2, oldest-first: the 2017-05-19→2017-06-03 solo run
+(8zZZnkCqnEw, q5wHgm7xtEk, q3DEnXHvvbA, V5T6LSKaYnE, OLyzKdc5Lso, e37nYDjDI_Q, qSDVFMTWN6w,
+0DSOQ8noS_U). Captions: 8/8 ok, 0 no-captions, 0 skipped, 0 dup, NO rate-limiting (no yt-dlp
+failures). L2 total 135→143. @neilpatel P2 1085→1077; MS P2 738 untouched; shorts untouched.
+One agent per video wrote only its own source page; coordinator did all shared-file bookkeeping
+(ledger, youtube-index, index.md, this log).
+
+Attribution: all 8 are solo @neilpatel main-channel educational videos — single speaker, fully
+Neil-attributed, no guest/co-host, so the whole corpus is persona-eligible (nothing quarantined,
+no uncertain-attribution flags needed). Caption garbles corrected/flagged in the pages:
+BuzzSumo, Buffer, Google Trends, ClickBank, AdSense/AdWords, Derek Halpern / Social Triggers.
+
+Synthesis notes: New (accrues as debt for the next synthesis pass): (1) **Google Trends as a
+brand-size metric (q5wHgm7xtEk 2017-05-20)** — type your company name into Google Trends and aim
+for a line "climbing up and to the right"; flat/declining diagnoses too little marketing or
+marketing that fails to connect emotionally — pairs with his "anchor into one category term"
+positioning thesis (Kleenex/Visa/Amazon). (2) **Boring-industry ideation trick (OLyzKdc5Lso
+2017-05-29)** — search *adjacent emotional concepts* ("money", "death") rather than the literal
+niche term ("life insurance") to find viral angles in dull verticals. (3) **Monetization ranking
+(e37nYDjDI_Q 2017-05-30)** — explicit stacked preference AdSense < affiliate/ClickBank < selling
+your own products (his favorite). (4) **Organic-CTR-from-paid tactic (qSDVFMTWN6w 2017-06-02)** —
+reverse-engineer high-CTR title/meta copy by studying the top *paid* AdWords ads (ranked by
+CTR-weighted revenue) and mirror it organically; positions CTR/user signals as a ranking lever
+independent of link building. (5) **Recurring "no-following" promotion pattern (q3DEnXHvvbA
+2017-05-25)** — write-thorough-post → notify-the-people-you-referenced → ask-for-a-share, with
+the signature "P.S. if you shared this it would make my year" close; same pattern as the
+2017-05-11 Twitter-traffic sibling — worth linking as one Neil promotion method. (6) **Consistent
+-viral method (8zZZnkCqnEw 2017-05-19)** — Google Trends timing + BuzzSumo skyscraper depth +
+tweet-sharer outreach as a three-part system. (7) **Blog conversion "connection→customer"
+mechanism (V5T6LSKaYnE 2017-05-27)** — conversational voice + skimmable format + a comment loop he
+personally replies to + in-post product links + case-study posts. (8) **Rare 2017 VR-in-marketing
+prediction (0DSOQ8noS_U 2017-06-03)** — immersive first-person product experiences; flagged as a
+then-prediction, useful as a contrast point for later emerging-tech (AI/AR) views. All eight are
+period-consistent 2017 tactics — dated accordingly; none contradict current positions but the
+next synthesis should reconcile the 2017 SEO/CTR framing against the 2025-26 AEO/GEO material.

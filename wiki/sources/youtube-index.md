@@ -18,9 +18,17 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2017-05-15 — [How to Break Through and Get Your First 1,000 Followers on Facebook for Free (competitor post-mining, friend invites, image/video content)](2017-05-15-yt-pbTlpO8V_4k.md) — social-media, content-marketing
 - 2017-05-16 — [2 Ways to Grow Your Email List Fast (exit-popup offer-preview GIF + post-specific content upgrades via Hello Bar; 700K emails self-reported)](2017-05-16-yt-3WX54dRt0CU.md) — email-marketing, analytics-cro, content-marketing
 - 2017-05-18 — [3 Ways to Promote Your Website When You Don't Have Any Money](2017-05-18-yt-ZAxSIvSUQZI.md) — content-marketing, social-media, seo
+- 2017-05-19 — [2 Easy Steps to ALWAYS Go Viral (Google Trends timing + BuzzSumo skyscraper depth + tweet-sharer email outreach)](2017-05-19-yt-8zZZnkCqnEw.md) — content-marketing, seo
+- 2017-05-20 — [The Importance of Building a Brand (anchor into one category term; measure brand size via Google Trends "up and to the right")](2017-05-20-yt-q5wHgm7xtEk.md) — content-marketing, agency-entrepreneurship
+- 2017-05-25 — [How to Promote Your Content When You Have No Followers (write thorough post, notify people you referenced, ask for a share)](2017-05-25-yt-q3DEnXHvvbA.md) — content-marketing, seo
 - 2017-05-26 — [What Are Backlinks and How Do They Work?](2017-05-26-yt-BkR7L41SroU.md) ★ — seo, content-marketing
+- 2017-05-27 — [Here's How to Get Blog Readers to Buy (connection→customer: conversational + skimmable + comment loop + in-post product links)](2017-05-27-yt-V5T6LSKaYnE.md) — content-marketing, analytics-cro
 - 2017-05-28 — [How to Get More Instagram Followers Fast (and Be Instafamous)](2017-05-28-yt-eTSYQiLboOE.md) — social-media
+- 2017-05-29 — [How to Write Engaging Blog Content For Boring Industries (search adjacent emotional concepts money/death; BuzzSumo skyscraper list expansion)](2017-05-29-yt-OLyzKdc5Lso.md) — content-marketing, seo
+- 2017-05-30 — [8 Steps to Making Your Blog Successful (niche + WordPress + headlines + email capture; monetize AdSense<affiliate<own-products)](2017-05-30-yt-e37nYDjDI_Q.md) — content-marketing, agency-entrepreneurship
 - 2017-06-01 — [How to Do SEO in a Competitive Industry When You Have No Money](2017-06-01-yt-wWiSShEGyHA.md) ★ — seo, content-marketing
+- 2017-06-02 — [How to Increase Your Search Rankings Without Link Building (CTR/user signals; mirror high-CTR AdWords ad copy in title/meta)](2017-06-02-yt-qSDVFMTWN6w.md) — seo, paid-ads
+- 2017-06-03 — [How Virtual Reality Is Going to Affect Digital Marketing (2017 then-prediction: immersive first-person product experiences)](2017-06-03-yt-0DSOQ8noS_U.md) — content-marketing, social-media
 - 2017-08-30 — [5 Tips For Writing An Awesome Blog Post](2017-08-30-yt-ygiAqYJq8No.md) — content-marketing, seo
 - 2017-11-01 — [HOW TO HACK INSTAGRAM: How to Get Your Customers to Promote Your Products On Instagram](2017-11-01-yt-UQR9Nrk626w.md) — social-media, content-marketing
 - 2017-11-12 — [How I Started 4 Multimillion Dollar Businesses By the Time I Was 28](2017-11-12-yt-k_eXA4cY53M.md) ★ — agency-entrepreneurship
@@ -148,4 +156,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2026-07-17 — [Your Software Is Now Your Best Marketing Channel (MS, co-hosted — Neil qualifies the "product = best channel" thesis: he pioneered it ~7-8 yrs ago (bought Ubersuggest ~$120k) but the real lever is FREE not feature-cadence, and it works "not as well as it used to" now everyone builds product; his biggest current lead-driver is conferences (a "three-for-one": speak + sponsor + side-events + branding); a premium on all good talent, not just "AI talent"; anti-vision-board)](2026-07-17-yt-L03nbcDp8v8.md) — ai-marketing, agency-entrepreneurship, content-marketing
 
 ---
-_135 videos ingested (L2) so far._
+_143 videos ingested (L2) so far._
