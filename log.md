@@ -1308,3 +1308,42 @@ icon placement by page-type + "would you share it yourself?" heuristic (TXKQaVqI
 quicksprout-era social-share hacks with the durable "participate before you promote" principle
 (LSOJw9jDrCE 2017-08-12). All 2017-dated; none contradict current positions. Synthesis debt now 8/10 —
 checkpoint (Stage S) is due in ~2 more batches.
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P2 long-form (2017-08 solo tactical era, cont.)
+Stage B (first matching rule: synthesis debt 8/10 — no checkpoint banner; persona fresh (v2, pass 2);
+no zero-row TARGET; no open P1 → open P2 exists). Continued @neilpatel P2 — the Neil-fronted primary
+corpus is fully Neil-attributed (no co-host quarantine → cleanest persona signal). Selection was
+priority-2, oldest-first: the 2017-08-12→2017-08-21 solo run (Qie52V0_P3A, LeRnQlUrwl4, 13BsYXkenhs,
+tj3VF2bx2s4, 7l7RocbBS4M, df3bnPfiNkA, vw-qxadXojk, xpmvv0IfhTM). Captions: 8/8 ok, 0 no-captions,
+0 skipped, 0 dup, NO rate-limiting (no yt-dlp failures). L2 total 199→207. @neilpatel open long-form
+1042→1034 (P2 1021→1013, P3 21); MS 766 (P2 738 / P3 28) untouched; shorts 2682 untouched.
+Coordinator did all shared-file bookkeeping (ledger, youtube-index, index.md, log).
+
+Attribution: all 8 are solo @neilpatel main-channel educational videos — single speaker, fully
+Neil-attributed, no guest/co-host, so the whole batch is persona-eligible (nothing quarantined,
+no uncertain-attribution flags). Two caption garbles flagged in-page (not invented): "hrefs" → Ahrefs
+(xpmvv0IfhTM); and a title-vs-content mismatch noted — "4 Steps to Increase Your Email Open Rates"
+(7l7RocbBS4M) is actually about email DELIVERABILITY (inbox placement), treated as the precondition
+for opens.
+
+Synthesis notes: a coherent 2017 solo-tactical cluster spanning CRO, email, SEO, paid-ads. New/durable
+threads worth promoting at the next checkpoint: (1) **CTA optimization rules (Qie52V0_P3A 2017-08-12)** —
+benefit-aligned copy over generic "Buy Now," compose the hero image to point a person's eyes at the CTA,
+benefit-relevant urgency words, and repeat CTAs beneath every benefit block so no scroll-to-convert.
+(2) **Email-signature-as-traffic-channel (LeRnQlUrwl4 2017-08-13)** — link site + one social-follow ask
++ "check out my latest post" + link to press about you; recurring **overwhelm cap = max 2 asks at once**
+(the same "don't overwhelm" heuristic he applies to opt-ins/CTAs). (3) **Email deliverability system
+(7l7RocbBS4M 2017-08-17)** — gradual IP/list warmup ramp (1k→...→100k), casual subject lines, scrub
+non-openers, text-based low-HTML emails to dodge spam/Promotions tab. (4) **Google News tactic
+(13BsYXkenhs 2017-08-14)** — Trends-sourced news content + Google News sitemap in GSC + unique keyword
+URLs; explicitly framed as fast-but-short-lived traffic (hours, not days). (5) **GSC keyword-mining
+workflow (df3bnPfiNkA 2017-08-19)** — Pages+Queries to find keywords a page already ranks for, integrate
+naturally + expand content, add to meta/title, resubmit URL for recrawl (~1-2 wk payoff); anti-keyword-
+stuffing (bounce = ranking harm). (6) **"Don't boost Facebook posts" (tj3VF2bx2s4 2017-08-16)** — for the
+99% who aren't expert copywriters: boosted traffic dies when spend stops, blog posts don't convert; spend
+on product/service/landing-page ads instead — explicitly NOT a blanket anti-FB-ads stance. (7) **Returning-
+visitor stack (vw-qxadXojk 2017-08-20)** — retarget (AdWords/FB/YT) + Hello Bar email capture + pushcrew
+browser push; names his own **Hello Bar** tool. (8) **Local link building (xpmvv0IfhTM 2017-08-21)** —
+Moz Local directories + Yelp city sections, chamber-of-commerce link, non-compete cross-promotion, Ahrefs
+competitor-backlink outreach. All 2017-dated; none contradict current positions. Synthesis debt now 9/10 —
+checkpoint (Stage S) is due next batch.

@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-19 (ingest: @neilpatel batch — 8 P2 long-form, 2017-08 solo CRO era (slider/opt-in message-congruence + element-cannibalization, copy=objection-handling+email-follow-up, FB-vs-Google intent heuristic, retargeting rule-of-seven + ~$200k/mo self-reported spend, social-share-icon placement by page-type, ecommerce product-page on-page SEO+CRO checklist, testimonial placement>volume, social-share hacks/participate-before-promote); 199 videos L2)_
+_Last updated: 2026-07-19 (ingest: @neilpatel batch — 8 P2 long-form, 2017-08 solo tactical era (CTA optimization rules, email-signature traffic tricks, Google News ranking, don't-boost-FB-posts, email deliverability/warmup, GSC keyword-mining workflow, returning-visitor retarget/email/push stack, local link building); 207 videos L2)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life/career timeline (England → Orange County → Crazy Egg/KISSmetrics → NP Digital → Ubersuggest → Marketing School), registry/court-verified vs self-reported marked per claim.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe.
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 199 videos ingested (L2).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 207 videos ingested (L2).
 
 ## Topics
 
