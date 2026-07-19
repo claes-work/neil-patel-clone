@@ -688,3 +688,40 @@ his own persona is a personal brand (Ep. 2024-02-07). (6) **GEO will boost affil
 (7) AI comparison-article traffic tactic ("[Competitor] vs [You]" pages, 17k+ visitors/~6mo) and
 Neil's stance that AI verbatim reproduction breaks the publisher model where ordinary search
 scraping did not (Ep. 2024-01-15). ★L3-candidates: 2024-02-09, 2024-02-15, 2024-02-22, 2024-03-01.
+
+## [2026-07-19] ingest | yt batch (@MarketingSchoolPod, 8) — P1 long-form (2024-05→09)
+Stage B. Ingested 8 @MarketingSchoolPod P1 long-form episodes (oldest-first, 2024-05-17 →
+2024-09-30) to L2: Cd9JC7SaGpY, WWFONnYdm4c, CqSp5WsWNZU, Dw7IDLVNXqI, r5jpiC7dc_8,
+eXWE6agCEZg, kSZtNlupakY, Gd0lZQTGpzI. Captions: 8/8 ok, 0 no-captions, 0 skipped, 0 dup,
+no rate-limiting. L2 total 88→96. One agent per video wrote only its own source page;
+coordinator did all shared-file bookkeeping.
+
+Attribution (co-hosted show — only Neil trains the persona): all 8 pages tag Neil vs Eric per
+line; Eric's substance quarantined to a co-host context section, uncertain lines to an
+attribution-notes section, only Neil verbatim in the quote banks. Captions carry NO speaker
+labels, so attribution is inference-based (anchored on self-references, "Neil…"/third-person
+cues, and the NP Digital / Single Grain ad-read tells). Several episodes were Eric-heavy
+(2024-05-17 especially). **Structural flag:** 2024-08-21 (3000 Landing Pages Pt.1) is NOT a
+Neil+Eric two-hander — it is an NP Digital webinar with two extra non-Neil presenters
+(Aubrey Maloney, Kyle) who deliver most of the concrete findings; all three non-Neil speakers
+quarantined, frontmatter attribution adjusted accordingly. No Perpetual Traffic / Ralph Burns /
+Kasim Aslam crossover found in this batch. Many caption garbles corrected/flagged (Hormozi,
+Halligan, Peep Laja, Pompliano, Ogilvy, NotebookLM, and various recalled figures).
+
+Synthesis notes: New (accrues as debt for the next synthesis pass): (1) **Monetization-timing
+rule** — build the audience on a channel first, monetize only after (Quick Sprout / Leveling Up
+examples), a reusable Neil principle (Ep. 2024-06-04, ★). (2) **Conference/event
+client-acquisition playbook** — speaking is a top acquisition channel; put clients on stage for
+social proof, then land-and-expand ("fishing with dynamite") (Ep. 2024-07-09, ★). (3)
+**Personal-brand-beats-corporate-brand** framing — "I, Neil Patel, am no WPP"; personal brands
+out-convert corporate brands on social/LinkedIn (Ep. 2024-08-13, ★) — note tension with the prior
+batch's "real money is in products, not personal brands" (2024-02-07); flag for synthesis
+reconciliation. (4) **"Money in marketing AI is in the ugly, not the sexy"** — the AI ROI is in
+unglamorous data analysis (ad-waste/ROI) and systems, not shiny content generation (Ep. 2024-09-30,
+★). (5) **NP Digital 3000+ landing pages CRO study** — CRO as highest-leverage scaling; many small
+compounding fixes over a magic button; benchmarks B2B ~1.8% / B2C ~2.1% (Ep. 2024-08-21, ★ — but
+most specifics are colleague-delivered, not persona data). (6) Incremental: absolute search traffic
+still rising despite Google's falling share (Danny Sullivan data) + AI-must-be-human-checked SEO
+stance (2024-05-21); AI Overviews "too early to react, 6–12 mo" + ads-in-AIO coming (2024-06-04);
+authenticity/unedited content wins + solve-the-root-cause-not-the-symptom (2024-08-05).
+★L3-candidates: 2024-06-04, 2024-07-09, 2024-08-13, 2024-08-21, 2024-09-30.
