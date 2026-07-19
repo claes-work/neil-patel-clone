@@ -93,7 +93,15 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2017-08-19 — [How to Increase Your Search Traffic Using Google Search Console (GSC Pages+Queries to mine keywords a page already ranks for, integrate them naturally + expand the content, add to meta/title, resubmit the URL for a recrawl; ~1-2 week payoff)](2017-08-19-yt-df3bnPfiNkA.md) — seo, content-marketing
 - 2017-08-20 — [3 Tips to Driving More Visitors Back to Your Website (returning-visitor stack: retargeting via AdWords/Facebook/YouTube, email capture via Hello Bar exit-popups/sliders/upgrades, browser push notifications via pushcrew.com)](2017-08-20-yt-vw-qxadXojk.md) — analytics-cro, paid-ads, email-marketing
 - 2017-08-21 — [4 Ways to Build Links for Local Businesses to Boost Your SEO Ranking (localized link building: Moz Local directories + Yelp city sections, chamber-of-commerce link, non-compete cross-promotion, Ahrefs competitor-backlink outreach)](2017-08-21-yt-xpmvv0IfhTM.md) — seo
+- 2017-08-22 — [3 Easy Steps to Submit Your Site to Google and Get Indexed Fast (Search Console + XML sitemap via Yoast + submit sitemap; new sites take 4-6mo to rank)](2017-08-22-yt-4xBWaXpZD7M.md) — seo
+- 2017-08-23 — [How Long Should You Run Your A/B Tests For? (~99% statistical significance + at least a full 7-day week + >=100 conversions per variation)](2017-08-23-yt-HxBAeweP6Fs.md) — analytics-cro
+- 2017-08-24 — [How to Speed Up Your Website And Increase Your Website's Revenue (Amazon 1%/sec framing: Google PageSpeed, AMP, CDN/Akamai, cache via W3 Total Cache)](2017-08-24-yt-13jOMJhKISE.md) — analytics-cro, seo
+- 2017-08-26 — [Should You Put Categories in Your Blog URL? (depends on size: skip if <100 pages, use if 1000+ to signal topic; single-hyphen slugs, no double dashes)](2017-08-26-yt-MB9cfH1OfH8.md) — seo
 - 2017-08-30 — [5 Tips For Writing An Awesome Blog Post](2017-08-30-yt-ygiAqYJq8No.md) — content-marketing, seo
+- 2017-08-31 — [3 Ways to Automate Your Content Curation (Twitter favorites -> Pocket -> IFTTT/Zapier -> Buffer auto-scheduling across LinkedIn/Facebook/Twitter)](2017-08-31-yt-wGPLw4OaMjU.md) — social-media, content-marketing
+- 2017-09-01 — [3 Ways to Save Time on Email Outreach (outreach for links/guest posts: Yesware templates + open-tracking, Boomerang auto follow-up)](2017-09-01-yt--oHmRLcLwtM.md) — content-marketing, seo
+- 2017-09-02 — [How to Qualifying Your Leads (qualify with form fields: revenue/profit/12mo-goals/timeline/budget + Clearbit enrichment; optimize quality not volume)](2017-09-02-yt-Q3uFxbONPF0.md) — analytics-cro, agency-entrepreneurship
+- 2017-09-03 — [How to Outsource Your Digital Marketing Efforts With a Small Budget (Fiverr/Upwork over interns/full-time; vet by >=10 detailed reviews + response time)](2017-09-03-yt-_CF6r_Ol3HA.md) — agency-entrepreneurship
 - 2017-11-01 — [HOW TO HACK INSTAGRAM: How to Get Your Customers to Promote Your Products On Instagram](2017-11-01-yt-UQR9Nrk626w.md) — social-media, content-marketing
 - 2017-11-12 — [How I Started 4 Multimillion Dollar Businesses By the Time I Was 28](2017-11-12-yt-k_eXA4cY53M.md) ★ — agency-entrepreneurship
 - 2017-11-22 — [1 Simple Hack to Build Hundreds of Backlinks (competitor-infographic tactic)](2017-11-22-yt-k9wddku3y54.md) — seo, content-marketing
@@ -220,4 +228,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2026-07-17 — [Your Software Is Now Your Best Marketing Channel (MS, co-hosted — Neil qualifies the "product = best channel" thesis: he pioneered it ~7-8 yrs ago (bought Ubersuggest ~$120k) but the real lever is FREE not feature-cadence, and it works "not as well as it used to" now everyone builds product; his biggest current lead-driver is conferences (a "three-for-one": speak + sponsor + side-events + branding); a premium on all good talent, not just "AI talent"; anti-vision-board)](2026-07-17-yt-L03nbcDp8v8.md) — ai-marketing, agency-entrepreneurship, content-marketing
 
 ---
-_207 videos ingested (L2) so far._
+_215 videos ingested (L2) so far._

@@ -1347,3 +1347,45 @@ browser push; names his own **Hello Bar** tool. (8) **Local link building (xpmvv
 Moz Local directories + Yelp city sections, chamber-of-commerce link, non-compete cross-promotion, Ahrefs
 competitor-backlink outreach. All 2017-dated; none contradict current positions. Synthesis debt now 9/10 —
 checkpoint (Stage S) is due next batch.
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P2 long-form (2017-08→09 solo tactical era, cont. 6)
+Stage B (first matching rule: synthesis debt 9/10 — no `>>> CHECKPOINT` banner, no channel/era
+complete; persona fresh (v2, pass 2, only 9 batches since); no zero-row TARGET; no open P1 → open P2
+exists). Continued @neilpatel P2 — the Neil-fronted primary corpus is fully Neil-attributed (no co-host
+quarantine → cleanest persona signal). Selection was priority-2, oldest-first: the 2017-08-22→2017-09-03
+solo run (4xBWaXpZD7M, HxBAeweP6Fs, 13jOMJhKISE, MB9cfH1OfH8, wGPLw4OaMjU, -oHmRLcLwtM, Q3uFxbONPF0,
+_CF6r_Ol3HA). Captions: 8/8 ok, 0 no-captions, 0 skipped, 0 dup, NO rate-limiting (no yt-dlp failures).
+L2 total 207→215. @neilpatel open long-form 1034→1026 (P2 1013→1005, P3 21); MS 766 (P2 738 / P3 28)
+untouched; shorts 2682 untouched. Coordinator did all shared-file bookkeeping (ledger, youtube-index,
+index.md, log).
+
+Attribution: all 8 are solo @neilpatel main-channel educational videos — single speaker, fully
+Neil-attributed, no guest/co-host, so the whole batch is persona-eligible (nothing quarantined, no
+uncertain-attribution flags). No caption garbles material enough to flag beyond page-level notes. One
+second-hand claim flagged in-page (not persona-training-eligible as Neil's own): a HubSpot 15-20-form-field
+lead-qualification anecdote attributed to "my buddy Ryan" (Q3uFxbONPF0). The Amazon "1% revenue per
+second of load time" figure (13jOMJhKISE) is attributed by Neil to an "Amazon study," not independently
+verified — flagged as such in-page.
+
+Synthesis notes: a coherent 2017 solo-tactical cluster spanning SEO, CRO, social, outreach, and hiring —
+mostly reinforcement of the established 2017-era playbook, a few durable specifics worth promoting at the
+next checkpoint: (1) **Get-indexed 3-step (4xBWaXpZD7M 2017-08-22)** — Google Search Console (see crawl
+errors/indexed pages) + XML sitemap via Yoast + submit sitemap; explicit new-site patience caveat
+(~4-6 months to a year before real ranking). (2) **A/B-test validity thresholds (HxBAeweP6Fs 2017-08-23)**
+— a concrete testing-rigor rule set he repeats: aim ~99% statistical significance AND run ≥1 full 7-day
+week (day-of-week behavior differs) AND require ≥100 conversions per variation regardless of what the tool
+claims. (3) **Site speed = revenue (13jOMJhKISE 2017-08-24)** — Amazon "1%/sec" framing; Google PageSpeed
+→ AMP for mobile → CDN (names Akamai, expensive-but-good) → cache (W3 Total Cache on WordPress).
+(4) **Blog-URL categories are size-dependent (MB9cfH1OfH8 2017-08-26)** — skip under ~100 pages, use for
+1000+ posts to signal topic to Google; single-hyphen slugs, never double dashes. (5) **Content-curation
+automation stack (wGPLw4OaMjU 2017-08-31)** — Twitter favorites → Pocket → IFTTT/Zapier → Buffer
+auto-scheduling; his "you don't have to create the content" curation stance. (6) **Outreach time-savers
+(-oHmRLcLwtM 2017-09-01)** — Yesware (templates + open-tracking → change opener / stop emailing non-openers)
++ Boomerang (auto follow-up, suppressed if they already replied); framed as the engine for links/guest
+posts/shares. (7) **Lead qualification via form fields (Q3uFxbONPF0 2017-09-02)** — "most leads are crap";
+qualify with revenue/profit/12-month-goals/timeline/budget fields + Clearbit enrichment; recurring doctrine
+**optimize for lead QUALITY not volume** (10 qualified > 200 junk) — aligns with his later anti-vanity-metric
+stance. (8) **Outsource-on-a-budget (\_CF6r_Ol3HA 2017-09-03)** — for cash-poor startups, Fiverr/Upwork over
+interns/full-time hires; vet by ≥10 detailed positive reviews + response time, not lowest price; concrete
+example of his own Upwork sales-copywriter. All 2017-dated; none contradict current positions. **Synthesis
+debt now 10/10 — the Stage S checkpoint is DUE and MUST run before the next ingest batch.**
