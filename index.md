@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-20 (ingest: @neilpatel batch — 8 P2 long-form L2, 2018-11 solo tactical + summit + Q&A-Thursday era (★7 SEO experiments 9k→449k organic — quantity flattens→find+skyscraper winners, CTR via Twitter title tests, manufactured brand-query spikes +24%, tools>content, entry-popup+above-the-fold bounce 85.7→72.9%, thoroughness>density, dateless URLs +40%; ★content-marketing = quantity wins + rewrite Search-Console winners more thorough + competitor top-page mining (Ahrefs/BuzzSumo) + tools out-ROI content; ★CRO over acquisition — cheaper, lets you out-bid on ad spend; ★landing-page hacks — engage-first quizzes +108%, headline dominance, checkout bumps, SaaS sells 6-10x revenue at breakeven ⚠️several deceptive affiliate tactics relayed/partly disavowed; ★never burn bridges + karma (Rockwall TX >$1M fraud loss, bio); ★hustle/make-time (immigrant-mother story, bio) + pre-sell digital product ($500k Hustle pre-sold); big companies fail by not adapting; AdSense — own the product/audience, don't rent from Google); 421 videos L2)_
+_Last updated: 2026-07-20 (ingest: @neilpatel batch — 8 P2 long-form L2, 2018-11-22→12-17 solo tactical + Q&A-Thursday + Vienna-keynote era: affiliate marketing on zero budget (free WP + email capture); ★Vienna growth-hacking keynote (~2014) — 5 distribution strategies (integrations / viral email onboarding / embeds / powered-by badges / free tools), KISSmetrics targeting fail, guest-post laddering, Airbnb two-sided seed, YouTube pre-roll #1 ROI, ⚠️bio born-London/lived-Seattle + ⚠️ethics-flag black-hat Q&A tactics quarantined; growth hacking "not dead, just changed" — NPS 60+, video remarketing, unsaturated channels, partnerships; SEO page-1 = user-metrics + title-tag CTR, PPC≠organic; belief: social media is his favorite channel (connection>revenue); barely uses Instagram (B2B, team-connection); 4 Facebook-group email-list tactics; ★bio (lawyer video) — get legal docs early, SF lawyer Joey Tran, survived FTC/class-actions, brother-in-law is a business partner; 429 videos L2)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life/career timeline (England → Orange County → Crazy Egg/KISSmetrics → NP Digital → Ubersuggest → Marketing School), registry/court-verified vs self-reported marked per claim.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe.
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 421 videos ingested (L2).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 429 videos ingested (L2).
 
 ## Topics
 

@@ -2579,3 +2579,59 @@ don't rent from Google (platform/demonetization risk) — kin of the earlier "ow
 Captions clean; minor garbles noted per page (Vasil surname uncertain, Babbel/Qualaroo/LeadPages,
 Rockwall "rockwell", influencer/name spellings). **Synthesis debt now 6/10 batches since pass 5 — no
 checkpoint yet; Stage S due at 10 (or channel/era completion).**
+
+## [2026-07-20] ingest | yt batch (@neilpatel, 8) — P2 long-form (2018-11→12 solo tactical + Q&A-Thursday + Vienna-keynote era, cont. 33)
+
+Ingested 8 @neilpatel P2 long-form (2018-11-22 → 2018-12-17) to L2. All captions clean; 0 no-captions,
+0 dup, 0 skipped, 0 yt-dlp failures / 429s. Two are **Q&A Thursday** episodes co-hosted with **Adam**
+(surname garbled in captions, "from ViewerShip") — Neil = subject, Adam's asides attributed to him and
+kept out of persona data.
+
+- **ULrck4Vzyu0** (2018-11-22) — affiliate marketing needs **no money**: free WordPress.com site in a
+  passion niche, mine proven titles via BuzzSumo/SEMrush/Ubersuggest, outreach for shares (GDPR-aware),
+  capture emails (Subscribers/Hello Bar), monetize after ~6mo of community.
+- **OOnOnOIqV-k** (2018-11-29) — ranking page 1 for competitive terms = **user metrics** (CTR, dwell,
+  no pogo-stick back to SERP) + rewriting **title tags** from Search Console keywords; "page 2 = where to
+  bury dead bodies"; **PPC does NOT help organic ranking**.
+- **p0Qgg3XSft4** (2018-12-01) — belief: **social media is his favorite channel** despite Google earning
+  more — social gives one-on-one connection/feedback that improves product, messaging, conversions; judge
+  channels by value not revenue.
+- **dDDpdAnb_Es** (2018-12-08) — barely uses **Instagram** (B2B acquisition is hard there); pick channels
+  that fit vs spreading thin; uses IG to connect with team; don't chase "Insta-famous," build relationships.
+- **MjQRmT82JBM** (2018-12-13) — 4 **Facebook-group → email-list** tactics: repost lead-magnet landing
+  pages, private-group onboarding/qualifying questions (piped via Zapier), group-description CTA, offer in
+  the cover image; "you don't want the biggest group, you want the most qualified."
+- **cAq0ulz6Hpw** (2018-12-17) — "**growth hacking not dead, just changed**": old hacks (FB address-book,
+  Dropbox refer-for-space) played out; measure product-love via **NPS (aim 60+)**; **video remarketing**
+  of cart/lead abandoners; adopt new unsaturated channels (Reddit/Quora ads) early; non-competitor
+  **partnerships/affiliates**.
+
+**★ YbvPok3xo5g** (pub 2018-12-04) — **Vienna growth-hacking keynote + long Q&A**, an L3-candidate: 3
+prereqs (know your customer / how to reach them / avoid crowded channels) + **5 distribution strategies**
+(integrations, viral email onboarding, embeds, powered-by badges, free tools), with KISSmetrics targeting
+fail, Dropbox unit-economics, guest-post laddering to earn columns (Forbes/Inc), Airbnb+Craigslist
+two-sided seed, and YouTube pre-roll as his #1 ROI channel. ⚠️ **DATING**: Neil says "I'm 29" / "started
+at 16" → the talk was **recorded ~2014** and re-uploaded in 2018 (figures/tactics are ~2014-era, not
+2018). ⚠️ **BIOGRAPHY**: "born in London and lived a lot of my life in **Seattle**" — Seattle residency is
+NOT in SUBJECT.md (England → Orange County); flag for bio reconciliation, self-reported. ⚠️ **ETHICS**:
+Q&A relays black-hat tactics (Mechanical-Turk **fake App Store upvotes** = "the shady answer", **Yelp
+scraping** for cold-email lists, a crude Instagram "free socks to models" hack) — Neil labels the upvote
+one shady and offers legit alternatives; **quarantine from persona beliefs**, keep only as dated voice.
+
+**★ _TmX1PcjIhk** (2018-11-24) — bio-rich lawyer monologue: get **legal docs in place before you succeed**;
+names his SF lawyer **Joey Tran** (good, honest, not the priciest); says he's survived **FTC investigations,
+class-action lawsuits, and partner mediation** (self-reported, court status unverified here); reveals one
+**business partner is his brother-in-law** and that **family partnerships have caused him the least
+conflict** (contradicts the usual "don't do business with family" advice). Persona-worthy character detail.
+
+Captions clean; minor garbles noted per page (co-host "Adam ... ViewerShip"; viewer names). Synthesis debt
+now **7/10 batches since pass 5** — no checkpoint yet; Stage S due at 10 (or channel/era completion).
+
+Synthesis notes: NEW for next pass — (1) ★ five-strategy growth-hacking distribution framework
+(integrations/email-onboarding/embeds/powered-by/free-tools) + guest-post laddering + two-sided-market
+seeding (YbvPok3xo5g), an L3-candidate keynote; (2) ⚠️ BIO reconciliation — "lived a lot of my life in
+Seattle" not in SUBJECT.md, and the keynote is a ~2014 re-upload (date opinions accordingly); (3) bio/entity
+— brother-in-law as business partner + lawyer Joey Tran + FTC/class-action history (_TmX1PcjIhk); (4) belief
+— social media is his *favorite* channel for connection despite Google's revenue (p0Qgg3XSft4); (5) tactic —
+NPS 60+ as the growth-readiness gate + video-remarketing of abandoners (cAq0ulz6Hpw); (6) ⚠️ ethics — several
+black-hat tactics in the Vienna Q&A to keep OUT of persona (reported-not-endorsed).
