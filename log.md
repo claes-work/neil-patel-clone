@@ -2390,3 +2390,42 @@ algo turns; chase unsexy underrated channels; **LinkedIn > FB/YT for his videos*
 framework** (GA goal tracking + remarketing attribution via first-entry-point + brand-lift via
 mentions/Google-Trends + email capture (Hello Bar) & drip, _OF2hf8GqCk — reinforces brand-first
 throughline). Self-plugs: Subscribers (push), Hello Bar (email), Ubersuggest.
+
+## [2026-07-20] ingest | yt batch (@neilpatel, 8) — P2 long-form (2018-09 solo tactical + Q&A-Thursday era, cont. 29)
+
+Ingested 8 P2 long-form videos from @neilpatel (2018-09-06 → 2018-09-25) to L2, continuing
+the 2018 solo-tactical + Q&A-Thursday drain. All captions fetched cleanly (0 no-captions,
+0 429s, 0 dup/skip). Mix: 3 Q&A-Thursday episodes (interviewer **Adam Lodolce / Viewership**
+— context only, Neil-attributed material trains persona) + 5 solo (2 SEO tactical, 3
+mindset/business). New source pages: 2018-09-06 International SEO Strategy (OSOrolTuk9o),
+2018-09-08 How Passion Keeps Me Going (7paQn8lEgyo), 2018-09-11 5 Insider Tips Page 2→Page 1
+(pxN6wX92wu8), 2018-09-13 Facebook Video Monetization (6tx9BAyDOIY), 2018-09-15 Where/When To
+Cut Costs (Y9XduPWaMOA), 2018-09-20 Commission & Structure a Sales Team (7te138iaH-s),
+2018-09-22 Business Never Sleeps (i3CLLgq_UUI), 2018-09-25 One Simple Hack for Traffic
+(BbGCl5BP3Mk). youtube-index footer 389 → 397; index.md count bumped. Ledger rows set L2.
+
+Synthesis notes: several ★ L3-candidates for the next pass. NEW/reinforced: **international-SEO
+playbook** (validate market by real paying customers not population/GDP → PPC-test the region
+→ manual translation not Google Translate (auto-translate → German-homepage profanity + bounce
+spike, Panda/RankBrain) → hreflang → **subdomains > subdirectories**, a self-critique of his own
+neilpatel.com/de — DATE-STAMP: modern subdomain-vs-subdirectory consensus differs, don't present
+as current → dominate home region first, OSOrolTuk9o). **Page-2→Page-1 SEO** (Ahrefs
+competitor-link outreach ~4-5 links/100 emails + title-tag/CTR via Search Console +
+keywords-as-problems/anti-pogo-sticking + **BRAND as a top ranking factor** — strongly reinforces
+the recurring brand-first SEO throughline (2018-08-11, 2018-09-04), pxN6wX92wu8; NB title says
+"5 tips" but only 4 delivered). **Monetization doctrine**: make ≥10x more selling your own
+products than from YT/FB ads; ads "just pay for editing"; drive traffic to your main income
+(6tx9BAyDOIY). **Downturn/team doctrine**: cut yourself before your team ("no departments"; he'd
+move in with his parents), keep a cash reserve, reimburse the team with interest/equity when you
+recover (11-12yr tenures; co-founder) — Branson-Brazil-conference anecdote recurs (also
+7te138iaH-s) as bio data (Y9XduPWaMOA). **Sales-ops heuristic**: base+commission not
+commission-only; whole sales dept ≤~10% of first-year revenue (VC flex 20-30%); Upwork by quality;
+contractor→in-house when full-time is cheaper (7te138iaH-s). **Mindset/voice**: "passion not
+caffeine" + find-your-calling-by-trying-many-small-things (7paQn8lEgyo) and the hard "business
+never sleeps" hustle stance — works sick/holidays, sacrifice family time, "not cut out to be an
+entrepreneur" otherwise (i3CLLgq_UUI). ⚠️ The 2018 grind/sacrifice stance may conflict with any
+later work-life-balance position — flag on contradiction, don't present as current. Minor:
+Subscribers.com browser-push + fast-drip re-engagement (Ubersuggest→agency→YouTube, BbGCl5BP3Mk)
+complements the existing email-capture/drip playbook — consolidate rather than promote separately.
+Probable caption garbles noted on pages: "koalaroo" ≈ Qualaroo; "scitec upwork" ≈ "sites like
+Upwork". Synthesis debt now 3/10 batches since pass 5 — no checkpoint yet.
