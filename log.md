@@ -2686,3 +2686,62 @@ agency-entrepreneurship topic page; (2) the explicit **"combine GSC + Ubersugges
 re-indexing"** workflow (WTWZQ_4_zNk) is a cleaner canonical version of the recurring long-tail-refresh
 tactic. No new beliefs requiring persona changes; no contradictions with prior sources; the AnswerThePublic
 pre-acquisition framing is date-stamped, not a contradiction.
+
+## [2026-07-20] ingest | yt batch (@neilpatel, 8) — P2 long-form (2019-01-09→01-28 solo tactical era, cont. 35)
+
+Ingested 8 @neilpatel P2 long-form (2019-01-09 → 2019-01-28) to L2. All captions clean; 0 no-captions,
+0 dup, 0 skipped, 0 yt-dlp failures / 429s. All eight are Neil-fronted solo monologues (no guests, no
+attribution splits). One is a paid promo (PayPal-sponsored) but Neil-fronted with genuine tactics —
+ingested with a visible SPONSORED callout and figures marked self-reported. Era continues the tightly
+tactical SEO/content/CRO canon with two above-average items (growth-hacking retest lesson; a contrarian
+personal-brand belief).
+
+- **48V15AyyJ4I** (2019-01-09) — ⚠️ **PayPal-SPONSORED** "grow your business with PayPal": add PayPal
+  checkout option (+6%), **payment plans** vs flat $997 (+13%, cancellations still net-positive) → ~19%
+  total, PayPal **Card Reader** to close offline at conferences/booths, **PayPal business loans** (they see
+  your revenue flow) to fund more Google/FB ad spend. All lift figures self-reported/promotional.
+- **TMYn3gfd520** (2019-01-10) — "grow in a competitive space": **conversion foundation BEFORE traffic** —
+  collect emails (Hello Bar; "money is in the list") + A/B testing ("best ROI... very few companies do it";
+  Crazy Egg/Optimizely/Hotjar/VWO) first; then unique posts + link-out-and-email, push (subscribers.com),
+  spy (SEMrush/Ahrefs/BuzzSumo), trade shows/speaking, **performance-based PR (prserve.com)**. Self-ref
+  1.8M visits/mo, "more revenue offline."
+- **akj2Q3Ha9Ho** (2019-01-12) — **own the WHOLE first page** (> ranking #1): interlink a pillar with
+  topical offshoots, publish multiple pages per topic (5-7 angles), no self-duplication, build links to
+  *every version* via Ahrefs Link Intersect, re-share each 4-5x over 6mo, update yearly. Extreme: repeat
+  across multiple sites.
+- **i4CY-XD6agM** (2019-01-14) — **"does blogging still work in 2019? yes, but changed"**: quality>quantity
+  (~1 blog per 7 people), respond to comments + end posts with a question, conversational you/I in 5-6 line
+  paragraphs, CTAs (no CTA = no sales), collect emails (Hello Bar + lead magnet), push, **MobileMonkey
+  chatbot** (cites "Ryan from HubSpot→G2 Crowd" 90% CTR; Neil "above 70%" vs ~10% email).
+- **qQqRKOYBeOU** (2019-01-17) — **growth-hacking MINDSET** (not just tactics): document every change,
+  never be satisfied (even 15-20% MoM), spy competitors, **BuiltWith→Wayback Machine to read a
+  competitor's A/B-test winners**, Product Hunt for new tools, never stop learning (HubSpot gets 5-7x his
+  traffic), **always test AND RETEST** — worked example: Google-only login once won, but on retest amid
+  security fears conversions tanked until email/password was re-offered. Above-average / ★-adjacent.
+- **QJUIk3qhQ-w** (2019-01-19) — **"37,391 visitors" distribution playbook**: link out + flattery email
+  ("it's flattery... works on me too"), custom intro per network + re-share same post 6x/yr, respond to
+  all comments (**comment > like** in algos) ending replies with a question, **email + push blast within
+  the first hour**, BuzzSumo "view shares" outreach, update content yearly. Self-ref ~37,391 visits/post.
+- **I0joqcqpiO4** (2019-01-21) — **"SEO in 2019 what works/doesn't"**: organic gets majority of clicks;
+  unique>volume, **brand signals** (Google Trends brand-vs-competitor, omni-channel over 1-2yr), Link
+  Intersect ("link building harder than ever"), **site speed / mobile-first** (Google PageSpeed), **voice
+  search** (2-of-5 adults; dated prediction "50%+ by 2020"; short 1-2 sentence answers + HTTPS), yearly
+  content updates.
+- **-Zn12KKyA84** (2019-01-28) — ★ **"become the next Neil Patel" personal branding** — opens CONTRARIAN:
+  despite making millions off his personal brand he'd build a **CORPORATE brand instead** (personal brands
+  die with the person; McDonald's/Coca-Cola/Pepsi/Google endure; **Apple grew even after Steve Jobs**).
+  Tactics (work for either): weekly blog (text still out-ranks video/audio on Google), ~4 talks/yr, weekly
+  5-6min podcast (**Libsyn description = "SEO for podcasting"** via Ubersuggest), edu video 4-7min
+  (Ubersuggest keywords + rev.com SRT), genuinely care/pay-it-forward, respond to every comment, give it
+  2-3 years, track in Google Trends. Self-ref "16th or 17th year."
+
+Synthesis notes: NEW / worth promotion next pass — (1) ★ the **corporate-brand-over-personal-brand belief**
+(-Zn12KKyA84) is a genuinely new, dated, characteristic *opinion* (not a tactic) — strong persona/beliefs
+candidate, and note it sits in tension with his own decade of personal-brand-building (flag as an evolved/
+reflective position, not a contradiction of practice). (2) the **"always test AND retest, because market
+conditions change" + Google-login cautionary tale** (qQqRKOYBeOU) sharpens the CRO canon with a concrete
+failure mode. (3) **BuiltWith→Wayback to reverse-engineer competitors' A/B winners** is a novel competitive-
+research move worth a topics/analytics-cro note. Rest (own-the-SERP interlinking, link-intersect, unique>
+volume, brand signals via Google Trends, first-hour blast, email/push, yearly updates) heavily reinforces
+the established 2017-18 canon — high repetition. Dated prediction logged: "voice search 50%+ by 2020"
+(I0joqcqpiO4). No hard contradictions; PayPal figures and traffic/career self-reports are flagged in-page.

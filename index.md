@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-20 (ingest: @neilpatel batch — 8 P2 long-form L2, 2018-12-20→2019-01-05 solo tactical + tool-roundup era: favorite traffic hack = combine Google Search Console + Ubersuggest for long-tails on top-traffic pages; SEO vs paid = do BOTH / omni-channel (dayparting, aggressive short PPC landing pages vs ~2000-word SEO pages); 3-tools stack (Ubersuggest, GSC title-tag A/B via CTR, Ahrefs Link Intersect) + rule-of-seven brand mentions; agency-hiring 7-point vetting checklist (own traffic, big-logo case studies, tactical implementers, vet the people not the founder, references, similar-sized clients); 5 social mistakes (don't over-post ~1/day, first-hour engagement, video 2-3x); Google-vs-YouTube SEO (YT 24-48h/day-one-sets-lifetime, links vs watch-time); Instagram Stories 6-tactic formula (post ~4x/day, location tags); beginner SEO tools roundup (Moz/BuzzSumo/Keywords Everywhere/AnswerThePublic pre-2022-acq); 437 videos L2)_
+_Last updated: 2026-07-20 (ingest: @neilpatel batch — 8 P2 long-form L2, 2019-01-09→01-28 solo tactical era: PayPal-SPONSORED conversion promo (+6%/+13%→19% self-reported); grow-in-a-competitive-space (email+CRO/A-B foundation BEFORE traffic; performance PR prserve.com); own-the-whole-SERP (interlink pillar+offshoots, multiple pages/topic, link to every version via Ahrefs Link Intersect); blogging-still-works-2019 (quality>quantity, respond+end-with-question, CTAs, MobileMonkey chatbot 70-90% CTR); growth-hacking MINDSET (document everything, never satisfied, BuiltWith→Wayback to read competitors' A-B winners, Product Hunt, always test AND retest — Google-only-login retest cautionary tale); 37,391-visitors distribution playbook (link-out+flattery email, re-share 6x/yr, comment>like, first-hour email+push blast); SEO-in-2019 (unique>volume, brand signals via Google Trends, voice search 50%+ by 2020, site speed/mobile-first); CONTRARIAN personal-branding (he'd build a CORPORATE brand not personal — McDonald's/Google outlast the person, Apple grew post-Jobs); 445 videos L2)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life/career timeline (England → Orange County → Crazy Egg/KISSmetrics → NP Digital → Ubersuggest → Marketing School), registry/court-verified vs self-reported marked per claim.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe.
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 437 videos ingested (L2).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 445 videos ingested (L2).
 
 ## Topics
 
