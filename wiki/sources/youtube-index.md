@@ -35,6 +35,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2018-12-10 — [How Digital Marketing Will Change in 2019](2018-12-10-yt-b-gwbVJqi9Y.md) — content-marketing, seo, analytics-cro
 - 2018-12-15 — [Rank #1 on Google Using 7 Free SEO Tools](2018-12-15-yt-snqHKBYfkQw.md) — seo, content-marketing, analytics-cro
 - 2019-01-24 — [How To ACTUALLY Write A Blog Post From Start To Finish](2019-01-24-yt-Q8rN3JKqUc8.md) ★ — content-marketing, seo
+- 2019-01-26 — [DON'T Use Paid Ads: My #1 Organic Marketing Strategy (content-refresh long-tail via Ubersuggest)](2019-01-26-yt-fGOv5oU5vww.md) — seo, content-marketing
+- 2019-04-08 — [99.9% of eCommerce Products Won't Sell Without Persuasive Copy (benefit-led copy, reviews, checkout CRO)](2019-04-08-yt-GkOM7q9BYGQ.md) — analytics-cro, content-marketing
+- 2019-04-13 — [1 Simple Hack to Get 1000 Likes on Facebook — Messenger blasts (MobileMonkey, 2019)](2019-04-13-yt-3UNBH439N38.md) — social-media, content-marketing
+- 2019-04-22 — [How to Start a Career in Digital Marketing — DIY site, competitor research, outreach](2019-04-22-yt-DoLzQN1m7sU.md) ★ — content-marketing, seo, email-marketing
+- 2019-06-10 — [How to Get 4 Million Visits Per Month With One Simple Keyword Hack (long-tail expansion of ranking pages)](2019-06-10-yt-zK4oTuiFV1E.md) ★ — seo, content-marketing
+- 2019-07-04 — [The Perfect SEO Setup for WordPress — 8 Plugins (caching, Yoast, AMP, schema, SSL)](2019-07-04-yt-JiqNIUQNQ7I.md) ★ — seo
+- 2019-07-15 — [How to Build Backlinks Without Paying for Them (competitor mining + skyscraper + custom outreach)](2019-07-15-yt-MjO8lIQ68-8.md) ★ — seo, content-marketing
+- 2019-07-22 — [The Fastest Ways to Bring Traffic to a New Website (6 low-budget tactics)](2019-07-22-yt-LdnWx49LUJc.md) — seo, content-marketing, paid-ads
 
 ---
-_24 videos ingested (L2) so far._
+_32 videos ingested (L2) so far._

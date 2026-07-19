@@ -168,3 +168,53 @@ tactic. Remaining six videos (100K-subs growth story, promoting a video with zer
 social-media beginner tips, 2019 predictions, 7 free SEO tools, blog-post workflow) mostly
 reinforce already-captured YouTube-growth / SEO-tool / content-depth themes — fold in as
 corroboration, not new spine. All dated 2018-04 → 2019-01.
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P1 long-form #4
+
+Fourth real ingest batch. Stage machine (`.claude/commands/ingest-loop.md`, first-match)
+selected **Stage B** (open P1 long-form rows exist). Not-taken rules: Stage S not due
+(3 batches since synthesis, checkpoint at 10; no `>>> CHECKPOINT`, no channel/era
+complete); Stage P not stale (3 batches since last synthesis/persona entry <10, no new
+topic pages beyond the bootstrap hubs, P1 far from drained, and this is not the first loop
+run); Stage A n/a (both TARGET channels enumerated). Channel @neilpatel (Neil-fronted
+primary corpus, persona-first). Selection = clone's own rule: priority-ascending then
+oldest-`published` first → next 8 oldest open P1 rows (2019-01-26 → 2019-07-22).
+
+Processed: **8 ingested (L2), 0 skipped, 0 no-captions, 0 dup.** All captions fetched
+clean on the first try — no rate limiting (0 429s). Four rows flagged **★ L3-candidate**
+for the next synthesis: `yt-DoLzQN1m7sU` (start-a-digital-marketing-career framework),
+`yt-zK4oTuiFV1E` (long-tail expansion workflow), `yt-JiqNIUQNQ7I` (WordPress SEO plugin
+setup), `yt-MjO8lIQ68-8` (canonical no-pay backlink/skyscraper playbook). All 8 are solo
+Neil videos → fully Neil-attributed; self-reported traffic/benchmark claims (e.g. "4M
+visits/month", "90% of top sites have SSL", "30-40% share rate") marked as such in-page.
+Caption garbles caught and handled in-page (WordPress plugin + tool names verified against
+plausible real products; one "XE of Google" garble kept verbatim with a flag). No
+contradictions surfaced against existing pages.
+
+Ledger after: L2=32, L3=0. Open long-form P1 @neilpatel 36, @MarketingSchoolPod 60
+(96 total P1 remaining); P2 ~1,831; open shorts ~2,682. Ingest batches since last
+synthesis: 4 (checkpoint at 10) — Stage S still 6 batches away.
+
+Synthesis notes: several genuinely-new tactical systems to promote at next Stage S —
+(1) **Content-refresh playbook** (`yt-fGOv5oU5vww`, 2019-01-26): GSC → Ubersuggest
+long-tail mining → rewrite the ranking page deeper (not keyword-stuff) → tighten
+title/meta → link-out outreach; 9k→17k monthly-visitor case study on his digital-marketing
+guide. (2) **Long-tail expansion workflow** (`yt-zK4oTuiFV1E`, 2019-06-10): Ubersuggest
+Top Pages + GSC → Keyword Ideas report → rewrite existing ranking pages, ~30-day payoff —
+tightly overlaps (1); fold both into one seo/ "expand what already ranks" concept.
+(3) **Start-a-digital-marketing-career framework** (`yt-DoLzQN1m7sU`, 2019-04-22): DIY site
+→ Ubersuggest competitor research → beat top pages → link/social outreach → email + push →
+sell → A/B test, with a "high volume + high CPC + low difficulty" keyword-priority
+heuristic and a ~7-visits-to-build-a-brand rule. (4) **No-pay backlink / skyscraper
+outreach** (`yt-MjO8lIQ68-8`, 2019-07-15): find a competitor's linked pages → write a
+demonstrably deeper article → custom (non-templated) outreach to their linkers; Neil names
+content quality as the single most important step. New standalone data points worth a line
+each: **90% of top-ranking sites have SSL** and **AMP gave little US mobile lift but a
+large boost in weaker-infrastructure markets like Brazil** (`yt-JiqNIUQNQ7I`, 2019-07-04);
+**~1% of first-time visitors return after 3 months / 30-40% share rate on featured-content
+asks** (`yt-LdnWx49LUJc`, 2019-07-22). One dated/stale tactic to capture-but-flag:
+**Facebook Messenger "blast" marketing via MobileMonkey** (`yt-3UNBH439N38`, 2019-04-13) —
+auto-subscribe list + ask-for-like/comment, comments cited as the top FB algorithm signal;
+tool and "free" status are 2019-specific. The eCommerce product-page CRO video
+(`yt-GkOM7q9BYGQ`) restates Neil's standard benefit-led-copy/reviews/checkout playbook —
+corroboration, not new spine. All dated 2019-01 → 2019-07.
