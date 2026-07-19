@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-19
-sources: 1
+updated: 2026-07-20
+sources: 2
 ---
 
 # Appearance
@@ -24,6 +24,18 @@ mark every entry's evidence type.
   quit. He abandoned a **~$3,000/month glued-on hair system** and **shaved his head permanently** —
   framing it as the **low-maintenance** choice that also became a recognizable part of his personal
   brand. ([[2018-04-07-yt-zoqhUhDyE9w]])
+
+## Dress & wardrobe — the "dress for success" experiment (self-narrated, 2018-10-20)
+
+- **Ran a six-figure wardrobe self-experiment, then reverted to comfort.** 🗣️ In a "dress for
+  success" video Neil says he **reversed an earlier belief** that clothes don't matter: he spent
+  **six figures on clothes** (a Las Vegas shopping run) and reports it earned him **more trust, more
+  work, and higher pay** — people treat you as they see you. Yet he says he **personally prefers
+  comfort now** (he names **Lululemon**) and **accepts leaving money on the table** for it. So the
+  documented self-presentation is a deliberate *anti-flashy, comfort-first* look, held despite his
+  own evidence that dressing up pays. ([[2018-10-20-yt-BAqKCaJ0vRU]])
+  > Note the belief-shift: dress-doesn't-matter → dress-for-success (it measurably helps) →
+  > chooses-comfort-anyway. Consistent with his money-is-hollow minimalism in [[beliefs]].
 
 ## Personal color / lifestyle notes (self-narrated, context)
 

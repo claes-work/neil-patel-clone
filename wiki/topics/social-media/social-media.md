@@ -2,7 +2,7 @@
 type: hub
 domain: social-media
 created: 2026-07-14
-updated: 2026-07-19
+updated: 2026-07-20
 ---
 
 # Social Media — hub
@@ -322,7 +322,45 @@ self-reported; date-flag before reuse.
   equity** (Dr. Dre + Jimmy Iovine's Beats → Apple, >$1B). He pairs it with **"aim for financial
   freedom over max income"** ([[2018-04-17-yt-KIXvMNrKO9g]]).
 
+## 2018-H2 → 2019 solo-era social tactics (@neilpatel P2)
+
+- **First-hour engagement is the growth lever — "the opposite of SEO" (2018-12-29).** His **5 social
+  mistakes**: over-posting (max ~1/day; volume works on Twitter, not most networks), mediocre content
+  (model winners via BuzzSumo/Social Blade), not using **video** (2–3× engagement), **not driving
+  first-hour engagement** (blast every new post to your **email + push list** — "the opposite of SEO,
+  where you wait"), and not engaging back (reply every comment) ([[2018-12-29-yt-TnQt_-uwR7g]]).
+- **Facebook-group → email-list — build the *qualified* group, not the biggest (2018-12-13).** Four
+  tactics to convert a group into a list: repost **lead-magnet landing pages**, gate entry with
+  **onboarding/qualifying questions** (piped to email via **Zapier**), put a CTA in the **group
+  description**, and offer in the **cover image**. His rule: **"you don't want the biggest group, you
+  want the most qualified"** ([[2018-12-13-yt-MjQRmT82JBM]]). Voice line captured in [[persona/voice|voice]].
+- **Instagram Stories volume formula (2019-01-03).** Stories **reward volume** (opposite of the feed):
+  post **~4×/day**, favor **video/Boomerangs** over photos, **tag relevant accounts**, mine **searched
+  hashtags via Ubersuggest** (search data transfers to IG), use **polls/questions/sliders**, and add
+  **location tags** to trigger IG amplification ([[2019-01-03-yt-Wstj3a07_b8]]). Sharpens the 2018-04-19
+  Stories lead-gen play above.
+- **The LinkedIn "see more" hack + comment > like (2019-01-31).** **7 social hacks**: respond to every
+  comment (**comment > like** in FB/LI/IG algorithms; ask a question back), the **LinkedIn short-sentence
+  "see more" hack** (the click signals demand → more reach), be **social not just promotional** (2–3
+  value posts/wk), **IG/FB Stories 10+/day + swipe-up** (cites GaryVee), cross-promote all profiles, and
+  keep **exit popups desktop-only** (mobile wait 30s) ([[2019-01-31-yt-3x9AWh7g1YQ]]). Reinforces the
+  comments-beat-likes heuristic above.
+- **Post to Facebook natively; every platform is "selfish" (2018-10-04).** Third-party schedulers cut
+  Facebook reach **~2–3×**, so **post natively**; "every platform is selfish" about keeping users on-site.
+  Paired with standardized **month-end per-network reporting** and **niching clients into one industry**
+  ([[2018-10-04-yt-5dyn03RSWVA]]). *(Self-reported and admittedly untested since ~2016–17 → date-stamp.)*
+- **Instagram is weak for B2B acquisition (2018-12-08).** Neil says he **barely uses Instagram** because
+  **B2B acquisition is hard there** — pick channels that fit your buyer rather than spreading thin; he
+  uses IG mainly to connect with his team, and warns against chasing "Insta-famous" over relationships
+  ([[2018-12-08-yt-dDDpdAnb_Es]]).
+
 ## Key source pages
+- [[2018-10-04-yt-5dyn03RSWVA]] — Post to Facebook natively (schedulers cut reach 2–3×); monthly reporting.
+- [[2018-12-08-yt-dDDpdAnb_Es]] — Instagram weak for B2B; pick channels that fit; don't chase Insta-famous.
+- [[2018-12-13-yt-MjQRmT82JBM]] — Facebook-group → email-list (qualify > size; Zapier).
+- [[2018-12-29-yt-TnQt_-uwR7g]] — 5 social mistakes; first-hour engagement "opposite of SEO".
+- [[2019-01-03-yt-Wstj3a07_b8]] — Instagram Stories volume formula (~4×/day; Ubersuggest hashtags).
+- [[2019-01-31-yt-3x9AWh7g1YQ]] — 7 social hacks; LinkedIn "see more"; comment > like.
 - [[2018-05-17-yt-o67Axprx92I]] — Facebook native video beats YouTube links 20–50× (captions, FB Live).
 - [[2018-03-29-yt-AqlT73hQaOc]] — Facebook engagement-first algorithm play (reply to comments, question posts).
 - [[2018-04-19-yt-uAJ0AnllQ44]] — Instagram Stories lead-gen (hourly tip-drip, CTA, swipe-up).

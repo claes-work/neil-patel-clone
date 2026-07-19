@@ -2,7 +2,7 @@
 type: hub
 domain: content-marketing
 created: 2026-07-14
-updated: 2026-07-19
+updated: 2026-07-20
 ---
 
 # Content Marketing — hub
@@ -150,7 +150,35 @@ New/durable content-ops primitives from the 2017 solo run (dated; period tactics
   outreach** — his recurring comfort-insoles / eczema one-product six-figure examples
   ([[2018-03-01-yt-UBq77K0L4Xk]]).
 
+## 2018-H2 → 2019 solo-era content tactics (@neilpatel P2)
+
+- **"Blog LESS, promote more" — the distribution>production datapoint (2018-10-30, ★).** The dated
+  antecedent of his 80/20 promote-vs-create rule (above): Neil says he **cut from ~7×/week to 1×/week
+  and traffic went 800K → 1.6M/mo** — because **volume doesn't drive traffic, promotion does**. The
+  promotion stack: email every post (Hello Bar) + Subscribers.com push + cite-source/BuzzSumo outreach
+  (10–30% share) + headline work (8/10 read the headline, 2/10 click; 5–7 words); target an **80/20
+  write-vs-promote** split ([[2018-10-30-yt-ey1GbXO-Y7M]]). The concrete proof behind "Promotion vs
+  creation" above.
+- **"Look Into Neil's Brain" — advanced content session (2018-11-06).** Reinforces the same doctrine
+  end-to-end: **publish quantity but rewrite the Search-Console winners to be more thorough**, mine
+  competitors' top pages (Ahrefs/BuzzSumo), remember **tools out-ROI content**, and **go niche vs chase
+  authority** (Hummingbird) ([[2018-11-06-yt-iwdtj5I-HYg]]).
+- **Content freshness/recency + "the future is video" (2019-02-16).** A new content-strategy lever:
+  **Google prefers fresh/recent content** (a <1-week piece can beat a 2-year-old one) → **update old
+  content** rather than only writing new. Paired with his **"the future is video, text is overrated"**
+  bet and **iPhone-shot video converting better than studio** for products (credits Tai Lopez) — a
+  belief-evolution flagged in [[persona/beliefs|beliefs]] ([[2019-02-16-yt-tRXT58fDzjg]]).
+- **"Does blogging still work in 2019? Yes — but changed" (2019-01-14).** Restates the blog-post
+  template with a 2019 emphasis: **quality > quantity** (~1 blog per 7 people in a niche), **respond to
+  comments and end posts with a question**, conversational you/I in **5–6-line paragraphs**, always a
+  **CTA** ("no CTA = no sales"), collect emails, and add a **MobileMonkey chatbot** (he cites ~70%+ CTR
+  vs ~10% email) ([[2019-01-14-yt-i4CY-XD6agM]]).
+
 ## Key source pages
+- [[2018-10-30-yt-ey1GbXO-Y7M]] — ★ "Blog less, promote more" (7×→1×/wk; 800K→1.6M/mo; 80/20 promote).
+- [[2018-11-06-yt-iwdtj5I-HYg]] — Advanced content session (quantity + rewrite winners; tools>content).
+- [[2019-01-14-yt-i4CY-XD6agM]] — Blogging still works in 2019 (quality>quantity; CTAs; MobileMonkey).
+- [[2019-02-16-yt-tRXT58fDzjg]] — Content freshness/recency; "the future is video" (belief-evolution).
 - [[2018-01-27-yt-PwWTJcpuSqs]] — ★ Content assembly line; hire writers with their own audience.
 - [[2018-02-22-yt-y4ei5jVTZwU]] — Underdog-platform arbitrage (Facebook Watch / LinkedIn video).
 - [[2018-03-01-yt-UBq77K0L4Xk]] — One-product content engine (infographics + BuzzSumo + Ahrefs outreach).

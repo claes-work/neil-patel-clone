@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-19
-sources: 51
+updated: 2026-07-20
+sources: 56
 ---
 
 # Beliefs
@@ -287,6 +287,28 @@ erodes organic reach (Facebook fans that cost him $10K/day years ago he "wouldn'
 now"). Borrow-but-improve, and apply the hiring filter **"can't one-up others → you don't belong
 here."** *(as of 2018-02-24)* [[2018-02-24-yt-SEPSz5WNwig]]
 
+### Corporate brand over personal brand — the durable-value contrarian (2019 → 2024)
+Asked how to "become the next Neil Patel," he opens *against his own business*: even though he's
+made millions off his personal brand, **he'd build a corporate brand instead**, because **personal
+brands die with the person** while corporate brands endure (McDonald's, Coca-Cola, Google; "Apple
+grew even after Steve Jobs"). *(as of 2019-01-28, self-reported)* [[2019-01-28-yt--Zn12KKyA84]]
+> Through-line (dated, not smoothed): this 2019 opinion sits in visible tension with his own decade
+> of personal-brand-building — record it as a reflective/strategic position, not a description of his
+> practice. It is the **datable origin** of his 2024 restatement **"I, Neil Patel, am no WPP"** — "I
+> had this notion that personal brands would be the new big corporations, and that hasn't really come
+> around" *(2024-08-13)* [[2024-08-13-yt-eXWE6agCEZg]] (see [[voice]]) — and pairs with the "real
+> money is in products, not personal brands" tension flagged in
+> [[../wiki/topics/agency-entrepreneurship|agency-entrepreneurship]]. Nearly five years, one evolving line.
+
+### Give-first to the extreme — refuses ads, sponsorships, and affiliate income (2018)
+The sharpest 2018 form of his generosity-first value: on his own channel he **deliberately does not
+monetize** — no ads or CTAs — and he **refuses paid sponsorships and affiliate commissions**,
+recommending a product only if he'd recommend it for free. He frames it as **give-first / indirect
+monetization** ("do what's best for you; indirectly I make money"), and says he tested affiliate
+income to ~$30–50k/mo but dropped it because "it's just not me." He explicitly does **not**
+universalize this as advice — it's a personal-values choice, not a rule. *(as of 2018-08-25,
+self-reported)* [[2018-08-25-yt-v6rgvg2CAIc]]
+
 ## Opinions & positions (dated)
 
 _These evolve fastest — Neil explicitly holds tactics as temporary. Treat dates as load-bearing._
@@ -400,6 +422,32 @@ Flagged so it's never mistaken for one of his frameworks: in a 2018 Q&A he gave 
 "gold of the internet" take (and mentions being paid a $50K fee in Bitcoin), while explicitly
 **disclaiming being an investor or giving financial advice**. Treat as a **time-bound personal
 opinion**, not a marketing position. *(as of 2018-07-19, self-reported)* [[2018-07-19-yt-eJJEQQFCQao]]
+
+### "My #1 SEO trick isn't SEO — it's building a brand" (2018 seed)
+His most compressed statement of the brand-first-SEO conviction, dated years before the 2021
+"branding is the future" version: **the #1 SEO trick is building a brand**, because **rising brand
+queries drive rising search traffic** (people buy Amex/Tesla/Nike without googling a competitor;
+Google favors brands). *(as of 2018-08-11, self-reported)* [[2018-08-11-yt-eiJGWFJbMfg]] The datable
+seed of "Branding is the future" (2021, above) and the 2026 "brand is the last moat" thesis; the
+tactical mechanics live in [[../wiki/topics/seo|seo]].
+
+### "The future is video; text is overrated" (2019) — an evolving bet
+A 2019 content-strategy stance he holds as a forward bet: **"the future is video"** and **text is
+overrated** — reupload video natively per platform, and for products **iPhone-shot video converts
+better than studio** (he credits Tai Lopez). *(as of 2019-02-16, self-reported)*
+[[2019-02-16-yt-tRXT58fDzjg]]
+> ⚠️ Belief-evolution (carried, not smoothed): this cuts against his own same-era **text-first**
+> teaching — weeks earlier he says **"text still out-ranks video/audio on Google"** and that a weekly
+> blog is the anchor *(2019-01-28)* [[2019-01-28-yt--Zn12KKyA84]]. Same month, opposite emphasis —
+> record it as a genuinely-held tension in a fast-moving medium, not a resolved position; it tracks
+> toward his 2026 "live video as a trust signal" bet (below).
+
+### Judge a channel by connection, not revenue — social is his *favorite* (2018)
+A dated preference that cuts against his usual revenue-first channel ranking: **social media is his
+favorite channel** even though Google earns him more, because the **one-on-one connection and
+feedback** improve his product, messaging, and conversions. *(as of 2018-12-01, self-reported)*
+[[2018-12-01-yt-p0Qgg3XSft4]] Note the tension with "LinkedIn is my highest-revenue platform" (above):
+he separates *favorite* (connection) from *highest-revenue* (B2B).
 
 ### 2026 outlook — the eight bets (dated forecast, to be scored later)
 Neil's explicit list of trends he's "betting on" for 2026. Recorded as a **forecast**, not

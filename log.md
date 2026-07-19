@@ -2809,3 +2809,48 @@ outreach, user-metrics/RankBrain, prune-and-crop, expand-ranking-pages, YouTube-
 channel, first-hour blast, 80/20 promote) heavily reinforces the 2017-18 tactical canon — high repetition.
 Dated self-reported figures (PokerStrategy $1.2M, Elpac $20M leads, ManyChat/quicksprout metrics) flagged
 in-page. No hard contradictions.
+
+## [2026-07-20] lint | synthesis pass 6 — @neilpatel 2018-07→2019-02 P2 tactical + origin-story era (batches #48–#57)
+
+Ran the Stage S synthesis checkpoint (its 6th pass). Drained the **10 accumulated `Synthesis notes:`
+lines** (log cont. 27–36, @neilpatel 2018-07-28 → 2019-02-16 solo run) into the 8 `wiki/topics/` hubs +
+`persona/`, taking the corpus high-water mark to **453 L2 sources, ingest batches #1–#57**. Neil-attributed
+only; Adam Lodolce / summit-host interviewer asides gated out. Quality-over-volume — pure repeats of the
+2017-18 canon dropped (they stay L2 as source pages).
+
+**Topic promotions** (new dated sections, ★ = high-value): **seo** — the **7 SEO experiments** canonical
+growth story (9k→449k; brand-query +24%; entry-popup bounce 85.7→72.9%) ★; **international-SEO + subdomain
+self-reversal** ⚠️ (reverses his own 2017 subdirectory doctrine) ★; own-the-whole-SERP interlinking;
+Google-vs-YouTube ranking-speed; expand+prune+GIF-infographics. **agency-entrepreneurship** —
+**free-product-as-acquisition-channel** ★ (ancestor of the 2026 "FREE is the lever" thesis); **7-point
+agency-hiring vetting checklist** ★; downturn cut-yourself-first; acquire-with-leverage LBO; team>founder.
+**analytics-cro** — **LTV 7/8/9-figure ad-spend model** ★; CRO-beats-acquisition; undercut-to-grow pricing
+⚠️; **always-test-AND-retest + Google-login tale** ★ (the dated origin of the 2025 "what works now won't
+work forever" belief); BuiltWith→Wayback competitor A/B mining. **paid-ads** — SEO-vs-paid do-both;
+**2008-recession ad-durability datapoint** (antecedent of the 2021 recession-durable claim). **content-
+marketing** — **"blog less, promote more" (7×→1×/wk, 800K→1.6M/mo)** ★ (dated antecedent of the 80/20 rule);
+content freshness/recency; blogging-still-works-2019. **social-media** — first-hour-engagement "opposite of
+SEO"; Facebook-group→email (qualify>size); IG-Stories volume; LinkedIn "see more" + comment>like; FB-native
+posting; IG-weak-for-B2B. **email-marketing** — first-hour email+push blast; **Messenger-chatbot 60%+ open
+beats email** ⚠️ (dated). **ai-marketing** — **"AI won't matter on landing pages, VR will" (2018)** ★
+now-falsified belief-evolution datapoint.
+
+**Persona:** **beliefs** 51→56 (corporate-brand>personal-brand contrarian w/ 2019→2024 through-line;
+give-first-to-the-extreme / refuses ads-sponsorships-affiliate; "#1 SEO trick is building a brand" 2018 seed;
+"future is video/text overrated" belief-evolution; judge-channel-by-connection-not-revenue). **voice** 40→44
+("little is the new big", "page 2 = where you bury the dead bodies", "better than most", "biggest vs
+most-qualified group"). **biography** 34→39 (Elpac Electronics first-big-client named + PokerStrategy first
+$1.2M + "little is the new big"; Rockwall/fake-cancer >$1M fraud → never-burn-bridges; brother-in-law partner
+/ lawyer Joey Tran / FTC-class-action; immigrant-mother-taught-free-6-months; Seattle discrepancy ⚠️).
+**appearance** 1→2 (six-figure dress-for-success experiment → reverted to comfort). Recompiled
+**system-prompt.md v5 → v6** (compiled_from_sources 373 → 453).
+
+**⚠️ Three flagged items CARRIED, not smoothed** (per the pass brief): (1) the **Seattle/Vienna bio detail**
+("lived a lot of my life in Seattle," a ~2014 re-uploaded keynote) vs SUBJECT.md **England → Orange County** —
+recorded as an unreconciled discrepancy on biography.md + Known-uncertainties, NOT folded into the persona;
+(2) the **corporate-brand-over-personal-brand** contrarian belief, in tension with his own personal-brand-
+built business; (3) the **Elpac/PokerStrategy origin** promoted as concrete dated bio, reconciled against (not
+overwriting) the earlier "$25M first client" line. Advanced the high-water mark in
+`pipeline/synthesis-state.md`; updated `index.md`. No pending checkpoints remain (caught up through batch #57).
+
+Synthesis notes: none (this IS the synthesis pass; debt drained to 0 through batch #57).

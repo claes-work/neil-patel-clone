@@ -2,7 +2,7 @@
 type: hub
 domain: email-marketing
 created: 2026-07-14
-updated: 2026-07-19
+updated: 2026-07-20
 ---
 
 # Email Marketing — hub
@@ -107,7 +107,25 @@ inbox at all, and mining an overlooked owned surface.
   **webinars/quizzes** for higher-quality subscribers — all runnable free via his own **Hello Bar**
   ([[2018-05-03-yt-G6oDfZhxWgc]]).
 
+## 2018-H2 → 2019 solo-era email tactics (@neilpatel P2)
+
+- **First-hour email + push blast to boost virality (2019-01-19, 2019-02-14).** A recurring 2019
+  distribution lever: **blast every new post to your email list and browser-push (Subscribers.com)
+  within the first hour** to spike early traffic/engagement that the platforms then amplify — Hello Bar
+  for the email capture, Subscribers for push ([[2019-01-19-yt-QJUIk3qhQ-w]], [[2019-02-14-yt-gCJgHbjXWec]]).
+  The email/push side of the "first-hour engagement" doctrine in [[wiki/topics/social-media|social-media]].
+- **Messenger chatbots out-open email — a dated 2019 channel claim (2019-02-14, 2019-01-14, ⚠️).** Neil
+  reports **Facebook-Messenger chatbots (ManyChat / MobileMonkey) hitting ~60%+ open and ~30–50% CTR** —
+  far above his **~10% email** benchmark — and treats them as an email-adjacent capture channel
+  ([[2019-02-14-yt-gCJgHbjXWec]], [[2019-01-14-yt-i4CY-XD6agM]]).
+  > ⚠️ Date-bound: those 2019 open/CTR figures reflect an early, lightly-policed Messenger era; Meta
+  > later restricted promotional Messenger messaging, so the channel and its numbers are **not current** —
+  > record as a 2019 datapoint, not present-day advice.
+
 ## Key source pages
+- [[2019-01-19-yt-QJUIk3qhQ-w]] — First-hour email + push blast (Hello Bar + Subscribers) to spike virality.
+- [[2019-02-14-yt-gCJgHbjXWec]] — 7 free social tools; ManyChat 60%+ open/30–50% CTR beats email (dated).
+- [[2019-01-14-yt-i4CY-XD6agM]] — MobileMonkey chatbot ~70%+ CTR vs ~10% email (dated).
 - [[2018-06-07-yt-tlUeqiRw15g]] — Deliverability via engagement + monthly list-scrub (Return Path, Ryan Deiss).
 - [[2018-05-03-yt-G6oDfZhxWgc]] — List growth via content-upgrades / exit pop-up / quizzes (Hello Bar).
 

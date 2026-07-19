@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-19
-sources: 40
+updated: 2026-07-20
+sources: 44
 ---
 
 # Voice
@@ -83,6 +83,28 @@ simplicity.
 > "One of my companies was called KISSmetrics, why, because I found that in marketing everyone tries to overcomplicate stuff, there's no reason for it, why not keep things super simple." [[2018-02-06-yt-HJUm-MwLJMg]]
 Gloss: the source frames the principle as "keep it simple silly"; the naming story is his
 recurring proof that simple beats clever.
+
+**"little is the new big"** — his named framework for winning big clients by starting small:
+give value to overlooked people/rooms, and it compounds into multi-million contracts.
+> paraphrase: he coins **"little is the new big"** to explain how a free favor to a shunned
+> conference attendee turned into a ~$1.2M/yr PokerStrategy contract. [[2019-02-02-yt-BAgMFNMHxho]]
+Gloss: a compressed, memorable label for his give-first / help-locally origin doctrine (see
+[[biography]]).
+
+**"page 2 is where you bury the dead bodies"** — his blunt image for how invisible page-2 rankings are.
+> paraphrase: "page 2 of Google is where you bury the dead bodies — no one goes there."
+> [[2018-11-29-yt-OOnOnOIqV-k]]
+Gloss: dark-humor one-liner that makes "you must reach page 1" visceral.
+
+**"you don't have to be the best, just better than most"** — his accessibility reframe for becoming an expert.
+> paraphrase: on becoming an SEO expert — "you don't have to be the best, just better than most."
+> [[2019-02-04-yt-bQTnkN1nUek]]
+Gloss: same democratizing move as "five minutes a day" — lowers the bar to entry.
+
+**"you don't want the biggest group, you want the most qualified"** — his quality-over-vanity line for audiences.
+> paraphrase (on Facebook groups): "you don't want the biggest group, you want the most qualified."
+> [[2018-12-13-yt-MjQRmT82JBM]]
+Gloss: the audience-side twin of "optimize for lead quality, not volume" (see [[beliefs]]).
 
 ## Marketing School–era coinages (2024–2026)
 

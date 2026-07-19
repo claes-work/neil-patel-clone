@@ -2,7 +2,7 @@
 type: hub
 domain: seo
 created: 2026-07-14
-updated: 2026-07-19
+updated: 2026-07-20
 ---
 
 # SEO — hub
@@ -576,6 +576,55 @@ Several tactics are 2018-dated and flagged where platform mechanics have since m
   is short-term thinking that evaporates → **"think long-term."** Full confession + biography
   treatment in [[persona/biography|biography]].
 
+## 2018-H2 → 2019 solo-era tactical playbook (@neilpatel P2)
+
+The late-2018/early-2019 run is heavy on canonical, structured restatements of the experiment-driven,
+brand-first, user-metrics SEO doctrine. New/sharper items only; the rest reinforces the 2017–2018 canon.
+
+- **The "7 SEO experiments" — the canonical growth-hacking story (2018-11-13, ★).** Neil's most
+  structured single statement of his experiment-driven doctrine, anchored on **neilpatel.com growing
+  9,029 → 449,000 organic visits/mo (2015–17)**: (1) publishing **quantity flattens** after a few
+  hundred posts → the real value is surfacing unpredictable **natural winners** to skyscraper + link-
+  build; (2) **CTR raises rankings** — test title tags fast **on Twitter** vs the slow Search-Console
+  loop; (3) **manufactured brand-query spikes** — the same-day **"Who is Neil Patel" influencer
+  campaign lifted rankings ~+24%** (Google favors brands; Google Trends as proxy); (4) **tools out-rank
+  content** (his SEO Analyzer ranked top with no links); (5) **user metrics** — removing the *entry*
+  pop-up + content above the fold cut US bounce **85.7% → 72.9%** and ~doubled traffic (mobile pop-ups
+  showed no penalty in his data); (6) **thoroughness beats keyword density**; (7) **dateless URLs**
+  (`/y/m/d/title` → `/blog/title`) **+40% in one month** — change everything at once
+  ([[2018-11-13-yt-R1oWfzR98v4]]). Reinforces the brand-signal thesis and the date-removal datapoints
+  above; the "Who is Neil Patel" campaign here is the *SEO-experiment* framing of the stunt he later
+  apologizes for (see [[persona/biography|biography]]).
+- **International-SEO playbook — and a subdomain self-reversal (2018-09-06, ★⚠️).** Validate a market
+  by **real paying customers, not population/GDP** → **PPC-test the region** → **manual translation,
+  never Google Translate** (auto-translate once put profanity on his German homepage and spiked bounce)
+  → **hreflang** → **dominate your home region first** ([[2018-09-06-yt-OSOrolTuk9o]]).
+  > ⚠️ CONTRADICTION (carried, not smoothed): here Neil recommends **subdomains over subdirectories**
+  > for international sites — a **self-critique of his own neilpatel.com/de** — which **reverses** his
+  > 2017 doctrine that a **subdirectory borrows domain authority and beats a subdomain**
+  > ([[2017-06-16-yt-ancECphk_9c]], [[2017-07-26-yt-xZAM1l8cxbs]]). Both are dated; the modern SEO
+  > consensus still favors subdirectories, so treat the 2018 subdomain preference as a period opinion,
+  > not current advice.
+- **Own the WHOLE first page, not just rank #1 (2019-01-12).** Interlink a **pillar with topical
+  offshoots**, publish **multiple pages per topic** (5–7 angles, no self-duplication), build links to
+  *every* version via **Ahrefs Link Intersect**, re-share each 4–5× over 6 months, and update yearly —
+  the aggressive extension of his content-cluster doctrine ([[2019-01-12-yt-akj2Q3Ha9Ho]]).
+- **Brand as a *top* ranking factor — reinforced (2018-09-11).** On moving a page 2 → page 1: **user
+  metrics** (CTR, dwell, no pogo-stick) + **title-tag rewriting from Search Console** + framing
+  **keywords as problems**, with **brand named as a top ranking factor** — strongly reinforcing the
+  recurring brand-first throughline ([[2018-09-11-yt-pxN6wX92wu8]]).
+- **Google vs YouTube SEO — the ranking-speed & authority contrast (2018-12-31, 2019-02-09).**
+  **YouTube ranks in 24–48h and the first 24h largely sets a video's lifetime**, versus Google's
+  3–6-month-to-1-year climb; but **Google authority compounds** via links/dwell while **YouTube
+  authority fluctuates month-to-month** (a few dud videos tank the channel). YouTube is "wide open"
+  with ~30-day results ([[2018-12-31-yt-2s6h_DIZDAA]], [[2019-02-09-yt-jmRunRQU1wc]]). Sharpens the
+  2018-02-08 "YouTube as its own search engine" material above.
+- **Expand ranking pages + prune-and-crop + GIF infographics (2019-02-07).** Reinforces the
+  refresh/consolidation loop with three concrete moves: **expand a ranking page with Ubersuggest
+  long-tail** (3k→10k words, +traffic in <30 days), **prune/crop dead-weight pages** to funnel
+  authority to winners, and **animated-GIF infographics** as link bait (his "how a car engine works"
+  GIF, ~1M visitors, "zero marketing") ([[2019-02-07-yt-vsnjC10bC9M]]).
+
 ## Signature framing: "get loved by Google"
 
 Neil's recurring sign-off phrase, worth capturing verbatim as voice:
@@ -654,3 +703,12 @@ many small things well, for the user, and rankings follow.
 - [[2018-07-17-yt-7pQ5F0-lRrE]] — ★ RankBrain as UX-signals ML (CTR/dwell/anti-pogo)
 - [[2018-07-24-yt-Yqwm3RFicQ8]] — Automated outreach stack (Dux-Soup→ScrapeBox→FindThatLead→Mailshake)
 - [[2018-07-26-yt-OuLEmof2w7U]] — Infographic link building (require embed code; ~3× cold outreach)
+
+### 2018-H2 → 2019 solo-era (@neilpatel P2)
+- [[2018-09-06-yt-OSOrolTuk9o]] — ★ International-SEO playbook + subdomain self-reversal (⚠️ vs 2017 subdirectory doctrine)
+- [[2018-09-11-yt-pxN6wX92wu8]] — Page 2→1 via user metrics; brand named a top ranking factor
+- [[2018-11-13-yt-R1oWfzR98v4]] — ★ The 7 SEO experiments (9k→449k; brand-query +24%; entry-popup bounce 85.7→72.9%)
+- [[2018-12-31-yt-2s6h_DIZDAA]] — Google vs YouTube SEO (ranking speed; YT authority fluctuates)
+- [[2019-01-12-yt-akj2Q3Ha9Ho]] — Own the whole first page (multiple pages/topic; Link Intersect)
+- [[2019-02-07-yt-vsnjC10bC9M]] — Expand ranking pages + prune-and-crop + GIF infographics
+- [[2019-02-09-yt-jmRunRQU1wc]] — YouTube-SEO results <1 week; funnels as ad costs rise

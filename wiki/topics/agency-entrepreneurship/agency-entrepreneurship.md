@@ -2,7 +2,7 @@
 type: hub
 domain: agency-entrepreneurship
 created: 2026-07-14
-updated: 2026-07-19
+updated: 2026-07-20
 ---
 
 # Agency & Entrepreneurship — frameworks
@@ -523,3 +523,44 @@ hiring/culture, and fundraising. Dated seeds; several carry an explicit through-
 - [[2018-06-09-yt-FCFb3712mSE]] — ★ M&A math: buy at 2.5–3x profit, multiple-arbitrage (2026 precursor).
 - [[2018-07-14-yt-x1a0XRXyeVA]] — Intrapreneurship / apprentice-first ("wouldn't start a business young again").
 - [[2018-07-21-yt-pWtfTZ1i6yU]] — Culture doctrine (culture #1; money isn't the top motivator; dissent ≠ disloyalty).
+
+## 2018-H2 → 2019 solo-era operating principles (@neilpatel P2)
+
+The late-2018/2019 run adds the **clearest early statement of the free-product-as-acquisition thesis**
+(the direct ancestor of his 2026 "FREE is the lever" line) plus buyer-side agency vetting, downturn,
+and leverage-acquisition doctrine. All figures self-reported.
+
+- **Free product as an acquisition channel — the ancestor thesis (2018-10-02, ★).** His crispest early
+  statement of the core Neil play: **build a free product and growth-hack it instead of buying rising
+  Google-Ads traffic**. The economics he cites: Dropbox CAC ~$200–300 vs ~$60/yr LTV → **invite/referral
+  loops**; **Ubersuggest costs him ~$150k/mo to run vs an estimated ~$600k/mo to buy the same traffic on
+  ads**; "the moment you stop Google Ads you don't have any more traffic"; and HubSpot's free
+  email-signature tool = **7 figures/yr** ([[2018-10-02-yt-5lW635Uo7dw]]). This is the **direct ancestor**
+  of the 2026 Marketing School "product = best marketing channel, but **FREE is the real lever**" position
+  (see *Client acquisition* above, [[2026-07-17-yt-L03nbcDp8v8]]) and a sharper form of the 2017 freemium
+  and 2018-03-31 "think like a media company" theses. Date-stamp the figures.
+- **7-point agency-hiring vetting checklist — the buyer's side (2018-12-27, ★).** His most structured
+  statement of how to evaluate an agency you're about to hire: (1) they must **have traffic to their own
+  site**, (2) **case studies/testimonials with big logos**, (3) **tactical implementers, not just
+  strategists**, (4) **vet the people who'll be on your account, not the founder** — he notes (self-ref)
+  he does much of NP Digital's hiring and is "picky," (5) **regular communication**, (6) **references**
+  (their existence matters more than the calls), (7) **similar-sized clients**, not only Google/Facebook-
+  scale ([[2018-12-27-yt-KNYC72i7lHE]]). The buyer-side complement to his own hiring doctrine above.
+- **Downturn doctrine — cut yourself before your team (2018-09-15).** When money's tight, **cut your own
+  pay and perks first** ("no departments"; he says he'd move back in with his parents), keep a **cash
+  reserve**, and **reimburse the team with interest/equity when you recover** — which he credits for
+  11–12-year tenures. Told alongside a recurring **Richard Branson / Brazil-conference** anecdote (bio
+  data) ([[2018-09-15-yt-Y9XduPWaMOA]]). Extends the client-concentration survival playbook (2018-05-05).
+- **Acquire with leverage — the LBO / seller-financing play (2018-08-30).** How to buy a business with
+  little cash: a **small down payment + pay the balance from the target's own profits over ~3 years +
+  earnout sweeteners** (leveraged-buyout / seller-financing), sourced by **cold-emailing 50–100 owners**
+  or via brokers / Flippa / Empire Flippers — same mechanics US or international ([[2018-08-30-yt-wxHsT15OweI]]).
+  The financing mechanics under his 2018 "buy at 2.5–3x, arbitrage the multiple" M&A doctrine above.
+- **"It's never you who builds the company — it's your team" (2018-10-27).** A clean restatement of his
+  team-first leadership belief: **hire people better than you in their specialty**, treat them as
+  **members with a say**, add **non-monetary care and raise wages over time**, and **listen when multiple
+  experts converge** — again anchored on Richard Branson ([[2018-10-27-yt-yqUpNw8cikU]]). Reinforces the
+  culture/hiring doctrine above; see [[persona/beliefs|beliefs]].
+- **Never rely on a single traffic source (2018-09-01).** A diversification discipline framed as
+  business-risk: build **SEO + ads + email + push** before an algorithm turns, and chase the **unsexy,
+  underrated channels** early ([[2018-09-01-yt-NNCz339pxDo]]). Cross-link: [[wiki/topics/social-media|social-media]].

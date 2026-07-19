@@ -2,7 +2,7 @@
 type: hub
 domain: ai-marketing
 created: 2026-07-14
-updated: 2026-07-19
+updated: 2026-07-20
 ---
 
 # AI Marketing — hub
@@ -195,6 +195,15 @@ eras — **not** presented as his current view.
   > disruption he foresees changed enormously. Present the 2018 and 2025–26 views as **dated
   > points on one evolving line**, not a single stance — and note the **privacy-law-as-constraint**
   > thread did partly bear out (GDPR, 2018-06-19, [[2018-06-19-yt-XJ1h7mGVLc4]]).
+- **"AI won't matter on landing pages soon — VR will" (2018-11-20, ★ belief-evolution).** A second,
+  blunter 2018 datapoint tucked inside a landing-page-hacks talk: Neil predicted **AI would *not*
+  matter much for landing pages/CRO in the near term, and that VR would arrive first** — the same
+  AI-dismissive, VR-first instinct as the 2018-03-15 forecast ([[2018-11-20-yt-K7LmWEPII7g]]).
+  > ⚠️ Falsified in his own later telling: by 2024–26 Neil argues **AI's biggest marketing payoff is in
+  > exactly this unglamorous CRO/data layer** ("the money's in the ugly," judge by full-funnel
+  > revenue — [[wiki/topics/analytics-cro|analytics-cro]]), while **VR never became the channel he
+  > expected**. Keep as a dated, now-wrong prediction — evidence of how far his AI view travelled, not
+  > current advice.
 
 ## The GEO/AEO era — a dated origin-to-2026 timeline (from the Marketing School podcast)
 
@@ -326,6 +335,7 @@ Consistent through-line: AI augments the marketer rather than fully replacing th
 
 ### @neilpatel solo-era (dated origin)
 - [[2018-03-15-yt-0AYG4XlP1uk]] — ★ 2018 AI-in-marketing forecast (IoT programmatic; privacy-law constraint) — belief-evolution vs 2025–26.
+- [[2018-11-20-yt-K7LmWEPII7g]] — ★ "AI won't matter on landing pages, VR will" (2018) — now-falsified belief-evolution datapoint.
 
 ### Marketing School podcast (co-hosted; Neil-attributed) — the GEO/AEO evolution
 - [[2023-11-27-yt-EUVspvV6_UQ]] — Will SEO go extinct: "SEO evolves, doesn't die" (GEO seed).

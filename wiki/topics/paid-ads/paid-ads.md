@@ -2,7 +2,7 @@
 type: hub
 domain: paid-ads
 created: 2026-07-14
-updated: 2026-07-19
+updated: 2026-07-20
 ---
 
 # Paid Ads — hub
@@ -164,7 +164,26 @@ spine above (dated; self-reported figures).
   paid Google Search first — even unprofitably — to validate**, then layer SEO/content; defer CRO
   until you have a few hundred sales/leads ([[2018-05-10-yt-vQsB9TheyXw]]).
 
+## 2018-H2 → 2019 solo-era paid tactics (@neilpatel P2)
+
+- **SEO vs paid — do BOTH (omni-channel) (2018-12-22).** His durable "why not both" framing: **paid**
+  is instant/scalable with **geo-targeting, dayparting, and aggressive short landing pages**; **SEO**
+  gives **persistent, ~free traffic and the majority of clicks**, but takes **3–6 months to a year** and
+  carries **algorithm-update risk**. His heuristic: **"if paid is profitable, SEO for sure is"** — so
+  validate demand on paid, then compound with SEO ([[2018-12-22-yt-7V3HMRJ8U40]]). Complements the
+  Facebook-vs-Google intent heuristic (2017-08-03) above.
+- **Funnels as ad costs rise + the 2008-recession datapoint (2019-02-09).** As ad costs climb, protect
+  margin with **upsell/downsell funnels** (SamCart / ClickFunnels). He anchors paid's durability on a
+  **2008-recession datapoint**: **Google made *more* from ads even as US house prices fell 30–50%** —
+  advertisers keep buying while a dollar in returns more than a dollar out ([[2019-02-09-yt-jmRunRQU1wc]]).
+  The **datable antecedent** of his 2021 "performance ad spend is recession-durable" claim above.
+- **LTV governs how aggressively you spend (2018-10-16).** His 7/8/9-figure "$1 in / $2 back" ad-spend
+  model — willing to lose money up front at scale to grab ad inventory — is documented in
+  [[wiki/topics/analytics-cro|analytics-cro]] ([[2018-10-16-yt-AbcoFUHcs9M]]); noted here, not duplicated.
+
 ## Key source pages
+- [[2018-12-22-yt-7V3HMRJ8U40]] — SEO vs paid: do both (omni-channel; "if paid is profitable, SEO is").
+- [[2019-02-09-yt-jmRunRQU1wc]] — Funnels as ad costs rise; 2008-recession ad-durability datapoint.
 - [[2018-03-08-yt-1JmT-yHp8NQ]] — ★ Product-launch funnel; opposite-pitch cart-abandonment remarketing.
 - [[2018-06-05-yt-4WJXohHyRT8]] — ★ $400K Facebook-ads lessons (video>banner, ROI-not-CPC, creative rotation).
 - [[2018-05-10-yt-vQsB9TheyXw]] — Search-intent first; run paid search before content.

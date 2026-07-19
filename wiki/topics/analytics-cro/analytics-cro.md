@@ -2,7 +2,7 @@
 type: hub
 domain: analytics-cro
 created: 2026-07-14
-updated: 2026-07-19
+updated: 2026-07-20
 ---
 
 # Analytics & CRO — hub
@@ -225,7 +225,48 @@ database and revenue.**
   hedge; the **Privacy Shield** reference is now invalid → **time-bound**
   ([[2018-06-19-yt-XJ1h7mGVLc4]]).
 
+## 2018-H2 → 2019 CRO / unit-economics cluster (@neilpatel P2)
+
+- **LTV over day-one profit — the 7/8/9-figure ad-spend model (2018-10-16, ★).** Neil's crisp
+  unit-economics rule for how aggressively to spend: a **7-figure** business should want **$2 back per
+  $1** immediately; an **8-figure** business should **break even up front**; a **9-figure** business can
+  **lose money up front** — "the only way to grab the majority of the [ad] inventory is to be willing to
+  lose money in the short run." Amazon's net-zero loss-leader posture is the model; **upsells/downsells +
+  custom tracking (Mixpanel)** are the enablers ([[2018-10-16-yt-AbcoFUHcs9M]]). This is the economic
+  engine behind his "out-bid competitors via better conversion" argument below; kin of the undercut/
+  loss-leader pricing clip. Cross-link: [[wiki/topics/paid-ads|paid-ads]].
+- **CRO beats acquisition — outspend competitors by converting better (2018-11-17).** A clean canonical
+  statement (earlier than the 2018-12-10 "CRO as necessity" clip above): **conversion optimization is
+  cheaper and more effective than acquisition**, and a higher conversion rate lets you **profitably
+  outbid competitors on ad spend** ([[2018-11-17-yt-av9WfdR4cVk]]). Ties directly to the LTV/ad-spend
+  model above.
+- **Undercut-to-grow pricing — extends the pricing doctrine (2018-10-13, ⚠️).** "**Pricing has a huge
+  impact on growth rate**": a **slightly-worse, much-cheaper substitute wins** (his gun-safe patent-
+  expiry $100M → $5M example), loss-leader dynamics apply, and the ideal is **equal/greater value at a
+  lower price** — with a **luxury-goods exception** (deep discounts signal low quality)
+  ([[2018-10-13-yt-TLTL8mzkVLE]]).
+  > ⚠️ CONTRADICTION (carried): compete-on-low-price sits in tension with Neil's frequent premium / "sell
+  > your own higher-margin products" messaging. Reconciliation implied across sources: **underprice a
+  > *better* product to grab share** (as in the 2018-07-10 doctrine), not a race to the bottom on a
+  > commodity. Date-stamp; not a universal rule.
+- **"Always test AND retest, because market conditions change" — the Google-login tale (2019-01-17, ★).**
+  His sharpest CRO-culture rule: document every change, **never be satisfied** (even at 15–20% MoM), and
+  **retest old winners** because the market moves. Worked example: forcing **"Sign in with Google" once
+  won big**, but on **retest amid rising privacy/security fears conversions tanked** until email/password
+  was re-offered ([[2019-01-17-yt-qQqRKOYBeOU]]).
+  > This 2019 telling is the **datable origin** of the same Google-login reversal Neil uses in 2025 to
+  > argue "what works now won't work forever" (KISSmetrics **+90%** then dropped, [[2025-03-25-yt-6RNJpItArSQ]];
+  > see [[persona/beliefs|beliefs]]). Present as one dated line, not two stories.
+- **Reverse-engineer competitors' A/B winners with BuiltWith → Wayback (2019-01-17).** A novel
+  competitive-research move from the same video: use **BuiltWith** to see which testing tools a competitor
+  runs, then the **Wayback Machine** to read what page variants they kept — i.e. their *winning* tests —
+  and Product Hunt to find new tools ([[2019-01-17-yt-qQqRKOYBeOU]]).
+
 ## Key source pages
+- [[2018-10-16-yt-AbcoFUHcs9M]] — ★ LTV/ad-spend model (7/8/9-figure "$1 in / $2 back" rule; Mixpanel).
+- [[2018-11-17-yt-av9WfdR4cVk]] — CRO beats acquisition (convert better → outbid on ad spend).
+- [[2018-10-13-yt-TLTL8mzkVLE]] — Undercut-to-grow pricing (⚠️ vs premium; luxury exception).
+- [[2019-01-17-yt-qQqRKOYBeOU]] — ★ Always test AND retest (Google-login tale; BuiltWith→Wayback competitor mining).
 - [[2018-07-10-yt-Tgnt7VUcvqw]] — ★ Pricing doctrine (split-test for total revenue; underprice a better product).
 - [[2018-06-12-yt-pShdIROyWCE]] — Money-back guarantee as a UX lever (60-day beat 30-day, +7%).
 - [[2018-06-19-yt-XJ1h7mGVLc4]] — GDPR as a global default (explicit opt-ins; Privacy Shield now dated).
