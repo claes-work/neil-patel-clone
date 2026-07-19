@@ -256,6 +256,52 @@ changed. Date-flag before reuse.
   mismatch) anchors the rule that **relevance and consistency beat raw follower count**: plan a
   6+ month branding horizon and negotiate directly, not through agencies [[2017-07-31-yt-DhOrRQmQ-Z8]].
 
+### Posting-cadence doctrine (2017): volume over perfection, no magic hour
+
+A coherent 2017 cluster stating a durable distribution heuristic — **post a lot, all day, and let
+the audience data (not a "best time") decide.** Reach levels quoted are 2017-era organic and
+self-reported; date-flag before reuse.
+
+- **The posting-volume / engagement-per-post tradeoff (2017-09-22 → 2017-09-27).** Across a
+  one-week team test he found traffic scales **sub-linearly** with volume but rises substantially:
+  1 tweet/day averaged ~749 visitors vs. 40 tweets/day → ~5,623 (~7.5×) — so **post ≥10×/day** and
+  engage on non-link posts so link-posts earn more clicks ([[2017-09-26-yt-pLmQzpWng7o]]). The same
+  more-posts-but-less-engagement-per-post tradeoff recurs on **Facebook** (post daily/multiple, but
+  space posts, use Insights timing; [[2017-09-25-yt-8qjhcUxhfg0]]) and **LinkedIn** (2–3×/day spaced
+  2h+, vary post types; [[2017-09-27-yt-IqAwho3SUUA]]). Facebook fan-page free traffic
+  ([[2017-09-22-yt-29Z7xkOJ3Z0]]) and Pinterest ecommerce (pin 10+/day, re-pin others, relate pins
+  to products; [[2017-09-28-yt-FDzBMxzgZCo]]) round out the cross-platform volume doctrine.
+- **Best-time-to-post — there is no universal hour (2017-11-08 → 2017-11-11).** A tight four-video
+  mini-series across all four major platforms landing one principle: **instrument your own audience
+  and A/B test windows** rather than chase a magic hour. **Twitter** — no specific hour, tweet
+  ~1×/hour, 7 days/wk (self-reported 3→40 tweets/day took referral traffic ~5k→22k/mo;
+  [[2017-11-08-yt-AXF6OV5s7wk]]). **Facebook** — Insights only measures *engagement*, so A/B-test
+  windows (5am/8am/noon/2/4/8pm), weekday vs. weekend ([[2017-11-09-yt-f9yGqZeYLQw]]). **LinkedIn** —
+  B2B → post 9-5 in the audience's time zone, test 6–8am at login ([[2017-11-10-yt-oTbX-3iknII]]).
+  **Instagram** — Iconosquare for follower regions; post mornings (the algorithm buries
+  low-early-engagement posts); time to audience *behavior*, not just time zone
+  ([[2017-11-11-yt-6HVvHIwqYu4]]).
+- **LinkedIn native-teaser + "continue reading" distribution (2017-11-02).** Post native teaser
+  paragraphs with a "continue reading" link back to your site, connect in-niche (~30k connection
+  cap), and PS-email your shares — the same pattern as the 2017-06-23 native-publishing entry above,
+  now a **stable, recurring LinkedIn distribution tactic** ([[2017-11-02-yt-H0QNgSGGF20]]).
+  > Data-integrity flag: this video's title metric ("60,000 visitors/month") is **not
+  > substantiated** in the transcript (which says only "over a thousand visitors a day") — recorded,
+  > not promoted as a claim.
+- **Platform-specific hashtag doctrine (2017-11-03).** **Skip hashtags on Facebook/Twitter/
+  LinkedIn**; use **5–7 specific, traffic-driving tags on Instagram** (a visual network), found via
+  Ubersuggest ([[2017-11-03-yt--Iov5WB-1F0]]).
+- **Snapchat vs. Instagram Stories — use both (2017-11-07).** Snapchat skews younger; align stories
+  into a followable journey, build anticipation (Apple-style pre-announce), and post all day since
+  stories vanish ([[2017-11-07-yt-xvtK954les4]]).
+- **Social listening / mentions (2017-11-06).** Monitor with **SocialMention + Mention.com** (paid,
+  near-real-time) **+ Google Alerts**; convert praisers into brand evangelists (Beats-by-Dre model)
+  and rebut critics graciously to turn haters into lovers ([[2017-11-06-yt-dzLlrQ8-uRA]]).
+- **Instagram Stories tactics (2017-10-08).** Build anticipation, tell a coherent story, and
+  visually showcase products/results ([[2017-10-08-yt-ySvL3E1GeSU]]).
+- **Facebook Live sales (2017-10-16).** Educate viewers, transition to a website bonus offer, then
+  boost the video ([[2017-10-16-yt-ldy9X0uQ0LM]]).
+
 ## Key source pages
 
 - [[2019-09-28-yt-8KvyKt1c9ao]] — Personal Branding: Zero to Hero (6-step framework; LinkedIn revenue datapoint)
@@ -279,3 +325,18 @@ changed. Date-flag before reuse.
 - [[2017-06-23-yt-xnjZeg_5lQA]] — LinkedIn native-publishing repurposing (<2k → >33k/mo) — dated
 - [[2017-07-24-yt-d--xYXrnJTE]] — Never buy Facebook fans (~$400k / ~900k; traffic decay) — dated
 - [[2017-07-31-yt-DhOrRQmQ-Z8]] — Relevance-over-reach influencer rule (Neymar decline) — dated
+- [[2017-09-22-yt-29Z7xkOJ3Z0]] — Facebook fan-page free traffic (5 steps) — dated
+- [[2017-09-25-yt-8qjhcUxhfg0]] — Facebook posting frequency (volume vs engagement-per-post) — dated
+- [[2017-09-26-yt-pLmQzpWng7o]] — Twitter 7× traffic (volume scales sub-linearly) — dated
+- [[2017-09-27-yt-IqAwho3SUUA]] — LinkedIn B2B distribution (2–3×/day, vary post types) — dated
+- [[2017-09-28-yt-FDzBMxzgZCo]] — Pinterest ecommerce (pin 10+/day, re-pin, relate to products) — dated
+- [[2017-10-08-yt-ySvL3E1GeSU]] — Instagram Stories tactics (anticipation, story, showcase) — dated
+- [[2017-10-16-yt-ldy9X0uQ0LM]] — Facebook Live sales (educate → bonus offer → boost) — dated
+- [[2017-11-02-yt-H0QNgSGGF20]] — LinkedIn native-teaser + continue-reading distribution — dated
+- [[2017-11-03-yt--Iov5WB-1F0]] — Instagram hashtag doctrine (5–7 tags, IG only) — dated
+- [[2017-11-06-yt-dzLlrQ8-uRA]] — Social listening (SocialMention/Mention.com/Google Alerts) — dated
+- [[2017-11-07-yt-xvtK954les4]] — Snapchat vs Instagram Stories (use both) — dated
+- [[2017-11-08-yt-AXF6OV5s7wk]] — Best time to tweet (no magic hour; A/B test) — dated
+- [[2017-11-09-yt-f9yGqZeYLQw]] — Best time to post on Facebook (Insights + A/B windows) — dated
+- [[2017-11-10-yt-oTbX-3iknII]] — LinkedIn posting times (B2B 9-5 audience TZ) — dated
+- [[2017-11-11-yt-6HVvHIwqYu4]] — Instagram posting times (Iconosquare; audience behavior) — dated

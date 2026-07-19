@@ -458,6 +458,56 @@ before reuse.
 - **Google News as fast-but-short-lived traffic.** Trends-sourced news content + a Google
   News sitemap in GSC + unique keyword URLs can spike traffic — but explicitly for hours, not
   days ([[2017-08-14-yt-13BsYXkenhs]], 2017-08-14).
+- **Learn SEO by doing — the throwaway-site method.** Rather than reading, Neil's own way in:
+  spin up a **junk WordPress test site**, install **Yoast**, practice on-page + interlinking,
+  then use **Ahrefs** to find and pitch link prospects — learn by doing, not by studying
+  ([[2017-09-13-yt-4za8NvwYr80]], 2017-09-13). The SEO instance of his de-risked "fake-site"
+  learning loop (see [[wiki/topics/agency-entrepreneurship|agency-entrepreneurship]]).
+- **Dofollow vs nofollow.** Link-attribute mechanics and when each applies (sponsored / UGC /
+  untrusted outbound → nofollow; editorial → dofollow) — a mechanics primer, not a growth lever
+  ([[2017-09-14-yt-_XXEaGQLBVA]], 2017-09-14).
+- **The "404 hack" — recover lost link equity.** Find your site's 404s (and competitors'
+  dead-but-linked URLs) and **301-redirect them to a relevant live page** to reclaim traffic and
+  link equity that would otherwise leak ([[2017-09-19-yt-ymIL_yvXZiw]], 2017-09-19).
+- **Google search operators for market research.** `intext:` / `intitle:` / `inurl:` / `site:` /
+  `related:` plus exclusion operators to surface competitors, guest-post targets, and
+  link-reclamation opportunities ([[2017-10-20-yt-eQI_igxWEMY]], 2017-10-20).
+- **The SERP-CTR playbook (early form of the GSC click-through play).** Pull your
+  impression-heavy / click-light queries from **Search Console**, **front-load the keyword** in
+  the title/meta, and add a **benefit promise + power adjectives** — on the recurring claim that
+  **CTR itself lifts rankings** ([[2017-10-21-yt-WUYhOrqBmas]], 2017-10-21). The 2017 antecedent
+  of the 2018/2020 "rank without building a single link" GSC play above.
+- **Reddit as a free-traffic surface (2017 antecedent).** Value-first subreddit participation,
+  build karma, self-promote sparingly to avoid bans — the same native-participation posture he
+  formalizes for AI-era Reddit SEO in 2025 (see *SEO in the AI era* above)
+  ([[2017-10-28-yt-U0F1JrmoxTw]], 2017-10-28).
+- **Local SEO for brick-and-mortar — first sustained local material.** Rank free vs. AdWords:
+  **Google My Business + the localized map pack**, **Google reviews** (not just Yelp), **NAP** on
+  the contact page, Yoast, topical content, and **Search Console + XML sitemap**
+  ([[2017-11-13-yt-UHG4wDlvAMY]], 2017-11-13). Extends the local-link-building tactic (2017-08-21)
+  into a full local-SEO cluster.
+- **The five SEO metrics that matter** (2017-11-15): **search traffic** (GA), **impressions
+  before clicks** (Search Console — the *leading* indicator, consistent with his domain-authority
+  logic above), **backlinks vs. competitors** (Ahrefs), **content cadence** (3+/wk minimum, 1–2/day
+  ideal), and **indexed pages / sitemap** (GSC + Yoast); restates the 6-month → 1-year → 2-year SEO
+  timeline ([[2017-11-15-yt-rUw8nu4Omqo]]).
+- **The owned-site SEO growth curve (2017-11-20 ★).** A concrete, dated version of his patience
+  thesis: **neilpatel.com grew ~9k → 89k → 450k monthly visitors over ~2 years**, with the
+  cadence **3 months → impressions, 6 months → non-brand traffic, 1 year → it kicks in, 2 years →
+  the bulk** — requiring **≥1 post/week + 5–10 links/month + weekly promotion**, and he caveats his
+  own **10+-year head start** ([[2017-11-20-yt-XCUD80O5RuY]], self-reported figures). This is the
+  earliest dated statement of the traffic curve later restated as 9k→88k→400k (2017-05, content-
+  marketing) and the 6-month/2-year rule in [[wiki/topics/content-marketing|content-marketing]].
+- **Rank #1 for a head term — the pillar-content playbook (2017-12-19).** Build a **pillar page**
+  (Moz's *Beginner's Guide to SEO* as his #1 exemplar), beautiful design, fast load (>50% mobile),
+  **cross-link the pillar from every page**, run Ahrefs linker outreach (~100 asks → ~5 links), and
+  be patient — his own `/seo` page climbed **top-1000 → 100 → p5 → 4 → 3 → 2 → 1 over ~1.5 years**;
+  **brand is the ranking tiebreaker** when other factors are equal (BMW vs. GM)
+  ([[2017-12-19-yt-_3PSOO-8gqU]]). Reinforces the brand-signal thesis above and the 2018 BMW-vs-GM
+  framing; dated as a concrete pillar-page worked example.
+- **Make your site "linkable" (2017-10-10).** Four asset types that earn backlinks: a **blog**,
+  **B2B case studies**, **detailed guides/ebooks**, and **infographics** — feedstock for the
+  Skyscraper / roundup outreach above ([[2017-10-10-yt-LKVXZoIEPXU]]).
 
 > ⚠️ Dated/superseded prediction: in 2017 Neil predicted **AMP would boost rankings**
 > ([[2017-07-07-yt-kFCs5dx9LVI]], 2017-07-07) — now falsified by Google's later deprecation of
@@ -516,3 +566,14 @@ many small things well, for the user, and rankings follow.
 - [[2017-08-24-yt-13jOMJhKISE]] — Site speed = revenue (Amazon 1%/sec; PageSpeed→AMP→CDN→cache)
 - [[2017-08-26-yt-MB9cfH1OfH8]] — Blog-URL categories are size-dependent; single-hyphen slugs
 - [[2017-07-07-yt-kFCs5dx9LVI]] — AMP-will-boost-rankings prediction (now falsified — dated)
+- [[2017-09-13-yt-4za8NvwYr80]] — Learn SEO by doing (throwaway WordPress + Yoast + Ahrefs)
+- [[2017-09-14-yt-_XXEaGQLBVA]] — Dofollow vs nofollow link-attribute mechanics
+- [[2017-09-19-yt-ymIL_yvXZiw]] — The 404 hack (301-redirect dead URLs to recover link equity)
+- [[2017-10-10-yt-LKVXZoIEPXU]] — Make your site linkable (blog / case studies / guides / infographics)
+- [[2017-10-20-yt-eQI_igxWEMY]] — Google search operators for market research
+- [[2017-10-21-yt-WUYhOrqBmas]] — SERP-CTR playbook (GSC queries, front-load keyword, CTR lifts rankings)
+- [[2017-10-28-yt-U0F1JrmoxTw]] — Reddit free traffic (native participation; 2017 antecedent)
+- [[2017-11-13-yt-UHG4wDlvAMY]] — Local SEO for brick-and-mortar (GMB, map pack, reviews, NAP)
+- [[2017-11-15-yt-rUw8nu4Omqo]] — The five SEO metrics (impressions-before-clicks as leading indicator)
+- [[2017-11-20-yt-XCUD80O5RuY]] — ★ Owned-site SEO growth curve (9k→89k→450k over 2yr; 3mo/6mo/1yr/2yr)
+- [[2017-12-19-yt-_3PSOO-8gqU]] — Rank #1 pillar-content playbook (/seo 1.5yr climb; brand tiebreaker)

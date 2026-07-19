@@ -154,6 +154,58 @@ frameworks above with specific rules. All 2017-dated; figures self-reported.
   badges don't convert; put testimonials **inside the sales copy at the decision point**.
   Testimonial-quality checklist: image + full name + linked business + a specific, measurable
   result ([[2017-08-11-yt-WfHqm6j29oo]]).
+- **Optimize conversions BEFORE you have volume (2017-09-05).** You don't need traffic to start
+  CRO — run **bandit / A-B tests** on a low-traffic page from day one (pitches Crazy Egg); pairs
+  with his "quality not volume" doctrine — a small, well-converting page beats a big leaky one
+  ([[2017-09-05-yt-MZCKxw_KJQs]]).
+- **The Crazy Egg 3-step CRO loop (2017-09-29).** Install Crazy Egg (**scroll maps + heat maps +
+  recordings**) → fix via the WYSIWYG editor → **A/B test**; his refrain "everyone makes mistakes,
+  I test everything" — the 2017 dated form of the "test on data, not opinion" culture above
+  ([[2017-09-29-yt-XDoKXaGrUxE]]).
+- **Manufacture urgency (2017-09-30).** Countdown timers on genuinely-expiring deals + scarcity /
+  limited-stock displays; cites woot.com as the pioneer and the Shopify Booster theme
+  ([[2017-09-30-yt-yJEVVGKnQXw]]).
+- **Website personalization CRO (2017-10-06).** Personalize by **visit-count** (Hello Bar),
+  **geoIP city insertion**, and **device type** to lift conversions — the 2017 seed of his 2021
+  "personalization is the new CRO" position ([[2017-10-06-yt-EgQsT1ox1o0]]).
+- **Contact-page CRO (2017-10-11).** Turn the contact page into a conversion asset: tell a story,
+  **filter/qualify the audience**, and use a dropdown to **route to the right person**
+  ([[2017-10-11-yt-nYNLRAwpiog]]).
+- **CTA-button placement (2017-10-12).** Best spots: **under each product**, **after reviews**,
+  and at **high scroll-density bands** — validated by A/B testing in Crazy Egg
+  ([[2017-10-12-yt-BxELmZ-NAq4]]). Sharpens the CTA rules from 2017-08-12 above.
+- **Carousels/sliders usually hurt conversions (2017-09-15).** They should **never sit above the
+  fold** and should be A/B tested before use — most visitors ignore rotating banners
+  ([[2017-09-15-yt-BQQRaHRQAVo]]).
+- **Two-step checkout for cart-abandonment recovery (2017-10-17).** Capture the **email in step
+  one** so an abandoned cart can be recovered via email + remarketing; then Crazy Egg the checkout
+  ([[2017-10-17-yt-HKrbB4KoLFo]]). Ties cart recovery to his email + CRO stack
+  ([[wiki/topics/email-marketing|email-marketing]]).
+
+### Measure the funnel, but distrust the platforms (2017-11 measurement mini-series)
+
+A coherent four-video "how to measure X" run (2017-11-14 → 2017-11-17) carrying one durable
+principle: **platform-reported numbers systematically over-count, so validate against your own
+database and revenue.**
+
+- **Content-marketing ROI (2017-11-14).** Measure via Google Analytics + goal/conversion tracking;
+  SEMrush for traffic dollar-value; be patient (results ~6 months, real payoff after a year);
+  self-reported neilpatel.com traffic "worth in excess of half a million/month" (a buy-value, not
+  income) ([[2017-11-14-yt-WgWJiOqT6Oo]]).
+- **Social metrics that matter (2017-11-16).** Track **new-fan GROWTH RATE (not total)**,
+  competitor growth (SocialBlade), engagement %, and posting volume — vanity totals mislead
+  ([[2017-11-16-yt-if69s7576SY]]). Cross-link: [[wiki/topics/social-media|social-media]].
+- **PPC ROI — platforms over-report (2017-11-17 ★).** Facebook / AdWords (and even GA)
+  **systematically over-report conversions**; optimizing spend on inflated numbers loses money, so
+  **verify against your own database + bank account** and apply a rule-of-thumb discount
+  ([[2017-11-17-yt-PKjzTgAPYx0]]). The datable origin of his AI-era "judge by full-funnel revenue,
+  not vanity metrics" and his "validate against revenue" measurement skepticism (see
+  [[persona/beliefs|beliefs]]).
+
+- **"Specific colors don't convert best" (2017-10-19).** He rejects color-superstition CRO
+  ("green/red buttons convert best"): pick colors that **fit the brand**, ensure **button
+  contrast**, and **A/B test** — the knob is contrast and testing, not a magic color
+  ([[2017-10-19-yt-eXhZJI9Iy5c]]).
 
 ## Key source pages
 
@@ -171,3 +223,15 @@ frameworks above with specific rules. All 2017-dated; figures self-reported.
 - [[2017-08-12-yt-Qie52V0_P3A]] — CTA optimization rules (benefit copy, eye-path, repeat CTAs).
 - [[2017-08-02-yt-s2L6eRObBqw]] — Copy = objection-handling; segment + email follow-up.
 - [[2017-08-11-yt-WfHqm6j29oo]] — Social-proof placement beats volume; testimonial checklist.
+- [[2017-09-05-yt-MZCKxw_KJQs]] — Optimize conversions before you have volume (bandit/A-B).
+- [[2017-09-15-yt-BQQRaHRQAVo]] — Carousels/sliders hurt conversions; never above the fold.
+- [[2017-09-29-yt-XDoKXaGrUxE]] — Crazy Egg 3-step CRO loop (scroll/heat maps → WYSIWYG → A/B).
+- [[2017-09-30-yt-yJEVVGKnQXw]] — Manufacture urgency (countdown + scarcity; woot.com).
+- [[2017-10-06-yt-EgQsT1ox1o0]] — Website personalization CRO (visit-count / geoIP / device).
+- [[2017-10-11-yt-nYNLRAwpiog]] — Contact-page CRO (story, qualify, route via dropdown).
+- [[2017-10-12-yt-BxELmZ-NAq4]] — CTA-button placement (under product / after reviews / scroll density).
+- [[2017-10-17-yt-HKrbB4KoLFo]] — Two-step checkout for cart-abandonment email capture.
+- [[2017-10-19-yt-eXhZJI9Iy5c]] — "Specific colors don't convert best" (brand-fit + contrast + test).
+- [[2017-11-14-yt-WgWJiOqT6Oo]] — Content-marketing ROI measurement (GA + goals; patience).
+- [[2017-11-16-yt-if69s7576SY]] — Social metrics (growth rate not total; engagement %).
+- [[2017-11-17-yt-PKjzTgAPYx0]] — ★ PPC ROI: platforms over-report; validate against your own revenue.

@@ -11,14 +11,14 @@ _Last updated: 2026-07-19 (ingest: @neilpatel batch — 8 P2 long-form, 2017-11�
 
 ## Topics
 
-- [wiki/topics/seo/seo.md](wiki/topics/seo/seo.md) — SEO timeline/patience, on-page & CTR, content depth/refresh, skyscraper links, Ubersuggest workflow, technical SEO, Search Everywhere Optimization + 2017 solo-era tactics (hub, synthesized pass 3).
-- [wiki/topics/content-marketing/content-marketing.md](wiki/topics/content-marketing/content-marketing.md) — blog-post template, the ~2-year patience thesis, give-nine-ask-once, distribution & repurposing + 2017 solo-era tactics (hub, synthesized pass 3).
-- [wiki/topics/paid-ads/paid-ads.md](wiki/topics/paid-ads/paid-ads.md) — precision targeting, paid social & ROAS, the 2026 AI-mode shift, TikTok Shop acquisition flywheel + 2017 solo-era tactics (hub, synthesized pass 3).
-- [wiki/topics/analytics-cro/analytics-cro.md](wiki/topics/analytics-cro/analytics-cro.md) — landing-page anatomy, quantified CRO levers, above/below the fold, "traffic isn't everything," Crazy Egg + 2017 CRO cluster (hub, synthesized pass 3).
-- [wiki/topics/social-media/social-media.md](wiki/topics/social-media/social-media.md) — personal-brand engine, LinkedIn/Instagram/X/YouTube playbooks, social-SEO, TikTok Shop, legacy tactics (incl. 2017 solo era) (hub, synthesized pass 3).
-- [wiki/topics/email-marketing/email-marketing.md](wiki/topics/email-marketing/email-marketing.md) — list building, send timing & cadence, email in the funnel, owned-audience backstop, deliverability (2017) (hub, synthesized pass 3).
+- [wiki/topics/seo/seo.md](wiki/topics/seo/seo.md) — SEO timeline/patience, on-page & CTR, content depth/refresh, skyscraper links, Ubersuggest workflow, technical SEO, Search Everywhere Optimization + 2017 solo-era tactics (incl. local SEO, 404 hack, growth curve) (hub, synthesized pass 4).
+- [wiki/topics/content-marketing/content-marketing.md](wiki/topics/content-marketing/content-marketing.md) — blog-post template, the ~2-year patience thesis, give-nine-ask-once, distribution & repurposing + 2017 solo-era tactics (incl. headline-primacy) (hub, synthesized pass 4).
+- [wiki/topics/paid-ads/paid-ads.md](wiki/topics/paid-ads/paid-ads.md) — precision targeting, paid social & ROAS, the 2026 AI-mode shift, TikTok Shop acquisition flywheel + 2017 solo-era tactics (incl. AdWords Quality-Score model, 2017 webinar antecedent) (hub, synthesized pass 4).
+- [wiki/topics/analytics-cro/analytics-cro.md](wiki/topics/analytics-cro/analytics-cro.md) — landing-page anatomy, quantified CRO levers, above/below the fold, "traffic isn't everything," Crazy Egg + 2017 CRO cluster (incl. measurement mini-series) (hub, synthesized pass 4).
+- [wiki/topics/social-media/social-media.md](wiki/topics/social-media/social-media.md) — personal-brand engine, LinkedIn/Instagram/X/YouTube playbooks, social-SEO, TikTok Shop, legacy tactics (incl. 2017 posting-cadence + best-time-to-post doctrine) (hub, synthesized pass 4).
+- [wiki/topics/email-marketing/email-marketing.md](wiki/topics/email-marketing/email-marketing.md) — list building, send timing & cadence, email in the funnel, owned-audience backstop, deliverability + 2017 open-rate/CTR/retention levers (hub, synthesized pass 4).
 - [wiki/topics/ai-marketing/ai-marketing.md](wiki/topics/ai-marketing/ai-marketing.md) — AI-service business models, Search Everywhere, Google AI-mode, the eight 2026 bets (hub, synthesized pass 1).
-- [wiki/topics/agency-entrepreneurship/agency-entrepreneurship.md](wiki/topics/agency-entrepreneurship/agency-entrepreneurship.md) — TAM governs outcomes, acquisition & free-tool→services funnel, automated-webinar funnel, own-your-audience monetization + 2017 operating principles (hub, synthesized pass 3).
+- [wiki/topics/agency-entrepreneurship/agency-entrepreneurship.md](wiki/topics/agency-entrepreneurship/agency-entrepreneurship.md) — TAM governs outcomes, acquisition & free-tool→services funnel, automated-webinar funnel, own-your-audience monetization + 2017 operating principles (incl. reviews/reputation, Hustle bestseller mechanics) (hub, synthesized pass 4).
 
 ## Entities
 
@@ -34,11 +34,11 @@ _Last updated: 2026-07-19 (ingest: @neilpatel batch — 8 P2 long-form, 2017-11�
 
 ## Persona (THE PRODUCT)
 
-- [persona/biography.md](persona/biography.md) — dated life timeline, augmented through pass 3 (18 sources; ~2001 SEO start, ~$400k Facebook-fans mistake, ~1,000-employee marker, agency M&A hunting).
-- [persona/voice.md](persona/voice.md) — how they talk: signature catchphrases + Marketing School–era coinages + 2017-era share-close/dyslexia texture + cadence/register/rhetoric, cited verbatim (32 sources, synthesized pass 3).
-- [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/values/opinions incl. brand-is-the-moat, distribution-is-the-moat, one-up-yourself, lead-quality-not-volume, AI-augments-not-replaces, capital discipline (34 sources, synthesized pass 3).
+- [persona/biography.md](persona/biography.md) — dated life timeline, augmented through pass 4 (23 sources; ~2001 SEO start, ~$400k Facebook-fans mistake, Hustle bestseller mechanics, Marketing School podcast origin, "terrible manager" self-awareness, flagged dirt-poor-vs-middle-class contradiction).
+- [persona/voice.md](persona/voice.md) — how they talk: signature catchphrases + Marketing School–era coinages + 2017-era texture (share-close, dyslexia, "dumbest person in the room", "picking up trash", "terrible manager") + cadence/register/rhetoric, cited verbatim (36 sources, synthesized pass 4).
+- [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/values/opinions incl. brand-is-the-moat, distribution-is-the-moat, one-up-yourself, lead-quality-not-volume, distrust-platform-numbers, business-as-sport, AI-augments-not-replaces, capital discipline (36 sources, synthesized pass 4).
 - [persona/appearance.md](persona/appearance.md) — how they look/present (empty skeleton — needs watched-video samples).
-- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt **v3** (2026-07-19; @neilpatel 2017 P2 solo tactical era folded in, 215 L2 sources).
+- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt **v4** (2026-07-19; @neilpatel 2017-09→12 P2 tactical + wealth-mindset era folded in, 295 L2 sources).
 
 ## Other
 

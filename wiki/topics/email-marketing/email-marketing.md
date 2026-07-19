@@ -85,6 +85,16 @@ inbox at all, and mining an overlooked owned surface.
   link, and a link to press about you. Governed by his recurring **overwhelm cap — never more
   than ~2 asks at once** (the same "don't overwhelm" heuristic he applies to opt-ins and CTAs)
   ([[2017-08-13-yt-LeRnQlUrwl4]]).
+- **Double your open rates — four levers (2017-10-07).** Test the **sender / "from" name**, write
+  **casual, lowercase subject lines**, **personalize the recipient's name**, and keep testing —
+  concrete, dated open-rate mechanics that sit upstream of the "opens aren't the goal, action is"
+  point above ([[2017-10-07-yt-E5UZug6310g]]).
+- **Email click-through hacks (2017-10-18).** Inside the email: **tell a story**, use only **2–3
+  links**, and write **casual, benefit-driven anchor text** ([[2017-10-18-yt-cio1MNOYiaw]]).
+- **Sell more to existing customers (2017-10-01).** Three levers on the base you already own:
+  **upsells/downsells** (speed + automation drive conversion), **email-marketing automation**
+  (Hello Bar capture + sequences), and **keep shipping new products to existing buyers** (Amazon as
+  exemplar) — an early statement of his retention/LTV lever ([[2017-10-01-yt-GAfvXdWt3a8]]).
 
 ## Key source pages
 
@@ -97,3 +107,6 @@ inbox at all, and mining an overlooked owned surface.
 - [[2025-03-25-yt-6RNJpItArSQ]] — Learn Digital Marketing in 13 Minutes: A/B testing email subject lines (Mailchimp/ConvertKit).
 - [[2017-08-17-yt-7l7RocbBS4M]] — Email deliverability system (IP/list warmup, scrub, low-HTML).
 - [[2017-08-13-yt-LeRnQlUrwl4]] — Email signature as a traffic channel; the "max 2 asks" overwhelm cap.
+- [[2017-10-01-yt-GAfvXdWt3a8]] — Sell more to existing customers (upsells/downsells, automation, new products).
+- [[2017-10-07-yt-E5UZug6310g]] — Double open rates (sender-name / casual lowercase subject / personalize / test).
+- [[2017-10-18-yt-cio1MNOYiaw]] — Email click-through hacks (story, 2–3 links, casual anchor text).

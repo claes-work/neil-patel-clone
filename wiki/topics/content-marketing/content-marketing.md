@@ -103,6 +103,34 @@ New/durable content-ops primitives from the 2017 solo run (dated; period tactics
 - **Outreach time-savers (2017-09-01).** The engine behind links / guest posts / shares:
   **Yesware** (templates + open-tracking → change the opener, stop emailing non-openers) and
   **Boomerang** (auto follow-up, suppressed once someone replies) ([[2017-09-01-yt--oHmRLcLwtM]]).
+- **Growth hacking is a cross-functional method, not a role (2017-09-12).** His explicit
+  definition: growth hacking = **data-driven, cross-team rapid experimentation**, not a "growth
+  hacker" job title or a team of one; Dropbox referral / PayPal-style examples, test everything
+  with Crazy Egg ([[2017-09-12-yt-ccaKaPHrNa8]]). Adds specificity to his test-everything culture.
+- **Make money blogging — the five monetization paths (2017-09-18).** Traffic monetizes via
+  **info products, affiliate, ads/sponsorship, services, and selling your own products** — the
+  content-side companion to his monetization-preference stack in
+  [[wiki/topics/agency-entrepreneurship|agency-entrepreneurship]] ([[2017-09-18-yt-_-k9b2UHzM0]]).
+- **Blog virality = emotion first, then fuel it (2017-11-05).** Virality starts with an **emotion**
+  (sad / happy / furious), then you **fuel early momentum** with paid boosting, BuzzSumo
+  one-upping, and beautiful design — and treat it as a **numbers game** (~1 viral post per 2 weeks
+  at >1 post/day) ([[2017-11-05-yt-D0QJgx_C4rc]]).
+- **The 6-tips-for-a-great-blog-post checklist (2017-11-18).** Conversational tone, a strong
+  headline (BuzzSumo; his "8/10 read the headline, 2/10 read on" stat), **educational/actionable**
+  step-by-step, freshness, mixed-media formats, and **cite your sources** — capped by the mindset
+  line **"you want to be the dumbest person in the room"** ([[2017-11-18-yt-P8wWBZc978E]]).
+- **Headline-primacy — shares are driven by the headline, not the content (2017-11-21 ★).** A
+  durable, dated Neil position from his own studies: **shares routinely exceed traffic, because
+  people share what they never fully read** — so the headline is the lever (5–7 words, adjectives
+  like "effortlessly", a curiosity gap such as "number 6 will shock you") — **but don't trick the
+  reader and lose trust** ([[2017-11-21-yt-VozfuBgjSmg]]). Reinforces the title-first rule above and
+  the 8/10-read-the-headline stat that recurs across the corpus.
+- **Skyscraper competitor one-up — the concrete outreach template (2017-11-26).** The recurring
+  link/traffic loop, operationalized: Ahrefs → find a competitor's most-popular page → write
+  **better and longer (his "10 → 101" framing)** → **email their linkers with a 2-step template** →
+  repeat via BuzzSumo; "Hummingbird promotes thorough content"
+  ([[2017-11-26-yt-RnwgCmcH-IU]]). The content-side statement of the Skyscraper technique in
+  [[wiki/topics/seo|seo]].
 
 ## Key source pages
 
@@ -124,3 +152,9 @@ New/durable content-ops primitives from the 2017 solo run (dated; period tactics
 - [[2017-06-07-yt-Nat0yYV4bKI]] — The About-page storytelling framework (5-part).
 - [[2017-08-31-yt-wGPLw4OaMjU]] — Content-curation automation stack (Pocket → IFTTT → Buffer).
 - [[2017-09-01-yt--oHmRLcLwtM]] — Outreach time-savers (Yesware + Boomerang).
+- [[2017-09-12-yt-ccaKaPHrNa8]] — Growth hacking = cross-functional rapid experimentation (not a role).
+- [[2017-09-18-yt-_-k9b2UHzM0]] — Make money blogging: the five monetization paths.
+- [[2017-11-05-yt-D0QJgx_C4rc]] — Blog virality: emotion first, then fuel it (numbers game).
+- [[2017-11-18-yt-P8wWBZc978E]] — 6 tips for a great blog post ("dumbest person in the room").
+- [[2017-11-21-yt-VozfuBgjSmg]] — ★ Headline-primacy: shares driven by the headline, not the content.
+- [[2017-11-26-yt-RnwgCmcH-IU]] — Skyscraper competitor one-up outreach (10→101; 2-step linker email).

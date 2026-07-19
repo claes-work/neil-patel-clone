@@ -106,6 +106,42 @@ spine above (dated; self-reported figures).
 - **Affiliate marketing as a CPA/performance channel (2017-07-06).** A pay-per-result
   acquisition channel for cash-poor founders; **pay Net 30** to guard against refunds/fraud
   ([[2017-07-06-yt-4ZrSmfo16sk]]).
+- **Facebook-ad cost control (2017-09-04).** Lower cost-per-click by choosing **CPM-vs-CPC
+  bidding** deliberately, running strong creative/copy, and **fighting ad fatigue** (rotate
+  creative) to raise the relevance score — the 2017 precursor to the "creative is the lever" thesis
+  ([[2017-09-04-yt-G5H9X8K8SW8]]).
+- **AdWords profitability levers (2017-09-06).** Tighter ad copy + **dayparting** + **geotargeting**
+  + **negative keywords**, with **CTR math as the driver of lower CPC** — the tactical body of the
+  precision-targeting spine above ([[2017-09-06-yt-LwMmJR08FS4]]).
+- **Partner / affiliate as free traffic (2017-09-07).** Reframes link/traffic acquisition as a
+  **win-win revenue-share ladder**: give other sites a concrete reason (a cut) to send you traffic
+  ([[2017-09-07-yt-vjLQ82A9PN0]]). Complements the CPA-channel framing above.
+- **Profitable display advertising (2017-10-04).** A 3-step formula: **remarketing** first,
+  **rotate creative weekly**, and **match the banner message to the landing page** — display done as
+  precision + message-match, not spray-and-pray ([[2017-10-04-yt-RRnhx5QSuTI]]).
+- **The AdWords Quality-Score mental model (2017-10-23, 2017-10-27).** His durable frame for
+  cheaper clicks: **"Google optimizes its own revenue, so high CTR = cheaper clicks + higher Quality
+  Score."** Levers: exact match, negative keywords, tight ad-group relevance, ad-copy testing, and
+  landing-page relevance ([[2017-10-23-yt-fy28vfE2V0c]], [[2017-10-27-yt-Ru3jcnHWVJE]]).
+- **The high-ticket sales funnel (2017-10-22).** First clear high-ticket-services playbook in the
+  corpus: **email capture → webinar → storytelling sales page (case studies/testimonials) →
+  sales-rep follow-up/upsell** ([[2017-10-22-yt-G2rmH5cE-Io]]). The services sibling of the
+  info-product webinar funnel below.
+- **Contests as a lead-gen front, not the profit event (2017-10-25).** A contest only pays off via
+  the **post-contest email upsell/downsell**; run it with Gleam.io share-to-win + a **1% Facebook
+  lookalike / pixel retargeting** for cold reach ([[2017-10-25-yt-1qfccvWhjEI]]).
+- **Mobile-app install marketing (2017-10-26).** A platform-specific channel set distinct from his
+  usual website/SEO material: **performance-based PR** (pay-on-results), **pre-launch free early
+  access to niche bloggers**, cheap **in-app cross-promotion** ad space, plus Facebook app-install
+  ads ([[2017-10-26-yt-D_W7t7T-5oM]]).
+- **Evergreen automated-webinar funnel — the 2017 antecedent (2017-12-07 ★).** The datable
+  precursor to the fully-documented 2018 webinar playbook (see
+  [[wiki/topics/agency-entrepreneurship|agency-entrepreneurship]]): Facebook ads → an
+  **EverWebinar/WebinarJam recorded replay running every ~15 min** + **Twilio SMS**; ~30–40 min
+  education → **ask permission to pitch** → discounted **$500–1,500** offer with a demonstrated anchor
+  + countdown; **a chat comment ≈ 3× more likely to buy**; a **$1 trial** lifts sales ~15%;
+  **sell-before-you-build**; and net-30 cards as float. Economics: **~$6/registration → ~3.6 sales
+  per 100 registrations** on a ~$1k product, ~20% refunds ([[2017-12-07-yt-P2KWsco-gig]]).
 
 ## Key source pages
 
@@ -122,3 +158,13 @@ spine above (dated; self-reported figures).
 - [[2017-08-04-yt-2uk_fXZ_xnI]] — Retargeting: rule of seven + dynamic price-drop; budget anchor.
 - [[2017-08-16-yt-tj3VF2bx2s4]] — "Don't boost Facebook posts" (not blanket anti-FB-ads).
 - [[2017-07-06-yt-4ZrSmfo16sk]] — Affiliate as a CPA/performance channel; pay Net 30.
+- [[2017-09-04-yt-G5H9X8K8SW8]] — Facebook-ad cost control (CPM-vs-CPC, ad fatigue, relevance score).
+- [[2017-09-06-yt-LwMmJR08FS4]] — AdWords profitability levers (dayparting/geo/negatives; CTR math).
+- [[2017-09-07-yt-vjLQ82A9PN0]] — Partner/affiliate as free traffic (revenue-share ladder).
+- [[2017-10-04-yt-RRnhx5QSuTI]] — Profitable display (remarketing, weekly creative rotation, message match).
+- [[2017-10-22-yt-G2rmH5cE-Io]] — High-ticket sales funnel (capture → webinar → story page → rep).
+- [[2017-10-23-yt-fy28vfE2V0c]] — AdWords Quality Score mental model ("Google optimizes its own revenue").
+- [[2017-10-25-yt-1qfccvWhjEI]] — Contests as a lead-gen front funded by email follow-up.
+- [[2017-10-26-yt-D_W7t7T-5oM]] — Mobile-app install marketing (performance PR, blogger early access).
+- [[2017-10-27-yt-Ru3jcnHWVJE]] — AdWords ROI: relevance → Quality Score → cheaper CPC.
+- [[2017-12-07-yt-P2KWsco-gig]] — ★ Evergreen automated-webinar funnel (2017 antecedent of the 2018 playbook).

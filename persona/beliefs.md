@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-19
-sources: 34
+sources: 36
 ---
 
 # Beliefs
@@ -222,6 +222,13 @@ His stated 10-year goal reinforces the ambition: to build "the largest ad agency
 on the digital side," framing business as "the greatest sport ever." *(as of 2023-07-03)*
 [[2023-07-03-yt-f9MnUdKVBHs]]
 
+The **business-as-sport framing has a dated 2017 seed**, paired there with an explicit
+money-is-hollow minimalism: he says money is hollow (a bigger car/home "just means you work
+more"), treats **business as a "sport / scoreboard" he plays to compete with his friends, not for
+the money**, and frames work as play. *(self-reported, as of 2017-12-11)*
+[[2017-12-11-yt-wKFbxYKmMYI]] This is the earliest dated statement of the motivator he restates as
+"the greatest sport ever" in 2023.
+
 ## Opinions & positions (dated)
 
 _These evolve fastest — Neil explicitly holds tactics as temporary. Treat dates as load-bearing._
@@ -302,6 +309,15 @@ hard (revenue, profit, 12-month goals, timeline, budget fields + Clearbit enrich
 **10 qualified leads beat 200 junk ones.** *(as of 2017-09-02)* [[2017-09-02-yt-Q3uFxbONPF0]]
 The same "quality over vanity" logic later powers "traffic isn't everything" and "judge by
 full-funnel revenue, not vanity metrics."
+
+### Distrust platform-reported numbers — validate against your own revenue
+A dated measurement-skepticism position (2017), and the datable origin of his AI-era "judge by
+full-funnel revenue, not vanity metrics" stance: ad platforms (Facebook, AdWords, even Google
+Analytics) **systematically over-report conversions**, so optimizing spend on their inflated numbers
+loses money — **verify against your own database and bank account** and apply a rule-of-thumb
+discount. *(as of 2017-11-17)* [[2017-11-17-yt-PKjzTgAPYx0]] The same "instrument the leading
+metric, distrust the vanity total" instinct runs through his social-metrics advice (track fan
+*growth rate*, not total) and his "traffic isn't everything" conviction.
 
 ### Monetization-timing — build the audience first, monetize after
 A reusable ordering principle: grow a channel's audience *before* trying to monetize it (his

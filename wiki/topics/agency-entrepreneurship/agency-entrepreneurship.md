@@ -325,6 +325,56 @@ positions he sharpens years later.
   or employer business; validate on a **free throwaway WordPress site** first and only promote
   to production once it shows signs of working — a reusable learning-by-doing principle
   ([[2017-06-19-yt-Z4PbCulOhOA]]).
+- **Differentiate by story + USP (2017-10-02).** Two ways to stand out from competitors: **tell a
+  story** and build a **distinct USP** (boutique-vs-big-player positioning) — an early positioning
+  statement ([[2017-10-02-yt-s1J_AXAatLw]]).
+- **Don't copy your competitors — the reasoning triad (2017-10-14).** An explicit positioning
+  stance: you **can't see their full context**, their moves may reflect **opinion not data**, and
+  you **need your own USP** ([[2017-10-14-yt-NfibQEvu6Co]]). The competitive-mindset sibling of
+  "one-up yourself, not your competition" ([[persona/beliefs|beliefs]]).
+- **Reputation / reviews as a distinct local-marketing discipline (2017-10-15, 2017-10-29,
+  2017-10-31).** First sustained review-management material in the corpus: **respond positively /
+  professionally to every review** (especially negatives), **keep improving to earn fewer bad ones**,
+  solicit reviews from happy customers (ask in person, funnel via email/receipts), recover unhappy
+  ones **offline**, and **never fake reviews** ([[2017-10-15-yt-VJoFS5lBXg8]],
+  [[2017-10-29-yt-smMCFddgRc8]], [[2017-10-31-yt-ClNQ8lNt3zw]]). Cross-link:
+  local SEO in [[wiki/topics/seo|seo]].
+- **Referral-program growth hacks (2017-10-30).** **Double-sided incentives**, prompt the ask at
+  the customer's **peak-happiness moment**, and make sharing **frictionless**
+  ([[2017-10-30-yt-VVTkw5ituFU]]).
+- **Wealth-mindset — "7 secrets to making millions online" (2017-11-30).** A repackaging of his
+  operating beliefs: **focus on one idea** (Buffett/Gates story), **solve a problem**, keep it
+  **easy/affordable**, **learn from mistakes**, **execute fast**, **read**, and study competitors'
+  founder interviews ([[2017-11-30-yt-4QrWo-SOlWo]]). Bio note (self-reported): he anchors it in
+  "started my career picking up trash and cleaning restrooms" (see [[persona/biography|biography]]).
+- **Blog to $1k/month — traffic before monetization, high-ticket over low-ticket (2017-12-28).**
+  Build **traffic before monetizing**, write **long-form (2,000+ words)** on passion topics, run
+  BuzzSumo skyscraper (10 → 101), and prefer **high-ticket over low-ticket** because blog visitors
+  convert poorly (~100–300 visitors per $50 sale) — his own blog lands **consulting clients at a
+  $120k/yr minimum up to seven figures** ([[2017-12-28-yt-_9OpUvPoXoY]], self-reported).
+- **"I'm a terrible manager" — the operating self-awareness (2017-12-14).** A candid, dated
+  admission that shapes how the company is run: **"I'm a terrible manager… worst boss ever, I pay
+  well but management-wise I suck,"** so **others run the company** and Neil focuses only on
+  **traffic-generation + brand** ([[2017-12-14-yt-Pc1OXZgrjo8]]). Same video restates the
+  large-TAM idea-selection framework (Crazy Egg as a great business capped by too-small a TAM,
+  sized via Google Finance/Trends — see *TAM governs outcomes* above). Also in
+  [[persona/biography|biography]] / [[persona/voice|voice]].
+
+### The Hustle bestseller — candid book-launch mechanics (2017-12-10 ★)
+
+Neil reverse-engineers his own 2016 NYT-bestseller *Hustle* on camera — unusually candid, and
+reputationally sensitive; recorded **neutrally, self-reported**, not endorsed
+([[2017-12-10-yt-EeoqtgXO4U8]]):
+
+- **How the list was hit:** presell (pre-sales count toward week-one), sell **multichannel**
+  (Amazon-only "looks like you're gaming it"), and generate press — but the two decisive levers were
+  **~$500k of corporate bulk buys arranged as SERVICE TRADES** ("$100k of books × 5") and
+  **ResultSource** laundering pre-sale money to look organic, spread over weeks. Placement on lists
+  is **discretionary** (you need a strong publisher).
+- **The candid verdict:** the bestseller **"didn't do much for me"** — no higher fees, traffic, or
+  growth — because it was **off his core topic**; he took a **$500k advance** and now advises a
+  **single-author book on your core topic** instead. A strong biography + agency data point (see
+  [[persona/biography|biography]]).
 
 ## Key source pages
 
@@ -368,3 +418,13 @@ positions he sharpens years later.
 - [[2017-09-02-yt-Q3uFxbONPF0]] — Optimize for lead quality, not volume (10 qualified > 200 junk).
 - [[2017-09-03-yt-_CF6r_Ol3HA]] — Outsource on a budget (Fiverr/Upwork; vet by reviews).
 - [[2017-06-19-yt-Z4PbCulOhOA]] — De-risked "fake-site" learning loop.
+- [[2017-10-02-yt-s1J_AXAatLw]] — Differentiate by story + USP.
+- [[2017-10-14-yt-NfibQEvu6Co]] — Don't copy competitors (reasoning triad).
+- [[2017-10-15-yt-VJoFS5lBXg8]] — Negative-review reputation management (respond, reduce root causes).
+- [[2017-10-29-yt-smMCFddgRc8]] — Yelp 4.5+ stars (solicit / recover offline / never fake).
+- [[2017-10-30-yt-VVTkw5ituFU]] — Referral-program growth hacks (double-sided, peak-happiness prompt).
+- [[2017-10-31-yt-ClNQ8lNt3zw]] — Yelp reviews fast (ask in person; funnel via email/receipts).
+- [[2017-11-30-yt-4QrWo-SOlWo]] — "7 secrets to making millions online" (wealth-mindset repackaging).
+- [[2017-12-10-yt-EeoqtgXO4U8]] — ★ Hustle bestseller candid mechanics (service-trade bulk buys, ResultSource).
+- [[2017-12-14-yt-Pc1OXZgrjo8]] — "I'm a terrible manager"; large-TAM idea-selection restated.
+- [[2017-12-28-yt-_9OpUvPoXoY]] — Blog to $1k/month (traffic-first, long-form, high-ticket).

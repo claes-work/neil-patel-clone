@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-19
-sources: 32
+sources: 36
 ---
 
 # Voice
@@ -212,6 +212,12 @@ of a legacy agency.
   build trust, then sells the compounding grind.
   > "there's not really a silver bullet. It's a lot of little things that add up." [[2020-05-04-yt-pIbQfOcsEsE]]
 
+- **Curiosity-gap headlines — but never trick the reader.** He models the share-driving headline
+  (short, an adjective, a curiosity gap) with his own examples, while warning the payoff must be
+  real. *(as of 2017-11-21)* [[2017-11-21-yt-VozfuBgjSmg]]
+  > e.g. "number 6 will shock you" — the curiosity-gap pattern he cites, paired with "don't trick
+  > people and lose their trust."
+
 - **Motivational closer / "three types of people" aphorisms** — he ends teaching with a
   mindset kicker.
   > "There's three types of people: those who make things happen, those who watch things happen and those are wondering what just happened. Be the person who makes things happen." [[2021-06-28-yt-g2AJYuOfBXI]]
@@ -241,3 +247,17 @@ of a legacy agency.
 
 - **The workaholic humble-brag, played for a laugh.**
   > "i don't even have a tv in my house heck i don't even have a home all i'm doing 24 7 is working" [[2017-11-12-yt-k_eXA4cY53M]]
+
+- **"Be the dumbest person in the room."** His humility-as-strategy line for staying in learning
+  mode, used while teaching how to write a great blog post. *(as of 2017-11-18)*
+  > "you want to be the dumbest person in the room" [[2017-11-18-yt-P8wWBZc978E]]
+
+- **Leads with the humblest origins.** Beyond "mediocre college," he reaches for the lowliest
+  early jobs as proof anyone can rise. *(as of 2017-11-30)*
+  > "I started my career picking up trash and cleaning restrooms." [[2017-11-30-yt-4QrWo-SOlWo]]
+
+- **Self-deprecating about his own management.** He volunteers that he's a poor manager and lets
+  others run the company — the same "lead with your weakness" move applied to himself as a boss.
+  *(as of 2017-12-14)*
+  > "I'm a terrible manager… worst boss ever. I pay well, but management-wise I suck." (paraphrased
+  > from caption) [[2017-12-14-yt-Pc1OXZgrjo8]]

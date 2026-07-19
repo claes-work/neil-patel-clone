@@ -1771,3 +1771,69 @@ poor… middle class America" (11-30, same week) — childhood economic status i
 Synthesis debt now 10/10 — **checkpoint reached; next iteration is a Stage S synthesis pass** (drains
 batches #28–#37 debt: the @neilpatel 2017-10→12 P2 tactical run since pass 3, i.e. the 40th `Synthesis
 notes:` line onward vs the pass-3 high-water mark).
+
+## [2026-07-19] lint | synthesis pass 4 — @neilpatel 2017-09→12 P2 tactical + wealth-mindset era (batches #28–#37)
+Stage S synthesis checkpoint (the 4th pass). Driver state at entry: `ingest_batch.py status` printed
+**SYNTHESIS DUE** (10/10 batches since pass 3); `synthesis_batch.py prepare` found no *registered*
+pending checkpoint (the ingest loop had flagged the debt but never registered the era as a checkpoint),
+so this pass registered + drained the completed era directly from the 10 accumulated `Synthesis notes:`
+lines in log.md (batches #28–#37, @neilpatel 2017-09-04 → 2017-12-28 solo run; fully Neil-attributed —
+cleanest persona signal, no co-host quarantine). Done entirely in-context (no sub-agents). 295 L2 total.
+
+Promotions (quality-over-volume; period-tactical bulk into the topic hubs, pure repeats dropped):
+- **wiki/topics/seo** — learn-by-doing throwaway-site method (2017-09-13), dofollow-vs-nofollow
+  (2017-09-14), the 404 hack (2017-09-19), Google search operators (2017-10-20), SERP-CTR playbook
+  (2017-10-21), Reddit 2017 antecedent (2017-10-28), **local SEO for brick-and-mortar** (2017-11-13,
+  first sustained local cluster), the five SEO metrics / impressions-before-clicks (2017-11-15),
+  **owned-site growth curve 9k→89k→450k over 2yr** (2017-11-20 ★), **rank-#1 pillar-content playbook**
+  (2017-12-19), make-your-site-linkable (2017-10-10).
+- **wiki/topics/analytics-cro** — optimize-before-volume (2017-09-05), Crazy Egg 3-step loop
+  (2017-09-29), manufacture-urgency (2017-09-30), personalization CRO (2017-10-06), contact-page CRO
+  (2017-10-11), CTA placement (2017-10-12), carousels-hurt (2017-09-15), two-step-checkout recovery
+  (2017-10-17), anti-"specific-colors-convert" (2017-10-19), and **the 2017-11 measurement mini-series**
+  (2017-11-14→17): platforms over-report → validate against your own revenue (★).
+- **wiki/topics/paid-ads** — FB cost control (2017-09-04), AdWords profitability levers (2017-09-06),
+  partner/affiliate free traffic (2017-09-07), profitable display (2017-10-04), **AdWords Quality-Score
+  "Google optimizes its own revenue" model** (2017-10-23/27), high-ticket sales funnel (2017-10-22),
+  contests-as-lead-gen-front (2017-10-25), mobile-app install (2017-10-26), **2017 automated-webinar
+  antecedent** (2017-12-07 ★) of the 2018 playbook.
+- **wiki/topics/content-marketing** — growth-hacking = cross-functional (2017-09-12), make-money-blogging
+  paths (2017-09-18), blog-virality = emotion-first (2017-11-05), 6-tips-great-blog-post + "dumbest
+  person in the room" (2017-11-18), **headline-primacy** — shares driven by the headline (2017-11-21 ★),
+  Skyscraper 10→101 outreach template (2017-11-26).
+- **wiki/topics/social-media** — **posting-cadence doctrine** (volume over perfection, 2017-09-22→28)
+  and **the best-time-to-post mini-series** across all 4 platforms (2017-11-08→11), LinkedIn
+  native-teaser distribution (2017-11-02), IG hashtag doctrine (2017-11-03), Snapchat-vs-IG (2017-11-07),
+  social listening (2017-11-06), social metrics = growth-rate-not-total (2017-11-16), IG Stories
+  (2017-10-08), FB Live sales (2017-10-16).
+- **wiki/topics/email-marketing** — double-open-rate levers (2017-10-07), email-CTR hacks (2017-10-18),
+  sell-more-to-existing-customers (2017-10-01).
+- **wiki/topics/agency-entrepreneurship** — differentiate by story+USP (2017-10-02), don't-copy-
+  competitors triad (2017-10-14), **reviews/reputation** as a local-marketing discipline
+  (2017-10-15/29/31), referral-program hacks (2017-10-30), wealth-mindset "7 secrets" (2017-11-30),
+  blog-to-$1k/mo (2017-12-28), **"I'm a terrible manager"** operating self-awareness (2017-12-14), and
+  **the candid Hustle bestseller mechanics** (2017-12-10 ★): service-trade corporate bulk buys +
+  ResultSource + $500k advance + "didn't do much for me" (recorded neutrally; reputationally sensitive).
+- **persona/beliefs.md** (34→36 sources): money-is-hollow / business-as-sport 2017 seed (2017-12-11);
+  distrust-platform-reported-numbers → validate against your own revenue (2017-11-17).
+- **persona/voice.md** (32→36 sources): "be the dumbest person in the room" (2017-11-18), "picking up
+  trash and cleaning restrooms" (2017-11-30), "terrible manager / worst boss ever" (2017-12-14),
+  curiosity-gap headline "number 6 will shock you" + don't-trick-them (2017-11-21).
+- **persona/biography.md** (18→23 sources): Hustle candid book-launch mechanics + $500k advance
+  (2017-12-10), Marketing School podcast origin (Eric proposed it, ~500k listens/mo, 2017-12-21),
+  management self-awareness + home-robbed-twice color (2017-12-14/11).
+- **persona/system-prompt.md** recompiled **v3 → v4** (compiled_from_sources 215 → 295); added
+  distrust-platform-numbers, business-as-sport / money-is-hollow, terrible-manager self-awareness, and
+  the "trash/restrooms" + "dumbest person" self-deprecation lines.
+
+⚠️ CONTRADICTION carried, NOT smoothed: Neil calls his childhood **"middle class America"** (2017-11-30)
+and **"dirt poor"** (2017-12-11) in the same week — flagged with a `> ⚠️ CONTRADICTION` callout on
+persona/biography.md; both self-reported. Also carried: the AMP-superseded flag (unchanged from pass 3);
+the LinkedIn "60k/mo" title metric (2017-11-02) recorded as unsubstantiated, not promoted as a claim.
+
+Bookkeeping: high-water mark advanced to "batches #1–#37 / 295 L2" + pass-4 Done checkpoint in
+`pipeline/synthesis-state.md`; `index.md` persona counts/version (v3→v4) and the seven edited hub
+markers (→ pass 4) updated. No new topic pages. No yt-dlp / rate-limit activity (synthesis is
+local-only). No errors. Commit + push.
+
+Synthesis notes: none (this IS the synthesis pass; debt drained to 0 through batch #37).
