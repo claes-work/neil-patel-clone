@@ -1442,3 +1442,40 @@ Bookkeeping: high-water mark advanced to "batches #1–#27 / 215 L2" + pass-3 Do
 updated. No new topic pages. No yt-dlp / rate-limit activity (synthesis is local-only). No errors. Commit + push.
 
 Synthesis notes: none (this IS the synthesis pass; debt drained to 0 through batch #27).
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P2 long-form (2017-09 solo tactical/CRO era, cont. 7)
+Stage B (first matching rule: synthesis debt 0/10 — no `>>> CHECKPOINT` banner, no channel/era
+complete; persona fresh (v3, pass 3, 0 batches since); no zero-row TARGET; no open P1 → open P2
+exists). First ingest batch after synthesis pass 3. Continued @neilpatel P2 — the Neil-fronted primary
+corpus is fully Neil-attributed (no co-host quarantine → cleanest persona signal). Selection was
+priority-2, oldest-first: the 2017-09-04→2017-09-11 solo run (G5H9X8K8SW8, MZCKxw_KJQs, LwMmJR08FS4,
+vjLQ82A9PN0, -H1DnE6rhJY, zaLCQtOWKA8, RdehKbk7sEA, b77fLPZ-GBI). Captions: 8/8 ok, 0 no-captions,
+0 skipped, 0 dup, NO rate-limiting (no yt-dlp failures). L2 total 215→223. @neilpatel open long-form
+1026→1018 (P2 1005→997, P3 21); MS 766 (P2 738 / P3 28) untouched; shorts 2682 untouched. Coordinator
+did all shared-file bookkeeping (ledger, youtube-index, index.md, log).
+
+Attribution: all 8 are solo @neilpatel main-channel educational videos — single speaker, fully
+Neil-attributed, no guest/co-host, so the whole batch is persona-eligible (nothing quarantined, no
+uncertain-attribution flags). No caption garbles material enough to flag beyond page-level notes. One
+sourced-figure flag carried in-page (attributed by Neil, not independently verified): the "8 out of 10
+people read the headline, 2 out of 10 read the rest" copywriting stat (b77fLPZ-GBI) is the standard
+Ogilvy-lineage figure Neil repeats, not his own data.
+
+Synthesis notes: a tight 2017 solo CRO/acquisition-tactics cluster — mostly reinforcement of the
+established 2017-era playbook, none contradicting current positions; a few durable specifics worth
+promoting at the next checkpoint: (1) **Low-traffic CRO (MZCKxw_KJQs 2017-09-05)** — you can and should
+optimize conversions BEFORE you have volume, via bandit/A-B testing (pitches Crazy Egg); pairs with the
+established "quality not volume" doctrine. (2) **AdWords profitability levers (LwMmJR08FS4 2017-09-06)** —
+tighter ad copy + dayparting + geotargeting + negative keywords; CTR math as the driver of lower CPC.
+(3) **Facebook-ad cost control (G5H9X8K8SW8 2017-09-04)** — CPM-vs-CPC bidding choice, strong creative/copy,
+and fighting ad fatigue to raise relevance score and cut cost-per-click. (4) **Partner/affiliate free
+traffic (vjLQ82A9PN0 2017-09-07)** — reframes link/traffic acquisition as a win-win revenue-share ladder:
+give other sites a reason to send you traffic. (5) **Mobile speed = revenue (-H1DnE6rhJY 2017-09-08)** —
+AMP + Google PageSpeed Insights + trim heavy mobile elements; consistent with the 2017-08-24 site-speed
+video (same era). > ⚠️ carries the same AMP-will-help caveat now falsified by AMP deprecation (already
+date-flagged in pass 3). (6) **Ecommerce AOV (zaLCQtOWKA8 2017-09-09)** — upsells, bundles, product
+recommendations to lift average order value without more traffic. (7) **SaaS LTV framework
+(RdehKbk7sEA 2017-09-10)** — onboarding + usage/heatmap analysis + surveys + email re-engagement + product
+quality (Slack example). (8) **Catchy-headline formula (b77fLPZ-GBI 2017-09-11)** — problem-headline +
+solution-subheadline, and never stop A-B testing headlines; good verbatim voice data. All 2017-dated.
+Synthesis debt now 1/10 (checkpoint at 10).

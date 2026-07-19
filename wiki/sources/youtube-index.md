@@ -102,6 +102,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2017-09-01 — [3 Ways to Save Time on Email Outreach (outreach for links/guest posts: Yesware templates + open-tracking, Boomerang auto follow-up)](2017-09-01-yt--oHmRLcLwtM.md) — content-marketing, seo
 - 2017-09-02 — [How to Qualifying Your Leads (qualify with form fields: revenue/profit/12mo-goals/timeline/budget + Clearbit enrichment; optimize quality not volume)](2017-09-02-yt-Q3uFxbONPF0.md) — analytics-cro, agency-entrepreneurship
 - 2017-09-03 — [How to Outsource Your Digital Marketing Efforts With a Small Budget (Fiverr/Upwork over interns/full-time; vet by >=10 detailed reviews + response time)](2017-09-03-yt-_CF6r_Ol3HA.md) — agency-entrepreneurship
+- 2017-09-04 — [How to Increase Your Facebook Ad CTR and Pay WAY Less Per Click (CPM-vs-CPC bidding, strong creative/copy, fight ad fatigue to lift relevance score and cut cost-per-click)](2017-09-04-yt-G5H9X8K8SW8.md) — paid-ads, analytics-cro
+- 2017-09-05 — [How to Improve Your Conversion Rate When You Have Little to No Website Visitors (bandit/A-B testing via Crazy Egg on low-traffic sites; optimize elements before you have volume)](2017-09-05-yt-MZCKxw_KJQs.md) — analytics-cro
+- 2017-09-06 — [5 Ways to Make Google AdWords More Profitable (Improve Your CTR!) (tighter ad copy, dayparting, geotargeting, negative keywords; CTR math drives lower CPC)](2017-09-06-yt-LwMmJR08FS4.md) — paid-ads, analytics-cro
+- 2017-09-07 — [How to Convince Other Sites to Send You Free Traffic (affiliate/partner as win-win referral ladder; give others a reason (revenue share) to send you links + traffic)](2017-09-07-yt-vjLQ82A9PN0.md) — content-marketing, seo
+- 2017-09-08 — [How to Improve Your Mobile Website Load Time (AMP, Google PageSpeed Insights, trim heavy mobile elements; slow mobile speed costs conversions/revenue)](2017-09-08-yt--H1DnE6rhJY.md) — seo, analytics-cro
+- 2017-09-09 — [How to Increase The Average Order Value For Your Ecommerce Shop (upsells, bundles, product recommendations to lift AOV without more traffic)](2017-09-09-yt-zaLCQtOWKA8.md) — analytics-cro
+- 2017-09-10 — [How to Increase The Lifetime Value (LTV) of Your SaaS Customers (onboarding, usage/heatmap analysis, surveys, email re-engagement, product quality; Slack example)](2017-09-10-yt-RdehKbk7sEA.md) — analytics-cro, agency-entrepreneurship, email-marketing
+- 2017-09-11 — [How to Write Catchy Headlines That Convert | Copywriting Secrets (problem-headline + solution-subheadline formula; never stop A-B testing headlines)](2017-09-11-yt-b77fLPZ-GBI.md) — content-marketing, analytics-cro
 - 2017-11-01 — [HOW TO HACK INSTAGRAM: How to Get Your Customers to Promote Your Products On Instagram](2017-11-01-yt-UQR9Nrk626w.md) — social-media, content-marketing
 - 2017-11-12 — [How I Started 4 Multimillion Dollar Businesses By the Time I Was 28](2017-11-12-yt-k_eXA4cY53M.md) ★ — agency-entrepreneurship
 - 2017-11-22 — [1 Simple Hack to Build Hundreds of Backlinks (competitor-infographic tactic)](2017-11-22-yt-k9wddku3y54.md) — seo, content-marketing
@@ -228,4 +236,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2026-07-17 — [Your Software Is Now Your Best Marketing Channel (MS, co-hosted — Neil qualifies the "product = best channel" thesis: he pioneered it ~7-8 yrs ago (bought Ubersuggest ~$120k) but the real lever is FREE not feature-cadence, and it works "not as well as it used to" now everyone builds product; his biggest current lead-driver is conferences (a "three-for-one": speak + sponsor + side-events + branding); a premium on all good talent, not just "AI talent"; anti-vision-board)](2026-07-17-yt-L03nbcDp8v8.md) — ai-marketing, agency-entrepreneurship, content-marketing
 
 ---
-_215 videos ingested (L2) so far._
+_223 videos ingested (L2) so far._
