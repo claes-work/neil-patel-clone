@@ -1533,3 +1533,30 @@ heuristic — "post ≥10x/day; traffic scales sub-linearly but rises substantia
 existing-customer-revenue framing (upsells+downsells / automation / more products to same base) as an
 early statement of a retention/LTV lever. Both add specificity rather than contradicting. Synthesis
 debt now 3/10 (checkpoint at 10).
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P2 long-form (2017-10 solo tactical era, cont. 10)
+Ingested 8 @neilpatel P2 long-form videos (2017-10-02 → 2017-10-09), all solo/Neil-fronted (no
+attribution gating). 8 ok, 0 skipped, 0 no-captions, 0 dup, 0 rate-limit. Pages:
+(1) **Product differentiation (s1J_AXAatLw 2017-10-02)** — 2 ways to stand out from competitors:
+tell a story and build a distinct USP (boutique-vs-big-player positioning). (2) **Track offline
+marketing online (zk1Br8mFGnw 2017-10-03)** — 3 ways to attribute offline campaigns: unique
+landing-page URLs, channel-specific discount codes, and call tracking. (3) **Profitable display
+advertising (RRnhx5QSuTI 2017-10-04)** — 3-step formula: remarketing, rotate creative weekly, match
+the banner message to the landing page. (4) **Affiliate marketing (9wkHc68KRaQ 2017-10-05)** — pay
+affiliates a bounty that stays below your true cost, out-offer competitors to recruit them, and lift
+their ROI (so you can pay less) by optimizing landing pages with Crazy Egg. (5) **Website
+personalization CRO (EgQsT1ox1o0 2017-10-06)** — personalize by visit-count (Hello Bar), geoIP city
+insertion, and device type to raise conversions. (6) **Double email open rates (E5UZug6310g
+2017-10-07)** — 4 fixes: test the sender/"from" name, write casual + lowercase subject lines,
+personalize the recipient's name, and keep testing. (7) **Instagram Stories (ySvL3E1GeSU 2017-10-08)**
+— 3 tactics: build anticipation, tell a coherent story, and visually showcase products/results.
+(8) **Facebook engagement (VZUMAaRT3hA 2017-10-09)** — optimize your cover photo to relate to fans +
+brand and drive engagement.
+Synthesis notes: Consistent 2017 solo tactical-marketing cluster; mostly reinforces existing persona
+positions (test-everything CRO culture, Crazy Egg as the house testing tool, Hello Bar for capture/
+personalization). Candidate nuggets for the next synthesis: (a) the affiliate-economics logic — a
+bounty must stay below true hard cost, and better landing-page CRO raises affiliate ROI so you can
+pay them less (connects affiliate marketing to his broader CRO doctrine); (b) email open-rate levers
+(sender-name testing + casual/lowercase subject lines + name personalization) as a concrete
+email-marketing tactic set; (c) product-differentiation-by-storytelling+USP as an early positioning
+statement. All add specificity rather than contradicting. Synthesis debt now 4/10 (checkpoint at 10).

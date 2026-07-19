@@ -126,6 +126,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2017-09-29 — [How to Run Split Tests and Optimize Your Website for Conversions (Crazy Egg scroll/heat maps + recordings → WYSIWYG edits → A/B test; "I test everything")](2017-09-29-yt-XDoKXaGrUxE.md) — analytics-cro
 - 2017-09-30 — [1 Secret Website Hack to Increase Conversions and Skyrocketing Ecommerce Sales (manufactured urgency: countdown timers + scarcity/limited-stock; woot.com, Shopify Booster theme)](2017-09-30-yt-yJEVVGKnQXw.md) — analytics-cro, content-marketing
 - 2017-10-01 — [3 Easy Ways to Increase Your Online Revenue by 15% (or More) Without Acquiring New Customers (upsells/downsells with speed+automation, email marketing automation via Hello Bar, keep selling existing customers — Amazon)](2017-10-01-yt-GAfvXdWt3a8.md) — analytics-cro, email-marketing
+- 2017-10-02 — [2 Simple Ways to Differentiate Your Product From Your Competitors (differentiate via storytelling + a distinct USP; boutique-vs-big-player positioning)](2017-10-02-yt-s1J_AXAatLw.md) — content-marketing, agency-entrepreneurship
+- 2017-10-03 — [Is Your Offline Marketing Working? 3 Easy Ways to Track Offline Marketing Online (unique landing-page URLs, channel-specific discount codes, call tracking)](2017-10-03-yt-zk1Br8mFGnw.md) — analytics-cro, paid-ads
+- 2017-10-04 — [3 Step Formula to Making 'Display Advertising' Profitable (remarketing, weekly creative rotation, banner-to-landing-page message match)](2017-10-04-yt-RRnhx5QSuTI.md) — paid-ads, analytics-cro
+- 2017-10-05 — [3 Ways to Sell More Products Using Affiliate Marketing (pay a sub-cost bounty, beat competitor offers, optimize landing pages via Crazy Egg)](2017-10-05-yt-9wkHc68KRaQ.md) — paid-ads, analytics-cro
+- 2017-10-06 — [How to BOOST Website Conversions By Personalizing Your Website and Marketing Message (personalize by visit-count/Hello Bar, geoIP city insertion, device type)](2017-10-06-yt-EgQsT1ox1o0.md) — analytics-cro
+- 2017-10-07 — [How to DOUBLE Your Email Open Rates (test the sender name, casual + lowercase subject lines, personalize the recipient's name)](2017-10-07-yt-E5UZug6310g.md) — email-marketing
+- 2017-10-08 — [How to Use Instagram Stories To Promote Your Business (build anticipation, tell a coherent story, visually showcase products/results)](2017-10-08-yt-ySvL3E1GeSU.md) — social-media
+- 2017-10-09 — [1 Simple Facebook Marketing Tip to Engage With Your Fans! (optimize your cover photo to relate to fans + brand and drive engagement)](2017-10-09-yt-VZUMAaRT3hA.md) — social-media
 - 2017-11-01 — [HOW TO HACK INSTAGRAM: How to Get Your Customers to Promote Your Products On Instagram](2017-11-01-yt-UQR9Nrk626w.md) — social-media, content-marketing
 - 2017-11-12 — [How I Started 4 Multimillion Dollar Businesses By the Time I Was 28](2017-11-12-yt-k_eXA4cY53M.md) ★ — agency-entrepreneurship
 - 2017-11-22 — [1 Simple Hack to Build Hundreds of Backlinks (competitor-infographic tactic)](2017-11-22-yt-k9wddku3y54.md) — seo, content-marketing
@@ -252,4 +260,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2026-07-17 — [Your Software Is Now Your Best Marketing Channel (MS, co-hosted — Neil qualifies the "product = best channel" thesis: he pioneered it ~7-8 yrs ago (bought Ubersuggest ~$120k) but the real lever is FREE not feature-cadence, and it works "not as well as it used to" now everyone builds product; his biggest current lead-driver is conferences (a "three-for-one": speak + sponsor + side-events + branding); a premium on all good talent, not just "AI talent"; anti-vision-board)](2026-07-17-yt-L03nbcDp8v8.md) — ai-marketing, agency-entrepreneurship, content-marketing
 
 ---
-_239 videos ingested (L2) so far._
+_247 videos ingested (L2) so far._
