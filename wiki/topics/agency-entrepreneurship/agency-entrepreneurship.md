@@ -217,6 +217,85 @@ How Neil says the agency is financed and staffed as it scales.
   consulting line appears in 2025 as "NP Accelerate" alongside enterprise/SMB
   traffic-growth services under NP Digital [[2025-04-29-yt-ybttlXsLPXc]].
 
+## Client acquisition: conferences, speaking & the enterprise sales cycle
+
+From the co-hosted @MarketingSchoolPod (Neil-attributed). By his 2026 telling, **conferences
+are his single biggest current lead driver** — a shift from the free-tool funnel.
+
+- **Speaking is a top acquisition channel; put clients on stage (2024-07-09, ★).** Speaking at
+  industry events is one of his highest-yield channels; a signature move is putting *existing
+  clients* on stage for social proof, then landing-and-expanding — which he calls **"fishing with
+  dynamite"** ([[2024-07-09-yt-Dw7IDLVNXqI]]).
+- **The event lead-capture + enterprise sales-cycle playbook (2025-05-11, ★).** Operationalized:
+  a **QR code on the speaking slides** captures leads; staff the room with 1–2 org reps; then run
+  the **enterprise sales cycle (~1 year 10 months)** with deliberate land-and-expand. His rule:
+  **"fortune is in the follow-up"** ([[2025-05-11-yt-SbUevRQ3b7M]]). Extends the 2024-07-09
+  conference thread.
+- **"Distribution is the moat" (2025-05-11, ★).** The durable advantage is a **built audience you
+  can build-and-sell-to**; pair it with the outbound rule **"AI for low-stakes, humans for
+  high-stakes"** ([[2025-05-11-yt-SbUevRQ3b7M]]).
+- **Product-as-marketing is decaying; FREE is the real lever (2026-07-17).** A near-dissent from
+  the very episode's title: **FREE (not feature-cadence "marketable moments") is the real
+  distribution lever**, and *product-as-marketing is decaying now that everyone builds product* —
+  which is why his biggest current lead-driver is **conferences (a "three-for-one")**
+  ([[2026-07-17-yt-L03nbcDp8v8]]).
+  > Note the evolution: the 2022–23 doctrine was free *software* → services (Ubersuggest / Answer
+  > The Public, above). By 2026 he says that product-led moat is eroding as product-building
+  > commoditizes, pushing him back toward events + brand. Date both; don't present as one stance.
+
+## Agency M&A, valuation & financing (Marketing School, 2024–2026)
+
+Neil's most detailed business-operator material sits in the 2026 podcast run (Neil-attributed;
+fundraising/financial figures are self-reported/unverified).
+
+- **Agency M&A arbitrage / valuation thesis (2026-07-06 ★, 2026-07-15, 2026-07-16).** He argues
+  **AI-agency valuations at 20–40x won't hold for a service business**; the smarter play is
+  **buying stalled-but-stable agencies at ~2x profit**. Distressed-acquisition economics:
+  fixer-uppers run **~2.5–4x** and growth *compresses* the multiple (the **Platinum Equity**
+  model). **NP Digital is already hunting but passing on the multiples**
+  ([[2026-07-06-yt-JJ_wuHYGrQM]], [[2026-07-15-yt-cabAkWhHoiI]], [[2026-07-16-yt-y74lGUnI5Zg]]).
+  Consistent with his older **"acquisition is a growth channel"** stance and the downturn
+  **"buy, don't sell"** posture (he names a ~**$10M EBITDA** acquisition target).
+- **"Budget problem, not money problem" management doctrine (2026-07-06, ★).** Approve **lump-sum
+  spend now** and **expense it against the region's future-year revenue** (tied to bonuses),
+  rather than starving a unit against this year's budget. Paired with a named **reports-he-actually-
+  uses** list and an explicit **anti-"dashboarditis"** stance — track the few numbers that drive
+  decisions ([[2026-07-06-yt-JJ_wuHYGrQM]]).
+- **Debt-leverage "turns" framework (2026-07-16, ★).** Size debt in **turns of profit** — a
+  half-to-one turn maximum, and **personally under 1x**; he calls **SBA "the best debt"** and works
+  through quantified affordability ([[2026-07-16-yt-y74lGUnI5Zg]]).
+- **Clean-story spinoff fundraising playbook (2026-07-16, ★).** To raise on an AI story, **spin the
+  sexy AI new-co out of the legacy agency** — "investors like deals with no hair" — **raise a
+  smaller clean round first** (even a SAFE), then a bigger one later, and **keep the cash-flowing
+  agency separate** to contain risk ([[2026-07-16-yt-y74lGUnI5Zg]]).
+
+## Business models in the AI era (Marketing School, 2024–2026)
+
+- **Agency-survival-in-AI: value-or-die (2024-02-09, ★).** In an AI world an agency must price on
+  *value or die*; his blunt forecast that **"the winner will be the platforms, not the people."**
+  Valuation realism: **COVID inflated agency multiples**, and **~7x profit is generous** for a
+  service business clients rarely stay 7 years with ([[2024-02-09-yt-8pj9459aJ1w]]).
+- **"Fame as TAM" and the products-vs-personal-brands tension (2024-02-07).** A mental model that
+  **fame is a market sized in dollars, not people**; and a provocative claim that **"the real money
+  is in products, not personal brands."** ([[2024-02-07-yt-GFQmeyuJwxY]]).
+  > ⚠️ CONTRADICTION/tension: this sits directly against his own **personal-brand-beats-corporate**
+  > stance ("I, Neil Patel, am no WPP," 2024-08-13, [[social-media]]) *and* against the fact that
+  > his own business is built on a personal brand. Surface it, don't smooth it — the reconciliation
+  > he implies is that a personal brand is the *acquisition* engine, while durable *enterprise
+  > value* accrues to products/IP.
+- **In-app / platform-native selling for ROAS + leadership at scale (2024-02-22, ★).** Sell
+  *inside* the platform for better ROAS; plus a hiring/leadership-at-scale framework, anchored on a
+  self-reported **NP Digital ~1,000-employee** data point ([[2024-02-22-yt-e8LudQiSfwY]]).
+- **Monetization-timing rule (2024-06-04, ★).** **Build the audience on a channel first, monetize
+  only after** (Quick Sprout / Leveling Up examples) — a reusable ordering principle
+  ([[2024-06-04-yt-CqSp5WsWNZU]]).
+- **Business-discipline from the Thrasio collapse (2024-02-07).** The Amazon-aggregator's
+  billion-dollar failure is his cautionary tale on **debt + ad-arbitrage fragility**
+  ([[2024-02-07-yt-GFQmeyuJwxY]]).
+- **Small-TAM freebie → big-TAM monetization — worked example (2023 dailies).** Give a small-TAM
+  free product to earn the right to sell the big-TAM one: **free payroll → sell insurance/401k**;
+  a cleaner instance of the existing free-tool → services logic ([[2023-11-03-yt-smz-vLoVJZA]]).
+
 ## Key source pages
 
 - [[2016-11-25-yt--dCls0VoY58]] — "Learn REAL Digital Marketing In Just 5 Minutes a Day":
@@ -239,3 +318,15 @@ How Neil says the agency is financed and staffed as it scales.
   own-your-audience model, 1%-monetization math, competitor-agnostic backlinks.
 - [[2025-07-23-yt-39o0uYPo4jU]] — "The New Rules of SEO (2026)": ASO-company acquisition
   note (acquired name unresolved).
+
+### Marketing School podcast (co-hosted; Neil-attributed) — 2024–2026 business operator
+- [[2024-02-07-yt-GFQmeyuJwxY]] — "Fame as TAM"; real money in products vs personal brands; Thrasio lesson.
+- [[2024-02-09-yt-8pj9459aJ1w]] — Agency-survival-in-AI: value-or-die; "winner is the platforms"; valuation realism.
+- [[2024-02-22-yt-e8LudQiSfwY]] — In-app selling for ROAS; leadership at scale; NP Digital ~1,000 employees.
+- [[2024-06-04-yt-CqSp5WsWNZU]] — Monetization-timing: build audience first, monetize after.
+- [[2024-07-09-yt-Dw7IDLVNXqI]] — Conferences/speaking as top acquisition; clients on stage; "fishing with dynamite."
+- [[2025-05-11-yt-SbUevRQ3b7M]] — Event QR lead-capture + ~1yr-10mo enterprise sales cycle; "distribution is the moat"; "fortune is in the follow-up."
+- [[2026-07-06-yt-JJ_wuHYGrQM]] — Agency M&A arbitrage; "budget problem, not money problem"; anti-dashboarditis.
+- [[2026-07-16-yt-y74lGUnI5Zg]] — Debt "turns" framework; SBA "best debt"; clean-story spinoff fundraising.
+- [[2026-07-17-yt-L03nbcDp8v8]] — Product-as-marketing decay; FREE as the real distribution lever; conferences "three-for-one."
+- [[2023-11-03-yt-smz-vLoVJZA]] — Small-TAM freebie → big-TAM monetization (free payroll → insurance/401k).

@@ -195,6 +195,27 @@ A break-even customer-acquisition flywheel, not a first-sale margin play (2026-0
 Cross-link: the loss-leader-into-LTV logic overlaps paid-ads / customer-acquisition
 economics — this page covers only the organic/creator-social side.
 
+## Personal brand: power and fragility (Marketing School, 2024–25)
+
+From the co-hosted @MarketingSchoolPod (Neil-attributed). These sharpen the personal-brand
+engine above with a two-sided view — it out-converts corporate brands, but it is fragile.
+
+- **Personal brand beats corporate brand (2024-08-13, ★).** "I, Neil Patel, am no WPP" — a
+  *personal* brand out-converts a *corporate* brand on social/LinkedIn ([[2024-08-13-yt-eXWE6agCEZg]]).
+  > ⚠️ Tension: this cuts against his own 2024-02-07 "real money is in products, not personal
+  > brands" ([[wiki/topics/agency-entrepreneurship|agency-entrepreneurship]]). Reconciliation he
+  > implies: personal brand is the *acquisition/conversion* engine; products hold the enterprise
+  > value. Kept visible, not smoothed.
+- **Personal-brand fragility (2024-12-18, ★).** A **fast-built personal brand is tarnished faster**,
+  and inexperienced creators get steered by profit-seeking stakeholders — his example is the
+  **$HAWK ("Hawk Tuah") coin rug-pull** ([[2024-12-18-yt-YogL0Fx_2NE]]). Pairs with the 2024-08-13
+  power claim: the same leverage that builds fast can collapse fast.
+- **Keep politics out of marketing (2024-11-27).** A public political stance **alienates your core
+  customer base**, and a public company owes shareholders profit — his example is the **Jaguar
+  rebrand** backlash ([[2024-11-27-yt-IhUcHgPAZrg]]).
+- **Follower-gain mechanics (2025-01-13).** Incremental: follower gains come from **being tagged**
+  by others and from **higher-production video** ([[2025-01-13-yt-g0lJPKjLE4k]]).
+
 ## Legacy organic tactics (dated)
 
 Captured for the record; several rely on platform mechanics or reach levels that have since
@@ -240,3 +261,7 @@ changed. Date-flag before reuse.
 - [[2017-05-11-yt-hfRzMSCw6II]] — Twitter Traffic (Buffer re-sharing + BuzzSumo outreach) — dated
 - [[2017-05-15-yt-pbTlpO8V_4k]] — First 1,000 Facebook Followers (Pages-to-Watch mining) — dated
 - [[2019-04-13-yt-3UNBH439N38]] — 1,000 Likes on Facebook (MobileMonkey Messenger blast) — dated/stale
+- [[2024-08-13-yt-eXWE6agCEZg]] — Personal brand beats corporate ("I am no WPP") — Marketing School
+- [[2024-12-18-yt-YogL0Fx_2NE]] — Personal-brand fragility ($HAWK rug-pull) — Marketing School
+- [[2024-11-27-yt-IhUcHgPAZrg]] — Keep politics out of marketing (Jaguar rebrand) — Marketing School
+- [[2025-01-13-yt-g0lJPKjLE4k]] — Follower gains from tags / high-production video — Marketing School

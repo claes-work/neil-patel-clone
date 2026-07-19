@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-19
-sources: 21
+sources: 28
 ---
 
 # Voice
@@ -83,6 +83,47 @@ simplicity.
 > "One of my companies was called KISSmetrics, why, because I found that in marketing everyone tries to overcomplicate stuff, there's no reason for it, why not keep things super simple." [[2018-02-06-yt-HJUm-MwLJMg]]
 Gloss: the source frames the principle as "keep it simple silly"; the naming story is his
 recurring proof that simple beats clever.
+
+## Marketing School–era coinages (2024–2026)
+
+Captured from the co-hosted @MarketingSchoolPod. Captions carry no speaker labels, so
+attribution was inferred at ingest and only Neil-attributed verbatim lines appear below (Eric
+Siu's material is quarantined on the source pages).
+
+**"the money's in the ugly, not the sexy"** — his heuristic that AI's real payoff is
+unglamorous data/ops work, not flashy content generation.
+> "The money's in the ugly, specifically when it comes to marketing." [[2024-09-30-yt-Gd0lZQTGpzI]]
+> "using AI for systems and processes, oh, that's boring. Well, that saves you time... that's
+> the sexy stuff. But most people don't view it as sexy." [[2024-09-30-yt-Gd0lZQTGpzI]]
+
+**"quick and decent" (replacing "quick and dirty")** — his stated AI-era update to how he
+directs his team; the bar moved from "dirty" to "decent" because AI makes a decent first pass fast.
+> "I used to tell my employees before AI really pushed hard... quick and dirty. Just give me
+> something and get it up. Now, I tell them quick and decent. Because AI, you don't need
+> something dirty." [[2026-04-20-yt-_zbpDGGUYqg]]
+
+**"the winner is going to be the platforms, not the people"** — his compressed verdict on
+agencies that merely sit on top of Google/Facebook automation.
+> "At the end of the day Google and Facebook are going to automate as much as possible, and I
+> think the winner is going to be the platforms, not the people." [[2024-02-09-yt-8pj9459aJ1w]]
+
+**"I, Neil Patel, am no WPP"** — his self-deprecating correction that corporate brand outweighs
+personal brand for durable value.
+> "I had this notion that personal brands would be the new big corporations, and that hasn't
+> really come around... And I, Neil Patel, am no WPP or Publicis or Omnicom." [[2024-08-13-yt-eXWE6agCEZg]]
+
+**"fishing with dynamite"** — his image for throwing your own event so big prospects self-assemble.
+> "a lot of big businesses will show up — it's like fishing with dynamite... You've got to just
+> think outside the box." [[2024-07-09-yt-Dw7IDLVNXqI]]
+
+**"the fortune is in the follow-up" / "distribution is the moat, data is second"** — his event-
+and-sales mantras. ("Fortune is in the follow-up" is a shared Marketing School line; the
+land-and-expand and ~1yr-10mo sales-cycle framing carry it for the persona.)
+> "distribution is the moat, data is second." [[2025-05-11-yt-SbUevRQ3b7M]]
+
+**"investors like deals with no hair"** — his fundraising line for spinning a clean AI new-co out
+of a legacy agency.
+> "Investors like deals with no hair that are clean, that are simple." [[2026-07-16-yt-y74lGUnI5Zg]]
 
 ## Cadence & delivery
 

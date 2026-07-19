@@ -967,3 +967,58 @@ example (free payroll → sell insurance/401k) and the downturn-acquisition stan
 are cleanly citable. ★L3-candidates this batch: 2026-07-06 (JJ_wuHYGrQM), 2026-07-16 (y74lGUnI5Zg).
 Synthesis debt now 8 batches since pass 1 (checkpoint at 10) — AND the @MarketingSchoolPod P1 era just
 completed, so the next iteration is a Stage S synthesis checkpoint (channel/era-complete rule fires).
+
+## [2026-07-19] lint | synthesis pass 2 — @MarketingSchoolPod P1 era (channel-complete checkpoint)
+
+Stage S. Second synthesis pass, triggered by the **channel/era-complete rule** (the
+@MarketingSchoolPod P1 long-form era drained to P1=0 in the prior batch; debt was 8 batches, below
+the 10-batch counter, but the era-complete trigger fires first). Drained the **8 accumulated
+`Synthesis notes:` lines** from ingest batches #10–#17 (the co-hosted @MarketingSchoolPod P1 archive,
+2023-11 → 2026-07). High-water mark advanced from "batch #9 / 72 L2" to **"batch #17 / 135 L2 —
+@MarketingSchoolPod P1 era complete."**
+
+**Attribution discipline:** every promoted item is Neil-attributed only; Eric Siu's material stayed
+quarantined on the source pages (captions had no speaker labels, so attribution was inferred at
+ingest). **Ephemeral 2026-Q1/Q2 model-news** (Opus 4.5, token-cost swings, Jensen Huang / Nvidia,
+Meta AI-code mandates, a16z jobs charts) was **deliberately NOT promoted**, per the do-not-promote
+flags on those batches — only durable Neil frameworks carried.
+
+Promotions (one file at a time):
+- **wiki/topics/ai-marketing** — new dated section "The GEO/AEO era — origin-to-2026 timeline"
+  (GEO seed 2023-11 → GEO named 2024-01 → financial-defense argument 2024-02-15 → "old-school SEO is
+  dead" 2024-03-01 → search-everywhere/global-SEO 2024-12 → Ubersuggest LLM tracking 2025-07 → Reddit
+  2025-09 → brand-is-the-moat / train-the-AI 2026-01/03 → AEO framework 2026-03/04 → third-party
+  listicles 2026-05 → GEO market read 2026-07); AI+humans extended (deals-over-tools, "30 min a day",
+  AI-work-not-headcount, AI-adapts-to-person, vanity-metric trap).
+- **wiki/topics/seo** — SEO-career adaptation (package for AI, brand mentions ≈ links — date-flagged
+  vs the older backlinks doctrine), Reddit SEO playbook (70%+ AI-reply removal), 94.29%-zero-traffic.
+- **wiki/topics/agency-entrepreneurship** — conferences/events acquisition + enterprise sales cycle +
+  "fortune is in the follow-up"; agency M&A/valuation/financing (M&A arbitrage, debt "turns", SBA,
+  clean-story spinoff, "budget not money problem"); AI-era business models (value-or-die,
+  fame-as-TAM, monetization-timing, product-as-marketing decay).
+- **wiki/topics/content-marketing** — how-to-learn-marketing loop, write-conversationally, mine
+  client-facing team.
+- **wiki/topics/social-media** — personal-brand power/fragility ("I am no WPP" / $HAWK), keep-politics-
+  out, follower-gain mechanics.
+- **wiki/topics/paid-ads** — two AI-era levers (creative + first-party data), full-funnel-revenue.
+- **wiki/topics/analytics-cro** — AI vanity-metric trap + payment-processor-by-country; NP Digital
+  3,000-landing-page benchmarks (B2B ~1.8% / B2C ~2.1%, flagged colleague-delivered).
+- **persona/beliefs.md** (19→32 sources): brand-is-the-last-moat, distribution-is-the-moat +
+  conferences-as-#1-lead-driver, capital discipline, AI-augments-not-replaces / deals-over-tools,
+  money-in-the-ugly, anti-business-coach (dissent from Eric), keep-politics-out, monetization-timing.
+- **persona/voice.md** (21→28 sources): new "Marketing School–era coinages" block — "the money's in
+  the ugly, not the sexy", "quick and decent", "the winner is the platforms, not the people", "I am no
+  WPP", "fishing with dynamite", "distribution is the moat", "investors like deals with no hair".
+- **persona/biography.md** (11→16 sources): NP Digital ~1,000 employees (2024) + referral-led new
+  business; Ubersuggest LLM brand-tracking (2025-07); agency M&A hunting / passing on multiples (2026).
+- **persona/system-prompt.md** recompiled **v1 → v2** (compiled_from_sources 72 → 135).
+
+Contradictions/tensions flagged (not smoothed): "brand mentions ≈ links" vs the older backlinks-#1
+doctrine; "real money is in products, not personal brands" (2024-02-07) vs "personal brand beats
+corporate" (2024-08-13); third-party listicles help vs self-published listicles hurt within ~6 months.
+
+Bookkeeping: high-water mark advanced + pass-2 Done checkpoint in `pipeline/synthesis-state.md`;
+`index.md` persona counts/version updated (v1→v2). No new topic pages (8 hubs all existed). No
+yt-dlp / rate-limit activity (synthesis is local-only). Commit + push.
+
+Synthesis notes: none (this IS the synthesis pass; debt drained to 0 through batch #17).

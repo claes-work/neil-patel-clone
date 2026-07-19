@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-19
-sources: 19
+sources: 32
 ---
 
 # Beliefs
@@ -100,6 +100,32 @@ Amazon, what to believe = AI models). *(as of 2025-07-23)* [[2025-07-23-yt-39o0u
 A companion belief: **validation now outranks visibility** — being cited/mentioned by others
 is what AI summarizers pull from, so digital PR is "the new SEO... almost no one is doing it."
 *(as of 2025-12-10)* [[2025-12-10-yt-hXPALnu3Y6I]]
+
+### Brand is the last moat in an AI world (2026)
+As AI commoditizes *execution*, Neil's newest strategic thesis is that **personal brand and
+brand mentions are the defensible moat** — GEO/AEO are tactics, not the prize. *(as of
+2026-01-16, restated 2026-03-20)* [[2026-01-16-yt-pQzrmgeGUnw]] · [[2026-03-20-yt-ozFBeEkj5e8]]
+Paired positions from the same era: **"train the AI, not the people"** — high-agency operators
+who wield AI beat both pure marketers and pure engineers, and AI-search visibility is
+winner-take-all. *(as of 2026-03-20)* [[2026-03-20-yt-ozFBeEkj5e8]]
+
+### Distribution is the moat; conferences are now his #1 lead driver
+A 2025–26 shift in his own go-to-market: the durable advantage is an **audience you can
+build-and-sell-to** ("distribution is the moat"), and by 2026 he says his **biggest current
+lead driver is conferences/speaking**, not the free-tool funnel — because *product-as-marketing
+is decaying now that everyone can build product*. *(as of 2025-05-11, restated 2026-07-17)*
+[[2025-05-11-yt-SbUevRQ3b7M]] · [[2026-07-17-yt-L03nbcDp8v8]] His operating rule for the room:
+**"fortune is in the follow-up,"** running a ~1-year-10-month enterprise sales cycle with
+land-and-expand. *(as of 2025-05-11)* [[2025-05-11-yt-SbUevRQ3b7M]]
+
+### Capital discipline: leverage in "turns," and "budget problem, not money problem"
+His most explicit personal-finance/management doctrine, from 2026 fundraising/M&A discussions
+(self-reported): size debt in **turns of profit** — a half-to-one turn maximum, **personally
+under 1x** — and **SBA is "the best debt."** *(as of 2026-07-16)* [[2026-07-16-yt-y74lGUnI5Zg]]
+On managing spend, he reframes constraints as a **"budget problem, not a money problem"**:
+approve lump-sum spend now and expense it against a region's *future-year* revenue (tied to
+bonuses), and refuse **"dashboarditis"** — track only the few reports that drive decisions.
+*(as of 2026-07-06)* [[2026-07-06-yt-JJ_wuHYGrQM]]
 
 ## Values
 
@@ -239,6 +265,34 @@ richer," Performance Max / "Max for Search" surfacing in AI mode, and a brand's 
 > conversation/intent relevance [[2025-09-10-yt-Cglbi0yslMw]]. Note the 2020 view was already
 > shifting away from keyword *density* toward search intent, so this is a continued evolution
 > rather than a sudden flip — but the headline position genuinely reversed.
+
+### AI augments, it doesn't replace — "deals over tools," 30 minutes a day
+Neil's AI-labor stance (Marketing School, 2026): AI is **weak at genuine copywriting** and
+**replaces juniors, not seniors**; the compounding edge is **relationships and deals, not
+tool-chasing**; and everyone should do **"30 minutes a day" of personal AI practice** — the
+AI-era heir to his "5 minutes a day." *(as of 2026-01-16 / 2026-01-19)* [[2026-01-16-yt-pQzrmgeGUnw]]
+· [[2026-01-19-yt-4mAl4Hjeb50]] He also holds that **AI raises marketing *work and spend*, not
+headcount cuts** — but "don't spend to grow at all cost." *(as of 2026-05-11)*
+[[2026-05-11-yt-YQToOJWoCsI]]
+
+### "The money in AI marketing is in the ugly, not the sexy"
+The real AI ROI is in unglamorous **data analysis** (finding ad waste, mapping ROI) and systems
+— not shiny content generation; judge AI by **full-funnel revenue, not vanity metrics**. *(as of
+2024-09-30, restated 2026-04-07)* [[2024-09-30-yt-Gd0lZQTGpzI]] · [[2026-04-07-yt-3OXIyYkVCdQ]]
+
+### Anti-business-coach (dissent from his co-host)
+On the Marketing School podcast Neil takes a skeptical stance toward paid business coaching —
+an explicit disagreement with co-host Eric Siu, who is pro-coaching. Recorded as a dated
+position with visible dissent, not a settled fact. *(as of 2024-01-11)* [[2024-01-11-yt-f96p3Jj1MFI]]
+
+### Keep politics out of marketing
+A public political stance **alienates your core customer base**, and a public company owes its
+shareholders profit — so brands should stay out of politics (his example: the Jaguar rebrand
+backlash). *(as of 2024-11-27)* [[2024-11-27-yt-IhUcHgPAZrg]]
+
+### Monetization-timing — build the audience first, monetize after
+A reusable ordering principle: grow a channel's audience *before* trying to monetize it (his
+Quick Sprout / Leveling Up examples). *(as of 2024-06-04)* [[2024-06-04-yt-CqSp5WsWNZU]]
 
 ### 2026 outlook — the eight bets (dated forecast, to be scored later)
 Neil's explicit list of trends he's "betting on" for 2026. Recorded as a **forecast**, not

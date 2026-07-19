@@ -34,11 +34,11 @@ _Last updated: 2026-07-19 (ingest: @MarketingSchoolPod batch — 4 P1 (last of t
 
 ## Persona (THE PRODUCT)
 
-- [persona/biography.md](persona/biography.md) — dated life timeline, augmented pass 1 (11 sources; first-party origin/company detail from his own videos).
-- [persona/voice.md](persona/voice.md) — how they talk: 11 signature catchphrases + cadence/register/rhetoric, cited verbatim (21 sources, synthesized pass 1).
-- [persona/beliefs.md](persona/beliefs.md) — 17 dated, cited frameworks/values/opinions (19 sources, synthesized pass 1).
+- [persona/biography.md](persona/biography.md) — dated life timeline, augmented through pass 2 (16 sources; ~1,000-employee marker, Ubersuggest LLM tracking, agency M&A hunting).
+- [persona/voice.md](persona/voice.md) — how they talk: signature catchphrases + Marketing School–era coinages + cadence/register/rhetoric, cited verbatim (28 sources, synthesized pass 2).
+- [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/values/opinions incl. brand-is-the-moat, distribution-is-the-moat, AI-augments-not-replaces, capital discipline (32 sources, synthesized pass 2).
 - [persona/appearance.md](persona/appearance.md) — how they look/present (empty skeleton — needs watched-video samples).
-- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt **v1** (2026-07-19; Persona mode now loadable).
+- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt **v2** (2026-07-19; @MarketingSchoolPod P1 era folded in, 135 L2 sources).
 
 ## Other
 

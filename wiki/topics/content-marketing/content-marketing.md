@@ -70,9 +70,27 @@ Neil's signature packaging of learning-as-content — the low-friction daily hab
 - **Consistency over intensity:** you can become competent at SEO in > "just five minutes a day" over a few months via a three-step loop — (1) let Ubersuggest email you 2–3 weekly fix-it tasks on your own site, (2) read one or two articles a week (NeilPatel.com, Backlinko, Search Engine Land), (3) listen to the daily sub-5-minute Marketing School podcast.
 - **The cost case for organic:** Neil dramatizes SEO's long-term advantage over paid ads (self-reported figure): > "If I had to buy my traffic with ads, it would cost $5,134,294 a month... While with SEO, I don't even spend 1% of that." (NP Digital was, he says, the 21st fastest-growing U.S. company per INC Magazine, which he attributes largely to SEO.)
 
+## Learning marketing & sourcing content (Marketing School, 2024–2026)
+
+From the co-hosted podcast (Neil-attributed).
+
+- **The how-to-learn-marketing evergreen loop (2024-12-24, ★).** His durable answer for a beginner:
+  **learn from creators / newsletters / communities → build your own site → experiment with AI
+  tools → double down on what works** ([[2024-12-24-yt-5cHtmnAN4ys]]). A learning-by-doing
+  companion to the "5 minutes a day" habit.
+- **Write conversationally, not "persuasively"; never post junk (2024-12-03).** On LinkedIn/social,
+  **engagement compounds** — so protect the account by never posting low-quality filler, and write
+  the way you talk rather than in stiff "persuasive" copy ([[2024-12-03-yt-VjinVbFRZl4]]).
+- **Mine your client-facing team for the highest-paid problems (2026-02-12).** A content-sourcing
+  method: **interview the people who talk to customers** to surface the problems buyers pay most to
+  solve, then **script content + case studies around them** ([[2026-02-12-yt-9MubDvbfJ-o]]).
+
 ## Key source pages
 
 - [[2019-01-24-yt-Q8rN3JKqUc8]] — How To ACTUALLY Write A Blog Post From Start To Finish (2019-01-24) — the canonical 5-part blog template.
+- [[2024-12-24-yt-5cHtmnAN4ys]] — How to learn marketing (evergreen loop) — Marketing School.
+- [[2024-12-03-yt-VjinVbFRZl4]] — Write conversationally; engagement compounds; never post junk — Marketing School.
+- [[2026-02-12-yt-9MubDvbfJ-o]] — Interview client-facing teams for the highest-paid problems — Marketing School.
 - [[2017-06-01-yt-wWiSShEGyHA]] — How to Do SEO in a Competitive Industry When You Have No Money (2017-06-01) — roundups, content depth, CTR of title tags.
 - [[2017-05-14-yt-P9LJlrCNZyY]] — How Long Does Content Marketing Take to Work? (2017-05-14) — the ~2-year timeline + NeilPatel.com traffic curve.
 - [[2020-05-02-yt-Q_lySNxCag0]] — SEO Unlocked (intro lesson) (2020-05-02) — "give give give before you ask" mindset.

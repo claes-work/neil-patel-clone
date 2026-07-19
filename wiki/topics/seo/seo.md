@@ -357,6 +357,31 @@ teaching. From [[2025-07-23-yt-39o0uYPo4jU]] (2025-07-23):
   pick the two-to-three platforms to win, not omnipresence.
   > The goal isn't omnipresence, it's strategic presence.
 
+## SEO in the AI era — career adaptation & Reddit (Marketing School, 2025–26)
+
+From the co-hosted @MarketingSchoolPod archive (only Neil-attributed). The GEO/AEO *market*
+and business framing lives in [[wiki/topics/ai-marketing|ai-marketing]]; this section keeps the
+SEO-practitioner mechanics.
+
+- **"SEO has always evolved — no sacred cows" (2025-10-18).** His answer to "is an SEO career
+  dead": SEO has changed continuously and the skill is *adaptability*. Write **content for humans
+  but package it for AI**; **brand mentions now count like links**; curiosity + adaptability keep
+  the career "booming" ([[2025-10-18-yt-suqrDn5N_D4]]).
+  > ⚠️ Date-note: "brand mentions count like links" is a 2026-era refinement of his long-standing
+  > "backlinks are the #1 factor" teaching (see *Link building* above, 2017-05-26). Treat as an
+  > additive evolution — links still matter for classic Google ranking; unlinked brand mentions
+  > are the *new* signal AI engines and Google's brand-authority models reward.
+- **The Reddit SEO playbook (2025-09-25).** Reddit is a heavily-cited source for both Google and
+  AI answers, so it is an SEO surface — but you **participate natively** rather than buy authority
+  accounts, and do active **Reddit reputation management**. His own **100-post experiment showed
+  Reddit removes 70%+ of AI-written replies** — automation doesn't work here
+  ([[2025-09-25-yt-BfPayCQHNcE]]). Cross-link: [[wiki/topics/social-media|social-media]].
+- **"Old-school SEO is dead, not SEO" + the zero-traffic reality (2024-03-01).** The competitive
+  bar is being the minority of content that earns *any* traffic: he cites his Ubersuggest finding
+  that **~94.29% of pages get zero search traffic** ([[2024-03-01-yt-LZuR52_nNFA]]). The five-lever
+  modern reframing and the financial "Google won't kill SEO" argument are on
+  [[wiki/topics/ai-marketing|ai-marketing]].
+
 ## Google organic + paid in 2026
 
 From [[2025-09-10-yt-Cglbi0yslMw]] (2025-09-10) — cross-links to
@@ -409,3 +434,6 @@ many small things well, for the user, and rankings follow.
 - [[2023-01-21-yt-7mMFfJE8cEc]] — Website That Generates 4M Visitors (long-tail lever)
 - [[2025-07-23-yt-39o0uYPo4jU]] — The New Rules of SEO 2026 (Search Everywhere Optimization)
 - [[2025-09-10-yt-Cglbi0yslMw]] — How Google Organic & Paid Search Will Work in 2026
+- [[2024-03-01-yt-LZuR52_nNFA]] — "Old-school SEO is dead" / 94.29% of pages get zero traffic (Marketing School)
+- [[2025-09-25-yt-BfPayCQHNcE]] — Reddit SEO: native participation; 70%+ AI-reply removal (Marketing School)
+- [[2025-10-18-yt-suqrDn5N_D4]] — SEO-career adaptation: package for AI, brand mentions ≈ links (Marketing School)

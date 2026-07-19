@@ -174,6 +174,86 @@ All eight bets dated **2025-12-10** [[2025-12-10-yt-hXPALnu3Y6I]]:
    Self-reported: *"Creators are getting 30 to 50% of their views from languages they
    don't even speak."*
 
+## The GEO/AEO era — a dated origin-to-2026 timeline (from the Marketing School podcast)
+
+Neil's "Search Everywhere Optimization" (2025) did not arrive fully formed. The
+**@MarketingSchoolPod** co-hosted archive (2023–2026, with Eric Siu — only Neil-attributed
+material below) shows the thesis maturing quarter by quarter. Dates are load-bearing; this is
+his *evolving* position, not a single current stance.
+
+> ⚠️ Ephemeral model-news excluded: much of the 2026-Q1/Q2 podcast material is time-bound
+> reaction to specific model releases and headlines (Opus 4.5, token-cost swings, Jensen
+> Huang / Nvidia, Meta AI-code mandates, a16z jobs charts). Per the do-not-promote flags on
+> those batches, only Neil's durable *frameworks* are promoted here; the news pegs are left
+> in their source pages.
+
+- **Origin — "SEO won't die, it evolves" → Generative Engine Optimization (2023-11 → 2024-01).**
+  The earliest dated form: AI will cut organic clicks, but you optimize to be *pulled into* AI
+  engines rather than fight them ([[2023-11-27-yt-EUVspvV6_UQ]], 2023-11-27). By early 2024 he
+  names it **Generative Engine Optimization** and cites a proprietary finding that **relevancy +
+  brand mentions drive LLM recommendations** — an "82 ranking factors" study ([[2024-01-05-yt-02aOEbWV98c]],
+  2024-01-05, ★). This is the datable *origin* of what he later brands Search Everywhere
+  Optimization (2025) — present it as the seed, not the current playbook.
+- **The financial-defense argument (2024-02-15, ★).** A distinct *economic* case that AI won't
+  kill SEO: **Google is financially disincentivized to kill organic** because it earns tens of
+  billions/yr from a partner/AdSense network that runs on organic traffic; plus Danny Sullivan's
+  data that total search clicks keep growing even as Google's share falls ([[2024-02-15-yt-qH6IQ2bqavU]]).
+  This is the money-motive complement to the later "old-school SEO is dead, not SEO" reframing.
+- **"SEO isn't dead — old-school SEO is" + the zero-traffic stat (2024-03-01, ★).** A modern
+  five-lever reframing anchored on his signature Ubersuggest finding that **~94.29% of pages get
+  zero search traffic** ([[2024-03-01-yt-LZuR52_nNFA]]). The competitive frontier is being the
+  small share of content that earns any traffic at all.
+- **GEO's long-run economics (2024-03-28).** GEO will **boost affiliate marketing over a 10–20
+  year horizon**, and Google's durable ad moat is the **transactional keyword** (commercial
+  intent) rather than the informational query that AI answers absorb ([[2024-03-28-yt-gj7B9JnyJqM]]).
+- **The comparison-article tactic + the publisher-model break (2024-01-15).** A concrete
+  AI-era traffic play: **"[Competitor] vs [You]" pages** (he cites ~17k visitors in ~6 months);
+  and a stance that **AI's verbatim reproduction breaks the publisher model** in a way ordinary
+  search scraping did not ([[2024-01-15-yt-VLckuzcfqFY]]).
+- **Money in AI marketing is "in the ugly, not the sexy" (2024-09-30, ★).** The real AI ROI is in
+  unglamorous data analysis (finding ad waste, mapping ROI) and systems — not shiny content
+  generation ([[2024-09-30-yt-Gd0lZQTGpzI]]). See also [[analytics-cro]].
+- **Search-everywhere restated + AI global SEO (2024-12-27, ★).** Optimize for **every platform
+  people search on**, plus **AI in-platform auto-translation** as a Global-SEO lever
+  ([[2024-12-27-yt-fPp_cl8hWX4]]) — an early node on the evolving "get chosen, not just found"
+  thread that culminates in the 2025-07-23 Search Everywhere Optimization page.
+- **The Ubersuggest LLM brand-tracking product (2025-07-30; self-reported).** Ubersuggest adds a
+  capability to **track your brand across ChatGPT / Google AI-mode** (share-of-voice, sentiment)
+  plus an AI-augmented keyword report — positioned as a *freemium disruption of Profound*
+  ([[2025-07-30-yt-MTHL9vRr_P8]]). Self-reported product claim; see [[wiki/entities/ubersuggest]].
+- **The Reddit finding (2025-09-25, ★).** Neil's own **100-post experiment showed Reddit removes
+  70%+ of AI-written replies** — evidence that native participation beats automation, and a
+  concrete GEO/SEO signal (Reddit is a heavily-cited AI source) ([[2025-09-25-yt-BfPayCQHNcE]]).
+  See [[seo]] for the Reddit-SEO playbook.
+- **Brand as the last moat (2026-01-16 ★, 2026-03-20 ★).** As AI commoditizes *execution*,
+  **personal brand and brand mentions become the defensible moat**; GEO/AEO is a *tactic*, not
+  the prize ([[2026-01-16-yt-pQzrmgeGUnw]], [[2026-03-20-yt-ozFBeEkj5e8]]). See [[social-media]]
+  and [[agency-entrepreneurship]] for the brand-strategy side.
+- **"Train the AI, not the people" + engineers-do-marketing (2026-03-20, ★).** High-agency
+  operators who *wield* AI beat both pure marketers and pure engineers; AI-search visibility is
+  **winner-take-all economics** ([[2026-03-20-yt-ozFBeEkj5e8]]).
+- **The AEO framework for 2026 (2026-03-30 ★, 2026-04-03 ★).** His checklist: **unlinked brand
+  ("linker") mentions now count like links**, **brand search lifts non-branded rankings**,
+  E-E-A-T / genuinely human-written content, **proprietary data → LinkedIn/LLM citations**, and
+  **"AI-generated content doesn't rank long-term"** ([[2026-03-30-yt--9Ea72JfnbE]],
+  [[2026-04-03-yt-0t4r_v8mTIs]]).
+  > ⚠️ Date-check the **"brand mentions ≈ links"** claim: it extends, and partially reverses, his
+  > 2017–2020 backlinks-are-the-#1-factor teaching ([[seo]]) — treat as a 2026 evolution, not a
+  > flip of the older link doctrine, which he still holds for classic Google ranking.
+- **AEO via listicles — but third-party, not self-published (2026-05-25, ★).** LLMs cite listicles
+  heavily (Evertune data), yet Google *demotes self-published* listicles → the play is earning
+  citations through **collaboration / third-party listings**, not publishing your own top-10s
+  ([[2026-05-25-yt-cT6XP1USylM]]).
+  > ⚠️ CONTRADICTION/nuance: reconciles with the 2026-04-03 finding that self-published listicles
+  > can *hurt your own organic within ~6 months* ([[2026-04-03-yt-0t4r_v8mTIs]]) — same underlying
+  > rule: get *others* to list you.
+- **The GEO/AEO market read (2026-07-06, ★) — his sharpest data position yet.** SEO still commands
+  **~11x the budget of GEO**; GEO adoption is **enterprise-led**; **local search stays on Google**;
+  **$1M+ GEO budgets are rare** (blocked by the ROI-tracking problem); the **"Profound
+  misconception"** — AEO is *not* buy-a-tool-and-publish-listicles, and **ChatGPT `site:`
+  self-lookups peak ~20%**; and **technical SEO is foundation-first** — it must ride *inside* a GEO
+  pitch, not replace it ([[2026-07-06-yt-JJ_wuHYGrQM]]).
+
 ## AI + humans
 
 Consistent through-line: AI augments the marketer rather than fully replacing them.
@@ -192,6 +272,22 @@ Consistent through-line: AI augments the marketer rather than fully replacing th
   Verbatim: *"A lot of companies are blaming AI for the layoffs. Not because AI actually
   replaced people, but because it's a cleaner story for the public markets."*
   [[2025-12-10-yt-hXPALnu3Y6I]]
+- **Deals-over-tools / replaces juniors not seniors (2026-01, ★).** AI is weak at genuine
+  copywriting, replaces *junior* work rather than senior judgment, and the durable edge is
+  **relationships and deals that compound** over tool-chasing; he prescribes **"30 minutes a
+  day" of personal AI practice** (the AI-era heir to his "5 minutes a day" habit)
+  ([[2026-01-16-yt-pQzrmgeGUnw]], [[2026-01-19-yt-4mAl4Hjeb50]]).
+- **"AI adapts to the person," not the reverse (2026-04-09, ★).** A team-adoption model: let the
+  *natural adopters* build the tooling so AI conforms to each specialist's workflow — standardized
+  output, no "slop" ([[2026-04-09-yt-njxc7s9qH_M]]); extends the same thesis in the 2026-04-03 AEO
+  page.
+- **AI raises marketing *work and spend*, not headcount cuts (2026-05-11, ★).** Marketers end up
+  working *more* (running tokens/agents) and **spend rises** — but "don't spend to grow at all
+  cost" ([[2026-05-11-yt-YQToOJWoCsI]]). The augment-not-replace stance, restated on the cost side.
+- **Judge AI by full-funnel revenue, not vanity metrics (2026-04-07, ★).** The AI vanity-metric
+  trap: measure AI/marketing by revenue through the whole funnel, not engagement metrics; apply AI
+  to the *actual ROI driver*, not "AI theater" ([[2026-04-07-yt-3OXIyYkVCdQ]]). See [[analytics-cro]]
+  and [[paid-ads]].
 
 ## Key source pages
 
@@ -205,3 +301,24 @@ Consistent through-line: AI augments the marketer rather than fully replacing th
   2026: the dated eight-bet cluster and anchor data.
 - [[2025-03-25-yt-6RNJpItArSQ]] — It Took Me Years to Learn Digital Marketing…: AI +
   humans combined; AI's value is freeing time for strategy.
+
+### Marketing School podcast (co-hosted; Neil-attributed) — the GEO/AEO evolution
+- [[2023-11-27-yt-EUVspvV6_UQ]] — Will SEO go extinct: "SEO evolves, doesn't die" (GEO seed).
+- [[2024-01-05-yt-02aOEbWV98c]] — Generative Engine Optimization named; 82-factors / brand-mentions finding.
+- [[2024-01-15-yt-VLckuzcfqFY]] — "[Competitor] vs [You]" pages; AI breaks the publisher model.
+- [[2024-02-15-yt-qH6IQ2bqavU]] — Google is financially disincentivized to kill SEO (partner-network argument).
+- [[2024-03-01-yt-LZuR52_nNFA]] — "Old-school SEO is dead"; 94.29%-of-pages-get-zero-traffic.
+- [[2024-03-28-yt-gj7B9JnyJqM]] — GEO boosts affiliate over 10–20 yrs; transactional-keyword ad moat.
+- [[2024-09-30-yt-Gd0lZQTGpzI]] — AI ROI is "in the ugly, not the sexy" (data analysis, not content).
+- [[2024-12-27-yt-fPp_cl8hWX4]] — Search everywhere restated; AI in-platform auto-translation (global SEO).
+- [[2025-07-30-yt-MTHL9vRr_P8]] — Ubersuggest LLM brand-tracking (share-of-voice/sentiment); anti-Profound.
+- [[2025-09-25-yt-BfPayCQHNcE]] — Reddit removes 70%+ of AI replies (100-post experiment).
+- [[2026-01-16-yt-pQzrmgeGUnw]] — Brand as the last moat; deals-over-tools; "30 min a day" AI practice.
+- [[2026-01-19-yt-4mAl4Hjeb50]] — AI weak at copywriting; replaces juniors not seniors.
+- [[2026-03-20-yt-ozFBeEkj5e8]] — Train the AI not the people; engineers-do-marketing; winner-take-all.
+- [[2026-03-30-yt--9Ea72JfnbE]] · [[2026-04-03-yt-0t4r_v8mTIs]] — 2026 AEO framework (linker mentions, brand search, no-AI-slop-ranking).
+- [[2026-04-07-yt-3OXIyYkVCdQ]] — AI vanity-metric trap; judge by full-funnel revenue.
+- [[2026-04-09-yt-njxc7s9qH_M]] — "AI adapts to the person" team-adoption model.
+- [[2026-05-11-yt-YQToOJWoCsI]] — AI raises marketing work and spend, not headcount cuts.
+- [[2026-05-25-yt-cT6XP1USylM]] — AEO via *third-party* listicles (Google demotes self-published).
+- [[2026-07-06-yt-JJ_wuHYGrQM]] — GEO/AEO market read: SEO ~11x GEO budget, enterprise-led, "Profound misconception."

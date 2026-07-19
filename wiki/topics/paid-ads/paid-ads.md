@@ -71,6 +71,20 @@ Neil's 2026 reframe: most brands lose on TikTok Shop because they treat it as a 
 - **Deploy creators by funnel stage, not by fame:** creators move the middle of the funnel — at the *awareness* stage a creator saves ~5% of customer-journey time, but at the *interest* stage it's ~39%. Spread budget across 3–5 in-category micro-creators rather than one celebrity, then scale to hundreds. ("A few strong creators beats one expensive celebrity.")
 - **Underpriced-window thesis:** TikTok Shop today is like Facebook Ads in 2014 or Instagram in 2018 — exploit it before it gets crowded and expensive; measure by 90/180-day and 18-month LTV, not first-sale profit or vanity GMV.
 
+## Two AI-era paid levers: creative + first-party data (Marketing School, 2026)
+
+From the co-hosted podcast (Neil-attributed). As targeting automates, Neil says the marketer's
+remaining control surface in paid narrows to two levers.
+
+- **Creative + first-party data are the only two levers left (2026-04-17, ★).** With bidding and
+  targeting handed to the platform AI, the advertiser controls **ad creative** and **first-party
+  data** — so apply AI to the *actual ROI driver*, not "AI theater." He adds **co-branded intimate
+  events** as a brand moat and a **reskill-don't-cut** stance on teams ([[2026-04-17-yt-hF43ZlHhfuQ]]).
+- **Judge paid by full-funnel revenue, not vanity metrics (2026-04-07, ★).** The AI vanity-metric
+  trap applies squarely to paid: measure by revenue through the whole funnel, and pair it with a
+  concrete CRO play — **select the payment processor by country** to lift checkout completion
+  ([[2026-04-07-yt-3OXIyYkVCdQ]]). Cross-link: [[analytics-cro]].
+
 ## Key source pages
 
 - [[2020-04-16-yt-S-hn2ThmQEw]] — *7 Google Ads Hacks That'll Make Your Campaigns Scale Profitably* (2020) — the precision-targeting spine: remarketing, long-tail, exclusions, locations, extensions, UTM, competitor bidding.
@@ -80,3 +94,5 @@ Neil's 2026 reframe: most brands lose on TikTok Shop because they treat it as a 
 - [[2026-07-15-yt-1Xq8ulHYKI4]] — *The TikTok Shop Strategy Nobody Talks About* (2026) — break-even acquisition, bundle economics, creator flywheel.
 - [[2021-06-28-yt-g2AJYuOfBXI]] — *The Future of Digital Marketing…* (2021) — "every side of the table" authority frame; paid-vs-SEO intent logic; performance-ad recession durability.
 - [[2019-07-22-yt-LdnWx49LUJc]] — *The Fastest Ways to Bring Traffic to a New Website* (2019) — only a minor paid touch (free AdWords credits for a small-budget launch boost); no ad benchmarks.
+- [[2026-04-17-yt-hF43ZlHhfuQ]] — *(Marketing School)* two AI-era levers: creative + first-party data; co-branded events; reskill-don't-cut.
+- [[2026-04-07-yt-3OXIyYkVCdQ]] — *(Marketing School)* judge paid by full-funnel revenue; payment-processor-by-country CRO play.

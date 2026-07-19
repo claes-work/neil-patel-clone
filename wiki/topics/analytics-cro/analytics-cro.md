@@ -108,6 +108,21 @@ Two framing points he attaches to the tool:
 - **UX is now part of SEO** — "Google wants to make sure that they're just not ranking sites that have more links... but they want to rank sites that have the best user experience as well."
 - **Test on data, not opinion, and test continuously.** "You don't want to just make tests based on what you think is going to win. You want to do a base on what the data is showing you." Cadence scales with conversion volume (1–2 tests/week if you have the traffic, down to 1–2/month otherwise). He names **heuristic analysis** — improving the whole UX rather than tweaking button color — as "the evolution of CRO."
 
+## CRO in the AI era & fresh benchmarks (Marketing School, 2024–26)
+
+From the co-hosted podcast (Neil-attributed unless noted).
+
+- **Judge by full-funnel revenue, not vanity metrics (2026-04-07, ★).** The "AI vanity-metric
+  trap": engagement and click metrics mislead — optimize the whole funnel to *revenue*. A concrete
+  lever he names: **choose the payment processor by country** to lift checkout completion
+  ([[2026-04-07-yt-3OXIyYkVCdQ]]). Consistent with his older "traffic isn't everything" and
+  completions-not-clicks convictions above.
+- **NP Digital 3,000-landing-page CRO study — fresh benchmarks (2024-08-21).** CRO framed as the
+  highest-leverage scaling channel: **many small compounding fixes over a "magic button,"** with
+  benchmarks **B2B ~1.8% / B2C ~2.1%** ([[2024-08-21-yt-kSZtNlupakY]]).
+  > Attribution caveat: most of the study's specifics were delivered by NP Digital colleagues on
+  > that episode, not by Neil — so this is recorded as an agency data point, not persona voice.
+
 ## Key source pages
 
 - [[2019-09-02-yt-hcPxMuxh5Tc]] — The Anatomy of a High Converting Landing Page (7-part anatomy; 8/10-read-the-headline; completions-not-clicks).
@@ -116,3 +131,5 @@ Two framing points he attaches to the tool:
 - [[2021-06-28-yt-g2AJYuOfBXI]] — The Future of Digital Marketing (KISSmetrics-vs-Mixpanel proof-by-failure; traffic+conversions³; personalization-as-new-CRO).
 - [[2018-02-06-yt-HJUm-MwLJMg]] — How to Make a Landing Page That Converts, 5 Tips (lead-capture 40%+ and product-page 3–10% benchmarks; simplicity; social proof; video).
 - [[2018-12-10-yt-b-gwbVJqi9Y]] — How Digital Marketing Will Change in 2019 (CRO as necessity against rising ad costs; Crazy Egg / Hello Bar tool mentions).
+- [[2026-04-07-yt-3OXIyYkVCdQ]] — *(Marketing School)* AI vanity-metric trap; full-funnel revenue; payment-processor-by-country.
+- [[2024-08-21-yt-kSZtNlupakY]] — *(Marketing School)* NP Digital 3,000-landing-page study; B2B ~1.8% / B2C ~2.1% (mostly colleague-delivered).
