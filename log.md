@@ -1585,3 +1585,39 @@ context / opinion-not-data / need-your-own-USP) as an explicit early positioning
 "respond positively to every negative review + reduce root causes" reputation doctrine; (c) two-step
 checkout as an email-capture-for-recovery mechanism (ties cart-abandonment to his email + CRO stack).
 All add specificity rather than contradicting. Synthesis debt now 5/10 (checkpoint at 10).
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P2 long-form (2017-10 solo tactical era, cont. 12)
+Ingested 8 @neilpatel P2 long-form videos (2017-10-19 → 2017-10-26), the daily solo tactical era, all
+fully Neil-attributed (solo, no guests). All 8 had captions (0 no-captions, 0 dup, 0 skipped); L2 total
+255 → 263. Stage machine pick: synthesis debt 5/10 (not due), persona not stale (synthesis pass 3 only
+~5 batches back; P1 long-drained), both TARGETs enumerated, P1=0 → open P2 exists → Stage B; continued
+@neilpatel to keep the 2017 era coherent.
+(1) **Brand color schemes / CRO (eXhZJI9Iy5c 2017-10-19)** — rejects "specific colors convert best";
+pick colors that fit the brand, ensure button contrast, and A/B test (Crazy Egg). (2) **Google search
+operators for market research (eQI_igxWEMY 2017-10-20)** — intext/intitle/inurl/site/related + exclusion
+to find competitors, guest-post targets, and link-reclamation opportunities. (3) **SERP-CTR playbook
+(WUYhOrqBmas 2017-10-21)** — pull queries from Search Console, front-load the keyword in title/meta, add
+a benefit promise + power adjectives; recurring claim that CTR itself lifts rankings. (4) **High-ticket
+sales funnel (G2rmH5cE-Io 2017-10-22)** — email capture → webinar → storytelling sales page with case
+studies/testimonials → sales-rep follow-up/upsell. (5) **AdWords Quality Score (fy28vfE2V0c 2017-10-23)**
+— exact match, negative keywords, tight ad-group relevance, ad-copy testing, landing-page optimization;
+mental model "Google optimizes its own revenue → high CTR = cheaper clicks + higher QS". (6) **Multi-
+channel free traffic (KV6UG5LV5Hs 2017-10-24)** — email + SEO + content + social, BuzzSumo competitor
+one-upping, GA popular-page doubling-down; headline "$500,000/mo of free traffic" is SELF-REPORTED /
+unverified. (7) **Profitable social contests (1qfccvWhjEI 2017-10-25)** — the contest is a lead-gen
+front that only pays off via post-contest email upsell/downsell; Gleam.io share-to-win + 1% Facebook
+lookalike / pixel retargeting for cold reach. (8) **Mobile-app install marketing (D_W7t7T-5oM
+2017-10-26)** — performance-based PR (pay-on-results), pre-launch free early access to niche bloggers,
+cheap in-app cross-promotion ad space, plus Facebook app-install ads.
+Synthesis notes: Consistent continuation of the 2017 solo tactical cluster; mostly reinforces existing
+persona positions (test-everything CRO culture, Crazy Egg as the house testing tool, story-first copy,
+email as the profit backstop behind every front-end channel). Candidate nuggets for the next synthesis:
+(a) the anti-"specific-colors-convert" stance (brand-fit + contrast + test) as an explicit CRO position;
+(b) the high-ticket funnel as a concrete 4-step framework (capture → webinar → story sales page →
+rep follow-up) — first clear high-ticket-services playbook in the corpus; (c) the "contest = lead-gen
+front funded by follow-up" reframing (contests are not the profit event, the email sequence is);
+(d) the AdWords "Google-optimizes-its-own-revenue → high CTR = cheaper clicks" mental model; (e) the
+mobile-app install channel set (performance-based PR, blogger early access, in-app cross-promo) — a
+platform-specific tactic cluster distinct from his usual website/SEO material. Flag: the
+"$500k/mo free traffic" figure is self-reported (SUBJECT.md self-reported-figures rule). All add
+specificity rather than contradicting. Synthesis debt now 6/10 (checkpoint at 10).

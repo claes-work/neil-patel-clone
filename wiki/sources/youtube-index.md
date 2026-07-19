@@ -142,6 +142,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2017-10-16 — [3 Ways to Use Facebook Live To Generate Sales (educate viewers, transition to a website bonus offer, then boost the video)](2017-10-16-yt-ldy9X0uQ0LM.md) — social-media
 - 2017-10-17 — [3 Effective Shopping Cart Abandonment Strategies That Can Boost Sales by 10-20% (two-step checkout for email recovery, remarketing back to cart, Crazy Egg checkout optimization)](2017-10-17-yt-HKrbB4KoLFo.md) — analytics-cro
 - 2017-10-18 — [3 Email Marketing Hacks to Increase Your Click Through Rate and Boost Sales (tell a story, use 2-3 links, casual benefit-driven anchor text)](2017-10-18-yt-cio1MNOYiaw.md) — email-marketing
+- 2017-10-19 — [How to Choose the Right Color Schemes for Your Brand or Website | Conversion Optimization Tips (reject specific-colors-convert advice; brand-fit + contrast + A/B test with Crazy Egg)](2017-10-19-yt-eXhZJI9Iy5c.md) — analytics-cro, content-marketing
+- 2017-10-20 — [7 AWESOME Google Search Tricks You Should Be Using For Market Research (intext/intitle/inurl/site/related operators + exclusion for competitor research and link reclamation)](2017-10-20-yt-eQI_igxWEMY.md) — seo, content-marketing
+- 2017-10-21 — [4 Steps to Effortlessly Boost Your SEO Traffic | Increase Your SERP Click Through Rate! (Search Console pull -> keyword-front-loaded title/meta -> benefit promise + power words; CTR-lifts-rankings)](2017-10-21-yt-WUYhOrqBmas.md) — seo, analytics-cro
+- 2017-10-22 — [4 Ways to Sell High Ticket Services Online | Learn to Make BIG Ticket Sales! (email capture -> webinar -> storytelling sales page with case studies -> rep follow-up/upsell)](2017-10-22-yt-G2rmH5cE-Io.md) — agency-entrepreneurship, email-marketing, analytics-cro
+- 2017-10-23 — [5 Tips For Increasing Your Google Adwords Quality Score | Save Money on Your PPC Ads (exact match, negative keywords, ad-group relevance, copy testing, LP optimization; high-CTR=cheaper clicks)](2017-10-23-yt-fy28vfE2V0c.md) — paid-ads
+- 2017-10-24 — [How I Get Over $500,000 Worth of FREE Traffic Each Month to My Website (multi-channel organic: email+SEO+content+social, BuzzSumo one-upping; self-reported $500k/mo figure, unverified)](2017-10-24-yt-KV6UG5LV5Hs.md) — seo, content-marketing
+- 2017-10-25 — [How to Run a Profitable Social Media Contest | Go Viral And Make More Money Online! (contest = lead-gen front funded by post-contest email upsell; Gleam.io share-to-win + 1% FB lookalike)](2017-10-25-yt-1qfccvWhjEI.md) — social-media, paid-ads, email-marketing
+- 2017-10-26 — [3 Simple Steps to Marketing Your Mobile App | Get More Exposure and Installs! (performance-based PR, pre-launch blogger early-access, cheap in-app cross-promo + FB app-install ads)](2017-10-26-yt-D_W7t7T-5oM.md) — content-marketing, paid-ads, social-media
 - 2017-11-01 — [HOW TO HACK INSTAGRAM: How to Get Your Customers to Promote Your Products On Instagram](2017-11-01-yt-UQR9Nrk626w.md) — social-media, content-marketing
 - 2017-11-12 — [How I Started 4 Multimillion Dollar Businesses By the Time I Was 28](2017-11-12-yt-k_eXA4cY53M.md) ★ — agency-entrepreneurship
 - 2017-11-22 — [1 Simple Hack to Build Hundreds of Backlinks (competitor-infographic tactic)](2017-11-22-yt-k9wddku3y54.md) — seo, content-marketing
@@ -268,4 +276,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2026-07-17 — [Your Software Is Now Your Best Marketing Channel (MS, co-hosted — Neil qualifies the "product = best channel" thesis: he pioneered it ~7-8 yrs ago (bought Ubersuggest ~$120k) but the real lever is FREE not feature-cadence, and it works "not as well as it used to" now everyone builds product; his biggest current lead-driver is conferences (a "three-for-one": speak + sponsor + side-events + branding); a premium on all good talent, not just "AI talent"; anti-vision-board)](2026-07-17-yt-L03nbcDp8v8.md) — ai-marketing, agency-entrepreneurship, content-marketing
 
 ---
-_255 videos ingested (L2) so far._
+_263 videos ingested (L2) so far._
