@@ -2346,3 +2346,47 @@ Kamo is the co-founder/CEO who runs the business (jH4kzRR5XMw); help-first ethos
 teacher" and doesn't eat beef — corroborate against the biography dossier. New biographical lead:
 Neil's self-reference to running a dating company with ~9 affiliate products (q-a10KWamlg,
 self-reported).
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P2 long-form (2018-08→09 solo tactical + Q&A-Thursday era, cont. 28)
+
+Ingested 8 @neilpatel P2 long-form videos (2018-08-18 → 2018-09-04) to L2. All had
+captions; 0 skipped, 0 no-captions, 0 dup, 0 rate-limits. Two are Q&A-Thursday episodes
+co-hosted with interviewer **Adam Lodolce** (Viewership) — Adam-attributed points flagged,
+only Neil-attributed material trains the persona; the other six are Neil solo.
+
+Pages: 2018-08-18 My Biggest SEO Fail (CdEuJQFNfvM) ★★ · 2018-08-21 How to Build an
+Audience Even if You're a Nobody (I3sxZIyfXh0) ★ · 2018-08-23 YouTube Algorithm EXPLAINED
+(QUHs-L28y3U, Q&A Thu) ★ · 2018-08-25 Why I Do NOT Monetize Videos (v6rgvg2CAIc) ★ ·
+2018-08-28 How To Build a Dream Marketing Team From Scratch (TisFJ6rBgdo) ★ · 2018-08-30
+How to Buy a New Business Using Leverage (wxHsT15OweI, Q&A Thu) ★ · 2018-09-01 NEVER Rely
+on a Single Traffic Source (NNCz339pxDo) ★ · 2018-09-04 How To Measure ROI of Your Content
+Marketing (_OF2hf8GqCk) ★. youtube-index footer 381→389; index.md count bumped.
+
+Synthesis notes: several promotable items. ★★ ORIGIN + BELIEF (CdEuJQFNfvM): Neil's own
+confession of youthful **black-hat SEO** — buying expired domains with EDU/gov backlinks,
+turning them into casino sites to rank "online casino," and getting **Google-penalized**;
+he reframes the real mistake as a *mindset* one — **being shortsighted** — and states his
+enduring thesis that **Google's true objective is to rank whatever is best for the USER**
+(links/brand/on-page are just signals), so long-run white-hat/user-value wins. Self-reported
+biography detail; corroborate against the dossier. Ties tightly to the 2018-08-11 ★★ "#1 SEO
+trick = build a BRAND" belief. ★ VALUES/voice (v6rgvg2CAIc): he **deliberately doesn't
+monetize** his videos — no ads/CTAs, **refuses paid sponsorships and affiliate commissions**,
+recommends products only if he'd recommend them free; frames it as **give-first / indirect
+monetization** ("do what's best for you, indirectly I make money"); tested affiliate to
+~$30-50k/mo but "it's just not me" — flag as a personal-values choice he explicitly does NOT
+universalize. Reusable frameworks to promote: **1000 True Fans zero-to-audience playbook**
+(Kevin Kelly — sincere 1:1 engagement + concentrated guest posting + give-first influencer
+link-and-email loop, I3sxZIyfXh0); **YouTube-growth stack** (browse/suggested-driven feed →
+click-worthy curiosity titles, manual SRT, retarget past engagers, channel-authority
+compounding, 5-10min watch-time keep-on-platform, QUHs-L28y3U — note several points are
+Adam's); **first-marketing-hire two-path playbook** (proven competitor hire w/ show-don't-tell
+interview + prior-employer reference checks | vs. college interns trained on free content +
+case-study copywork; start with one, TisFJ6rBgdo); **acquire-with-leverage** (LBO/seller-
+financing: small down + pay from target profits ~3yr + earnout sweeteners; source via SEO-tool
+research + cold-email 50-100 owners or brokers/Flippa/Empire Flippers; same US/intl,
+wxHsT15OweI); **never-rely-on-one-traffic-source** (diversify SEO/ads/email/push before the
+algo turns; chase unsexy underrated channels; **LinkedIn > FB/YT for his videos** — echoes
+2018-08-16, date-stamp the 2018 platform dynamics, NNCz339pxDo); **content-marketing ROI 4-part
+framework** (GA goal tracking + remarketing attribution via first-entry-point + brand-lift via
+mentions/Google-Trends + email capture (Hello Bar) & drip, _OF2hf8GqCk — reinforces brand-first
+throughline). Self-plugs: Subscribers (push), Hello Bar (email), Ubersuggest.

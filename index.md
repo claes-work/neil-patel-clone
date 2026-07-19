@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-19 (ingest: @neilpatel batch — 8 P2 long-form L2, 2018-07→08 solo tactical + Q&A-Thursday era (★★#1 SEO trick = build a BRAND / brand queries = future of SEO, 5 organic social hacks (IG-edu/Stories-swipe-up/live/Quora), 5 Facebook-video hacks (smile/5min+/bro-language/captions), ★service-business growth hacks + marketing=spaghetti-testing ≤$50, ★ClickBank/AdWords tripwire→upsell→email-drip funnel, ★cross-platform repurposing — LinkedIn-video 1st-week edge + SRT/Rev, ★personal/voice — creature-of-habit + 6+hrs-TV work habit + Mike Kamo CEO); 381 videos L2)_
+_Last updated: 2026-07-19 (ingest: @neilpatel batch — 8 P2 long-form L2, 2018-08→09 solo tactical + Q&A-Thursday era (★★origin BLACK-HAT SEO fail — expired-domain/casino → Google penalty; real mistake = being SHORTSIGHTED / think long-run, best-for-user = Google's true goal; ★1000-True-Fans zero-to-audience playbook (Kevin Kelly), ★YouTube-algo growth stack (browse-driven feed, click-worthy titles, SRT, retarget, watch-time), ★VALUES — don't monetize / refuse paid sponsorships & affiliate / give-first indirect monetization, ★first-marketing-hire two-path playbook (proven competitor hire vs interns), ★acquire-with-leverage (seller-financing + earnouts), ★never-rely-on-one-traffic-source / LinkedIn edge, ★content-marketing ROI 4-part framework); 389 videos L2)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life/career timeline (England → Orange County → Crazy Egg/KISSmetrics → NP Digital → Ubersuggest → Marketing School), registry/court-verified vs self-reported marked per claim.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe.
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 381 videos ingested (L2).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 389 videos ingested (L2).
 
 ## Topics
 
