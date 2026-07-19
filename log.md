@@ -1994,3 +1994,61 @@ Jason Hornung (media buyer — minor). Attribution/quality flags on-page: Adam L
 data) across y4ei5jVTZwU / UBq77K0L4Xk / WOEyzksl_NM / 1JmT-yHp8NQ; "David" = NP team member (context) in UBq77K0L4Xk.
 ⚠️ Caption garbles flagged on 1JmT-yHp8NQ: "Jason hornang" → Jason Hornung; "sam evans" → likely Sam Ovens
 (attribution uncertain). Batches since last synthesis: 3 of 10.
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P2 long-form (2018-03 solo mindset/globalization era, cont. 20)
+Batch of 8 @neilpatel P2 long-form (2018-03-10 → 2018-03-27). 7 ingested (L2), 1 skipped
+(garbled captions), 0 no-captions-with-clean-title, 0 dup. No rate limits (all 8 caption
+fetches returned on first pass; one was unusable). Three of the seven are Q&A Thursdays with
+**Adam** (viewership.com) — interviewer, his questions/interjections + his own channel stats
+(~42M views, blog 1k→7.5k/day) are context, NOT persona data. Pages:
+(1) **Unlock Self Confidence (m_DZVD2NEW0 2018-03-10)** ★ — mindset/voice: success is SUBTRACTIVE
+(keep making only NEW mistakes, learn from each → by elimination you're left doing the right
+things); naivety/ignorance as an early asset; "no overnight success" (Bitcoin/Uber/Seth Godin/
+GaryVee); recurring self-framing "I don't think I'm successful"; persistence over intelligence
+("didn't get the best grades… compared to my sister"). (2) **How to Raise Venture Capital
+(69q71xic144 2018-03-13)** ★ — VC playbook: raised >$20M lifetime, raise only what you need +
+padding; VC is a RELATIONSHIP business (network at TechCrunch/Mashable, provide value, THEN pitch);
+investors back people not ideas (Twitter←Odeo); need passion + 2-3 co-founders; pitch a BIG idea
+(VCs take 20-30%/round, want the next Uber); Dave McClure SlideShare deck; always-be-fundraising
+~1yr before cash-out. (3) **Is AI the Future of Marketing? (0AYG4XlP1uk 2018-03-15)** ★ — a 2018
+FORECAST: AI won't overshadow SEO, it gets INTEGRATED; IoT/smart-fridge programmatic switch-ads
+(Sub-Zero = "publisher", Google/FB power ads on an AdSense-kickback model); VR ecommerce try-on
+arrives first; privacy/law (EU stricter) is the real constraint, not tech; "3-4-5 years." ⚠️ flag
+for synthesis as belief-EVOLUTION to reconcile against Neil's 2025-26 AI-search/AEO positions.
+(4) **My (Daring) 5 Year Business Plan (IXb_b9JbmkA 2018-03-17)** ★ — core strategy = GLOBALIZATION
+(chase non-English markets with little competition; Salesforce #2 revenue country = Japan; Brazil
+currency ~3-3.5x weaker but easy rankings/shares); capital allocation: 150+ employees, "millions in
+profit," $0 personal salary — dumps ALL profit into buying competitors + brand + global expansion;
+Ubersuggest/Moz-SEMrush-Hotjar-competitor ambition; Nana/Inbound Dungeon (Product Hunt), partner
+Mike (NP Digital). (5) **[SKIPPED] 4 Reasons Your Website Isn't Making Money (ZfG7-IffKNg 2018-03-20)**
+— auto-caption track is fully garbled gibberish; no usable transcript, no Whisper without approval →
+ledger status=skipped, notes=no-captions. (6) **Boring-Niche Social Strategy (whNSsrZoGYY 2018-03-22)**
+— reject vanity views, chase the right audience; make shareable DATA infographics (most/least expensive
+cities to live) → social shares + backlinks; EP Embed Code Generator; BuzzSumo view-shares + Ahrefs
+outreach (~100 emails = ~5 links, quantity game); "boring industry is a differentiation advantage."
+(7) **Global Brand Expansion (rCAT_US765U 2018-03-24)** ★ — companion to (4): Brazil/Germany traction,
+LatAm slower; keep money in-country, reinvest; Brazil $100K/mo profit within 12mo + potential $10M/yr
+(self-reported); RD Summit Florianópolis ~5,000-person talk (mic failed, 96%+ non-English); HIRING:
+overpay but earn-it (free/cheap 30-90d, then above-market + autonomy), scrappy/creative > Harvard/perfect-
+SAT, "didn't grow up with money" filter; Richard Branson's advice ("it's the people not the idea"); take
+care of the people who got you there. (8) **3 Marketing Mistakes You MUST Avoid (4g05lbqBjc0 2018-03-27)**
+★ — KISSmetrics: raised >$10M, burned $4M before first revenue; mistake 1 = validate/pre-sell before you
+build (collect money, refund if needed); mistake 2 = niche down (ConvertKit failed vs Mailchimp, then
+niched to bloggers → $10M/yr in 2yr); mistake 3 = acquire customers before brand — real branding is a
+BYPRODUCT of customers loving the product + word-of-mouth (Amazon/Google vs Yahoo), not logos/early TV.
+Synthesis notes (genuinely new — for the next synthesis pass, do NOT inline-promote):
+★BELIEFS/VOICE — "success is subtractive" + "no overnight success" + naivety-as-asset + "I don't think I'm
+successful" self-framing (m_DZVD2NEW0); ★globalization thesis (chase no-competition non-English markets;
+Salesforce #2=Japan; Brazil 3-3.5x) + $0-salary reinvest-everything capital-allocation doctrine (IXb/rCAT);
+★hiring doctrine "overpay but make them earn it (30-90d) + scrappy>Harvard + didn't-grow-up-with-money" +
+Branson people-first (rCAT — continuity with 02-10 "My Management Style" overpay+hire-smart); VC-raising
+playbook (relationships-first / raise-only-what-you-need / big-idea / always-be-fundraising — agency-
+entrepreneurship topic candidate, 69q71xic144). BIO (self-reported): KISSmetrics raised >$10M & burned $4M
+pre-revenue (4g05lbqBjc0); Brazil $100K/mo-in-12mo, RD Summit Florianópolis ~5,000, 150+ employees/$0 salary
+(rCAT/IXb); Richard Branson personal-encounter advice (network detail). ⚠️ BELIEF-EVOLUTION to reconcile:
+2018 AI-in-marketing forecast (IoT programmatic / privacy-law constraint, 0AYG4XlP1uk) vs 2025-26 AI-search
+takes. ENTITY candidates (minor): Nana / Inbound Dungeon (Product Hunt launcher); context person Richard
+Branson. ATTRIBUTION: Adam (Viewership) = interviewer across m_DZVD2NEW0 / 0AYG4XlP1uk / whNSsrZoGYY (his
+questions + 42M-views/blog stats are context, not persona). Reinforcement (not novel): BuzzSumo view-shares
++ Ahrefs outreach, own-your-audience/right-audience-over-vanity-views, boring-niche infographics, reinvest-
+for-growth. Batches since last synthesis: 4 of 10.

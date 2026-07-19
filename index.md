@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-19 (ingest: @neilpatel batch — 8 P2 long-form L2, 2018-02→03 solo tactical/agency era (passion-to-profit + overflow-leads arbitrage, ★black-hat war stories → duplicate-content pruning, Facebook-Watch underdog-platform arbitrage, innovate-not-copy/timing, 3 on-page SEO hacks (GSC/CTR + speed/CDN/AMP + theming), Shopify one-product store, creative-problem-solving (mics died), ★product-launch funnel ClickFunnels+Kajabi+webinar+cart-abandon remarketing); 318 videos L2)_
+_Last updated: 2026-07-19 (ingest: @neilpatel batch — 7 P2 long-form L2 + 1 skipped (garbled captions), 2018-03 solo tactical/mindset/globalization era (mindset: success-is-subtractive + no-overnight-success, raising VC relationships-first, ★2018 AI-in-marketing forecast (IoT/smart-fridge programmatic ads), ★globalization 5yr plan + $0-salary reinvestment, boring-niche infographic link-building, ★global expansion + overpay-but-earn-it hiring + Branson people-first, ★3 marketing mistakes (KISSmetrics $4M burn / niche / brand-is-a-byproduct)); 325 videos L2)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life/career timeline (England → Orange County → Crazy Egg/KISSmetrics → NP Digital → Ubersuggest → Marketing School), registry/court-verified vs self-reported marked per claim.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe.
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 318 videos ingested (L2).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 325 videos ingested (L2).
 
 ## Topics
 
