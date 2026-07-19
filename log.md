@@ -2212,3 +2212,38 @@ to Brian Dean, not Neil), 2,200+ word in-depth content with short answers under 
 Quora — banned/reinstated repeatedly, best play = repurpose blog content answering a popular Q + add unique
 sentences + link back, earn upvotes by out-depthing the top answer not gaming, or Quora ads for awareness
 (dvHY_e6hbyM). AMP and Privacy-Shield-style claims are 2018-dated → flag time-bound at synthesis.
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P2 long-form (2018-07 solo tactical + Q&A-Thursday era, cont. 26)
+
+8 P2 long-form ingested to L2 (Tgnt7VUcvqw, bj0theeP4nY, x1a0XRXyeVA, 7pQ5F0-lRrE, eJJEQQFCQao, pWtfTZ1i6yU,
+Yqwm3RFicQ8, OuLEmof2w7U). All captions OK; 0 skipped, 0 no-captions, 0 dup, 0 rate-limits. Continues the
+@neilpatel 2018-07 solo era; three are Q&A-Thursday, interviewer Adam (Viewership) — attribution-gated, only
+Neil-attributed material tagged as persona data. youtube-index 365→373. Batches since last synthesis: 10/10 →
+**Stage S synthesis checkpoint is now due next iteration** (debt crossed the threshold this batch).
+
+Synthesis notes: dense batch, multiple ★L3-candidates. SEO tactical: ★long-tail buyer-intent strategy — new
+low-authority sites can't rank head terms in months, target 3-4-word buyer-intent phrases via Ubersuggest/Google
+Suggest, links accrue over time → eventually rank the head term; content clusters = pillar article + non-overlapping
+subtopic articles (bj0theeP4nY). ★RankBrain (7pQ5F0-lRrE): Neil frames it as Google's ML/AI algo "~10% more accurate
+than an engineer" that rewards UX signals (clicks, dwell time, anti-pogo-sticking) — optimize CTR title-tag/meta copy
+(action words + numbers/lists), embed audio/video for time-on-site, fix UX (Dribbble/Crazy Egg recordings), keep
+testing monthly; rankings climb gradually even for authoritative sites — reinforces the user-experience-over-links
+thesis. ★Automated link outreach (Yqwm3RFicQ8): the 4-tool stack Dux-Soup (LinkedIn) → ScrapeBox → FindThatLead →
+Mailshake/Mixmax — outreach is the manual bottleneck; 2018-dated, some tactics may now breach platform ToS.
+★Infographic link building (OuLEmof2w7U, Q&A Thu): always require EMBED CODE (= backlink/link juice) not self-
+download; highest-converting process = find most-shared niche posts (BuzzSumo) → pull their existing linkers
+(Ahrefs/Majestic) → make an infographic on that topic → email those linkers + sharers (~3× cold outreach, Neil's own
+estimate); design rules — cite + add own data, minimal colors (match host schemes), 5-6 flowing points; Pinterest
+converts poorly so he dropped it. Pricing/CRO: ★pricing doctrine (Tgnt7VUcvqw) — benchmark features vs competitors
+(equal/better → price at/above; weaker → below), then split-test price (Crazy Egg/Optimizely/VWO) optimizing TOTAL
+revenue/profit not conversion % (10×$100 beats 100×$1), watch refunds/chargebacks, underprice a better product to
+grab share. VALUES/MINDSET (strong persona/beliefs signals): ★intrapreneurship (x1a0XRXyeVA) — Neil wouldn't start a
+business young again; apprentice-first path (intern/volunteer → get paid → hop mentors → start only when ready)
+builds skills + network + capital access; rates self "not even 1/1000" of Zuckerberg. ★culture doctrine (pWtfTZ1i6yU)
+— culture is #1 after solving a real problem; money isn't the top job motivator (ownership/learning/progression/
+mission are), perks like free food don't retain; culture ≠ silencing dissent (reject only "my way or the highway");
+"Meredith" new-baby care anecdote; co-founder = Mike Kamo. OFF-CORE opinion flagged: crypto (eJJEQQFCQao, Q&A Thu) —
+2018-dated pro-Bitcoin "gold of the internet" view, $50k-fee-paid-in-Bitcoin anecdote (self-reported), Neil
+self-disclaims being an investor / giving financial advice → time-bound opinion, NOT marketing doctrine; keep as
+dated personal view only. Recurring "I don't care for the money, let me help you" closer appears again (x1a0XRXyeVA,
+pWtfTZ1i6yU).
