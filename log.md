@@ -1887,3 +1887,53 @@ and **own-your-audience** doctrine (beliefs.md candidates); (c) 01-13 growth-jou
 0→1M, Nutrition Secrets 0→$100k/mo — bio). NEW ENTITY candidates: Brian Dean (skyscraper attribution),
 Pat Flynn / Smart Passive Income (transparency exemplar). Attribution/quality flags recorded on-page:
 "Mike/Dr Axe" uncertain; several caption garbles corrected (Social Blade, SEMrush, TAM).
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P2 long-form (2018-01→02 solo tactical/agency era, cont. 18)
+Batch of 8 @neilpatel P2 long-form (2018-01-25 → 2018-02-15), all L2. 8 ingested, 0 skipped,
+0 no-captions, 0 dup. No rate limits (all captions fetched clean on first pass). Era: Neil's
+agency/business-building playbook + several Q&A Thursdays with **Adam Lodolce** (viewership.com,
+interviewer — his questions are context, not persona data). Pages:
+(1) **Start Your Own SEO Agency (LmsPc_fsVxI 2018-01-25)** — client acquisition via outbound:
+SEMrush ad-spend targeting ($20–30k/mo spenders), cold-email founders, Crunchbase → email company
+AND investors (Michael Moritz/Sequoia anecdote); outbound > inbound on qualification (NP ~5k
+inbound leads/mo, ~90% unqualified). Bio: started SEO agency at 16, capped ~$20k/mo in high school.
+(2) **Hire Writers / content assembly line (PwWTJcpuSqs 2018-01-27)** — Ford assembly-line analogy,
+~150–200 pieces/wk (could hit 1,000/wk); Trello columns; freelancers NOT full-time (Paul Graham
+maker/manager schedule); ~10–15¢/word via jobs.problogger; hire writers who bring their own audience.
+Co-presenter "David" (NP content lead) — his ops detail is context. (3) **PR Marketing Tips
+(BVkcDEMv_xA 2018-02-01)** — warm intros over cold editor pitches; do free marketing for publications
+first (Michael Arrington/TechCrunch anecdote); "business karma"; target PR/CEO/marketing roles.
+(4) **Best Marketing Strategies 2018 (QF2lvWEHzSw 2018-02-03)** ★ — capital allocation: ~$110k/mo to
+generate 1M visitors on neilpatel.com (2017 avg); buy traffic don't build it; bought a marketing blog
+for $500k (<$3k/mo rev); buy on TRAFFIC not links ($100k backlink domain 301-redirect did nothing);
+<12-mo payback rule; earnout financing (learned from "buddy Edward"); $5M/yr acquisition goal.
+(5) **Rank Video on YouTube (PktXUVzrNhA 2018-02-08)** — treat YouTube as its own search engine;
+upload transcripts; 5+ min videos (Adam shifted Neil from 2-min); vidIQ competitor spying; first 24h
+decide a video's fate; Neil ranks #1 for "seo" on YouTube. (6) **Management Style / Churn and Burn
+(7FbhPpANS7M 2018-02-10)** ★ — "terrible manager", hates managing; find one process-oriented person,
+overpay + hire smart; Lunch-and-Learns → 176-step marketing doc; "remove dates from URLs" → 54% search
+lift in 30 days; profit/revenue-sharing hiring. (7) **Stand Out on Social Media (7CYQTg4_zQo 2018-02-13)**
+— pick the content type you're best at (GaryVee=video, Neil=text); long-form text ranks on Google (cites
+Tim Ferriss); BuzzSumo view-shares + Upwork outreach (+17% Twitter); consistency = helping others; "16
+years". (8) **Find a Profitable Niche (EPaqxSoU2K0 2018-02-15)** — 3 filters: long-run passion (10–20 yrs,
+try 10–20 things), monetization (Keyword Planner CPC), volume/trend (Ubersuggest + Google Trends);
+Hummingbird → topical-authority niche sites beat about.com generalists.
+Synthesis notes: GENUINELY-NEW for the next (5th) synthesis / persona pass — ★ = persona/bio-weighted.
+(a) **BIO — Mike Kamo origin (02-10)**: co-founder Mike Kamo came from the car-dealership industry,
+running a struggling **Mazda dealership** where he learned to hire/grow/be-creative — new [[wiki/entities/mike-kamo]]
+detail. (b) **BELIEFS — "buy traffic, don't build it" acquisition doctrine (02-03)** ★: buy on traffic not
+revenue/links, <12-mo payback, earnout financing, $5M/yr acquisition goal — a distinct capital-allocation
+belief (agency-entrepreneurship). (c) **BELIEFS — management/"churn-and-burn" (02-10)** ★: "overpay + hire
+smart, one process-oriented person does it all, hire entrepreneurs-without-capital on profit-share, I hate
+managing" — clear management philosophy for beliefs.md. (d) **TACTIC — 176-step marketing doc + "remove dates
+from URLs → 54% lift"** (seo/analytics-cro topic candidate). (e) **TACTIC — YouTube-as-separate-search-engine +
+first-24-hours signal + 5-min length** (social-media/seo topic candidate; several credited to Adam Lodolce,
+attribute carefully). (f) **BELIEF — content-type-fit** (do what you're best at; GaryVee=video/Neil=text).
+Reinforcement (note continuity, not novelty): BuzzSumo→skyscraper→view-shares outreach, jobs.problogger
+freelancers, passion+monetization+volume niche framework, Hummingbird topical authority, long-game
+consistency, own-your-audience. NEW ENTITY candidates: Adam Lodolce (viewership.com, recurring Q&A
+interviewer — context page), "buddy Edward" (mortgage-company acquirer, earnout-financing source — minor).
+Attribution/quality flags on-page: Adam Lodolce = interviewer (not persona data) across LmsPc_fsVxI /
+BVkcDEMv_xA / PktXUVzrNhA / EPaqxSoU2K0; "David" = NP content lead (context) in PwWTJcpuSqs. ⚠️ CONTRADICTION
+flagged on 02-03: Neil says "in 2008 we bought Ubersuggest" — misspeak/caption error; SUBJECT.md registry =
+2017-02-13 (~$120K); ~$110–140k figure is otherwise consistent.
