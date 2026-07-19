@@ -37,6 +37,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2017-06-09 — [1 Simple Hack to Increase Website Conversions (sound-alert Hello Bar)](2017-06-09-yt-KSjKyFPcwD8.md) — analytics-cro
 - 2017-06-10 — [Do Popups Still Work? Or Is it Bad For Your Digital Marketing Efforts? EXPLAINED (exit-intent; Google mobile interstitial penalty)](2017-06-10-yt-iQ8PX4aPy6w.md) — analytics-cro, seo
 - 2017-06-11 — [7 Blogging Tips That Will Make Your Blog Successful (Storytelling Techniques)](2017-06-11-yt-wDuL4N1Gi5g.md) — content-marketing, seo
+- 2017-06-12 — [The Insider's Guide to Writing Clickbait Titles - The Secret Ingredient of Viral Marketing (8/10 read headline but 2/10 click; 6-7 word titles win & avoid Google cut-off; adjectives + year for freshness; Portent & Copyblogger headline tools; know your reader base)](2017-06-12-yt-koy8GQLOwXg.md) — content-marketing, seo
+- 2017-06-13 — [4 Ways to Decrease Your Bounce Rate (Rank Higher in Google) (content/product above the fold, larger text, minimalist pages, cross-linking, non-text media — framed as a Google ranking/dwell signal)](2017-06-13-yt-shbhQfbfFgA.md) — seo, analytics-cro
+- 2017-06-14 — [2 Simple Ways to Find New Blog Topics | Find Popular Blog Ideas! (beat writer's block with BuzzSumo — write better versions of high-share posts — and Quora questions; repurpose posts back out as Quora answers)](2017-06-14-yt-2YazeBbA0g4.md) — content-marketing, seo
+- 2017-06-15 — [4 Sneaky Ways to Get More Business From Your Website | Learn How to Get Leads Fast (four on-site lead-capture tactics — contact forms via Wufoo, Hello Bar exit pop-ups/slide-ins, internal links to form pages, sidebar forms)](2017-06-15-yt-4zAda7HJcpk.md) — analytics-cro, content-marketing
+- 2017-06-16 — [How to Setup a Corporate Blog: 8 Rules to Making Your Blog Successful (help-the-reader focus, WordPress /blog subdirectory not subdomain for SEO authority, author bios, writer rubric, 3 posts/week, respond to all comments)](2017-06-16-yt-ancECphk_9c.md) — content-marketing, seo
+- 2017-06-19 — [Learn the Best Marketing Strategies and Marketing Techniques for Free (3-step free learning path — read 4 blogs daily, test tactics on a throwaway WordPress "fake site" before production, then fix issues via SEO Analyzer/Search Console)](2017-06-19-yt-Z4PbCulOhOA.md) — seo, content-marketing
+- 2017-06-20 — [5 Tools That'll Help You Drive Traffic to Your Website | SEO Tips (Ahrefs competitor traffic+backlinks, BuzzSumo top-shared posts, Google Search Console errors, SEMrush competitor paid keywords, Ubersuggest keyword ideas)](2017-06-20-yt-DcWZHqQ9Hg8.md) — seo, content-marketing, paid-ads
+- 2017-06-21 — [What's the Difference Between a 301 and 302 Redirect? (301 = permanent, transfers rankings to new URL; 302 = temporary; Google treats them alike but other engines don't; botched redirects can cost lasting traffic — outsource it)](2017-06-21-yt-hF6VqrpPp8Q.md) — seo
 - 2017-08-30 — [5 Tips For Writing An Awesome Blog Post](2017-08-30-yt-ygiAqYJq8No.md) — content-marketing, seo
 - 2017-11-01 — [HOW TO HACK INSTAGRAM: How to Get Your Customers to Promote Your Products On Instagram](2017-11-01-yt-UQR9Nrk626w.md) — social-media, content-marketing
 - 2017-11-12 — [How I Started 4 Multimillion Dollar Businesses By the Time I Was 28](2017-11-12-yt-k_eXA4cY53M.md) ★ — agency-entrepreneurship
@@ -164,4 +172,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2026-07-17 — [Your Software Is Now Your Best Marketing Channel (MS, co-hosted — Neil qualifies the "product = best channel" thesis: he pioneered it ~7-8 yrs ago (bought Ubersuggest ~$120k) but the real lever is FREE not feature-cadence, and it works "not as well as it used to" now everyone builds product; his biggest current lead-driver is conferences (a "three-for-one": speak + sponsor + side-events + branding); a premium on all good talent, not just "AI talent"; anti-vision-board)](2026-07-17-yt-L03nbcDp8v8.md) — ai-marketing, agency-entrepreneurship, content-marketing
 
 ---
-_151 videos ingested (L2) so far._
+_159 videos ingested (L2) so far._

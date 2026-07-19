@@ -1102,3 +1102,41 @@ for the CRO vs. SEO trade-off. Minor/period tactics (fold lightly or drop as rep
 (KSjKyFPcwD8), and the 7 blogging/storytelling tips (wDuL4N1Gi5g, overlaps prior blogging videos).
 All 2017-dated; none contradict current positions — next synthesis should reconcile the 2017
 brand/CRO framing with 2025-26 AEO/GEO material and merge the two brand-signal notes.
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P2 long-form (2017-06 solo era, cont. 2)
+Stage B (first matching rule: synthesis debt 2/10 — no checkpoint; persona fresh (v2, pass 2);
+no zero-row TARGET; P1 already drained → open P2 exists). Continued @neilpatel P2 — the
+Neil-fronted primary corpus is fully Neil-attributed (no co-host quarantine → cleanest persona
+signal). Selection was priority-2, oldest-first: the 2017-06-12→2017-06-21 solo run
+(koy8GQLOwXg, shbhQfbfFgA, 2YazeBbA0g4, 4zAda7HJcpk, ancECphk_9c, Z4PbCulOhOA, DcWZHqQ9Hg8,
+hF6VqrpPp8Q). Captions: 8/8 ok, 0 no-captions, 0 skipped, 0 dup, NO rate-limiting (no yt-dlp
+failures). L2 total 151→159. @neilpatel open long-form 1090→1082 (P2 1069→1061, P3 21); MS
+766 (P2 738 / P3 28) untouched; shorts 2682 untouched. One agent per video wrote only its own
+source page; coordinator did all shared-file bookkeeping (ledger, youtube-index, index.md, log).
+
+Attribution: all 8 are solo @neilpatel main-channel educational videos — single speaker, fully
+Neil-attributed, no guest/co-host, so the whole batch is persona-eligible (nothing quarantined,
+no uncertain-attribution flags). Caption garbles corrected/flagged in the pages: Wufoo
+("woo phu kham"/"Luke foo"), Hello Bar ("duel armed Bell"), TechCrunch ("tech crunch"), and
+period-accurate ubersuggest.io (pre-acquisition). Self-reported figures (blog-post volume,
+neilpatel.com/br traffic-recovery datapoint) phrased as self-reported per SUBJECT rules.
+
+Synthesis notes: mostly period-tactical reinforcement, no landmark (none flagged L3/★). New-ish
+debt for next synthesis pass: (1) **Subdirectory-over-subdomain SEO rationale (ancECphk_9c
+2017-06-16)** — Neil argues Google treats a subdomain "almost like a separate site," so a /blog
+subdirectory borrows the main domain's authority and ranks faster; a concrete site-architecture
+ranking claim that bridges the seo + content-marketing domains — worth one line on a technical-SEO
+topic page. (2) **"Fake-site" safe-sandbox learning loop (Z4PbCulOhOA 2017-06-19)** — never test
+unproven tactics on a real/employer business; validate on a free throwaway WordPress site first and
+only promote to production once it shows signs of working — a reusable de-risked learning-by-doing
+principle (agency-entrepreneurship/mindset). (3) **Bidirectional Quora loop (2YazeBbA0g4
+2017-06-14)** — Quora serves double duty as both a topic-mining input AND a distribution channel
+(repurpose the finished post back out as a Quora answer); minor content-ops nuance. (4) **Botched-
+redirect lasting-cost datapoint (hF6VqrpPp8Q 2017-06-21)** — a mis-set 301 on neilpatel.com/br
+left traffic at ~90% and took ~3 months to recover even after the fix; evidence-grounded caution
+pairing with his outsource-the-redirect advice. Recurring voice/bio detail (fold into voice.md,
+not new): the 8/10-read-headline-but-2/10-click stat as his signature "why headlines matter"
+framing, plus the self-deprecating "I'm dyslexic / lots of grammar errors" credibility move. The
+rest (clickbait title formulas, bounce-rate on-page hygiene, BuzzSumo/Quora ideation, on-site
+lead-capture tactics, 5-tool traffic roundup) are standard 2017 tactics that overlap prior blogging/
+SEO videos — fold lightly or drop as repeats. All 2017-dated; none contradict current positions.
