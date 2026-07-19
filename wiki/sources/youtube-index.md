@@ -59,6 +59,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2020-09-05 — [How to Get More SEO Traffic Using The Ubersuggest Chrome Extension (keyword + backlink-outreach)](2020-09-05-yt-zHDATkRygTE.md) — seo
 - 2020-09-14 — [Welcome to Instagram Unlocked: From 0 to 100,000 Followers (course welcome/intro)](2020-09-14-yt-eJ2NNy1F6y4.md) — social-media
 - 2020-10-05 — [How To Go From Zero to 100,000 Subscribers on YouTube — YouTube Unlocked M1 L1 (roadmap intro)](2020-10-05-yt-BJhTePXFvGo.md) — social-media, content-marketing
+- 2021-01-25 — [How To Go From Zero to 50,000 Email Subscribers — Email Marketing Unlocked (send-timing cadences, Semantics FM case)](2021-01-25-yt-Gxd4NeKQg58.md) — email-marketing, content-marketing
+- 2021-02-25 — [7 Landing Page Hacks That'll Double Your Sales — Part 1 (quantified CRO lifts, friction-as-conversion)](2021-02-25-yt-SbJnXHfDJPg.md) ★ — analytics-cro, paid-ads, content-marketing
+- 2021-03-04 — [Turn Your Idea Into a Real Business — 10 Steps from 0 to 100s of Sales Opportunities (Crazy Egg/QuickSprout origin detail, give-nine-ask-once)](2021-03-04-yt-H_AUV7Iq2Ec.md) ★ — agency-entrepreneurship, content-marketing, social-media, paid-ads
+- 2021-05-01 — [How to Use Crazy Egg — CRO Unlocked (heatmap/scrollmap/confetti report walkthrough)](2021-05-01-yt-RVamsWm_TDg.md) — analytics-cro
+- 2021-06-28 — [The Future of Digital Marketing Will Surprise You (traffic+conversions-cubed thesis, Kissmetrics vs Mixpanel)](2021-06-28-yt-g2AJYuOfBXI.md) ★ — analytics-cro, content-marketing, seo, paid-ads
+- 2022-03-31 — [Instagram Content Strategy 101 (How I Took My Instagram From 0 to 300,000 Followers)](2022-03-31-yt-NT9pucaSoXw.md) — social-media, content-marketing
+- 2022-04-25 — [The Easiest Way To Build Backlinks FAST (free-tool link magnet, Ubersuggest backlink report)](2022-04-25-yt-yUvEB7yiBFk.md) — seo, content-marketing
+- 2022-06-16 — [Learn SEO in Just 5 Minutes a Day (signature habit-loop format)](2022-06-16-yt-4JQnnxJ6zrw.md) — seo, content-marketing
 
 ---
-_48 videos ingested (L2) so far._
+_56 videos ingested (L2) so far._

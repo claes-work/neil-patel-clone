@@ -334,3 +334,70 @@ outreach as his favorite move — consolidate with the existing master Ubersugge
 than duplicating. Course-intro videos (`yt-eJ2NNy1F6y4`, `yt-BJhTePXFvGo`) are framing-only; the
 one reusable signal is Neil's stated preference for **SEO-optimizing videos over relying on
 YouTube's suggested engine** for consistent traffic. All dated 2020-05 → 2020-10.
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P1 long-form #7
+
+Seventh @neilpatel P1 batch, 8 videos (2021-01 → 2022-06), all L2. Eight OK captions,
+0 no-captions, 0 skipped, 0 dups, 0 yt-dlp failures (no rate-limiting). One subagent per
+video wrote its own `wiki/sources/` page; coordinator did all ledger/index/log updates.
+This batch broadens beyond the SEO/course spine into email, CRO/landing pages, the
+Crazy Egg tool, an entrepreneurship how-to, an omnichannel future-of-marketing thesis, and
+Instagram/backlink tactics — all Neil solo, fully subject-attributed. Videos:
+- `yt-Gxd4NeKQg58` (2021-01-25) Email Marketing Unlocked — 0 to 50k subscribers (send-timing
+  cadences, Semantics FM case study).
+- `yt-SbJnXHfDJPg` (2021-02-25) 7 Landing Page Hacks Part 1 ★ — dense quantified-CRO playbook
+  with per-tactic tested lift figures + named case studies.
+- `yt-H_AUV7Iq2Ec` (2021-03-04) Turn Your Idea Into a Real Business ★ — 10-step idea→business
+  guide carrying rich first-party Crazy Egg / QuickSprout origin detail.
+- `yt-RVamsWm_TDg` (2021-05-01) How to Use Crazy Egg — CRO Unlocked (heatmap/scrollmap/confetti
+  report walkthrough of his own former company's tool; taught as instructor, no ownership claim
+  in-transcript — no contradiction flagged).
+- `yt-g2AJYuOfBXI` (2021-06-28) The Future of Digital Marketing ★ — "five facts" omnichannel/CRO
+  thesis talk; strongest persona/worldview signal of the batch.
+- `yt-NT9pucaSoXw` (2022-03-31) Instagram Content Strategy 101 — 0 to 300k followers (partnerships,
+  Reels).
+- `yt-yUvEB7yiBFk` (2022-04-25) Easiest Way To Build Backlinks FAST (free-tool link magnet;
+  Ubersuggest backlink-opportunity report).
+- `yt-4JQnnxJ6zrw` (2022-06-16) Learn SEO in Just 5 Minutes a Day — signature habit-loop format,
+  heavily self-promotional.
+
+Caption garbles caught & corrected in paraphrase only (quotes left verbatim): "Uber-Suez" →
+Ubersuggest and "Dodge Coin" → Dogecoin (`yt-H_AUV7Iq2Ec`). No contradictions flagged this batch
+(the friction-as-conversion tactic in `yt-SbJnXHfDJPg` is noted as a conditional nuance vs. the
+usual reduce-friction advice, not a hard contradiction — flag for reconciliation at synthesis).
+
+Ledger after: L2=56, L3=0. Open long-form P1 @neilpatel 12, @MarketingSchoolPod 60
+(72 total P1 remaining); P2 ~1,831; open shorts ~2,682. Ingest batches since last synthesis:
+7 (checkpoint at 10) — Stage S ~3 batches away.
+
+Synthesis notes: broad new tactical + persona spine to promote at next Stage S —
+(1) **Quantified CRO/landing-page playbook** (`yt-SbJnXHfDJPg`, L3-candidate): engage-first
+quizzes/sliders (+108%), GIF exit pop-ups, GeoIP targeting (+52.11%), checkout order bumps,
+**friction-as-conversion** (qualifying hoops / Instant Checkmate roadblocks) — a counterintuitive
+lever to reconcile against the usual reduce-friction rule; plus headline economics (odd numbers,
+six-word / <65-char headlines, 8-of-10 read only the headline) and fear-based IP copy. Case
+studies: Nutrition Secrets, Hello Bar, Instant Checkmate, Babbel, Expedia. (2) **Crazy Egg /
+QuickSprout origin detail** (`yt-H_AUV7Iq2Ec`, L3-candidate — bio): Crazy Egg go-to-market
+(prototype → user-feedback → marketers-vs-designers messaging pivot → CSS-gallery banner ads →
+10,000+ pre-launch beta signups → 100,000 users; free-account seeding to TechCrunch/Mashable for
+PR); the QuickSprout "100K challenge" (Nutrition Secrets fronted by friend "Mike", supplements +
+Amazon, email list to lift Amazon fish-oil rankings; revenue-not-profit admission); "journey"
+opt-in adapted from Groove HQ; self-reported ~7M (up to 9M) monthly visitors (2021); recurring
+**"give nine, ask once"** value ratio and "YouTube fast time-to-view vs. Google slow-and-steady"
++ LinkedIn "ask for feedback, not a pitch" + "comments beat likes" reach heuristics. (3)
+**Future-of-marketing thesis** (`yt-g2AJYuOfBXI`, L3-candidate — persona/worldview): the
+**"traffic + conversions³ = success"** formula; "personalization is the new CRO"; Eric Schmidt
+"brands sort out the cesspool" frame; "comments are the #1 virality signal"; the **Kissmetrics vs.
+Mixpanel** proof-by-failure (out-trafficked ~3:1 yet valued ~1/15–1/20 of Mixpanel's $865M — origin
+of his "traffic isn't everything" conviction); the "I see every side of the table" (paid by Google
+& Facebook) authority frame; a dated ~12-month prediction worth later scoring. (4) **Email
+send-timing heuristic** (`yt-Gxd4NeKQg58`): contrarian avoid-Tue/Wed/Thu, prefer Mon/Fri/Sun;
+abandoned-cart 4h/16h/2d and nurture immediate/+2d/+4d cadences; Semantics FM case ($4.5M / 10
+launches, 29% of revenue from email); "digital ATM" (John Reese) and "you don't need a fortune to
+be fortunate" voice anchors. (5) **CRO scroll/engagement nuance** (`yt-RVamsWm_TDg`): engaged time
+often peaks just below the fold → don't reflexively put CTAs above the fold. (6) **Link/social
+nuggets**: "free tool as a link magnet" + white-label CodeCanyon tool ($10–30) and "link to three
+competitors = not loyal, they'll link to you" (`yt-yUvEB7yiBFk`); staged Instagram partnership
+evolution — reciprocal lives while small → one-way appearances once large, to avoid own-audience
+live fatigue (`yt-NT9pucaSoXw`); the "5 minutes a day" habit-loop packaging + SEO-vs-ads cost
+argument (`yt-4JQnnxJ6zrw`). All dated 2021-01 → 2022-06.
