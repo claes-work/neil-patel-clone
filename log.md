@@ -2149,3 +2149,33 @@ avoids them (rZlz3CHF19c). ATTRIBUTION: Adam (Viewership) = co-host on o67Axprx9
 (the viewer questions, his own video-repurposing workflow, "good for the user is good for Google") marked
 context, not persona; two clips (tzEcQ6awQx4, rZlz3CHF19c) have an unnamed interviewer, context only.
 Batches since last synthesis: 7 of 10 (checkpoint approaching — next batch or a channel/era break triggers Stage S).
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P2 long-form (2018-05→06 solo tactical + Q&A-Thursday era, cont. 24)
+
+8 P2 long-form ingested to L2 (NDdH2OBaLxs, Z6f4V09piRE, 4WJXohHyRT8, tlUeqiRw15g, FCFb3712mSE, pShdIROyWCE,
+o6yOw1tOxes, XJ1h7mGVLc4). All captions OK; 0 skipped, 0 no-captions, 0 dup, 0 rate-limits. Continues the
+@neilpatel 2018-05→06 solo era; three are Q&A-Thursday co-hosted with Adam (Viewership) — attribution-gated,
+only Neil-attributed material tagged as persona data. youtube-index 349→357. Batches since last synthesis: 8/10.
+
+Synthesis notes: two ★L3-candidates plus reinforcing tactical. ★BELIEFS/MINDSET (Z6f4V09piRE): Neil's own
+definition of a successful life = happiness (personal, "eye of the beholder"), explicit anti-"keeping up with the
+Joneses" stance, "money is not everything," "nothing wrong with not being the richest/smartest in the room" —
+secondhand Tim Sykes / Tim Grittani ("took 2 months off after making $1M, doesn't care for money") anecdotes;
+continuity with the "build a business > chase insta-fame" theme in NDdH2OBaLxs (same batch) and sCJ5dWBwiMQ
+(prev batch) — pair for synthesis into persona/beliefs.md. ★BUSINESS-STRATEGY/M&A (FCFb3712mSE): explicit
+acquisition math — buy at 2.5–3x yearly profit ("won't pay a dollar more"), 3yr running EBITDA, "cut the fat,"
+buy zero-revenue businesses purely for traffic to roll into the core site (kissmetrics.com = website+blog only,
+1M+ visitors/mo, restates the w0AjQoLrKfw acquisition story), and "arbitrage on the multiple" — buy small players,
+merge to become category leader (leaders get ~10–20x revenue vs 3–5x). This is a direct 2018 precursor to the
+2026-07 Marketing School distressed-acquisition/multiple-arbitrage doctrine (JJ_wuHYGrQM, cabAkWhHoiI, y74lGUnI5Zg)
+— reconcile/date-stamp the through-line at synthesis. Reinforcing tactical: influencer-vs-business — don't chase
+influencer status, master ONE platform then repurpose (NDdH2OBaLxs); $400k Facebook-ads lessons — don't buy fans,
+video>banner with on-screen captions (autoplay muted), optimize ROI not CPC, rapid creative rotation in the new-ad
+priority window cut spend ~30% (4WJXohHyRT8); email deliverability — monthly list-scrub (open rates tank >100k),
+engagement drives inbox placement, text-based emails/≤3 links/white-list via Return Path, Ryan Deiss single
+monetized email ~$100k+ (tlUeqiRw15g); money-back guarantee for UX not just conversions — 60-day beat 30-day A/B
++7% sales with flat refund rate, require product return, SaaS "ask why" cancel form (pShdIROyWCE); local SEO —
+get listed where Google pulls from, local landmarks/directions on-site, local phone number, reviews drive the
+local pack (o6yOw1tOxes); GDPR — separate explicit email opt-in tick boxes, cookie banner, transparent privacy
+policy, applied globally with NO opt-in-rate drop, repeated "I'm not a lawyer" hedge, Privacy Shield now-invalid
+so flag as time-bound (XJ1h7mGVLc4).

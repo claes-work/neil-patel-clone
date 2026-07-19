@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-19 (ingest: @neilpatel batch — 8 P2 long-form L2, 2018-05 solo tactical + Q&A-Thursday era (morning routine + daily task list, 3 unorthodox SEO tips — buy-ranking-sites/301 + competitor-promoter outreach + non-English hreflang, Facebook native-video 20–50× + captions + do-what-the-platform-pushes, ★live-in-the-moment/cap-social-1hr-day, launch = validate-before-build + MVP + Apple-hype, duplicate-content-not-penalized + LinkedIn intro-repost + noindex-your-videos, apologize-vs-stay-silent PR heuristic, ★"Who is Neil Patel?" campaign + on-record apology + infographics/freemium bio); 349 videos L2)_
+_Last updated: 2026-07-19 (ingest: @neilpatel batch — 8 P2 long-form L2, 2018-05→06 solo tactical + Q&A-Thursday era (influencer-vs-business/master-one-platform, ★success=happiness/don't-keep-up-with-Joneses (Tim Sykes/Grittani), $400k Facebook-ads lessons — video>banner/optimize-ROI-not-CPC/rapid-creative-rotation ~30% savings, email deliverability — monthly list-scrub + engagement + text-based/≤3-links, ★acquisitions playbook — 2.5-3x profit/cut-the-fat/traffic-roll-up (kissmetrics.com)/multiple-arbitrage, money-back-guarantee 60d>30d A/B +7%, local-SEO near-me/reviews-drive-local-pack, GDPR applied-globally-no-optin-drop); 357 videos L2)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life/career timeline (England → Orange County → Crazy Egg/KISSmetrics → NP Digital → Ubersuggest → Marketing School), registry/court-verified vs self-reported marked per claim.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe.
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 349 videos ingested (L2).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 357 videos ingested (L2).
 
 ## Topics
 
