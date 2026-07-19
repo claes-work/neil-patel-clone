@@ -13,6 +13,10 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 
 - 2016-11-25 — [Learn REAL Digital Marketing In Just 5 Minutes a Day](2016-11-25-yt--dCls0VoY58.md) — agency-entrepreneurship, seo
 - 2017-01-18 — [Domain Authority vs Google PageRank](2017-01-18-yt-KsZIVpkpte0.md) — seo _(ledger title "Get More Visitors And Sales - Free Webinar" mislabeled)_
+- 2017-05-11 — [How to Get More Twitter Traffic (Fast) — Viral Marketing Techniques (re-share owned posts via Buffer; BuzzSumo → email outreach to prior sharers)](2017-05-11-yt-hfRzMSCw6II.md) — social-media, content-marketing
+- 2017-05-14 — [How Long Does Content Marketing Take to Work? (Neil's own stats: ~2 years to results; NeilPatel.com 9K → 88K → 400K+ monthly Google visitors, 2015–2017)](2017-05-14-yt-P9LJlrCNZyY.md) ★ — content-marketing, seo, analytics-cro
+- 2017-05-15 — [How to Break Through and Get Your First 1,000 Followers on Facebook for Free (competitor post-mining, friend invites, image/video content)](2017-05-15-yt-pbTlpO8V_4k.md) — social-media, content-marketing
+- 2017-05-16 — [2 Ways to Grow Your Email List Fast (exit-popup offer-preview GIF + post-specific content upgrades via Hello Bar; 700K emails self-reported)](2017-05-16-yt-3WX54dRt0CU.md) — email-marketing, analytics-cro, content-marketing
 - 2017-05-18 — [3 Ways to Promote Your Website When You Don't Have Any Money](2017-05-18-yt-ZAxSIvSUQZI.md) — content-marketing, social-media, seo
 - 2017-05-26 — [What Are Backlinks and How Do They Work?](2017-05-26-yt-BkR7L41SroU.md) ★ — seo, content-marketing
 - 2017-05-28 — [How to Get More Instagram Followers Fast (and Be Instafamous)](2017-05-28-yt-eTSYQiLboOE.md) — social-media
@@ -75,6 +79,10 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2025-04-01 — [How to Master Social Media in 2025 [COMPLETE GUIDE] (X-first testing → repost winners; engagement/hook algorithm; social-search + email backstop)](2025-04-01-yt-E6ZSIZ89Ekg.md) ★ — social-media, content-marketing, email-marketing
 - 2025-04-29 — [If I Wanted to Become a Millionaire in 12 Months (own an audience, monetize 1% of traffic; visitor → email → recurring-revenue math)](2025-04-29-yt-ybttlXsLPXc.md) ★ — agency-entrepreneurship, seo, content-marketing, social-media, email-marketing
 - 2025-05-23 — [The Best LinkedIn Growth Strategy For 2025 (LinkedIn "starving for content"; reverse Dream 100, hook→curiosity→question, engage-before-you-post)](2025-05-23-yt-zBlvV0W4bDc.md) — social-media, content-marketing
+- 2025-07-23 — [The New Rules of SEO (2026) (Search Everywhere Optimization — get chosen, not just found; ~73% of search off-Google; RICE prioritization)](2025-07-23-yt-39o0uYPo4jU.md) ★ — seo, ai-marketing, content-marketing
+- 2025-09-10 — [How Google Organic and Paid Search Will Work in 2026 (ads move into Google AI mode; targeting shifts keyword → conversation-intent; feed hygiene + smart bidding train the AI)](2025-09-10-yt-Cglbi0yslMw.md) — paid-ads, seo, ai-marketing
+- 2025-12-10 — [The 8 Trends I'm Betting My Entire Marketing Strategy On in 2026 (in-platform lead capture, search-everywhere, AI slop, ChatGPT ads/digital-PR, identity AI ads, browser AI, live video, auto-dubbing)](2025-12-10-yt-hXPALnu3Y6I.md) ★ — ai-marketing, seo, content-marketing, social-media, paid-ads
+- 2026-07-15 — [The TikTok Shop Strategy Nobody Talks About (reframe as break-even customer-acquisition channel; low-price bundles fund creator commissions; acquisition flywheel)](2026-07-15-yt-1Xq8ulHYKI4.md) ★ — social-media, paid-ads, content-marketing
 
 ---
-_64 videos ingested (L2) so far._
+_72 videos ingested (L2) so far._

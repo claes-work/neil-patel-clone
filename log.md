@@ -465,3 +465,72 @@ Opus, Piktochart-style, 10Web; "brain vs. body" models-vs-agents framing — new
 (5) **New entity + company facts** for entities pages: Answer The Public (acquisition origin source),
 NP Digital "700+ employees", Ubersuggest → ~30% of agency customers, NPD Accelerate SMB division.
 (6) Persona-scale markers (2025): Neil now claims 1M+ followers per network. All dated 2022-08 → 2025-05.
+
+## [2026-07-19] ingest | yt batch (@neilpatel, 8) — P1 drain + P2 start #9
+
+Ninth @neilpatel batch, 8 videos, all L2. Eight OK captions, 0 no-captions, 0 skipped,
+0 dups, 0 yt-dlp failures (no rate-limiting). One subagent per video wrote its own
+`wiki/sources/` page; coordinator did all ledger/index/log updates. This batch **drains
+the last 4 @neilpatel P1 rows** (Neil's forward-looking 2025–2026 SEO/AI/paid strategy)
+and fills the batch with 4 of the oldest P2 rows (a May-2017 tactical cluster). All Neil
+solo. Videos:
+- `yt-39o0uYPo4jU` (2025-07-23) The New Rules of SEO (2026) ★ — introduces the named
+  **"Search Everywhere Optimization"** thesis (get *chosen*, not just found; ~73% of search
+  happens off-Google), a visibility-vs-validation distinction, and **RICE** channel
+  prioritization. Bio/business detail: NP Digital acquired an app-store-optimization (ASO)
+  company — the company name is caption-garbled ("Yo"), flagged inline, not fabricated.
+- `yt-Cglbi0yslMw` (2025-09-10) How Google Organic and Paid Search Will Work in 2026 —
+  ads moving into Google's AI mode; ad competition shifts from keyword relevance to
+  **conversation-intent relevance**; your whole brand surface (site, reviews, social,
+  product feed) becomes direct paid-ads input ("feed hygiene + smart bidding train the AI").
+- `yt-hXPALnu3Y6I` (2025-12-10) The 8 Trends I'm Betting My Marketing Strategy On in 2026 ★
+  — eight dated 2026 predictions: in-platform lead capture, search-everywhere optimization,
+  AI slop, ChatGPT-as-ranking-system / digital-PR-is-the-new-SEO, identity-based AI ads,
+  browser AI, live video, auto-dubbing. Anchoring data points: 26% zero-click, IG ~6.5B
+  searches/day, Snap–Perplexity ~$400M deal.
+- `yt-1Xq8ulHYKI4` (2026-07-15) The TikTok Shop Strategy Nobody Talks About ★ — reframes
+  TikTok Shop as a **break-even customer-acquisition channel** (not a first-sale profit
+  channel): low-price bundles lift AOV/margin, that margin funds high creator commissions,
+  driving an acquisition flywheel; creator deployment by funnel stage (interest 39% vs
+  awareness 5%).
+- `yt-hfRzMSCw6II` (2017-05-11) How to Get More Twitter Traffic (Fast) — dated: high-frequency
+  re-sharing of owned posts via Buffer + a BuzzSumo "view sharers → email outreach" loop.
+- `yt-P9LJlrCNZyY` (2017-05-14) How Long Does Content Marketing Take to Work? ★ — self-reported
+  **"~2 years to consistent results"** timeline anchored to NeilPatel.com's own organic curve:
+  ~9,000 (Jan 2015) → 88,000 (Jan 2016) → 400,000+ (Jan 2017) monthly Google visitors.
+- `yt-pbTlpO8V_4k` (2017-05-15) First 1,000 Facebook Followers Free — dated organic fan-page
+  tactics (Pages-to-Watch competitor post-mining, friend invites, image/video content).
+- `yt-3WX54dRt0CU` (2017-05-16) 2 Ways to Grow Your Email List Fast — exit-popup with an
+  offer-preview GIF (his best-converting opt-in) + post-specific content upgrades via Hello Bar;
+  title-only self-reported "700,000 emails" stat (absent from transcript body, marked as such).
+
+Caption garbles corrected in paraphrase only (quotes left verbatim): ChatGPT, semantic
+(`yt-39o0uYPo4jU`); Hello Bar, "cheat sheet" (`yt-3WX54dRt0CU`); Buffer/BuzzSumo
+(`yt-hfRzMSCw6II`). One unresolved garble flagged inline (ASO acquisition company name,
+`yt-39o0uYPo4jU`). No hard contradictions flagged.
+
+Ledger after: L2=72, L3=0. **@neilpatel P1 fully drained (0 remaining).** Open long-form
+P1: @MarketingSchoolPod 60 (all attribution-gated w/ Eric Siu); @neilpatel P2 ~1,085,
+@MarketingSchoolPod P2 ~742; open shorts ~2,682. Ingest batches since last synthesis: 9
+(checkpoint at 10). Next iteration: a channel/era just completed (@neilpatel P1) AND debt
+is at 9 → **Stage S synthesis checkpoint is due next** before further ingest.
+
+Synthesis notes: high-value 2025–2026 strategy spine to promote at the (now-due) Stage S —
+(1) **"Search Everywhere Optimization"** as Neil's flagship 2026 SEO thesis (`yt-39o0uYPo4jU`,
+L3-candidate): get chosen not just found, ~73% of search off-Google, visibility-vs-validation,
+RICE channel prioritization — a named framework worth a seo/ai-marketing topic page.
+(2) **Google AI-mode advertising** shift (`yt-Cglbi0yslMw`): keyword→conversation relevance and
+the "your whole brand surface is paid-ads input / train-the-AI compounding advantage" argument
+that bridges his SEO and paid-ads domains — cross-link seo↔paid-ads↔ai-marketing.
+(3) **The eight 2026 bets** (`yt-hXPALnu3Y6I`, L3-candidate): dated forward-looking predictions
+(search-everywhere, digital-PR-as-new-SEO / ChatGPT-as-ranking, browser AI, live video,
+auto-dubbing) — promote as a dated "2026 outlook" belief cluster to check against later reality.
+(4) **TikTok Shop break-even acquisition flywheel** (`yt-1Xq8ulHYKI4`, L3-candidate): a distinct
+social-commerce model (loss-leader bundles → creator-commission funding → acquisition flywheel)
+not covered by existing SEO/content material — new social-media/paid-ads pattern.
+(5) **Content-marketing "~2 years" timeline + NeilPatel.com traffic curve** (`yt-P9LJlrCNZyY`,
+L3-candidate): a quotable, recurring flagship claim with a concrete self-reported growth curve
+(9K→88K→400K+ monthly, 2015–2017) — anchor for a content-marketing topic page + persona belief.
+(6) Minor/dated tactical nuggets (2017 cluster): BuzzSumo sharer-outreach loop, exit-popup-GIF
+opt-in, Hello Bar list-building, competitor Pages-to-Watch mining — commodity, low promotion
+priority; the Hello Bar "700K emails" figure is title-only self-reported.
