@@ -366,6 +366,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2019-03-02 — [How Books Can Make You More Money Even If You Don't Read Them (free-book+shipping funnel, Frank Kern model; ghostwrite/white-label, digital+audio, landing page, checkout bump, upsells/downsells via ClickFunnels/SamCart; Neil says he doesn't read many books)](2019-03-02-yt-MNyZqibqqmQ.md) — paid-ads, analytics-cro, content-marketing
 - 2019-03-04 — [7 Things to Do Before Becoming an Entrepreneur (work for someone first, read entrepreneurs' books, learn to budget, problem-solving, find your passion, be time-efficient (RescueTime), find a problem to solve)](2019-03-04-yt-N6V7gXaz_io.md) — agency-entrepreneurship
 - 2019-03-07 — [The Power of No — The Best Sales Tactic (say no to discounts/scope-creep to protect margins + earn respect, follow up with the "why", extend "no" to the workplace but always offer a solution)](2019-03-07-yt-uLgUg5QZ19o.md) ★ — agency-entrepreneurship
+- 2019-03-09 — [Discounting is for Dummies (don't discount = premier not cheap; self-reported 30-rep A/B pricing test; say no + sell the outcome not features)](2019-03-09-yt-vwZeqbYZS_Q.md) — agency-entrepreneurship
+- 2019-03-11 — [The Real Reason Your Blog Doesn't Rank (blogging = quality not quantity, ~1B blogs; Ubersuggest competitor money-keywords workflow; thoroughness over length)](2019-03-11-yt-HrHylFShZcA.md) — seo, content-marketing
+- 2019-03-14 — [The Three Unseen Laws of SEO (brand queries via Google Trends; user-experience/user-metrics; adapt to tech/voice search)](2019-03-14-yt-NeikF24UzUA.md) ★ — seo
+- 2019-03-16 — [Sell Me This Pen (sell the end solution; discovery questions, qualify leads, logic+emotion, scarcity pressure, never discount)](2019-03-16-yt-459P5Ve0lgc.md) — agency-entrepreneurship
+- 2019-03-18 — [The Best Way to Get More Instagram Followers (stop chasing perfection, post video, reply to comments, post every 3-6h + ~9 stories/day, micro-content; dated platform mechanics)](2019-03-18-yt-psSkPDBT70g.md) — social-media
+- 2019-03-21 — [The Three Unseen Laws of Entrepreneurship (solve problems not chase money; save > make/frugality; speed over perfection; Kissmetrics raised $17M+ but out-executed by copycat to $100M/yr)](2019-03-21-yt-ETHO5QMCUEk.md) ★ — agency-entrepreneurship
+- 2019-03-23 — [You Don't Need a Morning Routine to Be Successful (contrarian: daily checklist cascaded from yearly→monthly→weekly→daily goal beats a morning routine; on track for 3X revenue)](2019-03-23-yt-jhXe1Xz4iCQ.md) ★ — agency-entrepreneurship
+- 2019-03-25 — [The Number One Reason 99% of Your Visitors Don't Buy (CRO: qualitative surveys + Crazyegg heatmaps BEFORE A/B tests, not analytics numbers alone; fix traffic quality via money-keywords)](2019-03-25-yt-3yT22HOenzE.md) — analytics-cro
 - 2019-04-08 — [99.9% of eCommerce Products Won't Sell Without Persuasive Copy (benefit-led copy, reviews, checkout CRO)](2019-04-08-yt-GkOM7q9BYGQ.md) — analytics-cro, content-marketing
 - 2019-04-13 — [1 Simple Hack to Get 1000 Likes on Facebook — Messenger blasts (MobileMonkey, 2019)](2019-04-13-yt-3UNBH439N38.md) — social-media, content-marketing
 - 2019-04-22 — [How to Start a Career in Digital Marketing — DIY site, competitor research, outreach](2019-04-22-yt-DoLzQN1m7sU.md) ★ — content-marketing, seo, email-marketing
@@ -474,4 +482,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2026-07-17 — [Your Software Is Now Your Best Marketing Channel (MS, co-hosted — Neil qualifies the "product = best channel" thesis: he pioneered it ~7-8 yrs ago (bought Ubersuggest ~$120k) but the real lever is FREE not feature-cadence, and it works "not as well as it used to" now everyone builds product; his biggest current lead-driver is conferences (a "three-for-one": speak + sponsor + side-events + branding); a premium on all good talent, not just "AI talent"; anti-vision-board)](2026-07-17-yt-L03nbcDp8v8.md) — ai-marketing, agency-entrepreneurship, content-marketing
 
 ---
-_461 videos ingested (L2) so far._
+_469 videos ingested (L2) so far._

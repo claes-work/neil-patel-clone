@@ -2877,3 +2877,31 @@ but always pair with a solution — connects to his later premium-positioning / 
 Minor bio detail: Neil states he **doesn't read many books** (reads articles online) (2019-03-02);
 recurring "solve a problem cheaper/more efficient" doctrine restated (2019-03-04) — consistent, no
 contradiction. Both ★ items for the next synthesis pass (wealth/mindset is thin in persona/beliefs).
+
+## [2026-07-20] ingest | yt batch (@neilpatel, 8) — P2 long-form (2019-03-09→03-25 solo tactical: sales/SEO/entrepreneurship era, cont. 38)
+
+Ingested 8 P2 @neilpatel long-form videos (all Neil-fronted solo, no attribution gating) to L2,
+2019-03-09→2019-03-25 (cont. of the 2019 solo-tactical era, batch #59). All had captions; 0 skipped,
+0 no-captions, 0 duplicates, 0 rate-limits/errors. Pages written: Discounting is for Dummies
+(vwZeqbYZS_Q); The Real Reason Your Blog Doesn't Rank (HrHylFShZcA); **The Three Unseen Laws of SEO**
+(NeikF24UzUA ★); Sell Me This Pen (459P5Ve0lgc); Best Way to Get More Instagram Followers
+(psSkPDBT70g); **The Three Unseen Laws of Entrepreneurship** (ETHO5QMCUEk ★); **You Don't Need a
+Morning Routine** (jhXe1Xz4iCQ ★); No.1 Reason 99% of Visitors Don't Buy / CRO (3yT22HOenzE).
+youtube-index footer 461 → 469; index.md count bumped.
+
+Synthesis notes: three ★ L3-candidates + persona/bio nuggets. (1) **"Three Unseen Laws of SEO"
+(2019-03-14)** — a named framework worth a topics/seo page: brand queries (track brand vs competitors
+in Google Trends; self-reports his "online marketing" rankings jumped as brand queries rose, no new
+links/content), user-experience/user-metrics (dwell time, pogo-sticking, pages/visit — Dropbox/Slack/
+Airbnb won on UX not SEO-first), and adapt-to-tech (dated Comscore "half of searches voice by 2020"
+prediction). (2) **"Three Unseen Laws of Entrepreneurship" (2019-03-21)** — persona beliefs (solve
+problems not chase money; frugality "harder to make than to save," credits his mom; speed over
+perfection) PLUS a concrete **bio** nugget: Kissmetrics raised "$17M+", installed a CEO who couldn't
+execute, and a copycat competitor out-executed them to "$100M+/yr revenue" (self-reported). (3) **"You
+Don't Need a Morning Routine" (2019-03-23)** — contrarian productivity belief: a daily checklist
+cascaded yearly→monthly→weekly→daily beats a morning routine ("I don't have one ... they're a waste");
+self-reports company on track for "3X" revenue that year. Also: discounting/sell-the-outcome doctrine
+restated twice (03-09, 03-16) — consistent with 2019-03-07 "Power of No", reinforcing not new.
+CAPTION FIX logged on 3yT22HOenzE (CRO): transcript mislabels Google-Analytics numbers as
+"qualitative" — corrected to quantitative (qualitative = surveys/Hotjar; visual = Crazyegg heatmaps);
+flagged with a CONTRADICTION callout on the page. Synthesis debt now 2/10.
