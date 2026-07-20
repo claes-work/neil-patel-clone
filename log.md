@@ -3036,3 +3036,40 @@ reinforces the 05-xx pricing doctrine. (6) Recurring reinforcements: skyscraper 
 backlink outreach, user-metrics/Hotjar as ranking factor, rule-of-7 + omnichannel + email/push, content-freshness +
 load-time, one-channel-at-a-time laser focus, Ubersuggest SEO Analyzer/Traffic report, Tai Lopez live-video/Apple
 launch-mystery as promo analogies. Synthesis debt now 6/10.
+
+## [2026-07-20] ingest | yt batch (@neilpatel, 8) — P2 long-form (2019-06-20→07-11 solo tactical: black-hat-cost / SEO-checklist / storytelling / paid-ads-no-sales / ecommerce-email / posts-per-month / selling-services / content-ideas era, cont. 43)
+
+Ingested 8 P2 @neilpatel long-form videos (all Neil-fronted solo, no attribution gating) to L2,
+2019-06-20→2019-07-11 (cont. of the 2019 solo-tactical era, batch #64). All had captions; 0 skipped,
+0 no-captions, 0 duplicates, 0 rate-limits/errors. Pages written: What is Black Hat SEO Costing You?
+(Te30x0Ij7jc); The Ultimate SEO Checklist For New Websites (hci-LWf1v7E); Marketing Storytelling
+(7QDNVMVF7ss); Watch This If Your Paid Ads Aren't Generating Any Sales (S79xcD28Afc); How to Increase Your
+eCommerce Sales by 10% With Email Marketing (_6e3WTYucP0); How Many Blog Posts Should You Write Per Month?
+(EihqZWH6aT4); Selling The Invisible — 5 Ways To Sell Your Services (LMAPoKW1CUY); How to Find Endless Content
+Ideas With One FREE Tool (Vt2GOyLIHWk). youtube-index footer 501 → 509; index.md count bumped. Cross-era
+overlap noted, cross-linked not deduped (distinct videos): 06-22 (SEO checklist) and 07-11 (content ideas)
+re-state the skyscraper + competitor-linker outreach + email/push-blast cycle from the 06-17 10K-blog video;
+07-11 re-uses the "email people you linked out to for shares" tactic from 06-15/06-17.
+
+Synthesis notes: mostly high-signal re-statements of the era's SEO-checklist / skyscraper-outreach / user-first
+themes, plus several genuinely-new-to-the-wiki nuggets for the next synthesis pass. (1) **Black-hat disclosure +
+white-hat doctrine (Te30x0Ij7jc)** — persona/bio: Neil SELF-REPORTS having used black hat SEO in his early 20s to
+rank for web hosting, online casino, online poker, auto insurance — each lasting <1 year before Google "slapped"
+it; frames the short-run-lose / long-run-win case; the Ahrefs "backlink checker" example (ranked only after
+shipping a free 100-link tool users wanted) is a clean user-experience-as-ranking-factor anecdote; reporting
+competitors is "a waste of time." (2) **Selling-services 5-lever framework (LMAPoKW1CUY)** — NEW agency/sales
+topic: benefits → specific outcomes (get into nitty-gritty numbers) → value (businesses buy because understaffed/
+time-poor, can't hire good talent) → anchoring vs competitors → pricing; persona-belief: "I hate offering
+discounts," prefers to justify NP Digital's PREMIUM price by showing superior results ("if you want good stuff
+you got to pay a premium dollar") — reverse-anchoring, reinforces the earlier raise-prices/perceived-value
+doctrine. (3) **Content-volume decision rule (EihqZWH6aT4)** — NEW crisp heuristic: Neil writes 4 posts/mo himself
+but volume should be set by competitor Ubersuggest DOMAIN SCORE — under ~40 write high volume + build links to
+outrank; above ~65 skip volume and hunt CONTENT GAPS (high-traffic topics rivals ignore). (4) **Storytelling
+framework (7QDNVMVF7ss)** — core-message → story-type (incite-action / about-yourself / convey-value / educate) →
+CTA, plus characters/conflict/resolution; Significant Objects project ($129 of items restoried → ~$8k) as the
+proof anecdote. (5) **Skyscraper attribution** — 07-11 EXPLICITLY credits the Skyscraper technique to **Brian Dean**
+(consistent with the synthesis-6 note) and adds the "no fluff word count — every word must help the reader get the
+job done" qualifier. (6) Recurring reinforcements: Crazy Egg heatmaps + remarketing/lookalikes + message-match +
+dayparting/geo for paid ads (S79xcD28Afc); Hello Bar email collection + segmentation + partial-checkout/cart-recovery
++ subscribers push for ecommerce (_6e3WTYucP0); Google PageSpeed/mobile/speed as ranking factor; IG/FB live-stories
+swipe-up distribution. Synthesis debt now 7/10.
