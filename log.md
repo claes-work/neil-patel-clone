@@ -2905,3 +2905,37 @@ restated twice (03-09, 03-16) — consistent with 2019-03-07 "Power of No", rein
 CAPTION FIX logged on 3yT22HOenzE (CRO): transcript mislabels Google-Analytics numbers as
 "qualitative" — corrected to quantitative (qualitative = surveys/Hotjar; visual = Crazyegg heatmaps);
 flagged with a CONTRADICTION callout on the page. Synthesis debt now 2/10.
+
+## [2026-07-20] ingest | yt batch (@neilpatel, 8) — P2 long-form (2019-03-28→04-18 solo tactical: social/SEO/affiliate + million-dollar-loss origin era, cont. 39)
+
+Ingested 8 P2 @neilpatel long-form videos (all Neil-fronted solo, no attribution gating) to L2,
+2019-03-28→2019-04-18 (cont. of the 2019 solo-tactical era, batch #60). All had captions; 0 skipped,
+0 no-captions, 0 duplicates, 0 rate-limits/errors. Pages written: Why Your Social Media Content Is
+Garbage (u_9zUbjk15E); Why Offering Discounts Will Put You Out of Business (zLz3JSvNUMM); 5 Beginner
+SEO Mistakes (yX20m5mprCE); **7 Lessons From Losing a Million Dollars Before I Was 21** (AV2VkoQR1xU ★);
+7 Social Media Predictions for 2019 (qw_1jGlpV9Y); How to Spy on Your Competitors' SEO (UEpNM5yvyh8);
+Can You Still Make a Living Off Affiliate Marketing? (NYIj66KP-Tk); How to Come Up With YouTube Video
+Topics That Rank (h0FggHZhvtc). youtube-index footer 469 → 477; index.md count bumped.
+
+Synthesis notes: one ★ L3-candidate (bio) + several persona nuggets. (1) **"7 Lessons From Losing a
+Million Dollars Before I Was 21" (2019-04-04)** — biography-rich origin story for persona/biography.md:
+claims ~$20k/month at 16, lost it all plus ~$1M he *borrowed* by 21, repaid in under a year; the failed
+venture was a **cloud-computing** company he says he conceived "before Amazon Web Services" (prompted by
+his own servers crashing on traffic spikes), killed by wrong team/poor execution. All figures
+**self-reported/unaudited** (per SUBJECT.md rule) — flagged with an attribution callout on the page.
+Reusable beliefs: execution/team > idea, focus (says his few-$M/yr business could've been $10–100M),
+save money ("harder to make than to save"), pick partners like a marriage (business "divorce" is worse),
+have a lawyer/contracts, target a big TAM (enterprise churns less than SMB; "1% of a big market beats 50%
+of a small one"). (2) **Anti-discounting doctrine (2019-03-30)** — reinforces existing premium-positioning
+belief with a hard datum: discounted signups at one of his companies **churned 29% faster** while paying
+less and generating more support load; "never discount in B2B," optimize LTV, go upstream. Consistent with
+prior pricing takes, but the 29% figure is new/citable. (3) **"5 Beginner SEO Mistakes" (2019-04-01)** —
+restates his durable SEO tenets (evergreen URLs = no dates, +58% traffic when he removed them from
+neilpatel.com; internal linking; SEO-as-brand-building citing Eric Schmidt "brands are the solution";
+update old content; user metrics/pogo-sticking) — echoes the "Three Unseen Laws of SEO" framework from
+2019-03-14, reinforcing not new. (4) **"7 Social Media Predictions for 2019" (2019-04-06)** — DATED
+forecasts (video-first, brands weigh more, comments>likes, ads shift to branded, algo convergence, user
+consolidation, few newcomers survive); record as of-2019 predictions, not standing beliefs. The Ubersuggest
+competitor/money-keyword workflow, Skyscraper Technique (Brian Dean), and repurpose-articles-into-videos
+plays recur across UEpNM5yvyh8 / NYIj66KP-Tk / h0FggHZhvtc — consistent with prior batches, no new framework.
+Synthesis debt now 3/10.

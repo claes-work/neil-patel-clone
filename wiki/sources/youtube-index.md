@@ -374,8 +374,16 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2019-03-21 — [The Three Unseen Laws of Entrepreneurship (solve problems not chase money; save > make/frugality; speed over perfection; Kissmetrics raised $17M+ but out-executed by copycat to $100M/yr)](2019-03-21-yt-ETHO5QMCUEk.md) ★ — agency-entrepreneurship
 - 2019-03-23 — [You Don't Need a Morning Routine to Be Successful (contrarian: daily checklist cascaded from yearly→monthly→weekly→daily goal beats a morning routine; on track for 3X revenue)](2019-03-23-yt-jhXe1Xz4iCQ.md) ★ — agency-entrepreneurship
 - 2019-03-25 — [The Number One Reason 99% of Your Visitors Don't Buy (CRO: qualitative surveys + Crazyegg heatmaps BEFORE A/B tests, not analytics numbers alone; fix traffic quality via money-keywords)](2019-03-25-yt-3yT22HOenzE.md) — analytics-cro
+- 2019-03-28 — [Why Your Social Media Content Is Garbage and How to Fix It (post video, test-not-perfect, micro-content/repurposing, tailor per-network, be your authentic "edge")](2019-03-28-yt-u_9zUbjk15E.md) — social-media, content-marketing
+- 2019-03-30 — [Why Offering Discounts Will Put You Out of Business (anti-discount doctrine: bad precedent, ruins brand, discounters churn +29%, devalues product, wrong customers; optimize LTV, go upstream)](2019-03-30-yt-zLz3JSvNUMM.md) — agency-entrepreneurship, analytics-cro
+- 2019-04-01 — [5 Beginner SEO Mistakes Ruining Your Traffic (dates-in-URL cost 58%, site-as-silo vs internal links, SEO=brand-building per Schmidt, update old content, user metrics/pogo-sticking)](2019-04-01-yt-yX20m5mprCE.md) — seo
+- 2019-04-04 — [7 Lessons From Losing a Million Dollars Before I Was 21 (origin story: lost ~$1M borrowed on pre-AWS cloud-computing; execution>idea, focus, save, partners, lawyer, big TAM; self-reported)](2019-04-04-yt-AV2VkoQR1xU.md) ★ — agency-entrepreneurship
+- 2019-04-06 — [7 Social Media Predictions for 2019 (dated forecasts: video-first, brands weigh more, comments>likes, ads tougher/branded, algo convergence, user consolidation, few newcomers survive)](2019-04-06-yt-qw_1jGlpV9Y.md) — social-media, paid-ads
 - 2019-04-08 — [99.9% of eCommerce Products Won't Sell Without Persuasive Copy (benefit-led copy, reviews, checkout CRO)](2019-04-08-yt-GkOM7q9BYGQ.md) — analytics-cro, content-marketing
+- 2019-04-11 — [How to Spy on Your Competitors' SEO & Steal Their Traffic (Ubersuggest walkthrough: traffic-by-region, Top Pages, money keywords = hi-traffic/hi-CPC/lo-difficulty, then Skyscraper Technique to out-build them)](2019-04-11-yt-UEpNM5yvyh8.md) — seo
 - 2019-04-13 — [1 Simple Hack to Get 1000 Likes on Facebook — Messenger blasts (MobileMonkey, 2019)](2019-04-13-yt-3UNBH439N38.md) — social-media, content-marketing
+- 2019-04-15 — [Can You Still Make a Living Off Affiliate Marketing? (still works but shift paid→SEO/organic for higher margins; passion niche + ClickBank, Ubersuggest money-keywords, Skyscraper, backlink outreach)](2019-04-15-yt-NYIj66KP-Tk.md) — content-marketing, seo
+- 2019-04-18 — [How to Come Up With YouTube Video Topics That Rank (Ubersuggest Keyword Ideas/Related; keywords in title+desc; upload SRT via Rev.com over auto-captions; turn popular articles into videos)](2019-04-18-yt-h0FggHZhvtc.md) — social-media, seo, content-marketing
 - 2019-04-22 — [How to Start a Career in Digital Marketing — DIY site, competitor research, outreach](2019-04-22-yt-DoLzQN1m7sU.md) ★ — content-marketing, seo, email-marketing
 - 2019-06-10 — [How to Get 4 Million Visits Per Month With One Simple Keyword Hack (long-tail expansion of ranking pages)](2019-06-10-yt-zK4oTuiFV1E.md) ★ — seo, content-marketing
 - 2019-07-04 — [The Perfect SEO Setup for WordPress — 8 Plugins (caching, Yoast, AMP, schema, SSL)](2019-07-04-yt-JiqNIUQNQ7I.md) ★ — seo
@@ -482,4 +490,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2026-07-17 — [Your Software Is Now Your Best Marketing Channel (MS, co-hosted — Neil qualifies the "product = best channel" thesis: he pioneered it ~7-8 yrs ago (bought Ubersuggest ~$120k) but the real lever is FREE not feature-cadence, and it works "not as well as it used to" now everyone builds product; his biggest current lead-driver is conferences (a "three-for-one": speak + sponsor + side-events + branding); a premium on all good talent, not just "AI talent"; anti-vision-board)](2026-07-17-yt-L03nbcDp8v8.md) — ai-marketing, agency-entrepreneurship, content-marketing
 
 ---
-_469 videos ingested (L2) so far._
+_477 videos ingested (L2) so far._
