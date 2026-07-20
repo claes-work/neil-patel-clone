@@ -181,6 +181,37 @@ spine above (dated; self-reported figures).
   model — willing to lose money up front at scale to grab ad inventory — is documented in
   [[wiki/topics/analytics-cro|analytics-cro]] ([[2018-10-16-yt-AbcoFUHcs9M]]); noted here, not duplicated.
 
+## 2019 mid-year: funnel-hacking + "the secret is the funnel, not the ad" (@neilpatel P2)
+
+Two mid-2019 videos sharpen the same back-end thesis — a copied *funnel* isn't a copied *result*, and
+paid works because of the funnel behind the ad, not the ad craft (dated; self-reported where noted).
+
+- **Funnel-hacking doctrine — "short answer no, long answer yes" (2019-06-01).** Can you copy someone's
+  funnel and profit like them? Neil's verdict: **"the short answer is no, but the long answer is yes."** A
+  cloned funnel ≠ their results because the decisive factors are **uncopyable** — personality, voice, and
+  traffic skill. To copy *well*, four moves: (1) don't clone the layout, **understand WHY it's built that
+  way** (what the upsells/downsells do, whether they get people results faster); (2) check **audience
+  relevance** — the closer your visitors are to theirs, the more likely it transfers; (3) confirm you can
+  **sustain the ad cost / have the cash flow** — even a spied-and-cloned ad carries no guarantee because a
+  competitor may run assets you lack (e.g. **Lookalike Audiences**) that lift their ROI, and it may take
+  months to reach that ROI; (4) don't copy wholesale — **test elements in small segments** (start with a
+  simple webinar or the upsell/downsell) and scale only what proves out on your own audience
+  ([[2019-06-01-yt-yPH7v6Yx1kM]]).
+  > "Don't just copy their funnel. What you want to do is look at their funnel and understand why they created it like that." — [[2019-06-01-yt-yPH7v6Yx1kM]]
+  > "It just more so means: do you have the cash flow to sustain it? It may take a few months before you can get there." — [[2019-06-01-yt-yPH7v6Yx1kM]]
+- **"The secret is the funnel, not the ad" (2019-08-03).** Neil's single "secret" to profitable paid: paid
+  ads fail for most people because they drive traffic straight to a product and expect it to convert. Even
+  with the right keywords (Ubersuggest), competitor ad research (Facebook Ad Library), and a good landing
+  page, you won't make money without a **funnel** — because a funnel **optimizes for LTV**, not front-end
+  return (Amazon loses on the first transaction, wins on LTV via related-product email). Funnel LTV levers:
+  **checkout bumps, upsells, downsells, trigger-based emails, and browser push notifications** (for abandoned
+  checkouts) — each small, but together they make campaigns profitable, amplified by an amazing customer
+  experience (Zappos/Amazon/Apple). Rising ad costs make the funnel the thing that lets you keep spending
+  more ([[2019-08-03-yt-5qFWeF8gGTM]]). The **7-figure (2–3x now) / 8-figure (break-even) / 9-figure (lose up
+  front) ad-spend tiering** he relays here is the same LTV model already documented in
+  [[wiki/topics/analytics-cro|analytics-cro]] ([[2018-10-16-yt-AbcoFUHcs9M]]) — cross-linked, not duplicated.
+  > "The secret to making paid advertising work isn't how you optimize the paid ad campaigns, it's your funnel." — [[2019-08-03-yt-5qFWeF8gGTM]]
+
 ## Key source pages
 - [[2018-12-22-yt-7V3HMRJ8U40]] — SEO vs paid: do both (omni-channel; "if paid is profitable, SEO is").
 - [[2019-02-09-yt-jmRunRQU1wc]] — Funnels as ad costs rise; 2008-recession ad-durability datapoint.
@@ -194,6 +225,8 @@ spine above (dated; self-reported figures).
 - [[2025-12-10-yt-hXPALnu3Y6I]] — *The 8 Marketing Trends Neil Patel Is Betting On in 2026* (2025) — the identity-based AI-ads bet and AI Max prep.
 - [[2026-07-15-yt-1Xq8ulHYKI4]] — *The TikTok Shop Strategy Nobody Talks About* (2026) — break-even acquisition, bundle economics, creator flywheel.
 - [[2021-06-28-yt-g2AJYuOfBXI]] — *The Future of Digital Marketing…* (2021) — "every side of the table" authority frame; paid-vs-SEO intent logic; performance-ad recession durability.
+- [[2019-06-01-yt-yPH7v6Yx1kM]] — *The Truth About Funnel Hacking* (2019) — copied funnel ≠ copied result; understand WHY, audience relevance, cash flow to sustain ad cost, test in small segments.
+- [[2019-08-03-yt-5qFWeF8gGTM]] — *The Secret to Making Paid Advertising Work* (2019) — "the secret is the funnel, not the ad"; LTV levers (checkout bumps, upsells/downsells, trigger emails, browser push).
 - [[2019-07-22-yt-LdnWx49LUJc]] — *The Fastest Ways to Bring Traffic to a New Website* (2019) — only a minor paid touch (free AdWords credits for a small-budget launch boost); no ad benchmarks.
 - [[2026-04-17-yt-hF43ZlHhfuQ]] — *(Marketing School)* two AI-era levers: creative + first-party data; co-branded events; reskill-don't-cut.
 - [[2026-04-07-yt-3OXIyYkVCdQ]] — *(Marketing School)* judge paid by full-funnel revenue; payment-processor-by-country CRO play.

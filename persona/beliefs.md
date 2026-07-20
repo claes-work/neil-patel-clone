@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-20
-sources: 56
+sources: 63
 ---
 
 # Beliefs
@@ -157,6 +157,47 @@ approve lump-sum spend now and expense it against a region's *future-year* reven
 bonuses), and refuse **"dashboarditis"** — track only the few reports that drive decisions.
 *(as of 2026-07-06)* [[2026-07-06-yt-JJ_wuHYGrQM]]
 
+### The Three Unseen Laws of Entrepreneurship (2019)
+A named Neil framework for why entrepreneurs succeed or fail — and the dated origin of two threads
+that recur across the persona. Three "laws": (1) **You make money by solving problems, not by
+wanting to be rich** — he says he only started succeeding once he stopped chasing wealth and started
+solving people's problems better than competitors (more affordable, easier, better results). (2)
+**"It's harder to make money than to save it"** — be frugal, spend on the business not lifestyle
+(he calls out the BMW/Mercedes, Netflix, Amazon Prime), keep a war chest because "what goes up comes
+down"; he credits **his mom** for the save-money lesson. (3) **Speed over perfection** — traction
+beats a perfect product. *(as of 2019-03-21, self-reported)* [[2019-03-21-yt-ETHO5QMCUEk]]
+
+> verbatim: "You don't make money because you wanna make money, you make money by solving problems."
+> [[2019-03-21-yt-ETHO5QMCUEk]]
+
+> verbatim: "It's not being about being perfect. Nothing is gonna go the way you want. It's about
+> speed and execution. Move as fast as you can, fix the mess at the end." [[2019-03-21-yt-ETHO5QMCUEk]]
+
+He proves law 3 with his own Kissmetrics post-mortem: it raised "$17M+," installed a CEO who
+"couldn't execute," and a competitor that *copied* the product out-executed them to $100M+/yr —
+"they didn't create a better product... they out-executed us." *(self-reported)*
+[[2019-03-21-yt-ETHO5QMCUEk]] The "solve problems, not chase money" and "harder to make than save"
+laws are restated the same year in his [[#wealth-mindset--the-7-rules-of-money-2019|7 Rules of Money]].
+
+### The Power of No — decline discounts and scope-creep to protect margins *and* respect (2019)
+Neil's contrarian sales framework: **"no" is the best sales tactic.** Constantly saying yes to
+discount and out-of-scope requests collapses margins, makes you miserable, and *lowers* client
+respect and results; a firm no earns both respect and higher pay. His rules: (1) refuse discounts
+and out-of-scope asks (go above-and-beyond only on *your* terms, not on demand); (2) **always follow
+the no with the reason** — "my margins are razor-thin; a discount means fewer services and worse
+results" — so it lands as fair; (3) **pair the no with a solution or scope compromise.** He
+analogizes to dating — saying yes to everything makes you unattractive, playing hard-to-get creates
+desire. *(as of 2019-03-07, self-reported)* [[2019-03-07-yt-uLgUg5QZ19o]]
+
+> verbatim: "It's like dating. The moment you go after someone and they keep saying yes to
+> everything, you're gonna get over them... the moment something plays hard-to-get, you're like, oh
+> my god, I'm in love. That's how it works in sales." [[2019-03-07-yt-uLgUg5QZ19o]]
+
+> verbatim: "The moment you put your foot down, that's when people will start respecting you."
+> [[2019-03-07-yt-uLgUg5QZ19o]]
+
+The pricing half of this is sharpened in his [[#premium-over-discounts--discounted-signups-churned-29-faster-2019|anti-discount / premium-positioning]] stance (below).
+
 ## Values
 
 ### "Marketing isn't expensive or hard — there's a formula anyone can follow"
@@ -309,6 +350,46 @@ income to ~$30–50k/mo but dropped it because "it's just not me." He explicitly
 universalize this as advice — it's a personal-values choice, not a rule. *(as of 2018-08-25,
 self-reported)* [[2018-08-25-yt-v6rgvg2CAIc]]
 
+### Wealth mindset — the 7 Rules of Money (2019)
+Neil's fullest statement of a personal-finance/wealth philosophy — a persona area otherwise thin
+(most of the corpus is tactical marketing). Seven rules: (1) **Money follows problem-solving**, not
+wanting to be rich — he cites **Elon Musk** (SpaceX, The Boring Company) as problem-driven, and says
+your solution must be cheaper and more efficient than alternatives. (2) **No overnight wealth** —
+barring the lotto, it takes putting in your dues. (3) **Make your money work for you** — invest
+rather than buying status objects (homes, cars, Ferraris), because investments compound and status
+objects don't. (4) **"It's easier to save money than to make it"** — small economies (even grocery
+coupons) compound net worth. (5) **Learn from other investors' documented mistakes** (he cites
+reading an IBM CEO's book) so you don't repeat them. (6) **It's OK to miss deals** — do your due
+diligence and skip anything that looks off. (7) **Timing** — quoting **Warren Buffett**, "be fearful
+when others are greedy and greedy when others are fearful": be wary in a crypto mania, buy into
+crashed markets for the long term. *(as of 2019-02-28, self-reported)* [[2019-02-28-yt-Hl5jsFQVHYw]]
+
+> verbatim: "You don't make money because you want to make it. You make it by solving problems."
+> [[2019-02-28-yt-Hl5jsFQVHYw]]
+
+> verbatim: "It's easier to save money than it is to make it." [[2019-02-28-yt-Hl5jsFQVHYw]]
+
+> verbatim: "As Warren Buffett says, when people are greedy, be fearful, and when people are fearful,
+> be greedy." [[2019-02-28-yt-Hl5jsFQVHYw]]
+
+> ⚠️ Self-reported: he names **missing the Airbnb investment** as his own example of rule 6 ("I
+> missed out on the Airbnb investment... That's okay, you're not gonna get 'em all") — a self-report,
+> unverified. [[2019-02-28-yt-Hl5jsFQVHYw]] Rules 1 and 4 are the same "solve problems / harder to
+> make than save" threads he frames as laws in the [[#the-three-unseen-laws-of-entrepreneurship-2019|Three Unseen Laws]] the same year.
+
+### Put the user first — "marketing isn't about marketing anymore" (2019)
+The dated 2019 statement of his user-first ethic: because marketing keeps getting harder and more
+expensive (VC-funded firms pour raised capital into marketing/sales, so "the best marketer is the
+one who can spend the most money on marketing"), the winning move is a **great product** — survey
+(Hotjar, SurveyMonkey), call, or meet customers and keep tweaking until you delight them. Traffic
+can't save a bad product. *(as of 2019-06-13)* [[2019-06-13-yt-2jzzB_AeChA]]
+
+> verbatim: "Marketing isn't about marketing anymore. Marketing is about putting the user first. If
+> you do what's best for them, you'll get the traffic, you'll get the sales." [[2019-06-13-yt-2jzzB_AeChA]]
+
+> verbatim: "Do you know who the best marketer is[?] The one who can spend the most money on
+> marketing." [[2019-06-13-yt-2jzzB_AeChA]]
+
 ## Opinions & positions (dated)
 
 _These evolve fastest — Neil explicitly holds tactics as temporary. Treat dates as load-bearing._
@@ -417,6 +498,25 @@ is to **intern/volunteer → get paid → hop between mentors → start a compan
 building skills, network, and capital access first. *(as of 2018-07-14, self-reported)*
 [[2018-07-14-yt-x1a0XRXyeVA]]
 
+### Career-sequencing — "work for others ~9 years first" (2019)
+The 2019 restatement (and hardening) of his 2018 apprentice-first stance: if he had to start over,
+Neil says he would **work for other people for nine years before founding anything**, on a specific
+four-employer route — 2 yrs at a struggling small startup (scrappiness) → 3 yrs at a huge company
+(scale, politics, big deals, managing people) → 2 yrs at a $100M→$1B company (how to scale past the
+stall) → 2 yrs at a fast-growing chaotic startup (thrive in the mess) — leaving with savings, a
+network to **recruit co-founders**, and people you can lure with **equity**. *(as of 2019-07-25,
+self-reported)* [[2019-07-25-yt-YbPP_5htg-8]]
+
+> verbatim: "For the first nine years, I would go and work for someone else. I know that sounds
+> crazy, but you learn so much working for other people." [[2019-07-25-yt-YbPP_5htg-8]]
+
+> ⚠️ CONTRADICTION: This directly contradicts Neil's *own* path — he became a teen entrepreneur
+> (entrepreneur "for 17 years," first job cleaning toilets at a theme park for $5.75/hr) and never
+> did this nine-year apprenticeship. Frame it strictly as retrospective **"if I had to start over"**
+> advice, dated 2019 — **not** as his biography. It is the sharpened sibling of his 2018
+> [[#apprentice-first--i-wouldnt-start-a-business-young-again-2018|apprentice-first]] belief; both
+> sit in the same tension with his actual origin story. [[2019-07-25-yt-YbPP_5htg-8]]
+
 ### Off-core dated personal view: crypto (2018) — NOT marketing doctrine
 Flagged so it's never mistaken for one of his frameworks: in a 2018 Q&A he gave a **pro-Bitcoin**
 "gold of the internet" take (and mentions being paid a $50K fee in Bitcoin), while explicitly
@@ -471,3 +571,34 @@ established fact — score against outcomes later. *(as of 2025-12-10)* [[2025-1
    ads based on who you are. Chat GBT will do both"; brands "compete for associations," not
    keywords.
 8. **Search everywhere optimization** as the organizing response to fractured discovery.
+
+### No morning routine — a cascading checklist beats one (2019)
+A contrarian productivity position: Neil says a morning routine will **not** make you successful —
+he doesn't keep one and thinks they're "a waste." What actually drives results is a **daily
+checklist derived top-down from a yearly goal**: break the yearly goal into monthly → weekly →
+**daily** tasks, write a fresh checklist each day of exactly what must get done, and don't sleep
+until it's all ticked off. *(as of 2019-03-23, self-reported)* [[2019-03-23-yt-jhXe1Xz4iCQ]]
+
+> verbatim: "A morning routine will not make you successful." [[2019-03-23-yt-jhXe1Xz4iCQ]]
+
+> verbatim: "You need a checklist. And not just any checklist. You need a daily checklist... this is
+> what you need to be successful." [[2019-03-23-yt-jhXe1Xz4iCQ]]
+
+### Premium over discounts — discounted signups churned 29% faster (2019)
+His anti-discount / premium-positioning doctrine, backed by a hard self-reported datum. Discounting —
+especially in **B2B/enterprise** — sets a bad precedent (discount-seekers keep asking for more
+scope), resents full-price customers, devalues the offer ("you're not gonna go to Goldman Sachs and
+ask for a discount"), and attracts wrong-fit buyers. His proof: at one of his companies, **discounted
+signups churned 29% faster** while paying less and generating more support load, so they stopped
+discounting; the prescription is to **go upstream and optimize for lifetime value**, not short-term
+income. He extends it to selling services: he'd rather price NP Digital *above* competitors and show
+why the premium delivers results they can't. *(as of 2019-03-30, restated 2019-07-08, self-reported)*
+[[2019-03-30-yt-zLz3JSvNUMM]] · [[2019-07-08-yt-LMAPoKW1CUY]]
+
+> verbatim: "The people who signed up not only grumbled more, caused more support issues, but they
+> churned 29% faster." [[2019-03-30-yt-zLz3JSvNUMM]]
+
+> verbatim: "I hate offering discounts... if you want good stuff you got to pay a premium dollar."
+> [[2019-07-08-yt-LMAPoKW1CUY]]
+
+This is the pricing edge of his 2019 [[#the-power-of-no--decline-discounts-and-scope-creep-to-protect-margins-and-respect-2019|Power of No]] framework.

@@ -625,6 +625,102 @@ brand-first, user-metrics SEO doctrine. New/sharper items only; the rest reinfor
   authority to winners, and **animated-GIF infographics** as link bait (his "how a car engine works"
   GIF, ~1M visitors, "zero marketing") ([[2019-02-07-yt-vsnjC10bC9M]]).
 
+## 2019 solo-era SEO — the "unseen laws" & no-link-building era (Feb–Sep) (@neilpatel P2)
+
+The mid-2019 run crystallizes Neil's user-first, brand-first doctrine into a small set of
+*named* frameworks, adds his first dedicated Bing contrast, and packages the refresh/cluster
+tactics above into repeatable "rank without link building" plays. New/sharper items only.
+
+- **The Three Unseen Laws of SEO (2019-03-14, ★).** A named Neil framework of three factors
+  "beyond" standard links/on-page work that he says decide long-run rankings
+  ([[2019-03-14-yt-NeikF24UzUA]]):
+  1. **Brand queries** — as brands grow, Google favors them (he frames it partly as a
+     response to fake-news / low-quality content); track your brand-search interest vs
+     competitors in **Google Trends** and keep it "up and to the right." Extends the 2017
+     brand → branded-search → rankings thesis (see *Brand & user signals* above) with a
+     fresh self-report: when his brand queries were low he couldn't rank "online marketing,"
+     but as they rose he shot to the top of page one **without new links or content changes**
+     (self-reported).
+     > "The moment my brand queries started increasing, I shot up to the top of page one for
+     > the term online marketing. Without building any extra links, without changing any of
+     > my content."
+  2. **User experience / user metrics** — dwell time, bounce/pogo-sticking, pages-per-visit,
+     compared against other rankers; poor UX loses rankings regardless of optimization, so
+     you need a genuinely good product/service. Cites **Dropbox, Slack, Airbnb** as companies
+     that won on UX, not SEO-first (Airbnb's pro-photographer program lifted conversions).
+     > "It doesn't matter how good of a job you've done with SEO ... If your user experience
+     > sucks, people go to your site, they bounce back ... you're not gonna rank well in the
+     > long run."
+  3. **Adapt to technology** — keep up with where search is going (voice, ambient
+     Google-Home/appliance search) or get left behind.
+     > ⚠️ Dated prediction (attributed to Comscore): "According to Comscore, in 2020, half
+     > the searches will be voice search." Record as a **2019 dated forecast**, not a current
+     > fact. Corroborates the 2018-07-03 voice-search material above.
+- **User-first / search-intent over fundamentals (2019-05-09, ★).** A crisp restatement that
+  even a brand-new or long-stagnant site can rank **by putting the user first**, not by
+  grinding the mechanical fundamentals ([[2019-05-09-yt-91W0sa9Qfg8]]). Google weighs **user
+  behavior** — if searchers click your result then immediately hit Back (**pogo-stick** to the
+  next result), Google reads dissatisfaction and stops ranking you, overriding on/off-page SEO;
+  conversely, satisfying intent can rank you even with imperfect backlinks/internal links.
+  Centerpiece **Ahrefs case study**: unable to rank for "backlink checker" via links alone,
+  Ahrefs shipped a **free tool limited to ~100 backlinks** (preserving the paid upsell) and hit
+  **#1 within weeks** by matching searcher intent (a *free* tool). To learn what users want,
+  survey them (**SurveyMonkey**: "What else would you like to see on this page?"). This is the
+  concrete 2019 form of the RankBrain UX-signals thesis (2018-07-17) and the pogo-sticking
+  signal (2017-08-07) above.
+  > "If you put the user first, and even if you don't have all the other factors, like your
+  > backlink count isn't right, your internal links isn't perfect, you can still rank high."
+- **The no-link-building ranking triad (2019-08-12 & 2019-08-26, ★).** Two overlapping videos
+  package the refresh/cluster/gap tactics above into three repeatable plays to rank for
+  thousands of keywords **without building links** ([[2019-08-26-yt-Prp2lkzNQv4]],
+  [[2019-08-12-yt-V2udMQNVCAc]]):
+  1. **"Land and expand"** — pull the pages you already rank for from **Google Search
+     Console**, find queries a page draws impressions/clicks for whose words **aren't actually
+     in the page text/title/meta**, and add them naturally (not stuffed); then run your head
+     terms through **Ubersuggest** for related long-tails and fold those in too — ranking a
+     competitive head term makes the easier long-tails easy to also capture.
+     > "If you're ranking for some terms and you don't have those words in your website copy,
+     > in the text, what do you think that tells Google? ... If you add those keywords within
+     > your copy, you're much more likely to rank higher."
+     > ⚠️ Caption note: the 2019-08-12 transcript renders this as "the **LAN and expanse**
+     > strategy" — a caption garble of the standard **"land and expand"**; treat that as the
+     > intended term.
+  2. **Content clusters** — a thorough **master/pillar page** (~10,000 words) on a broad topic,
+     surrounded by **satellite pages** built from **AnswerThePublic** long-tail questions/
+     comparisons/prepositions (plus **Quora** topics), all **internal-linked** back to the
+     master so the whole cluster rises. The on-site form of the 2018-07-12 content-cluster
+     doctrine above.
+  3. **Content gaps** — put a competitor's URL into **Ubersuggest → Top Pages**, export to CSV,
+     delete topics you already cover, and write a better (Skyscraper-grade) page on each
+     remaining topic; then email the competitor's **existing linkers** (Ubersuggest's top-pages
+     report surfaces them) — **not link-begging**, just flagging your better/newer version for
+     a share.
+     > "The more you hit up people and ask them to link to you ... the majority will not. But
+     > instead, I want you to shoot them a simple email... If you like it feel free and share it."
+  The 2019-08-12 "perfect SEO campaign" framing sequences all three into content-gap → internal
+  linking → land-and-expand → a **consistent content calendar** → clusters/pillars, with a
+  consistency self-report: a **~1-month blogging gap dropped his traffic and took ~3 months to
+  recover** (self-reported).
+- **Bing SEO — the first dedicated Google contrast (2019-09-05, ★).** Neil's first standalone
+  Bing playbook, several tactics of which differ from Google ([[2019-09-05-yt-srRwLFNLing]]):
+  - **Exact-match domains work better on Bing than on Google** — and a non-.com exact-match
+    extension (.org/.net/.co) still performs on Bing; on an existing site, get the
+    **keyword into the URL** (`yourdomain.com/keyword`), a strong Bing factor.
+  - **Social signals are a DIRECT Bing ranking factor** (Bing has publicly confirmed using
+    them), which Neil ties to **Microsoft owning Bing and LinkedIn** and being an early
+    Facebook investor — giving it social-data access; fast-acquired social shares make Bing
+    rankings climb quicker. Cross-link [[wiki/topics/social-media|social-media]].
+    > ⚠️ CONTRADICTION (cross-engine nuance, preserved not smoothed): Neil says social shares
+    > are **NOT a direct Google ranking factor** (only correlated — see *Brand & user signals*,
+    > 2020-03-26) but **ARE a direct Bing factor**. This distinction must be preserved in any
+    > "do social shares help SEO" synthesis.
+  - Same **user-first** throughline: bounce/pogo-sticking and brand queries feed Bing rankings
+    too — poor UX won't hold Bing rankings over time. Tools: **Bing Webmaster Tools** for
+    error data, and the **NeilPatel SEO Analyzer** (up to 150 pages free, optimized for Bing
+    as well as Google).
+    > "Unlike Google, on Bing, we found that exact match domains perform even better than they
+    > do on Google."
+
 ## Signature framing: "get loved by Google"
 
 Neil's recurring sign-off phrase, worth capturing verbatim as voice:
@@ -712,3 +808,10 @@ many small things well, for the user, and rankings follow.
 - [[2019-01-12-yt-akj2Q3Ha9Ho]] — Own the whole first page (multiple pages/topic; Link Intersect)
 - [[2019-02-07-yt-vsnjC10bC9M]] — Expand ranking pages + prune-and-crop + GIF infographics
 - [[2019-02-09-yt-jmRunRQU1wc]] — YouTube-SEO results <1 week; funnels as ad costs rise
+
+### 2019 solo-era — unseen laws & no-link-building (@neilpatel P2)
+- [[2019-03-14-yt-NeikF24UzUA]] — ★ The Three Unseen Laws of SEO (brand queries / user metrics / adapt-to-tech)
+- [[2019-05-09-yt-91W0sa9Qfg8]] — User-first / search-intent over fundamentals (Ahrefs free-tool case study)
+- [[2019-08-12-yt-V2udMQNVCAc]] — Anatomy of a perfect SEO campaign (gap→internal→land-and-expand→calendar→clusters)
+- [[2019-08-26-yt-Prp2lkzNQv4]] — ★ Rank for thousands of keywords without links (land-and-expand / clusters / gaps)
+- [[2019-09-05-yt-srRwLFNLing]] — ★ Bing SEO (exact-match domains, keyword-in-URL, social a direct Bing factor)

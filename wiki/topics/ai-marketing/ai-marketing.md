@@ -205,6 +205,36 @@ eras — **not** presented as his current view.
   > expected**. Keep as a dated, now-wrong prediction — evidence of how far his AI view travelled, not
   > current advice.
 
+## The 2020 "automate SEO with ML/AI" vision (the datable seed of the arc)
+
+Between the 2018 forecasts and the 2023→2026 GEO/AEO era sits Neil's clearest **pre-LLM**
+articulation of the AI-marketing idea that now dominates his 2025–26 content. It is the
+node where the arc actually *begins* as a product ambition rather than an ad-tech prediction.
+
+- **"Automate SEO with machine learning / AI" (2020 vision, stated 2019-07-27, ★ belief-evolution).**
+  In "Why I Decided To Disrupt the SEO Industry | My Marketing Plans for 2020," Neil framed his
+  2020 goal as **automating SEO** via a **JavaScript-snippet product** (installed like Google
+  Analytics) that would — always **with the user's approval** — edit HTML/title tags, read
+  **Search Console** data to suggest and split-test on-page changes, and **auto-run competitor
+  backlink discovery + templated link outreach**. He said he open-sourced Ubersuggest not to make
+  money but because the SEO industry "hasn't been much innovation," and predicted **most of
+  marketing** — not just SEO — was heading toward automation ([[2019-07-27-yt-jLHAu_wjG-w]]).
+  Quotes: *"In 2020, that is my goal, is to automate SEO. It's not going to be easy, I don't know
+  how far I will get. But that's what I'm trying to do."* and *"Why can't we use machine learning?
+  Why can't we use artificial intelligence?"* ([[2019-07-27-yt-jLHAu_wjG-w]]).
+  > ⚠️ BELIEF-EVOLUTION (carried, not smoothed): this 2020 vision is the **datable origin** of the
+  > AI-marketing through-line. The *mechanism* he imagined — deterministic automation (a JS snippet
+  > mechanically editing tags and firing outreach) — predates generative LLMs entirely, yet the
+  > *ambition* (let AI do the marketing labor, human stays the approver) runs unbroken into the
+  > 2023–24 GEO seed (below) and culminates in his 2025–26 "AI does the execution, brand is the
+  > moat" thesis. The **human-in-the-loop / augment-not-replace** instinct is already present in
+  > 2020 ("with your approval"), the same instinct restated in [[2025-03-25-yt-6RNJpItArSQ]]'s
+  > "AI and humans combined." Present it as the seed on the line, not current advice — the actual
+  > tooling (Ubersuggest LLM brand-tracking, [[2025-07-30-yt-MTHL9vRr_P8]]) arrived only years later.
+  > ⚠️ METADATA NOTE: some ledger/aggregator titles render "My Marketing Plans for **2023**," but the
+  > transcript explicitly says **2020** ("in 2020, that is my goal") — the **2020** content date is
+  > authoritative; the "2023" is a title garble ([[2019-07-27-yt-jLHAu_wjG-w]]).
+
 ## The GEO/AEO era — a dated origin-to-2026 timeline (from the Marketing School podcast)
 
 Neil's "Search Everywhere Optimization" (2025) did not arrive fully formed. The
@@ -336,6 +366,7 @@ Consistent through-line: AI augments the marketer rather than fully replacing th
 ### @neilpatel solo-era (dated origin)
 - [[2018-03-15-yt-0AYG4XlP1uk]] — ★ 2018 AI-in-marketing forecast (IoT programmatic; privacy-law constraint) — belief-evolution vs 2025–26.
 - [[2018-11-20-yt-K7LmWEPII7g]] — ★ "AI won't matter on landing pages, VR will" (2018) — now-falsified belief-evolution datapoint.
+- [[2019-07-27-yt-jLHAu_wjG-w]] — ★ 2020 vision: "automate SEO with ML/AI" (JS snippet edits tags, reads Search Console, auto-outreach) — the datable seed of the AI-marketing arc (title garble: "2023" ≠ transcript "2020").
 
 ### Marketing School podcast (co-hosted; Neil-attributed) — the GEO/AEO evolution
 - [[2023-11-27-yt-EUVspvV6_UQ]] — Will SEO go extinct: "SEO evolves, doesn't die" (GEO seed).

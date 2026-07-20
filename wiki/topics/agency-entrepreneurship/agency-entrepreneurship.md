@@ -524,6 +524,12 @@ hiring/culture, and fundraising. Dated seeds; several carry an explicit through-
 - [[2018-07-14-yt-x1a0XRXyeVA]] — Intrapreneurship / apprentice-first ("wouldn't start a business young again").
 - [[2018-07-21-yt-pWtfTZ1i6yU]] — Culture doctrine (culture #1; money isn't the top motivator; dissent ≠ disloyalty).
 
+### 2019 solo-era operating principles (@neilpatel P2)
+- [[2019-05-23-yt-YymWhauqjoA]] — ★ Start-an-agency cold-outreach playbook (Crunchbase VC-funded → line-item teardown → blunt CEO email → "1–2 clients per 5 emails").
+- [[2019-07-08-yt-LMAPoKW1CUY]] — ★ Selling-services 5-lever framework; "I hate offering discounts" premium reverse-anchoring.
+- [[2019-07-29-yt-XPp9YaQm3WE]] — ★ Disruption doctrine quantified (Ubersuggest ~$200k/mo loss → brand queries; Slack/Mailchimp/Apple).
+- [[2019-07-27-yt-jLHAu_wjG-w]] — Disrupt-not-for-money framing (companion to the disruption doctrine; 2020 automate-SEO vision → ai-marketing/seo).
+
 ## 2018-H2 → 2019 solo-era operating principles (@neilpatel P2)
 
 The late-2018/2019 run adds the **clearest early statement of the free-product-as-acquisition thesis**
@@ -564,3 +570,56 @@ and leverage-acquisition doctrine. All figures self-reported.
 - **Never rely on a single traffic source (2018-09-01).** A diversification discipline framed as
   business-risk: build **SEO + ads + email + push** before an algorithm turns, and chase the **unsexy,
   underrated channels** early ([[2018-09-01-yt-NNCz339pxDo]]). Cross-link: [[wiki/topics/social-media|social-media]].
+
+## 2019 solo-era operating principles (@neilpatel P2)
+
+The mid-2019 run adds the **most concrete agency-origin how-to in the corpus** (a cold-outreach playbook
+for landing your first clients), a **services-selling framework**, and the **quantified** version of the
+free-product disruption thesis (the $200k/mo Ubersuggest loss). All figures self-reported.
+
+- **Start-a-digital-marketing-agency cold-outreach playbook — the origin how-to (2019-05-23, ★).** Neil's
+  most concrete "how I'd start an agency today" method, no course or paid service required: (1) **find
+  companies you can help via Crunchbase, targeting venture-funded companies** — "if someone raised a lot of
+  money… they got to spend it," including on marketing help; (2) go through each target's site and write a
+  **detailed, line-item teardown** of what they do wrong and how to fix it; (3) **cut any prospect you can't
+  give "pages and pages of feedback"** — depth is the differentiator ("they want the meat, they want the
+  guts"); (4) **email the CEO/founder/head of marketing** the teardown, be **blunt** ("sorry to be blunt, I
+  just want to help you grow"), and offer to help implement; (5) **relentless follow-up** (email, text,
+  call). He claims **"if you send out five of those emails, you'll get one to two customers like
+  clockwork"** (self-reported); if it doesn't hit, you're emailing companies that **haven't raised at least
+  $1–2M** — "you're wasting your time" ([[2019-05-23-yt-YymWhauqjoA]]). A plain, graphic-free teardown works
+  because it earns trust and VC-backed founders move fast. This is the buyer-facing complement to the
+  **7-point agency-hiring vetting checklist** (2018-12-27) above and the concrete first-clients method
+  behind his broader acquisition doctrine.
+- **Selling-services 5-lever framework + premium/reverse-anchoring (2019-07-08, ★).** How Neil says to sell
+  intangible services (harder than a tangible object): **(1) benefits** — spell out plainly why to buy (NP
+  Digital drives more traffic and sales); **(2) specific outcomes** — get into the nitty-gritty numbers (5×
+  traffic, conversion rate per visitor, revenue, profit margin) because "when you get very specific… it's
+  easier to make the close"; **(3) value** — businesses buy services mainly because they're **understaffed
+  and time-poor and can't hire good talent**, so a consultant who saves time and makes money is high value;
+  **(4) anchoring** — itemize everything the client gets with you that rivals don't; **(5) pricing**
+  ([[2019-07-08-yt-LMAPoKW1CUY]]). Premium-positioning belief (self-reported): **"I hate offering
+  discounts"** — rather than match or undercut competitors, he **reverse-anchors** by pricing NP Digital
+  *above* rivals and justifying it with superior results: **"if you want good stuff you got to pay a premium
+  dollar."** Cross-link: [[wiki/topics/analytics-cro|analytics-cro]].
+- **Disruption doctrine, quantified — the $200k/mo through-line (2019-07-29, 2019-07-27, ★).** The
+  **quantified extension** of the free-product-as-acquisition thesis (2018-10-02, above): to win the most
+  competitive industry, **disrupt rather than copy**. His own worked example — everyone else sold paid SEO
+  tools, so he **gave Ubersuggest away for free, losing ~$200,000+ a month** (self-reported; "I lose
+  hundreds of thousands of dollars a month on this") to capture eyeballs even with a less feature-complete
+  product ([[2019-07-29-yt-XPp9YaQm3WE]]). His four disruption rules: **you don't need a lot of money to
+  disrupt**; **research customers** (surveys to learn what incumbents lack — Slack cited beating Skype via a
+  better product, ~20–25% of free users upgrading per Mary Meeker); **go all in** (press, volume, ignore
+  haters); **execute super fast** before well-funded competitors crush you. The stated payoff is **brand
+  queries** — people searching your name directly (Mailchimp, Apple cited). Positioning corollary: **"do the
+  opposite / don't copy"** — "you don't build a better search engine than Google… by copying them… You do
+  the opposite" (Slack over Skype), the mid-2019 sibling of the 2017-10-14 "don't copy your competitors"
+  triad. He frames the free giveaway as mission not money — "**I didn't decide to disrupt the SEO industry
+  to make money**… there just hasn't been much innovation" ([[2019-07-27-yt-jLHAu_wjG-w]]).
+  > Through-line (dated, not smoothed): the 2018-10-02 statement established free-product-as-acquisition
+  > qualitatively (~$150k/mo to run Ubersuggest vs ~$600k/mo to buy the traffic); this mid-2019 pair puts a
+  > **~$200k/mo loss** figure on the *disruption* framing and names the reward (**brand queries**). It is the
+  > datable spine running to the 2026 Marketing School **"FREE is the real lever"** thesis
+  > ([[2026-07-17-yt-L03nbcDp8v8]], *Client acquisition* above). Date-stamp each; present as points on one
+  > evolving line, not one stance. (The 2020-goal "automate SEO with ML/AI" vision from the same 2019-07-27
+  > video lives in [[wiki/topics/ai-marketing|ai-marketing]] / [[wiki/topics/seo|seo]].)

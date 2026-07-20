@@ -262,6 +262,67 @@ database and revenue.**
   runs, then the **Wayback Machine** to read what page variants they kept — i.e. their *winning* tests —
   and Product Hunt to find new tools ([[2019-01-17-yt-qQqRKOYBeOU]]).
 
+## 2019 solo-era CRO cluster (@neilpatel P2)
+
+More concrete 2019 primitives from Neil's solo run. All 2019-dated; figures self-reported.
+
+- **Quizzes are the #1 lead-conversion hack (2019-08-31, ★).** Neil's single highest-leverage
+  lead lever: replace plain lead forms with a **quiz** — his own (neilpatel.com/quiz) **lifted
+  his leads +280%** vs. lead forms (self-reported). Build it with **LeadQuizzes / Bucket.io /
+  Interact**, not custom code. Quiz-design doctrine: (1) **deliver real end-value** — a
+  report/asset that fixes the taker's problem, or they feel cheated; (2) questions **double as
+  lead qualification** (his quiz asks whether they use Google Analytics / run paid ads, to gauge
+  how established the prospect is); (3) send a **custom asset tailored to their answers**;
+  (4) **never call it a "survey"** — completion drops sharply; (5) keep it to **~7–13 questions**
+  (he aims 7–10) with 1–4 options each — too few floods you with unqualified leads, too many kills
+  completion ([[2019-08-31-yt-DgfmNF2yVS8]]). Sharper, quantified successor to the engage-first
+  quizzes lever above (Nutrition Secrets +108%). Cross-link: [[wiki/topics/email-marketing|email-marketing]].
+  > "This has helped me increase my leads by 280%. It's that much more effective than lead forms."
+
+- **Load-time → conversion, a hard datum (2019-08-19).** A **Crazy Egg** finding: **every
+  1-second improvement in load time raised conversions ~6%** (their own data, self-reported) —
+  critical on mobile where reception varies. From a "7 landing-page flaws" list that also restates
+  message-match (copy AND images must match the ad/source), traffic-source-specific pages (Google
+  intent vs. Facebook browsing), and fewer form fields + social login ([[2019-08-19-yt-U5t2IQv6kJQ]]).
+  > "Every second we improved in load time, our conversions went up 6 percent."
+
+- **Survey → A/B-test → re-survey loop (2019-04-25).** Neil's fix for an e-commerce product that
+  won't sell, built on **"opinions don't matter — only surveyed customer feedback / patterns do."**
+  Step 1: **survey** (Hotjar / SurveyMonkey) — ask non-buyers "why didn't you buy?", gather **30–50
+  responses over 4–7 days**, act on **patterns** not one-off complaints. Step 2: **A/B-test the fix**
+  (Crazy Egg, no-code) because a change can fail to lift — or hurt — sales. Step 3: **re-survey** to
+  find the next round; iterate. Also **survey the checkout flow** (trigger at ~40–60s idle), where
+  stores see **70–90% drop-off** ([[2019-04-25-yt-oqx7IjS6SOg]]). The 2019 dated form of the "data
+  over guesswork" starter sequence (2017-06-22) above — now closing the loop with a re-survey.
+  > "Opinions don't matter. All that matters is what your potential customers are telling you."
+
+- **Raise-price-to-raise-sales — the perceived-value counterpoint (2019-05-18).** Price signals
+  quality: his **Diamond Foundry** case (lab-grown diamonds identical to mined) sold **poorly when
+  cheap** because buyers read "too cheap" as fake, and **raising prices GREW sales** with no product
+  change. Levers: **know fully-loaded costs** and price above them; **anchor with tiers** ($37 vs.
+  $47 so most pick the higher option); and **A/B-test price for total profit, not volume** —
+  "sometimes getting less sales means more profit" ([[2019-05-18-yt-0NGQLgrHRe4]]).
+  > "There's no difference in the product, but people had the perceived value."
+  > ⚠️ CONTRADICTION / NUANCE (pricing tension): this "cheap reads as low-quality → raise price"
+  > finding sits in direct tension with the **undercut-to-grow pricing** line above (2018-10-13,
+  > [[2018-10-13-yt-TLTL8mzkVLE]] — a slightly-worse, much-cheaper substitute wins). Both are
+  > **context-dependent** and Neil holds them simultaneously: undercutting works for **commodity /
+  > price-elastic** goods where cheaper = more sales, while raising price wins for **premium /
+  > perceived-value / luxury** goods where cheap signals fake — the same luxury-goods exception the
+  > 2018-10-13 clip already carves out. The reconciling knob both clips share: **A/B-test price for
+  > total profit, not conversion %.** Date-stamped; neither is a universal rule.
+
+- **Anti-discounting hard datum — "never discount in B2B" (2019-03-30).** Discounting (especially
+  **B2B/enterprise**) destroys businesses; big-retailer playbooks (Amazon, Macy's, Nordstrom) don't
+  transfer. The hard datum: discounted signups at **one of his companies churned 29% faster** while
+  paying less and generating more support load, so they stopped discounting entirely (self-reported,
+  company unnamed). Discounts set a bad precedent (buyers demand more scope), resent full-price
+  customers, and **devalue the offer**; go **upstream (premium)** and **optimize LTV** — upsells /
+  downsells / adjacent products — over short-term income ([[2019-03-30-yt-zLz3JSvNUMM]]). Reinforces
+  the LTV-over-day-one-profit model above; kin of the premium side of the pricing tension.
+  > "The people who signed up not only grumbled more, caused more support issues, but they churned 29% faster."
+  > "Optimize for your lifetime value of your customer."
+
 ## Key source pages
 - [[2018-10-16-yt-AbcoFUHcs9M]] — ★ LTV/ad-spend model (7/8/9-figure "$1 in / $2 back" rule; Mixpanel).
 - [[2018-11-17-yt-av9WfdR4cVk]] — CRO beats acquisition (convert better → outbid on ad spend).
@@ -297,3 +358,8 @@ database and revenue.**
 - [[2017-11-14-yt-WgWJiOqT6Oo]] — Content-marketing ROI measurement (GA + goals; patience).
 - [[2017-11-16-yt-if69s7576SY]] — Social metrics (growth rate not total; engagement %).
 - [[2017-11-17-yt-PKjzTgAPYx0]] — ★ PPC ROI: platforms over-report; validate against your own revenue.
+- [[2019-08-31-yt-DgfmNF2yVS8]] — ★ Quizzes = #1 lead-conversion hack (+280% vs lead forms; design doctrine; never say "survey").
+- [[2019-08-19-yt-U5t2IQv6kJQ]] — Load-time → conversion (Crazy Egg: +1s faster ≈ +6% conversions); 7 landing-page flaws.
+- [[2019-04-25-yt-oqx7IjS6SOg]] — Survey → A/B-test → re-survey loop ("opinions don't matter"; checkout 70–90% drop-off).
+- [[2019-05-18-yt-0NGQLgrHRe4]] — Raise-price-to-raise-sales (Diamond Foundry; anchoring; A/B-test price for profit) ⚠️ vs undercut-to-grow.
+- [[2019-03-30-yt-zLz3JSvNUMM]] — Anti-discounting hard datum (discounted signups churned 29% faster; never discount B2B; optimize LTV).

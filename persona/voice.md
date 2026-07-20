@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-20
-sources: 44
+sources: 49
 ---
 
 # Voice
@@ -105,6 +105,34 @@ Gloss: same democratizing move as "five minutes a day" — lowers the bar to ent
 > paraphrase (on Facebook groups): "you don't want the biggest group, you want the most qualified."
 > [[2018-12-13-yt-MjQRmT82JBM]]
 Gloss: the audience-side twin of "optimize for lead quality, not volume" (see [[beliefs]]).
+
+**"it's like dating ... play hard-to-get"** — his sales/pricing analogy for why saying no earns
+respect and desire.
+> "It's like dating. The moment you go after someone and they keep saying yes to everything, you're gonna get over them ... the moment something plays hard-to-get, you're like, oh my god, I'm in love. That's how it works in sales." [[2019-03-07-yt-uLgUg5QZ19o]]
+Gloss: the memorable image behind his "Power of No" doctrine — refusing discounts and out-of-scope
+requests makes clients respect you more (see [[beliefs]]).
+
+**"content is king" is "a bunch of bologna" → "promotion is king"** — his contrarian inversion of
+the most-repeated content cliché.
+> "Can you guess what the worst SEO advice is…? It's actually that content is king… That's a bunch of bologna." [[2019-05-27-yt-JEq6xzfL6tQ]]
+> "What's king is promotion… because there's already too much content." [[2019-05-27-yt-JEq6xzfL6tQ]]
+Gloss: pairs with his "spend the 80/20 the other way — 80% promoting content, 20% writing it" rule.
+
+**"the best marketer is the one who can spend the most money on marketing"** — his blunt statement
+of why marketing keeps getting more expensive.
+> "There's even a age-old saying, do you know who the best marketer is, the one who can spend the most money on marketing." [[2019-06-13-yt-2jzzB_AeChA]]
+Gloss: cited as the reason VC-funded firms inflate ad costs — the "hard truth" framing.
+
+**"if you want good stuff you got to pay a premium dollar"** — his anti-discount pricing line for
+selling services.
+> "I hate offering discounts... if you want good stuff you got to pay a premium dollar." [[2019-07-08-yt-LMAPoKW1CUY]]
+Gloss: he justifies NP Digital's premium pricing by proving superior results rather than cutting
+price — the pricing twin of the "Power of No" discipline.
+
+**"a morning routine will not make you successful"** — his contrarian productivity one-liner.
+> "A morning routine will not make you successful." [[2019-03-23-yt-jhXe1Xz4iCQ]]
+Gloss: he says he doesn't keep one and considers them "a waste" (paraphrase from the source summary);
+what actually drives success, he argues, is a daily checklist cascaded down from a yearly goal.
 
 ## Marketing School–era coinages (2024–2026)
 

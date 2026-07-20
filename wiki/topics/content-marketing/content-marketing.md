@@ -174,7 +174,74 @@ New/durable content-ops primitives from the 2017 solo run (dated; period tactics
   **CTA** ("no CTA = no sales"), collect emails, and add a **MobileMonkey chatbot** (he cites ~70%+ CTR
   vs ~10% email) ([[2019-01-14-yt-i4CY-XD6agM]]).
 
+## 2019 mid-year content tactics (@neilpatel P2, synthesis pass 7)
+
+Genuinely-new 2019 specifics that sharpen the era's promotion-first / update-old / repurpose doctrine.
+
+- **Content-volume decision rule — let competitors' domain score set your cadence (2019-07-06, ★).**
+  Neil **self-reports** writing only **~4 posts/month himself** (~one a week) but insists **publishing
+  volume is not a personal preference — it's a function of competition**. His method: in **Ubersuggest**,
+  run each competitor's domain through the **top pages** report to compile a master list of ranking posts
+  (spotting overlap vs. unique gaps), then read their **domain score**, backlinks, and traffic. The rule:
+  competitor **domain score under ~40** → produce **high volume + build links** to outrank over time
+  (he says even 7/week or 20/day); **above ~65** → **skip volume and hunt content gaps** (high-traffic
+  topics rivals ignore). > "If your competition has a domain score generally under 40, that means if you
+  produce all the content that they have, over time you can quickly outrank them." > "What I want you to
+  do if your space is competitive is to write content that other people in your space aren't leveraging.
+  In other words, you're looking for content gaps." ([[2019-07-06-yt-EihqZWH6aT4]]). Reconciles the
+  "quality > quantity" line with his high-volume assembly-line era: **volume is competitor-relative**.
+- **Storytelling framework — core-message → story-type → CTA (2019-06-24).** A repeatable structure for
+  using story in marketing and personal branding: (1) **define your core message** so the story has a
+  point and doesn't ramble; (2) **choose a story type** — **incite action / tell people about yourself /
+  convey value / educate**; (3) **set a clear call to action** (Neil notes it needn't be a purchase —
+  "follow" or "join the email list" is enough). Three bonus ingredients: **characters** (so listeners see
+  themselves), **conflict** (the hook), **resolution**. Proof anecdote — the **Significant Objects
+  project**: a man bought **200 items for ~$129**, wrote a story around each, and sold them individually
+  on eBay for ~**$8,000** total. > "Do you want to know what the oldest marketing technique out there is?
+  It's storytelling." > "Without the conflict, there's not going to be that hook that gets people in there
+  waiting to figure out what's happening next." ([[2019-06-24-yt-7QDNVMVF7ss]]). A conversion-story
+  sibling to the About-page framework above.
+- **Rank-OLD-content operations doctrine — update >> publish (2019-08-15, ★).** A distinct **quantified
+  content-operations doctrine**: on neilpatel.com the team publishes **~1 new article/week but updates
+  90+ old/outdated articles/month**, which he credits for roughly **4 million visitors/month**
+  (**self-reported**). > "Even though I create one new article per week on neilpatel.com, my team and I,
+  we're updating over 90 articles per month that are old and outdated. That's what's driving us roughly
+  four million visitors a month." The refresh formula: find **traffic-dipping articles in Search Console**,
+  refresh + **expand** them (Ubersuggest long-tails/questions); lift **CTR on title/meta via ClickFlow**
+  (a higher CTR can outrank a higher position); **delete/301-redirect** stale posts (his **Vine** example)
+  to pass link equity; push **internal links** to old "gems"; **embed multimedia** to raise time-on-site;
+  and only **change the last-updated date after substantial edits** — > "Don't be sneaky... Google's not
+  going to like that." ([[2019-08-15-yt-GbbM9L5e5cU]]). The operational engine behind the
+  "update old content" lever noted in the 2019-02-16 entry above.
+- **"Content is king" = the worst SEO advice; promotion is king (2019-05-27, ★).** The **sharper
+  articulation** of the existing "blog less, promote more" datapoint: Neil names **"content is king"** the
+  worst SEO advice — > "That's a bunch of bologna." His proof — the NP blog runs **only ~1 text post/week**
+  yet does ~**2M unique visitors/month** (~4M visits, ~6M page views, **self-reported**). > "I only create
+  one text based article per week, that's it." Because content is saturated ("one blog for every seven
+  people"), **invert the 80/20 → 80% promotion, 20% writing**, and deliberately fish in
+  **less-competitive channels**: free tools (**Ubersuggest**), marketing **video** (his channel), and the
+  **Marketing School** podcast. Verdict: > "What's king is promotion... because there's already too much
+  content." ([[2019-05-27-yt-JEq6xzfL6tQ]]). Same doctrine as the 2018-10-30 "blog less" line, stated as
+  a principle rather than an anecdote.
+- **Repurposing / micro-content playbook — barely create net-new for social (2019-06-15).** The tactical
+  build-out of "repurpose relentlessly": > "I barely create new content for social media... in most cases
+  I repurpose it. That's how you become more efficient, and you get the biggest bang for your marketing
+  bucks." Five moves: (1) **cross-share every new post** across Twitter/Facebook/LinkedIn/Instagram
+  (incl. an Instagram Story with swipe-up); (2) **re-post the full article text natively** on
+  Facebook/LinkedIn **~a week later** to re-harvest engagement; (3) cut posts into **quote-images** — pay
+  a **Fiverr** freelancer ~**$5–$10 to turn ~50 quotes into images** ("everyone loves image-based
+  quotes"); (4) shoot **phone video** from the post (all platforms favor video over text); (5) **repost
+  proven content ≥ 1×/year** (he's gone quarterly) — > "Some social sites like Twitter, that works. Other
+  social sites like Facebook hate that." ([[2019-06-15-yt-e5mE_C3Jikw]]). Cross-link:
+  [[wiki/topics/social-media|social-media]]. The 2019 ancestor of his 2025 "test-on-X-then-repost"
+  repurposing engine.
+
 ## Key source pages
+- [[2019-07-06-yt-EihqZWH6aT4]] — ★ Content-volume decision rule (writes ~4/mo; domain score <40 vs >65 → volume vs content gaps).
+- [[2019-06-24-yt-7QDNVMVF7ss]] — Storytelling framework (core message → story type → CTA; Significant Objects $129→$8k).
+- [[2019-08-15-yt-GbbM9L5e5cU]] — ★ Rank-old-content doctrine (~1 new/wk but 90+ updates/mo → ~4M visits/mo).
+- [[2019-05-27-yt-JEq6xzfL6tQ]] — ★ "Content is king = worst SEO advice"; promotion is king (~1 post/wk, ~2M uniques/mo).
+- [[2019-06-15-yt-e5mE_C3Jikw]] — Repurposing / micro-content playbook (Fiverr quote-images; repost ≥1×/yr).
 - [[2018-10-30-yt-ey1GbXO-Y7M]] — ★ "Blog less, promote more" (7×→1×/wk; 800K→1.6M/mo; 80/20 promote).
 - [[2018-11-06-yt-iwdtj5I-HYg]] — Advanced content session (quantity + rewrite winners; tools>content).
 - [[2019-01-14-yt-i4CY-XD6agM]] — Blogging still works in 2019 (quality>quantity; CTAs; MobileMonkey).

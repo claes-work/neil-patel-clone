@@ -354,6 +354,38 @@ self-reported; date-flag before reuse.
   uses IG mainly to connect with his team, and warns against chasing "Insta-famous" over relationships
   ([[2018-12-08-yt-dDDpdAnb_Es]]).
 
+## 2019 channel-ROI realism + the rule of seven (@neilpatel)
+
+- **Channel-ROI realism: Instagram's real job, and where big-influencer buys lose money
+  (2019-08-01).** Neil sets expectations for Instagram by buyer type. For **B2B**, "In B2B if
+  you're expecting to generate a lot of business from it, don't." — its value is **indirect
+  brand awareness**, best captured by publishing content peers follow rather than pitching
+  products. For **B2C**, single big-influencer buys usually **lose money**: he cites a
+  self-reported / secondhand case of paying **Kris Jenner ~$85,000 for a post** that
+  "generated less than $85,000 dollars in sales... still, they lost money" (figure
+  self-reported). What works instead is a **micro-influencer splash** — "You need a lot of
+  micro influencers at once and create that big splash for it to work," concentrated into a
+  **2–3-day window** (spreading over ~6 months fails). Overall he rates **Instagram less
+  effective than Facebook, LinkedIn, or YouTube** for direct conversion because it's hard to
+  link out; he keeps using it mainly as a **personal social network** — "I really use Instagram so I
+  can see what my family's up to" (2019-08-01) [[2019-08-01-yt-Y11g2oVqKFs]]. Sharpens the 2018-12-08 "Instagram is weak
+  for B2B acquisition" note [[2018-12-08-yt-dDDpdAnb_Es]] and the 2017 relevance-over-reach
+  influencer rule [[2017-07-31-yt-DhOrRQmQ-Z8]] with an explicit micro-vs-celebrity mechanic —
+  and prefigures the 2026 TikTok-Shop "a few strong creators beats one expensive celebrity"
+  finding [[2026-07-15-yt-1Xq8ulHYKI4]].
+- **The rule of seven → go omnichannel, and re-share (2019-05-25).** "The rule is, the rule of
+  seven. It's the rule that you cannot break" — "People need to see your brand roughly seven
+  times... before they end up converting into a customer." Two shifts make it binding:
+  **single-channel growth is dead** ("You can no longer grow through one channel," citing
+  Facebook's invite emails and Dropbox's Twitter shares as bygone one-channel wins), so
+  engineer the seven touches across an **omnichannel** mix (social interaction, SEO/content,
+  paid ads). And because "the algorithms are so restrictive, it's very rare that even ten,
+  twenty percent of your audience is going to see whatever you post," you should **update your
+  content and re-share the same piece 3–5× a year** (2019-05-25) [[2019-05-25-yt-3lZoSQkl3_0]].
+  The omnichannel + re-share cadence is the demand-side rationale under his later repurposing
+  engine [[2025-04-01-yt-E6ZSIZ89Ekg]] and the ~10–20%-reach reality behind the first-hour
+  engagement lever [[2018-12-29-yt-TnQt_-uwR7g]].
+
 ## Key source pages
 - [[2018-10-04-yt-5dyn03RSWVA]] — Post to Facebook natively (schedulers cut reach 2–3×); monthly reporting.
 - [[2018-12-08-yt-dDDpdAnb_Es]] — Instagram weak for B2B; pick channels that fit; don't chase Insta-famous.
@@ -367,6 +399,8 @@ self-reported; date-flag before reuse.
 - [[2018-05-31-yt-NDdH2OBaLxs]] — Master one platform then repurpose (business over influencer).
 - [[2018-04-17-yt-KIXvMNrKO9g]] — Five no-product monetization models; personal-brand-for-equity.
 
+- [[2019-08-01-yt-Y11g2oVqKFs]] — Is Instagram Marketing Worth It? (B2B awareness-only; micro-splash > celebrity buy; Kris Jenner $85k)
+- [[2019-05-25-yt-3lZoSQkl3_0]] — The Rule of Seven (~7 touches; single-channel dead → omnichannel; re-share 3–5×/yr)
 - [[2019-09-28-yt-8KvyKt1c9ao]] — Personal Branding: Zero to Hero (6-step framework; LinkedIn revenue datapoint)
 - [[2025-05-23-yt-zBlvV0W4bDc]] — Best LinkedIn Growth Strategy for 2025 (starving-for-content, reverse Dream 100, see-more)
 - [[2022-03-31-yt-NT9pucaSoXw]] — Instagram 0→300k (partnership evolution, Reels)

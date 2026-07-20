@@ -3173,3 +3173,47 @@ owns Bing + LinkedIn + early FB investor) — the corpus's first dedicated Bing-
 short seo/ sub-page + a persona nuance ("social shares help Bing, not Google directly").
 (5) CONTRADICTION to carry — nzYTy4ZXr74 MobileMonkey/Messenger boosterism (date-stamp as a 2019 position Neil
 later abandons) and the tactical-vs-strategic tension in TaK0ss9IEF4 (reconcile in beliefs/voice, don't hide).
+
+## [2026-07-20] lint | synthesis pass 7 — @neilpatel 2019-02→2019-09 P2 solo tactical era (batches #58–#67)
+
+Ran the Stage S synthesis checkpoint (its 7th pass). Drained the **10 accumulated `Synthesis notes:` lines**
+(log cont. 37–46, @neilpatel 2019-02-18 → 2019-09-14 solo run) into the 8 `wiki/topics/` hubs + `persona/`,
+taking the corpus high-water mark to **533 L2 sources, ingest batches #1–#67**. Fully Neil-attributed (solo
+era, no gating). Quality-over-volume — pure repeats of the 2017–2019 canon dropped (they stay L2 as source
+pages). One agent per target file (concurrency rule).
+
+**Topic promotions** (new dated 2019 sections, ★ = high-value): **seo** — **Three Unseen Laws of SEO**
+(brand-queries + user-metrics + adapt-to-tech) ★; **user-first/search-intent** ranking + the Ahrefs
+free-backlink-tool case; the **no-link-building triad** (land-and-expand / content-clusters / content-gaps) ★;
+**Bing-vs-Google** first dedicated contrast (social signals a DIRECT Bing factor). **content-marketing** —
+**content-volume-by-Ubersuggest-domain-score** heuristic ★; **storytelling framework** (core-message →
+story-type → CTA + Significant Objects); **rank-OLD-content** ops doctrine (90+ updates/mo → ~4M visits);
+"content is king = worst advice / promotion is king" sharper articulation; repurposing micro-content playbook.
+**agency-entrepreneurship** — **agency cold-outreach playbook** (Crunchbase → teardown → CEO cold email; "1–2
+clients per 5 emails"; only if raised ≥$1–2M) ★; **selling-services 5-lever framework** ★ + premium/anti-
+discount; **disruption doctrine quantified** (free Ubersuggest self-reported ~$200k/mo loss to win brand
+queries — through-line to 2026 "FREE is the lever"). **paid-ads** — **funnel-hacking doctrine** (a copied
+funnel ≠ results); "the secret is the funnel not the ad" + LTV levers. **analytics-cro** — **quizzes +280%
+leads** ★; **load-time → +6% conversions/sec** (Crazy Egg); **survey→A/B→re-survey** loop; **raise-price-to-
+raise-sales** (Diamond Foundry) ⚠️ vs undercut-pricing; anti-discount **29%-faster-churn** datum.
+**social-media** — channel-ROI realism (IG indirect for B2B; big-influencer buys lose money — Kris Jenner
+~$85k → <$85k); rule-of-7 omnichannel + re-share cadence. **email-marketing** — ecommerce email tactics;
+**MobileMonkey/Messenger** 2019 boosterism ⚠️ date-stamped as later-reversed. **ai-marketing** — **2020
+"automate SEO with AI/ML" JS-snippet vision** ★ (the datable origin of the 2025–26 AEO arc).
+
+**Persona:** **beliefs** 56→63 (7 Rules of Money wealth philosophy; Power of No / premium-over-discounts;
+no-morning-routine; Three Unseen Laws of Entrepreneurship; put-the-user-first; career-sequencing ⚠️ flagged).
+**voice** 44→49 ("content is king is a bunch of bologna → promotion is king", "the best marketer is the one
+who can spend the most money on marketing", "if you want good stuff you got to pay a premium dollar", "a
+morning routine will not make you successful", "it's like dating — play hard-to-get"). **biography** 39→44
+(fuller lost-$1M-before-21 cloud venture; KISSmetrics $17M / copycat-$100M post-mortem; "did the marketing for
+TechCrunch" ⚠️; pre-Ubersuggest sub-$100 CodeCanyon script; doesn't-read-many-books). Recompiled
+**system-prompt.md v6 → v7** (compiled_from_sources 453 → 533).
+
+**⚠️ Two flagged items CARRIED, not smoothed**: (1) **career-sequencing** "work for others ~9 years first"
+(2019) vs Neil's own teen-founder path — kept as dated retrospective advice, not biography; (2) **raise-price-
+to-raise-sales** (Diamond Foundry) vs **undercut-to-grow** pricing — both context-dependent, dated. Advanced
+the high-water mark in `pipeline/synthesis-state.md`; no new topic pages created (index.md source count already
+current from the ingest batches). No pending checkpoints remain (caught up through batch #67).
+
+Synthesis notes: none (this IS the synthesis pass; debt drained to 0 through batch #67).

@@ -114,13 +114,65 @@ inbox at all, and mining an overlooked owned surface.
   within the first hour** to spike early traffic/engagement that the platforms then amplify — Hello Bar
   for the email capture, Subscribers for push ([[2019-01-19-yt-QJUIk3qhQ-w]], [[2019-02-14-yt-gCJgHbjXWec]]).
   The email/push side of the "first-hour engagement" doctrine in [[wiki/topics/social-media|social-media]].
-- **Messenger chatbots out-open email — a dated 2019 channel claim (2019-02-14, 2019-01-14, ⚠️).** Neil
-  reports **Facebook-Messenger chatbots (ManyChat / MobileMonkey) hitting ~60%+ open and ~30–50% CTR** —
-  far above his **~10% email** benchmark — and treats them as an email-adjacent capture channel
-  ([[2019-02-14-yt-gCJgHbjXWec]], [[2019-01-14-yt-i4CY-XD6agM]]).
-  > ⚠️ Date-bound: those 2019 open/CTR figures reflect an early, lightly-policed Messenger era; Meta
-  > later restricted promotional Messenger messaging, so the channel and its numbers are **not current** —
-  > record as a 2019 datapoint, not present-day advice.
+- **Messenger chatbots out-open email — a dated 2019 channel claim (2019-02-14, 2019-01-14, 2019-08-29, ⚠️).**
+  Across three separate 2019 videos Neil reports **Facebook-Messenger chatbots (ManyChat / MobileMonkey)
+  hitting ~60%+ open and ~30–50% CTR** — far above his **~10% email** benchmark — and treats them as an
+  email-adjacent capture channel. In 2019-08-29 he explicitly ranks **MobileMonkey as a top channel** for
+  bringing visitors back, calling it "free for now" and warning that "Facebook will eventually charge"
+  and that Messenger was, "for now," even beating push notifications
+  ([[2019-02-14-yt-gCJgHbjXWec]], [[2019-01-14-yt-i4CY-XD6agM]], [[2019-08-29-yt-nzYTy4ZXr74]]).
+  > ⚠️ CONTRADICTION (evolving position, date-stamped): In **2019** (Jan/Feb/Aug) Neil actively promoted
+  > **MobileMonkey / Facebook-Messenger chatbot marketing as a top channel** that beats email on open/CTR.
+  > In **later (2020+) content he reverses hard**, pivoting away from Messenger bots after Meta restricted
+  > promotional Messenger messaging — his own 2019 "free for now / FB will eventually charge" hedge
+  > foreshadowing the reversal. Those 2019 open/CTR figures reflect an early, lightly-policed Messenger
+  > era and are **not current** — record as a 2019 datapoint, NOT present-day advice.
+
+## 2019 e-commerce email playbook (@neilpatel P2)
+
+A pair of 2019 videos give Patel's most explicit e-commerce-specific email framework — the
+stated goal is to **lift e-commerce sales ~10% with email**, on the logic that most visitors
+won't buy on the first visit and email beats remarketing for winning non-buyers back
+(2019-06-29). He anchors it on **Overstock getting the majority of its sales from email**
+(2019-09-09).
+
+- **List scrubbing is provider-dependent (2019-09-09).** Emailing only openers (scrubbing
+  non-openers) raises deliverability, inbox placement, opens, clicks, and sales — but the tool
+  matters: **ConvertKit auto-scrubs, while Mailchimp resists it** because scrubbing lowers *their*
+  revenue. A concrete, vendor-specific sharpening of the generic monthly-scrub hygiene rule above
+  ([[2019-09-09-yt-DjJDO0QNxpE]]).
+  > "Some email providers like Mailchimp, they may eventually end up changing it, they don't like it when people scrub their list 'cause it makes their revenue go down." [[2019-09-09-yt-DjJDO0QNxpE]]
+- **Trigger emails name the exact abandoned products (2019-09-09).** Abandoned-cart emails must
+  reference the *specific* products left behind (plus reviews/testimonials), never a generic "check
+  out our store" pitch — a content spec that complements the 4h→16h→2day cadence timing above
+  ([[2019-09-09-yt-DjJDO0QNxpE]]).
+- **Time-based: send at the subscriber's own opt-in time (2019-09-09).** Send at the same time of
+  day the person first opted in (usually within an hour of opt-in), because unopened inbox backlog
+  piles up and gets ignored — a per-subscriber timing rule distinct from the Monday/Friday/Sunday
+  crowd-avoidance heuristic above ([[2019-09-09-yt-DjJDO0QNxpE]]).
+- **Promotional seasons drive 25–30% of yearly sales (2019-09-09).** Pre-write Black Friday / Cyber
+  Monday / holiday campaigns in advance; peak seasons can drive **25–30% of yearly e-commerce sales**
+  ([[2019-09-09-yt-DjJDO0QNxpE]]).
+- **Text-based emails beat image-heavy ones (2019-09-09).** Image-heavy e-commerce emails get filed
+  under the Gmail/Outlook **Promotions tab**; a short text-based email "reads as a friend." Note this
+  is a firmer stance than the later 2021 "image-rich or text-rich both work" line — a mild drift worth
+  dating ([[2019-09-09-yt-DjJDO0QNxpE]]).
+  > "Most e-commerce companies love using image-based emails... they get pushed in the promotions tab... when someone sends you a text-based email it's typically a friend." [[2019-09-09-yt-DjJDO0QNxpE]]
+- **Incentivized collection + relevance/segmentation (2019-06-29).** Collect emails with an incentive
+  (**a $10 coupon, free shipping**) via Hello Bar; then **segment and match copy to intent** — email a
+  visitor who browsed toilet paper about the bathroom, not televisions, or the campaign underperforms
+  ([[2019-06-29-yt-_6e3WTYucP0]]).
+- **Partial checkouts to enable follow-up (2019-06-29).** Capture **name + email on the first checkout
+  step** (credit card on a later page) so non-completers can be followed up — the capture mechanism
+  behind cart-abandonment recovery ([[2019-06-29-yt-_6e3WTYucP0]]).
+- **Segment buyers into their own list (2019-06-29).** After one purchase a second/third/fourth is far
+  easier, so bucket existing buyers separately and keep emailing upsells/downsells for extra revenue
+  with no added ad spend ([[2019-06-29-yt-_6e3WTYucP0]]).
+  > "The moment someone makes one purchase from you, it's so much easier to get them to make a second, or third, or fourth purchase from you." [[2019-06-29-yt-_6e3WTYucP0]]
+- **Browser-push blast alongside email (2019-06-29, 2019-09-09).** Use **Subscribers.com** to collect
+  browser-push subscribers (no email needed) and pull them back to finish checkout / send cart
+  reminders — push as a companion channel to the e-commerce email stack, not a replacement
+  ([[2019-06-29-yt-_6e3WTYucP0]], [[2019-09-09-yt-DjJDO0QNxpE]]).
 
 ## Key source pages
 - [[2019-01-19-yt-QJUIk3qhQ-w]] — First-hour email + push blast (Hello Bar + Subscribers) to spike virality.
