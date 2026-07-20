@@ -3217,3 +3217,50 @@ the high-water mark in `pipeline/synthesis-state.md`; no new topic pages created
 current from the ingest batches). No pending checkpoints remain (caught up through batch #67).
 
 Synthesis notes: none (this IS the synthesis pass; debt drained to 0 through batch #67).
+
+## [2026-07-20] ingest | yt batch (@MarketingSchoolPod, 8) — P1 fresh-upload + P2 co-hosted era (2026-07-20 AI-operators-dinner + 2023-11-08→11-15 daily episodes; attribution-gated Neil vs Eric Siu)
+
+Stage B ingest batch, 8 videos → L2, all @MarketingSchoolPod (co-hosted with Eric Siu; only
+Neil-attributed material trains the persona, Eric quarantined to a context section per page).
+Selection: the 1 fresh-upload **P1** (id 0Pg-dNUWaI8, 2026-07-20) first, then 7 oldest-first **P2**
+(2023-11-08→11-15). Captions: 8/8 ok, 0 no-captions, 0 marked, 0 duplicates. No rate-limiting.
+
+- **0Pg-dNUWaI8** (2026-07-20, P1) ★ — "AI Operators Dinner, Marketing Loops & GPT Sol 5.6 vs Fable 5":
+  Neil's durable signal — agency **AI-economics** (AI unlocks NEW previously-infeasible client work, NOT
+  margin savings; strict cheap-model discipline), **M&A/PE playbook** (key-man risk, high-margin=weak mgmt,
+  earnouts, minority-vs-majority chips-off-the-table, roll-up cross-sell), **cold-call/follow-up sales gospel**
+  (40+ calls/day, deals close on the 2nd–3rd try), and an **AI-slop pendulum** swinging back to humans by
+  mid-2026. Eric-quarantined: AI-operators-dinner recap, "marketing loops," GEO/Profound read, Single Grain
+  EU roll-up. Ephemeral 2026-Q3 model-news captured but flagged NOT-doctrine (GPT Sol 5.6 vs Claude Fable 5
+  [sic?], OpenAI raise, Anthropic–Blackstone JV, model pricing/routing).
+- **d-snm4sikcM** (Ep. 2597) — AI + Canva infographics: image quality fine, but design flow/transitions still
+  need a human; use AI for data/research, keep humans on design polish (for now).
+- **dCdocbEWg4Q** (Ep. 2599) — 7 business trends: staggered 8-hr shifts across time zones → ~24hr dev sprints;
+  founder-CEOs-are-back; culture-as-a-"50-day-moving-average"; downturns are the best time to deploy capital.
+- **skWi4RoPH1U** (Ep. 2600) — chief-of-staff role: Neil skeptical, hire-to-fill-gaps-not-a-"mini-me," fits a
+  day-to-day CEO (Eric) more than him.
+- **fh-TLW-zSH0** (Ep. 2601) — retest past winners: behavior/privacy shifts, so re-run winning tests; the
+  Kissmetrics "login with Google" ~90% lift that later tanked; founders drive the experimentation culture.
+- **igX1Kd5qSTE** (Ep. 2602) — "YouTube jail" rejected; reframed as EEAT-style authority/trust + topic
+  consistency + engagement quality; platforms clamp reach as they scale.
+- **vZZXyXnXiGE** (Ep. 2603) — spend slow/steady/profitable in ANY economy; can't crank $100/day→$1M/day;
+  "scale is what tends to break marketing."
+- **2rSp2bslHZc** (Ep. 2604) — Ahrefs pricing reaction: highly-profitable firms should leave money on the
+  table to protect brand; likely-Neil framing that SEO tools (Ahrefs/Semrush/Ubersuggest) are commoditized/
+  low-differentiation so hikes drive churn (attribution-uncertain, flag for corroboration).
+
+Bookkeeping: ledger 8 rows → L2; youtube-index.md +8 rows in date order (footer 533→541); index.md count
+533→541 + last-updated note. Ledger open long-form after batch: **@MarketingSchoolPod P1:0 P2:731**,
+**@neilpatel P2:685**. Synthesis debt: 1 batch since pass 7 (checkpoint at 10).
+
+Synthesis notes: genuinely new (for the next synthesis pass) — (1) **agency AI-economics thesis** ★ "AI lets us
+do NEW client work, not save money" + cheap-model discipline + don't-lock-into-long-term-LLM-contracts (2026);
+(2) **M&A/PE valuation playbook** ★ (key-man risk / high-margin=weak-mgmt / earnouts / minority-vs-majority
+chips-off-the-table / roll-up cross-sell) — extends the existing 2018→2026 M&A through-line; (3) **cold-call/
+follow-up sales gospel** (40+/day, close on 2nd–3rd try); (4) **Kissmetrics "login with Google" ~90%-lift-that-
+reversed** ★ concrete dated CRO datapoint supporting the retest-past-winners belief; (5) **YouTube ranking = Google
+EEAT** mapping; (6) **"scale is what breaks marketing"** coinage; (7) **staggered-time-zone-shifts / culture-as-
+50-day-moving-average** operating ideas; (8) bio — Neil **considered "Neil Patel II" for his son, decided against**
+(Michael-Jordan "living up to the name" reasoning); (9) ⚠️ attribution-uncertain **SEO-tools-are-commoditized/
+low-differentiation** admission re: his own Ubersuggest — corroborate before promoting. Ephemeral 2026 model-news
+deliberately NOT promotable (do-not-promote, matches the pass-2 ephemeral-news policy).
