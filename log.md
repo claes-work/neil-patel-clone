@@ -2965,3 +2965,36 @@ competitor Top-Pages → money-keyword (high-CPC/low-difficulty) → outreach wo
 traffic" prospecting recur across pymmd-3Hrvw / 2Wtjc1o2oI0 / QiyyJUnvmB0 — consistent with prior batches.
 Self-reported metrics (300k referral/mo, NeilPatel.com 3M+/mo, 1,254 IG followers/wk) recorded as claims, unaudited.
 Synthesis debt now 4/10.
+
+## [2026-07-20] ingest | yt batch (@neilpatel, 8) — P2 long-form (2019-05-11→05-27 solo tactical: passive-income myth / ranking-myth / marketing-plan / pricing / SEO-unlearn / start-agency / rule-of-7 / content-is-king era, cont. 41)
+
+Ingested 8 P2 @neilpatel long-form videos (all Neil-fronted solo, no attribution gating) to L2,
+2019-05-11→2019-05-27 (cont. of the 2019 solo-tactical era, batch #62). All had captions; 0 skipped,
+0 no-captions, 0 duplicates, 0 rate-limits/errors. Pages written: The Hard Truth About Passive Income
+(jCkUg7_LkAE); STOP Trying to Rank #1 For Keywords (cBP7NUS5FkI); My Marketing Plan Process — 6 Steps
+(qn_Po40ZI2E); Pricing Strategies for Maximum Profit (0NGQLgrHRe4); 8 Things About SEO to Unlearn in 2019
+(y9unxhm-yA0); How to Start a Digital Marketing Agency — First $10k/mo (YymWhauqjoA); The Only Rule In
+Marketing — Rule of Seven (3lZoSQkl3_0); The Worst SEO Advice Ever — "content is king" (JEq6xzfL6tQ).
+youtube-index footer 485 → 493; index.md count bumped. Caption garbles fixed on the pages: "Neil Patil"→
+Neil Patel, "Neil Patel Visual"→Neil Patel Digital, "ahref"→Ahrefs, "Uber Suggest"→Ubersuggest, "Crazyegg"→
+Crazy Egg. Heavy intra-batch + cross-era overlap noted: 05-12 (stop ranking #1) and 05-20 (8 unlearn #6)
+both re-tell the Ahrefs 49% / rich-snippets / SEO-agency-intent material and the Ahrefs backlink-checker case
+from 05-09 — cross-linked, not deduped (distinct videos).
+
+Synthesis notes: no wholly new frameworks; mostly high-signal RE-STATEMENTS + a few crisp persona nuggets for
+the next synthesis pass to consolidate. (1) **Start-a-digital-marketing-agency cold-outreach playbook
+(YymWhauqjoA)** is the strongest new persona/how-to nugget: Crunchbase VC-funded targets → detailed line-item
+website teardown → blunt cold email to the CEO/founder → "1–2 clients per 5 emails like clockwork" → only
+worth it if they raised ≥$1–2M → relentless follow-up (email/text/call). Concrete agency-origin method worth
+promoting. (2) **Rule of Seven (3lZoSQkl3_0)** — ~7 brand touches to convert; "single-channel growth is dead"
+→ omnichannel; content update + 3–5x/yr re-share (algo shows only ~10–20% of audience). (3) **"Content is king"
+= worst SEO advice / promotion-is-king (JEq6xzfL6tQ)**: NP blog 1 text post/wk yet ~2M uniques/mo (~4M visits,
+~6M pageviews, self-reported); invert 80/20 to 80% promotion; deliberately pick low-competition channels
+(free tools/Ubersuggest, videos, Marketing School podcast) — a clean articulation of his content-saturation
+thesis. (4) **Pricing (0NGQLgrHRe4)**: perceived-value / raise-price-to-raise-sales (Diamond Foundry case),
+anchoring tiers, A/B-test-price-for-profit (Crazy Egg), "optimize profit not volume." (5) **Passive-income
+debunk (jCkUg7_LkAE)**: real passive income comes from investing (real estate), not websites — reinforces the
+billion-blogs / ad-cost-inflation saturation narrative. (6) Recurring reinforcements: Ahrefs-49%-of-clicks,
+rich-snippets/ranking-zero, intent>volume ("SEO agency" not "SEO"), internal-linking, user-metrics/pogo-stick,
+Todd-Malicoat <20-links forex case, "removed dates from URLs → +100k search visitors/mo", one-channel laser
+focus + SurveyMonkey customer research. Synthesis debt now 5/10.
