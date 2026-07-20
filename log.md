@@ -2939,3 +2939,29 @@ consolidation, few newcomers survive); record as of-2019 predictions, not standi
 competitor/money-keyword workflow, Skyscraper Technique (Brian Dean), and repurpose-articles-into-videos
 plays recur across UEpNM5yvyh8 / NYIj66KP-Tk / h0FggHZhvtc — consistent with prior batches, no new framework.
 Synthesis debt now 3/10.
+
+## [2026-07-20] ingest | yt batch (@neilpatel, 8) — P2 long-form (2019-04-20→05-09 solo tactical: CRO / link-building / keyword-intent / Instagram / competitor-spy / FB-ads / user-first-SEO era, cont. 40)
+
+Ingested 8 P2 @neilpatel long-form videos (all Neil-fronted solo, no attribution gating) to L2,
+2019-04-20→2019-05-09 (cont. of the 2019 solo-tactical era, batch #61). All had captions; 0 skipped,
+0 no-captions, 0 duplicates, 0 rate-limits/errors. Pages written: 7 Online Marketing Mistakes
+(E5zf5xgOCyE); Do THIS if Your eCommerce Product Doesn't Sell (oqx7IjS6SOg); Why The Links You're
+Building Don't Bring You Traffic (pymmd-3Hrvw); A Simple Hack to Finding the Right Keywords (2Wtjc1o2oI0);
+How I Gain 1,254 Followers Per Week on Instagram (28lYwVjkTxM); Use These 7 Tools to Spy On Your
+Competitors (QiyyJUnvmB0); 6 Facebook Ads Tools and Strategies (Qt5aL_MBS7A); **Ranking #1 With a New
+Website on Google in 2019** (91W0sa9Qfg8 ★). youtube-index footer 477 → 485; index.md count bumped.
+Caption garbles fixed on the pages: "2919"→2019, "Uber suggested"→Ubersuggest, "essay on your online
+marketing"→SEO, "check our connectio.io"→check out.
+
+Synthesis notes: one ★ L3-candidate + reinforcement of recurring frameworks. (1) **User-first / search-intent
+SEO (91W0sa9Qfg8 ★)** is a crisp, quotable framing worth promoting: Google weighs user behavior
+(pogo-sticking / dwell-time) over on/off-page fundamentals, illustrated by the **Ahrefs free-backlink-tool
+case study** (matched searcher intent → #1 in weeks) — pairs with the earlier "user-first" threads and the
+CRO/survey philosophy. (2) New/expanded persona nuggets: the **"opinions don't matter, only surveyed customer
+feedback / patterns do"** stance (oqx7IjS6SOg) and the **survey→A/B-test→re-survey** CRO loop; the
+**emotional-vs-logical opposite-pitch retargeting** tactic (Qt5aL_MBS7A); the **Rule of 7 / brand-building**
+and "collect emails = micro-commitment" claims (E5zf5xgOCyE). (3) Recurring, no new framework: the Ubersuggest
+competitor Top-Pages → money-keyword (high-CPC/low-difficulty) → outreach workflow and "chase links that drive
+traffic" prospecting recur across pymmd-3Hrvw / 2Wtjc1o2oI0 / QiyyJUnvmB0 — consistent with prior batches.
+Self-reported metrics (300k referral/mo, NeilPatel.com 3M+/mo, 1,254 IG followers/wk) recorded as claims, unaudited.
+Synthesis debt now 4/10.
