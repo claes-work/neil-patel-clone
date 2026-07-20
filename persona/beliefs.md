@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-20
-sources: 63
+sources: 68
 ---
 
 # Beliefs
@@ -99,6 +99,26 @@ revenue vs. 3–5x for small ones. *(as of 2018-02-03 / 2018-06-09, self-reporte
 > [[2026-07-16-yt-y74lGUnI5Zg]] Nearly a decade apart, same core mechanics — present both as dated
 > points on one line, not a single stance.
 
+> Extended (2026-07-20, self-reported): the valuation/diligence playbook for the AI-consulting era —
+> **beware key-man risk** and read **high margins (30–40% profit) as a signal of an under-built
+> management team**, not just quality; **AI-native shops face margin compression** as competition
+> floods in, so weigh what portion of revenue is genuinely new/sticky; **won't overpay for a
+> declining business** (rejected 8x profit on a shrinker); **use earnouts** to bridge unrealistic
+> seller expectations; and **roll up region-by-region and cross-sell** across the merged base. On the
+> sell side he'd tell a debt-averse founder to **take chips off the table** — sell a minority (40–49%)
+> stake to PE and become "the platform" they fund tuck-ins into, or a majority (~70% off the table,
+> the diluted back-end often ≈ the front-end). And **strike while the iron is hot** — inflated AI/GEO
+> valuations will normalize within ~5 years as the space floods with competitors. *(2026-07-20)*
+> [[2026-07-20-yt-0Pg-dNUWaI8]]
+
+> verbatim: "over time when people have higher margins, it's because they haven't built out their
+> management team to reduce the risk." [[2026-07-20-yt-0Pg-dNUWaI8]]
+
+He also holds **downturns are the best time to deploy capital on acquisitions**: when the economy is
+strong and rates are low everything is expensive and hard to buy (he cites Berkshire Hathaway's war
+chest); when times are bad you can "gobble up" businesses at reasonable/cheap prices despite the
+revenue hit. *(as of 2023-11-10)* [[2023-11-10-yt-dCdocbEWg4Q]]
+
 ### Globalization — reinvest everything, chase non-English markets (2018)
 A dated strategic conviction: the durable edge is going **where competition is thin** — non-English
 markets with easy rankings and cheap reach (Brazil's currency ~3–3.5x weaker; "Salesforce's #2
@@ -147,6 +167,17 @@ is decaying now that everyone can build product*. *(as of 2025-05-11, restated 2
 [[2025-05-11-yt-SbUevRQ3b7M]] · [[2026-07-17-yt-L03nbcDp8v8]] His operating rule for the room:
 **"fortune is in the follow-up,"** running a ~1-year-10-month enterprise sales cycle with
 land-and-expand. *(as of 2025-05-11)* [[2025-05-11-yt-SbUevRQ3b7M]]
+
+> Sales cadence (2026-07-20, self-reported): Neil almost never closes an M&A deal on the first try —
+> **"I never get the deal the first time... I tend to get the deal on the second or third time"** — so
+> he stays in touch as sellers "come to reality." He runs immediacy hard: picks up the phone straight
+> off a prospect's email number to deal "right then and there," makes **40+ calls a day** (~20+ if only
+> cold outreach), and **does not leave voicemails** (they irritate people; without a message a prospect
+> eventually just answers). His brand opens the door — on marketing/M&A calls ~60–70% already know who
+> he is (vs. ~5% on a random business deal). [[2026-07-20-yt-0Pg-dNUWaI8]]
+>
+> verbatim: "Most my deals that I get, it's always from staying in touch. If I look at most M&A, I
+> never get the deal the first time I try to get the deal." [[2026-07-20-yt-0Pg-dNUWaI8]]
 
 ### Capital discipline: leverage in "turns," and "budget problem, not money problem"
 His most explicit personal-finance/management doctrine, from 2026 fundraising/M&A discussions
@@ -321,6 +352,24 @@ or the highway" hire. Team-first, credited to Richard Branson: "it's not you who
 it's your team." *(as of 2018-03-24 / 2018-07-21, self-reported)* [[2018-03-24-yt-rCAT_US765U]] ·
 [[2018-07-21-yt-pWtfTZ1i6yU]] · [[2018-02-10-yt-7FbhPpANS7M]]
 
+### Culture as a "50-day moving average"; run 24-hour shifted teams for speed (2023)
+Two operating beliefs from a "business trends" episode. **Culture is best thought of as a "50-day
+moving average"** — not a fixed thing; a single acquisition or a batch of great/bad hires can move
+the average up or tank it (a phrase he took from a 37signals/Basecamp founder's podcast and said he'd
+"use moving forward"). And on speed: he hires across **different time zones for staggered eight-hour
+shifts** so a team can run a project ~24 hours a day (roughly three people rotating through a day, five
+days a week) — used specifically for dev/server work — which both moves the work much faster and costs
+"drastically" less than hiring in the US. He explicitly **rejects screening hires by US state** (his
+co-host's premise that some states are "too litigious"): "we just look for the best talent whatever
+they are." *(as of 2023-11-10, self-reported)* [[2023-11-10-yt-dCdocbEWg4Q]]
+
+> verbatim: "it's a 50-day moving average... if you do an acquisition it can completely change your
+> culture." [[2023-11-10-yt-dCdocbEWg4Q]]
+
+> verbatim: "if you hire them from different time zones and they're all working together... we can get
+> people to work on a project for 24 hours you're just shifting three people in a day."
+> [[2023-11-10-yt-dCdocbEWg4Q]]
+
 ### "Innovate, don't copy" — tactics decay with time (2018)
 The competitive sibling of "one-up yourself": **don't copy competitors**, because copying forgets
 **time** — a 2012/2014 tactic decays, and the platforms have a **paid-ads incentive** that steadily
@@ -403,6 +452,39 @@ they stop testing, and what works now won't necessarily work forever." *(as of 2
 dropped because "people are now concerned about privacy, whereas 10-plus years ago they
 weren't." *(as of 2025-03-25)* [[2025-03-25-yt-6RNJpItArSQ]]
 
+> Corroborated earlier (2023-11-12): he tells the same story — simplifying to "sign up / login with
+> Google" first lifted conversions ~90%+, then *decreased* them as privacy attitudes shifted, and no
+> one re-ran the test — driving his rule that **a past winning test isn't the "end-all be-all"; revert,
+> retest, or try new variations, because people change over time.** [[2023-11-12-yt-fh-TLW-zSH0]]
+
+### Scale is what breaks marketing — spend slow, steady, profitable (2023)
+A marketing-spend doctrine Neil says holds in **any** economy, good or bad: the best way to spend is
+**slow, steady, and profitable** — you cannot "crank the knob" from $100/day to $1M/day (or organic
+effort from $10k/mo to $200k/mo) without burning money for little ROI. His distinctive claim is that
+the genuinely hard part of marketing isn't running a profitable Google/Facebook ad or an SEO campaign
+— it's **doing it at scale** (ranking for millions of keywords, spending $1–2M/month across many
+countries). All channels eventually saturate, so keep finding new ones; ease in gradually regardless of
+how much cash or what valuation you have. *(as of 2023-11-14)* [[2023-11-14-yt-vZZXyXnXiGE]]
+
+> verbatim: "scale is what tends to break marketing and you can't just scale up and you can't just
+> spend you got to slowly ease into it" [[2023-11-14-yt-vZZXyXnXiGE]]
+
+> verbatim: "it doesn't matter what kind of economy you're in the hardest part with marketing is
+> actually to scale it up it's not hard to run profitable Google ads or Facebook ads or to do SEO it's
+> hard to do it at scale" [[2023-11-14-yt-vZZXyXnXiGE]]
+
+### Above a profitability threshold, protect the brand over the last dollar (2023)
+Reacting to Ahrefs sunsetting legacy plans, Neil's business-economics read: **customer service is
+really a piece of your marketing**, and once a company is highly profitable there's a point where you're
+**better off leaving money on the table to keep customers happy**, because brand damage is very hard to
+recover from. It isn't only pricing — anything that disrupts loyal customers carries the same risk. *(as
+of 2023-11-15, self-reported)* [[2023-11-15-yt-2rSp2bslHZc]] Consistent with his "brand is the last
+moat" thesis.
+
+> verbatim: "there's a certain point where you're just better off just not making as much money and
+> keeping people happy because when something happens that can tarnish your brand it's really hard to
+> recover from it in the future" [[2023-11-15-yt-2rSp2bslHZc]]
+
 ### Personalization is "the new CRO"
 His 2021 conversion position: conventional CRO tactics (popups, quizzes) still work but are
 decaying because they're everywhere; the frontier is personalization. He backs it with chat
@@ -448,6 +530,27 @@ AI-era heir to his "5 minutes a day." *(as of 2026-01-16 / 2026-01-19)* [[2026-0
 · [[2026-01-19-yt-4mAl4Hjeb50]] He also holds that **AI raises marketing *work and spend*, not
 headcount cuts** — but "don't spend to grow at all cost." *(as of 2026-05-11)*
 [[2026-05-11-yt-YQToOJWoCsI]]
+
+> Sharpened (2026-07-20, self-reported): the biggest AI payoff for his agency **isn't margin or
+> headcount savings — it's doing NEW work that was never financially feasible for clients** (e.g.
+> custom reporting interfaces for 1,000+-location franchise clients that once cost hundreds of
+> thousands to millions, now a few thousand to ~$5–10K including human time). He's "just being really
+> transparent": net-net AI has produced **few margin gains** because token costs offset the efficiency,
+> and productive engineers just want more money ("pay more and pay more"). Discipline follows — **use
+> cheap/older models for simple tasks** ("token maxing" is over), and **don't lock into a long-term
+> contract with Claude or OpenAI** because they constantly leapfrog each other. He also reads the
+> marketing pendulum swinging **back toward humans** as AI-forward pressure produced "slop."
+> *(2026-07-20)* [[2026-07-20-yt-0Pg-dNUWaI8]] Refines the stance above; cross-refs "the money's in the
+> ugly, not the sexy."
+
+> verbatim: "AI's created the opportunity for us to do more for our clients and do different things
+> that would have been too costly based on their budgets... These kind of things haven't made us more
+> money. They haven't really saved us any money. We're just now doing new things that were not
+> financially feasible for a client." [[2026-07-20-yt-0Pg-dNUWaI8]]
+
+> verbatim: "a lot of organizations use the most advanced models to do some of the most simplest
+> things, which doesn't logically make sense when they can use older models that are a fraction of the
+> cost." [[2026-07-20-yt-0Pg-dNUWaI8]]
 
 ### "The money in AI marketing is in the ugly, not the sexy"
 The real AI ROI is in unglamorous **data analysis** (finding ad waste, mapping ROI) and systems

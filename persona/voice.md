@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-20
-sources: 49
+sources: 50
 ---
 
 # Voice
@@ -133,6 +133,12 @@ price — the pricing twin of the "Power of No" discipline.
 > "A morning routine will not make you successful." [[2019-03-23-yt-jhXe1Xz4iCQ]]
 Gloss: he says he doesn't keep one and considers them "a waste" (paraphrase from the source summary);
 what actually drives success, he argues, is a daily checklist cascaded down from a yearly goal.
+
+**"scale is what breaks marketing"** — his blunt line for why you ease into spend slowly instead of
+cranking the knob.
+> "scale is what tends to break marketing and you can't just scale up and you can't just spend you got to slowly ease into it." [[2023-11-14-yt-vZZXyXnXiGE]]
+> "you can't just turn on the knob or crank up the knob and just be like cool I've went from spending... $100 a day to like a million dollars a day it just doesn't work that way." [[2023-11-14-yt-vZZXyXnXiGE]]
+Gloss: pairs with his "slow, steady, profitable in any economy" spend doctrine (see [[beliefs]]).
 
 ## Marketing School–era coinages (2024–2026)
 

@@ -3264,3 +3264,49 @@ EEAT** mapping; (6) **"scale is what breaks marketing"** coinage; (7) **staggere
 (Michael-Jordan "living up to the name" reasoning); (9) ⚠️ attribution-uncertain **SEO-tools-are-commoditized/
 low-differentiation** admission re: his own Ubersuggest — corroborate before promoting. Ephemeral 2026 model-news
 deliberately NOT promotable (do-not-promote, matches the pass-2 ephemeral-news policy).
+
+## [2026-07-20] lint | Persona pass — folded ingest batch #68 into the product (P1 drained → persona-refresh trigger)
+
+Ran the Stage P persona-refinement pass. **Trigger**: the previous iteration ingested the last open **P1**
+row (the 2026-07-20 fresh-upload "AI Operators Dinner"), so **P1 fully drained across all channels** → the
+ingest-loop's "persona is stale" rule fires (first match after the synthesis checkpoint, which is not due —
+debt was 1/10). Refreshed the product from everything ingested since synthesis pass 7, i.e. **ingest batch #68**
+(@MarketingSchoolPod: the P1 fresh-upload [[wiki/sources/2026-07-20-yt-0Pg-dNUWaI8]] + the 2023-11-08→11-15
+co-hosted episodes Ep. 2597–2604). Single delegated writer, persona-files-only (no write races); coordinator
+did the shared-file bookkeeping. All co-hosted → **only Neil-attributed material promoted**; Eric Siu's framing
+quarantined on the source pages.
+
+Persona notes (genuinely-new, dated, cited; pure repeats dropped):
+- **beliefs.md 63 → 68 sources.** (1) **Agency AI-economics** ★ — a dated 2026-07-20 sharpening of "AI augments,
+  it doesn't replace": AI unlocks NEW previously-infeasible client work, **NOT** margin/headcount savings; strict
+  cheap-model discipline ("token maxing is over"); don't lock into long-term LLM contracts; AI-slop pendulum
+  swinging back toward humans. (2) **M&A/PE valuation-playbook extension** — dated 2026-07-20 addition on the
+  existing 2018→2026 acquisition through-line (key-man risk, high-margin-can-signal-weak-management, margin
+  compression, earnouts, region roll-up/cross-sell, minority-vs-majority "chips off the table," strike-while-hot,
+  deploy-capital-in-downturns). (3) **Cold-call / follow-up sales cadence** — 40+ calls/day, no voicemails, deals
+  close on the 2nd–3rd try, brand opens doors (extends "the fortune is in the follow-up"). (4) NEW belief
+  **"Scale is what breaks marketing — spend slow, steady, profitable (2023)"** + companion **"protect the brand
+  over the last dollar (2023)"** (Ahrefs-pricing reaction). (5) NEW belief **"Culture as a '50-day moving
+  average'; run 24-hour shifted teams for speed (2023)."** (6) **Retest-past-winners** — added only a
+  corroborating earlier-telling citation to the existing "what works now won't work forever" line; did NOT
+  duplicate the already-present Kissmetrics Sign-in-with-Google +90%-then-reversed datapoint.
+- **voice.md 49 → 50 sources.** Added the **"scale is what breaks marketing"** catchphrase (2 verbatim quotes,
+  [[wiki/sources/2023-11-14-yt-vZZXyXnXiGE]]).
+- **system-prompt.md v7 → v8** (compiled_from_sources 533 → **541**). New v8 changelog block added above v7 (all
+  older blocks kept); Grounds updated to beliefs 68 / voice 50 / biography 44 / appearance 2. Prompt body woven
+  additively: AI bullet sharpened, M&A bullet extended, distribution bullet gained the cold-call/follow-up
+  cadence, new spend-discipline bullet, "scale is what breaks marketing" added to the signature lines.
+
+**Excluded (fidelity):** the **attribution-uncertain "SEO tools are commoditized / low-differentiation"** admission
+about his own Ubersuggest (rule 6 — uncertain attribution never silently included); **ephemeral 2026 model-news**
+(GPT/Claude versions, pricing, raises, JVs — do-not-promote policy); the **"Neil Patel II" son-naming** bio detail
+(biography scope, out of Stage P's persona-files-only remit — leave for a Stage S synthesis pass); all Eric-Siu
+material.
+
+Ledger unchanged this pass (no ingest). Open long-form after: **@MarketingSchoolPod P2:731 P3:28**, **@neilpatel
+P2:685 P3:21**; **open P1: 0** (drained). Synthesis debt: **1 batch since pass 7** (checkpoint at 10 — unchanged;
+a Persona pass does not drain synthesis debt). Next iteration: Stage B (drain P2 long-form, oldest-first).
+
+Synthesis notes: none (persona-refresh pass; the batch-#68 `Synthesis notes:` debt line remains queued for the
+next Stage S checkpoint — this Stage P promoted the persona-weighted subset into beliefs/voice only, not the topic
+hubs).
