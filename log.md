@@ -3073,3 +3073,37 @@ job done" qualifier. (6) Recurring reinforcements: Crazy Egg heatmaps + remarket
 dayparting/geo for paid ads (S79xcD28Afc); Hello Bar email collection + segmentation + partial-checkout/cart-recovery
 + subscribers push for ecommerce (_6e3WTYucP0); Google PageSpeed/mobile/speed as ranking factor; IG/FB live-stories
 swipe-up distribution. Synthesis debt now 7/10.
+
+## [2026-07-20] ingest | yt batch (@neilpatel, 8) — P2 long-form (2019-07-13→08-03 solo tactical: blogging-adapt / ecommerce-SEO / FB-ads-funnel / start-over-9yrs / disrupt-SEO-2020-vision / disrupt-competitive-industry / Instagram-ROI / paid-ads-funnel-LTV era, cont. 44)
+
+Ingested 8 P2 @neilpatel long-form videos (all Neil-fronted solo, no attribution gating) to L2,
+2019-07-13→2019-08-03 (cont. of the 2019 solo-tactical era, batch #65). All had captions; 0 skipped,
+0 no-captions, 0 duplicates, 0 rate-limits/errors. Pages written: Is Blogging Still Worth it? (LxlhjyxKlFI);
+eCommerce SEO — How to Bring Organic Traffic to Your Online Store (gyoMdEaU7YQ); Why Your Facebook Ads Don't
+Work (HYmWww4e3Is); Here's What I Would Do If I Had To Start Over and Rebuild My Business (YbPP_5htg-8);
+Why I Decided To Disrupt the SEO Industry | My Marketing Plans for 2020 (jLHAu_wjG-w); How to Market Yourself
+in the Most Competitive Industries (XPp9YaQm3WE); Is Instagram Marketing Really Worth it? (Y11g2oVqKFs);
+The Secret to Making Paid Advertising Work (5qFWeF8gGTM). youtube-index footer 509 → 517; index.md count bumped.
+Data-integrity flags: (a) jLHAu_wjG-w — ledger/aggregator title says "Marketing Plans for 2023" but the
+transcript explicitly says 2020 ("in 2020, that is my goal, is to automate SEO"); the 2020 content date is
+authoritative and is noted on the source page. (b) YbPP_5htg-8 carries a ⚠️ CONTRADICTION callout: the
+"work for others 9 years first" advice is retrospective "if I had to start over" framing, in tension with
+Neil's own actual teen-entrepreneur path — dated and framed as such, not as biography.
+
+Synthesis notes: several genuinely-new-for-persona threads for the next synthesis pass (debt 7 → 8):
+(1) ★ EARLY AI-MARKETING SEED — jLHAu_wjG-w (2019-07-27) is Neil's 2020 "automate SEO with machine learning /
+AI" vision via a JavaScript-snippet product (edit HTML/title tags, read Search Console, auto-run link outreach,
+all with user approval) — a pre-LLM articulation of the ai-marketing theme that dominates his 2025-26 content;
+worth promoting into ai-marketing/ + beliefs as the origin of that arc. (2) DISRUPTION DOCTRINE, quantified —
+XPp9YaQm3WE + jLHAu_wjG-w: give away for free (Ubersuggest, self-reported ~$200k/mo loss) to win brand queries,
+"do the opposite / don't copy," research customers (Slack beat Skype), go all-in, execute fast; reward = brand
+queries (Mailchimp/Apple). (3) FUNNEL/LTV AD-ECONOMICS framework — 5qFWeF8gGTM: "the secret is the funnel not the
+ad"; optimize for LTV; the 7-figure (2-3x now) / 8-figure (break-even) / 9-figure (lose up front) tiering; levers =
+checkout bumps, upsells, downsells, trigger emails, browser push. (4) CAREER-SEQUENCING belief — YbPP_5htg-8's
+"work for others 9 years first" 4-employer ladder + origin datapoints ($5.75/hr theme-park toilet-cleaning job,
+"entrepreneur 17 years" → started ~2002) — with the contradiction flag. (5) CHANNEL-ROI REALISM — Y11g2oVqKFs:
+Instagram = indirect brand awareness in B2B, micro-influencer "2-3 day splash" mechanic in B2C, single big-influencer
+buys usually lose money (Kris Jenner $85k → <$85k sales), Instagram less effective than FB/LinkedIn/YouTube for
+conversion. Mostly-restatements folded in: duplicate-content-is-a-myth + content-freshness (Wikipedia, "3 FTEs update
+old content"), FB-ads retarget-existing/1%-lookalikes/video-ads-win/optimize-for-revenue, ecommerce-SEO Ubersuggest
++ page-speed>desktop + schema + cross-linking. Synthesis debt now 8/10 (checkpoint at 10).
