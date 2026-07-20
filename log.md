@@ -2998,3 +2998,41 @@ billion-blogs / ad-cost-inflation saturation narrative. (6) Recurring reinforcem
 rich-snippets/ranking-zero, intent>volume ("SEO agency" not "SEO"), internal-linking, user-metrics/pogo-stick,
 Todd-Malicoat <20-links forex case, "removed dates from URLs → +100k search visitors/mo", one-channel laser
 focus + SurveyMonkey customer research. Synthesis debt now 5/10.
+
+## [2026-07-20] ingest | yt batch (@neilpatel, 8) — P2 long-form (2019-05-30→06-17 solo tactical: learn-SEO-free / funnel-hacking / free-promotion / marketing-principles / high-income-skills / hard-truth-2019 / repurposing / new-blog-10k era, cont. 42)
+
+Ingested 8 P2 @neilpatel long-form videos (all Neil-fronted solo, no attribution gating) to L2,
+2019-05-30→2019-06-17 (cont. of the 2019 solo-tactical era, batch #63). All had captions; 0 skipped,
+0 no-captions, 0 duplicates, 0 rate-limits/errors. Pages written: Learn SEO For Free — jumpstart your
+career (7a07862HFNc); The Truth About Funnel Hacking (yPH7v6Yx1kM); 5 Techniques to Promote Content With
+No Money (BUdRnkjHQKo); 4 Marketing Strategy Principles (gNAE8g2tytA); The Most On Demand Digital Marketing
+Skills in 2019 — 7 high-income skills (yyitwdk4QmY); The Hard Truth About Marketing & What Will Stop Working
+(2jzzB_AeChA); How To Repurpose Your Blog Content For Social Media (e5mE_C3Jikw); How to Generate 10K Visitors
+From a Brand New Blog In Under 6 Months (NGynMaatjKs). youtube-index footer 493 → 501; index.md count bumped.
+Caption garble fixed on the pages: "ROY" → ROI (yPH7v6Yx1kM). Note: yyitwdk4QmY's on-screen title says "2023"
+(a later re-title) but Neil says "2019" throughout — dated as 2019. Cross-era overlap noted, cross-linked not
+deduped (distinct videos): 06-13 (hard truth) re-states rule-of-7 + omnichannel + content-freshness from the
+05-25 rule-of-seven video; 06-17 (10k-blog) re-tells skyscraper + BuzzSumo/link-out outreach + email/push blast
+from 05-30 and earlier; the Diamond Foundry raise-prices story (06-06) also anchored the 05-xx pricing video
+(0NGQLgrHRe4).
+
+Synthesis notes: mostly high-signal re-statements of the era's saturation/user-first/promotion themes, plus a
+few genuinely-new-to-the-wiki nuggets for the next synthesis pass to consolidate. (1) **Funnel-hacking doctrine
+(yPH7v6Yx1kM)** — NEW distinct topic: "short answer no, long answer yes"; a copied funnel ≠ their results
+(personality/voice/traffic-skill are uncopyable); to copy well — understand WHY the funnel is built that way (not
+clone), check audience-relevance, confirm you can sustain the ad cost / have the cash flow (they may have
+Lookalike Audiences you lack), and test elements in small segments (start with a simple webinar) before scaling.
+Good paid-ads/analytics-cro/agency how-to. (2) **"Marketing isn't about marketing anymore — put the user first"
+(2jzzB_AeChA)** — crisp persona-belief articulation of the user-first thesis (great product wins; survey/call/meet
+customers; "the best marketer is the one who can spend the most money on marketing" as the reason ad costs keep
+rising). (3) **7 high-income digital-marketing skills 2019 (yyitwdk4QmY)** — data science/analytics, content
+strategy (reaffirms 80/20 promote), video, storytelling, marketing automation, funnels, and **podcasting** (new
+emphasis: engaged/higher-income listeners, "get in now," takes years to pay off, then-bigger in Asia than the US).
+(4) **Repurposing / micro-content playbook (e5mE_C3Jikw)** — "barely create net-new content for social"; cross-share
+→ repost full text ~1wk later → cut into quote-images via Fiverr (~$5–10 for ~50) → phone video → repost proven
+content ≥1x/yr (Twitter tolerates, Facebook hates). (5) **Diamond Foundry raise-prices story (gNAE8g2tytA)** —
+know-your-customer/perceived-value: cheap lab-grown diamonds TANKED (cheap = "not good"), raising prices grew sales;
+reinforces the 05-xx pricing doctrine. (6) Recurring reinforcements: skyscraper (Brian Dean) + Twitter/BuzzSumo/
+backlink outreach, user-metrics/Hotjar as ranking factor, rule-of-7 + omnichannel + email/push, content-freshness +
+load-time, one-channel-at-a-time laser focus, Ubersuggest SEO Analyzer/Traffic report, Tai Lopez live-video/Apple
+launch-mystery as promo analogies. Synthesis debt now 6/10.
