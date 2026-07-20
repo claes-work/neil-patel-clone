@@ -2854,3 +2854,26 @@ overwriting) the earlier "$25M first client" line. Advanced the high-water mark 
 `pipeline/synthesis-state.md`; updated `index.md`. No pending checkpoints remain (caught up through batch #57).
 
 Synthesis notes: none (this IS the synthesis pass; debt drained to 0 through batch #57).
+
+## [2026-07-20] ingest | yt batch (@neilpatel, 8) — P2 long-form (2019-02-18→03-07 solo tactical + money/entrepreneurship era, cont. 37)
+
+Ingested 8 P2 @neilpatel long-form videos (all Neil-fronted solo, no attribution gating) to L2,
+2019-02-18→2019-03-07 (cont. of the 2019 solo-tactical era, batch #58). All had captions; 0 skipped,
+0 no-captions, 0 duplicates, 0 rate-limits/errors. Pages written: personal-brand growth hacks
+(hMxLBY1_yK0); video-marketing reach/sales workflow (3mMjthcKUiI); LinkedIn video hack (3-N5ynWSS00);
+social-media-2019 (9UtMEwH5cyw); **7 Rules of Money** (Hl5jsFQVHYw ★); free-book+shipping funnel /
+Frank Kern model (MNyZqibqqmQ); 7 things before becoming an entrepreneur (N6V7gXaz_io); **The Power
+of No** sales tactic (uLgUg5QZ19o ★). youtube-index footer 453 → 461; index.md count bumped.
+
+Synthesis notes: two ★ L3-candidates carrying genuinely-new PERSONA material (wealth/mindset, not the
+usual tactics). (1) **"7 Rules of Money" (2019-02-28)** — Neil's wealth philosophy: money follows
+problem-solving (Elon Musk), no overnight wealth, make money work for you / invest-don't-buy-status-
+objects, "it's easier to save money than to make it," learn from investors' documented mistakes, it's
+OK to miss deals (self-reports missing the **Airbnb** investment), Buffett greed/fear timing (crypto-
+mania caution, buy crashed markets). (2) **"The Power of No" (2019-03-07)** — contrarian sales/pricing
+belief: saying no to discounts and scope-creep protects margins AND earns client respect ("it's like
+dating ... play hard-to-get"), follow the no with the reason (razor-thin margins), extend to workplace
+but always pair with a solution — connects to his later premium-positioning / anti-discount stance.
+Minor bio detail: Neil states he **doesn't read many books** (reads articles online) (2019-03-02);
+recurring "solve a problem cheaper/more efficient" doctrine restated (2019-03-04) — consistent, no
+contradiction. Both ★ items for the next synthesis pass (wealth/mindset is thin in persona/beliefs).
