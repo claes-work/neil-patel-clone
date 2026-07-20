@@ -3133,3 +3133,43 @@ career client claim (self-reported) for the biography timeline. (3) QUANTIFIED C
 found every 1-second load-time improvement raised conversions ~6% (ties a hard number to his own company's data).
 (4) NAMED FRAMEWORK — V2udMQNVCAc: "land and expand" (find Search-Console impression-keywords absent from on-page
 text, add them + mine long-tails) as his named campaign step. Remainder is reinforcement of existing topic pages.
+
+## [2026-07-20] ingest | yt batch (@neilpatel, 8) — P2 long-form (2019-08-26→09-14 solo tactical: rank-thousands-keywords-no-links / bring-people-back / quizzes-lead-hack / Bing-SEO / links-without-link-building / ecommerce-email / affiliate-start / 6-reasons-not-ranking era, cont. 46)
+
+Ingested 8 P2 @neilpatel long-form videos (all Neil-fronted solo, no attribution gating) to L2,
+2019-08-26→2019-09-14 (cont. of the 2019 solo-tactical era, batch #67). All had captions; 0 skipped,
+0 no-captions, 0 duplicates, 0 rate-limits/errors. Pages written: How to Rank for Thousands of Keywords
+Without Building Links (Prp2lkzNQv4); 7 Dead Simple Ways to Bring People Back to Your Site (nzYTy4ZXr74);
+The Number 1 Hack to Converting Visitors into Leads / quizzes (DgfmNF2yVS8); How to Rank on Page 1 of Bing
+(srRwLFNLing); How to Build Links Without Trying to Build Links (JNFtYUFZJ90); 7 eCommerce Email Marketing
+Tactics That Work Like a Charm (DjJDO0QNxpE); The Easiest Way to Get Started With Affiliate Marketing
+(vFWskR9I_bM); 6 Reasons You Still Aren't Ranking: The Cold, Hard Truth (TaK0ss9IEF4). youtube-index footer
+525 → 533; index.md count bumped. Contradictions flagged on pages: (a) nzYTy4ZXr74 promotes MobileMonkey /
+Facebook-Messenger marketing as a top channel — a dated 2019 recommendation Neil later reverses; (b)
+TaK0ss9IEF4 tells viewers to be "strategic, not tactical" while his own channel is overwhelmingly tactical
+"X-ways/hacks" content (tactician-by-format vs strategist-by-advice tension); (c) srRwLFNLing draws the
+Bing-vs-Google distinction that social signals are a DIRECT Bing factor but not a direct Google factor. Much
+of the batch reinforces already-ingested 2019 tactics (Ubersuggest content-ideas + competitor-linker outreach,
+content clusters, funnels/LTV, upsells/downsells, consistency, Crazy Egg CRO) — logged but not net-new. This is
+the 10th ingest batch since synthesis pass 6 → the ≥10-batch checkpoint is now reached; next loop iteration is
+Stage S (synthesis pass 7).
+
+Synthesis notes: a few genuinely-new-for-persona threads for the next synthesis pass (debt 9 → 10):
+(1) NAMED FRAMEWORK (reinforced + explicit) — Prp2lkzNQv4 (2019-08-26): "land and expand" is here stated
+plainly as Neil's named first strategy (Search-Console impression-keywords absent from on-page text → add them +
+Ubersuggest long-tails), alongside "content clusters" (master/pillar + AnswerThePublic satellites, internal-linked)
+and "content gaps" (Ubersuggest Top-Pages export + competitors'-linker outreach) — the three now form a coherent
+no-link-building ranking triad worth a single topic-page treatment in seo/.
+(2) QUANTIFIED CLAIM — DgfmNF2yVS8 (2019-08-31): quizzes lifted Neil's own leads +280% vs lead forms
+(neilpatel.com/quiz), with a reusable quiz-design doctrine (deliver end-value, questions double as qualification,
+7-13 questions, never say "survey") — a distinct analytics-cro/lead-gen line (self-reported figure).
+(3) DISRUPT-THE-MARKET VISION (reinforced) — JNFtYUFZJ90 (2019-09-07): "I gave something away for free... I
+disrupted the market" — Ubersuggest as a deliberate free-tool link/brand engine; plus a datable ORIGIN detail:
+before Ubersuggest, Neil bought a sub-$100 codecanyon SEO script that became his most-visited page. Ties into the
+existing 2020 "disrupt SEO / automate with AI" flag and the free-Ubersuggest-loses-~$200k/mo thread.
+(4) BING-SPECIFIC SEO (net-new topic angle) — srRwLFNLing (2019-09-05): exact-match domains work better on Bing
+than Google (any extension), keyword-in-URL weight, and social signals as a DIRECT Bing ranking factor (Microsoft
+owns Bing + LinkedIn + early FB investor) — the corpus's first dedicated Bing-vs-Google contrast; candidate for a
+short seo/ sub-page + a persona nuance ("social shares help Bing, not Google directly").
+(5) CONTRADICTION to carry — nzYTy4ZXr74 MobileMonkey/Messenger boosterism (date-stamp as a 2019 position Neil
+later abandons) and the tactical-vs-strategic tension in TaK0ss9IEF4 (reconcile in beliefs/voice, don't hide).
