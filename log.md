@@ -3310,3 +3310,36 @@ a Persona pass does not drain synthesis debt). Next iteration: Stage B (drain P2
 Synthesis notes: none (persona-refresh pass; the batch-#68 `Synthesis notes:` debt line remains queued for the
 next Stage S checkpoint — this Stage P promoted the persona-weighted subset into beliefs/voice only, not the topic
 hubs).
+
+## [2026-07-20] ingest | yt batch (@neilpatel, 8) — P2 long-form (2019-09-16→10-05 solo tactical: rank-without-writing / dominate-Facebook / craziest-experiments / first-1000-visitors / monetize-blog-UX / algorithm-proof-business / most-excited-2020 / leverage-Instagram era, cont. 47)
+
+Ingested 8 P2 @neilpatel long-form videos (all Neil-fronted solo, no attribution gating) to L2,
+2019-09-16→2019-10-05 (cont. of the 2019 solo-tactical era, batch #69). All had captions; 0 skipped,
+0 no-captions, 0 duplicates, 0 rate-limits/errors. Pages written: How to Rank High on Google Without Writing
+Content (LSY-WaZz4YE); How to Dominate Facebook Marketing Despite Its Algorithm Hating You (PiDctbBkE1U);
+The Craziest Marketing Experiments I Have Ever Done and Why They Worked (kA-2JAz92RU) ★; How to Get Your First
+1,000 Visitors Without Spending Money (Rpxd0cT_XAw); How to Monetize Your Blog Without Destroying Your User
+Experience (hbgvd-wbBGU); How to Make Sure Algorithm Changes Don't Destroy Your Business (sHbtxNmPeNE); What I'm
+Most Excited About in 2023 as a Digital Marketer (vgd-IhqEUBI); How to Leverage Instagram to Actually Make You
+More Money (HyIj1MgrDww). youtube-index footer 541 → 549; index.md count bumped.
+Data-integrity flag: vgd-IhqEUBI — the YouTube/aggregator title says "2023" but the transcript is entirely 2020
+predictions ("in 2020..."); the 2020 content date is authoritative and the title/content mismatch (evidence of
+Neil's title A/B-testing habit) is noted on the source page.
+
+Synthesis notes: genuinely-new-for-persona threads for the next synthesis pass (debt 1 → 2):
+(1) ★ BIO / EXPERIMENT ANECDOTES — kA-2JAz92RU (2019-09-21) is a rare experiments-recap with concrete,
+promotable biography detail: the "100K Challenge" anonymous nutrition-niche affiliate site built on the (now-sold)
+Quick Sprout; the "Who is Neil Patel?" brand-query influencer stunt; Brazil as his FIRST international market (on a
+Google employee's advice, later Germany/Italy/Japan/China); and the Ubersuggest ~$120K buy-vs-build acquisition
+rationale — all self-reported figures, flagged as such; strong L3-candidate for biography/agency-entrepreneurship.
+(2) EARLY AI-MARKETING SEED (recurring) — vgd-IhqEUBI reiterates the Ubersuggest "build a tool that does the SEO
+FOR you / automate SEO" ambition (dated 2019-10-03), reinforcing the same pre-LLM automation arc already flagged on
+jLHAu_wjG-w; promote together into ai-marketing/ + beliefs as the origin of that theme. (3) SPEAKING-FEE DATAPOINT —
+hbgvd-wbBGU: Neil states a $25k–$50k/one-hour speaking fee (started at a few-to-five grand) — a datable persona/bio
+fact. (4) FACEBOOK-2019 DOCTRINE — PiDctbBkE1U: the explicit pages→private-groups shift + Messenger-bot list numbers
+(~88% open / ~56% CTR via MobileMonkey), anchored to FB's 200M meaningful-group members. Mostly-restatements folded
+in: non-writing SEO tactics (podcast indexing, video-in-SERPs 16–21%, guest-blog volume à la Kissmetrics 7-10/wk,
+tools-as-backlink-engines); free-traffic 6-step playbook ("first 1,000 harder than first 10,000"); algorithm-proofing
+= omnichannel + no-black-hat + help-humans + early-adopt-features; Instagram monetization (micro-influencers, Kris
+Jenner ~$75K loss, ads to top posts). Synthesis debt now 2/10 (checkpoint at 10). Next iteration: Stage B (continue
+draining @neilpatel P2 long-form, oldest-first from 2019-10-07).
