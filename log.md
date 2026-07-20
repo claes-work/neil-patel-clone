@@ -3107,3 +3107,29 @@ buys usually lose money (Kris Jenner $85k → <$85k sales), Instagram less effec
 conversion. Mostly-restatements folded in: duplicate-content-is-a-myth + content-freshness (Wikipedia, "3 FTEs update
 old content"), FB-ads retarget-existing/1%-lookalikes/video-ads-win/optimize-for-revenue, ecommerce-SEO Ubersuggest
 + page-speed>desktop + schema + cross-linking. Synthesis debt now 8/10 (checkpoint at 10).
+
+## [2026-07-20] ingest | yt batch (@neilpatel, 8) — P2 long-form (2019-08-05→08-24 solo tactical: 7-traffic-tools / 7-free-traffic / social-no-money / anatomy-of-SEO-campaign / rank-old-content / 7-landing-page-flaws / Instagram-followers / content-mktg-no-traffic era, cont. 45)
+
+Ingested 8 P2 @neilpatel long-form videos (all Neil-fronted solo, no attribution gating) to L2,
+2019-08-05→2019-08-24 (cont. of the 2019 solo-tactical era, batch #66). All had captions; 0 skipped,
+0 no-captions, 0 duplicates, 0 rate-limits/errors. Pages written: 7 Marketing Tools That'll Instantly
+Boost Your Traffic (VXk5kVrxab0); 7 Advanced Ways to Get Free Traffic That Converts (rAF41CmKiIo);
+One Simple Hack To Leverage Social Media When You Have no Money or Followers (As4C0ymiiVE); The Anatomy
+Of A Perfect SEO Campaign (V2udMQNVCAc); How to Rank Your Old Content (GbbM9L5e5cU); 7 Landing Page Flaws
+That'll Kill Your Conversions (U5t2IQv6kJQ); How to Get The Most Out of Your Instagram Followers (BjngjBzZpVw);
+How to Leverage Content Marketing When You Have No Traffic (DGaYx22GXNw). youtube-index footer 517 → 525;
+index.md count bumped. Data-integrity flag: V2udMQNVCAc — captions render Neil's strategy name as "the LAN and
+expanse strategy"; this is a garble of the standard "land and expand" SEO play and is flagged as such on the
+source page. Much of the batch restates already-ingested 2019 tactics (Skyscraper Technique, Ubersuggest
+content-ideas + linker outreach, infographics/roundups, Stories swipe-up, funnel/LTV) — logged but not net-new.
+
+Synthesis notes: a few genuinely-new-for-persona threads for the next synthesis pass (debt 8 → 9):
+(1) OPERATING STAT — GbbM9L5e5cU (2019-08-15): neilpatel.com publishes ~1 new article/week but UPDATES 90+
+old articles/month, which he credits for ~4M visits/month; the "rank OLD content, don't just create new" thesis
+is a distinct, quantified content-operations doctrine worth its own persona line (self-reported figures).
+(2) ★ BIO/CAREER DETAIL — U5t2IQv6kJQ (2019-08-19): Neil says he "used to do the marketing for TechCrunch,"
+tailoring landing pages to their startup/VC readers vs Entrepreneur-Magazine's newbie readers — a datable early-
+career client claim (self-reported) for the biography timeline. (3) QUANTIFIED CRO CLAIM — same video: Crazy Egg
+found every 1-second load-time improvement raised conversions ~6% (ties a hard number to his own company's data).
+(4) NAMED FRAMEWORK — V2udMQNVCAc: "land and expand" (find Search-Console impression-keywords absent from on-page
+text, add them + mine long-tails) as his named campaign step. Remainder is reinforcement of existing topic pages.
