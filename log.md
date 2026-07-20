@@ -3343,3 +3343,47 @@ tools-as-backlink-engines); free-traffic 6-step playbook ("first 1,000 harder th
 = omnichannel + no-black-hat + help-humans + early-adopt-features; Instagram monetization (micro-influencers, Kris
 Jenner ~$75K loss, ads to top posts). Synthesis debt now 2/10 (checkpoint at 10). Next iteration: Stage B (continue
 draining @neilpatel P2 long-form, oldest-first from 2019-10-07).
+
+## [2026-07-20] ingest | yt batch (@neilpatel, 8) — P2 long-form (2019-10-07→10-24 solo tactical: ice-cold-to-loyal / WordPress-plugins / headline-formula / 41142-backlinks-infographic / Facebook-likes / 7-SEO-experiments / advanced-SEO-formula-477k / lessons-from-a-Google-employee era, cont. 48)
+
+Ingested 8 P2 @neilpatel long-form videos (all Neil-fronted solo, no attribution gating) to L2,
+2019-10-07→2019-10-24 (cont. of the 2019 solo-tactical era, batch #70). All had captions; 0 skipped,
+0 no-captions, 0 duplicates, 0 rate-limits/errors. Pages written: How To Turn Ice Cold Visitors Into Loyal
+Customers (Qf9IOEohZBM); The Ultimate WordPress Marketing Setup: 7 Advanced Plugins to Catapult Traffic and Sales
+(DNHLoSpyw4k); How to Write Headlines People Can't Help but Click (JOkowdWfD98) ★; How to Build 41,142 Backlinks
+From One Simple Hack (_Jc6UQNRCv8) ★; My 7 Top-Secret Strategies on How to Get More Facebook Likes (LpDIdMrxQCc);
+7 SEO Experiments to Test in 2023 (o_S2uyuLiFw); The Advanced SEO Formula That Helped Me Rank For 477,000 Keywords
+(rJtW05sxLuQ) ★; 7 Marketing Lessons Learned From a Google Employee (2dZo6XtGtVY). youtube-index footer 549 → 557;
+index.md count bumped.
+Data-integrity flags: o_S2uyuLiFw — the YouTube/aggregator title says "2023" but the video is published 2019-10-19
+and the transcript is entirely 2020-framed ("in 2020..."); title/content mismatch (Neil's title A/B-testing habit)
+noted on the source page. 2dZo6XtGtVY — the "7 lessons from a Google employee" are relayed and endorsed in Neil's
+voice (kept as persona data); the one genuine third-party claim (brands as a Google quality signal) is attributed to
+Eric Schmidt (paraphrase), flagged in the page's attribution notes. Headline numbers verified verbatim in transcript:
+"41,142 backlinks" (_Jc6UQNRCv8) and "477,000 keywords" (rJtW05sxLuQ) — no caption garble.
+
+Synthesis notes: genuinely-new-for-persona threads for the next synthesis pass (debt 2 → 3):
+(1) ★ HEADLINE-WRITING FORMULA — JOkowdWfD98 (2019-10-12) is a compact, reusable named playbook Neil calls "a
+headline formula that's worked really well for me": 8/10 read the headline but only 2/10 click; write & A/B-test 5+
+headlines by CTR; keep under ~50 chars; use specific granular numbers (e.g. an exact "$3,452,928" over "millions")
+because specificity signals honesty; use rationale/action words (tips, reasons, lessons, tricks) and creative power
+adjectives; leverage freshness + FOMO for urgency; always deliver on the promise or erode trust. Strong L3-candidate
+for content-marketing/ + voice/beliefs. (2) ★ INFOGRAPHIC BACKLINK HACK — _Jc6UQNRCv8 (2019-10-14): a fully-specified
+link-building method with concrete Kissmetrics proof metrics — 47 infographics over ~2 yrs = 2,512,596 visitors /
+41,142 backlinks / 3,741 unique domains (Kissmetrics later 301'd into NeilPatel.com, a datable bio detail); workflow =
+Ubersuggest Content-Ideas report → rebuild data-heavy posts as infographics (Canva/Infogram, cite source) → email the
+original's linkers → WP embed-code plugin for passive embeds; strong L3-candidate for seo/ (link-building) +
+agency-entrepreneurship (Kissmetrics history). (3) ★ ADVANCED SEO "OPTIMIZE-OVER-CREATE" FORMULA — rJtW05sxLuQ
+(2019-10-21): an end-to-end repeatable framework credited with 477,000 ranked keywords / 2.2M unique visits/mo —
+prioritize revenue pages + conversion tracking → mine Google Search Console for high-impression, sub-5%-CTR keywords
+in positions 7-10 (per ClickFlow's 5M-title-tag study) → fold them into title/meta/body with click-hacks → Ubersuggest
+long-tail high-CPC expansion → force re-index → interlink; anchored by the signature "1 new article/week vs. 90 posts
+adjusted/month" stat that crystallizes his optimize-beats-create thesis; strong L3-candidate for seo/ + beliefs
+(consolidate with the earlier rank-OLD-content / land-and-expand pages). Mostly-restatements folded in (not new debt):
+cold-to-loyal value-first-nurture + lookalikes + human live chat (Qf9IOEohZBM); WordPress plugins-as-marketing-levers
+stack (DNHLoSpyw4k — CTR-drives-rankings and 8/10-read-headline are recurring Neil points); Facebook organic doctrine
+(LpDIdMrxQCc — comments>likes/shares, network effect, cross-promote to reignite posts); SEO-never-done user-metrics
+thesis + update-90-old-posts + video-ranks-24-48h (o_S2uyuLiFw); international-expansion / adapt-don't-translate /
+brand-as-quality-signal / rule-of-seven (2dZo6XtGtVY — overlaps prior Google-employee-advice + Brazil-first threads).
+Synthesis debt now 3/10 (checkpoint at 10). Next iteration: Stage B (continue draining @neilpatel P2 long-form,
+oldest-first from 2019-11-14).
