@@ -5566,3 +5566,35 @@ as a content-marketing/social-media framework candidate for wiki/topics/; (4) mi
 variance — "8 algorithm changes/day" here vs. "~9/day" in 2022-05-12-yt-PxUYlx4YZp8 (not a hard
 contradiction, just approximate); (5) possible caption-garble name variant "S&P division" (this
 video) vs. "S&B division" (2022-04-11-yt-TfQQMJ9b_8E) for the same NP Digital unit — unreconciled.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2022-06-23→07-11, solo tactical era, cont. 97)
+Batch of 8 selected rows: 8 ok, 0 marked, 0 retry — no rate-limiting. Wrote 8 wiki/sources/ pages —
+an eCommerce CRO checklist (mobile/photos/social-proof/SMS/AOV/checkout, incl. an 18%-revenue-lift
+PayPal-checkout claim); a Ubersuggest Chrome-extension tutorial (inline SERP keyword volume +
+competitor backlink/traffic lookup); a YouTube-SEO tutorial carrying a 2017 channel-launch origin-story
+detail (Google SEO knowledge "didn't translate directly" to YouTube's algorithm) plus a topic/thumbnail/
+on-page-SEO framework; a content-differentiation piece (format-novelty-over-topic-novelty thesis, The
+Oatmeal case study, a 7272:1 results-to-searches saturation stat); a landmark ★ self-description of
+Neil's full 2022 content-production system — cadence and heavy batching across blog/YouTube/shorts/
+podcast/webinar, plus self-reported ~640K YouTube views/month and "over $1 million a month" podcast
+revenue, attributed to lower channel competition rather than marketing skill; a 10-year interview/PR
+outreach tactic with a hunter.io-based template and self-reported 6-to-7-figure consulting deals;
+a recruiting-methodology video that refines the existing "hire people who've done it twice" hiring
+philosophy ([[wiki/sources/2022-06-09-yt-bVw2v0KjFtM]]) with a concrete mechanism — source hires from
+named competitors via Ubersuggest + LinkedIn, use tenure/promotion history as an unverifiable-claims
+workaround, and screen for "players not coaches" via specific executional interview questions; and a
+landmark ★ freemium-business-model piece — Ubersuggest's 95%+-free positioning rationalized via a
+HubSpot-vs-Dentsu/WPP/Omnicom revenue-scale comparison, plus the Orabrush free-tongue-cleaner case
+study. Ledger rows set to L2 via `ledger_set.py`; `wiki/sources/youtube-index.md` updated in date order
+(footer count 939→947); `index.md` count bumped to match.
+
+Synthesis notes: (1) landmark freemium-to-services business-model framework (Ubersuggest-as-loss-leader,
+HubSpot-vs-agency-holdco revenue framing, Orabrush parallel) — strong candidate for a new or expanded
+wiki/topics/agency-entrepreneurship/ page and persona/beliefs.md; (2) the quantified 2022
+content-production system (cadence + batching + self-reported YouTube/podcast revenue) — strong
+candidate for persona/beliefs.md and a content-strategy angle inside wiki/topics/content-marketing/;
+(3) the 2017 YouTube-channel-launch origin-story detail ("Google SEO didn't translate directly to
+YouTube") is a new biographical beat for persona/biography.md; (4) the tenure/promotion-as-performance-
+proxy recruiting mechanism should be merged with the existing hire-people-who've-done-it-twice
+philosophy from 2022-06-09 into one coherent hiring-methodology topic entry rather than left as two
+separate anecdotes; (5) no contradictions found in this batch.

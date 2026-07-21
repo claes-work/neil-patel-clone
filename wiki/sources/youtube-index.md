@@ -952,6 +952,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2022-06-13 — [This is the best way to hit your revenue goals (personal-goals-as-motivation-lever framework; philanthropy/no-inheritance stance; Mike Kamo/Caio/Nick Roshan named-goal examples) ★](2022-06-13-yt-8p7SX5iDTBI.md) ★ — agency-entrepreneurship
 - 2022-06-18 — [5 Free Resources to Learn Digital Marketing (Neil Patel Training Center/HubSpot Academy/Backlinko/Search Engine Roundtable/Mailchimp Marketing Library)](2022-06-18-yt-YJ5Hwo7Yew8.md) — content-marketing, seo
 - 2022-06-20 — [5 Free Tools that Will Help You Rank #1 on Google (Ubersuggest/Subscribers-push/Google Search Console lost-traffic workflow/Answer The Public/BuzzSumo)](2022-06-20-yt-E4ZcJ4TpC4k.md) — seo, content-marketing
+- 2022-06-23 — [8 Things That Are RUINING Your eCommerce Sales (mobile/photos/social-proof/SMS/AOV/checkout CRO checklist; PayPal-checkout 18%-revenue-lift claim)](2022-06-23-yt-agp2gUAIzBU.md) — analytics-cro, email-marketing
+- 2022-06-25 — [This One Chrome Extension Will Boost Your Rankings (Ubersuggest Chrome extension: inline SERP keyword volume + competitor backlinks/traffic)](2022-06-25-yt-TYlwlMlfdlk.md) — seo
+- 2022-06-27 — [YouTube SEO - 3 Steps To Rank Number 1 on YouTube (2017 channel-launch origin story; topic/thumbnail/on-page-SEO framework)](2022-06-27-yt-5qzMWvvkoyU.md) — seo, social-media, content-marketing
+- 2022-06-30 — [Your Blog Won't Get Traffic Unless You do This (format-novelty-over-topic-novelty thesis; The Oatmeal case study; 7272:1 results-to-searches saturation stat)](2022-06-30-yt-fSOFzxu5m4M.md) — content-marketing
+- 2022-07-02 — [Here's Why I Don't Blog As Often as I Used To (quantified content-production system: cadence, batching, self-reported 640K-YouTube-views/mo + $1M/mo-podcast) ★](2022-07-02-yt-m2j01xvvE0o.md) ★ — content-marketing, agency-entrepreneurship
+- 2022-07-07 — [A Simple Marketing Tactic That Still Works (10-year interview/PR tactic; hunter.io outreach template; self-reported 6-7-figure deals)](2022-07-07-yt-GjQzocNu1k4.md) — content-marketing, agency-entrepreneurship
+- 2022-07-09 — [How to Build an Amazing Marketing Team (Ubersuggest-sourced competitor-LinkedIn recruiting; tenure/promotion-as-performance-proxy; players-not-coaches)](2022-07-09-yt-uUkR0xvHFKY.md) — agency-entrepreneurship
+- 2022-07-11 — [My Favorite Business Hack (freemium-to-services funnel; Ubersuggest-vs-HubSpot-vs-Dentsu/WPP/Omnicom revenue framing; Orabrush case study) ★](2022-07-11-yt-9cRjTh4yZDc.md) ★ — agency-entrepreneurship, paid-ads
 
 ---
-_939 videos ingested (L2) so far._
+_947 videos ingested (L2) so far._
