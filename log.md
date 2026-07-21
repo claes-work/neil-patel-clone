@@ -3925,3 +3925,51 @@ operation rate at the next synthesis (not necessarily inconsistent, just unrecon
 dashboard doctrine reinforce, rather than add to, analytics-cro material already
 promoted (measurement mini-series, anti-dashboard cadence) — no new number. No
 contradictions found vs. existing wiki.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2020-06-22→07-09, eCommerce Unlocked course launch through module-3 sales-channels arc, cont. 60)
+
+Ingested 8 @neilpatel videos (all captions fetched successfully, no rate-limiting):
+welcome-to-ecommerce-unlocked (course launch, module 1 lesson 1: mindset, SMART goals,
+"meat and potatoes" content philosophy, 1995 Steve Jobs e-commerce quote);
+leverage-top-retailers (module 1 lesson 2: e-commerce history timeline 1979→2005,
+channel-fit heuristic across Amazon/eBay/Etsy/Newegg, personal eBay-sunglasses anecdote);
+22-marketing-channels-ecommerce ★ (module 1 lesson 3: KPI framework, quantified
+upsell-math example [$1,375→$4,125/day], Skincare-by-Alana case study, **Nutrition
+Secrets** venture named — new to the wiki's venture inventory); double-your-ecommerce-
+sales ★ (module 2 lesson 1: PDP checklist, quantified 1%→2.5% conversion-lift math,
+Elastic-Path CTA-wording study, 69.23% cart-abandonment + Baymard 35.26%-recovery
+stat, "if the review suck, I don't buy"); ranking-ecommerce-store-on-google (module 2
+lesson 2: mobile-first indexing, Ubersuggest content-research workflow, experience-
+first internal-linking doctrine); content-promotion-for-ecommerce ★ (module 2 lesson
+3: Grace & Lace Shark-Tank micro-influencer case study [$800K→$1.6M→$20M+ across 3yrs],
+daily cross-platform posting habit confirmed, Messenger/chatbot advocacy reinforcing
+an already-flagged ⚠️ later-reversed belief); increase-ecommerce-revenue-amazon ★
+(module 3 lesson 1: ACOS framework, review-velocity target [15→30→50→100] with explicit
+anti-manipulation stance, PPC bid-toward-second-place strategy); marketing-etsy-walmart-
+ebay ★ (module 3 lesson 2, **COMPLETES the module-3 sales-channels arc**: Walmart
+sub-10%-seller-overlap low-competition read, Etsy emotional-positioning exception to
+spec-forward doctrine, >50%-of-searches-are-voice claim + personal Alexa anecdote).
+
+All solo Neil-fronted course lessons, no other speakers — fully Neil-attributed,
+persona-eligible. Ledger updated (8× L2), wiki/sources/youtube-index.md updated
+(653 videos L2, inserted in date order), index.md updated (source count + a pruned
+"Last updated" header — the header had grown to an unbounded 42KB single line via
+repeated "Prior: ..." nesting; truncated to the current batch only, since log.md is
+already the canonical append-only history and pipeline/synthesis-state.md already
+carries synthesis-pass detail — no information lost, just de-duplicated).
+
+Synthesis notes: (1) **Nutrition Secrets** is a previously-unnamed early Neil venture
+(supplement business, quiz-based lead magnet) — candidate for a biography.md addition
+at the next pass; (2) the quantified upsell-math and cart-abandonment/CRO figures
+(69.23% abandonment, Baymard 35.26% recovery, Elastic-Path CTA test) are ★ candidates
+for the analytics-cro topic hub — this course restates existing CRO doctrine with new
+concrete numbers, not new principles; (3) the ACOS framework + explicit natural-
+reviews-only ethical stance are ★ candidates for paid-ads/analytics-cro, reinforcing
+(not contradicting) the wiki's existing anti-manipulation throughline; (4) the Grace &
+Lace case study is a durable micro-influencer-over-mega-influencer illustration for
+social-media; (5) the Etsy emotional-positioning guidance is a documented, narrow
+exception to the spec-forward product-page norm (channel-specific messaging
+adaptation), not a contradiction. No contradictions found vs. existing wiki. This is
+the second course launched in this batch (after "SEO Unlocked" completed at batch #59)
+— not a channel/era boundary in the checkpoint-synthesis sense; ingest batches since
+last synthesis now at 5/10 per the driver, so continuing @neilpatel P2 next iteration.
