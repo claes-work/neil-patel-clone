@@ -5320,3 +5320,44 @@ TikTok-delegation/5am-posting/QVC anecdotes, Instagram-partnership-growth framew
 own-YouTube-growth-history, agency-from-scratch 6-point framework, blog/YouTube
 traffic-figure reconciliation, $500K-TV-ad case study, ~140-pieces/mo content-cadence
 framework) for the next checkpoint.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2022-04-07→04-23, cont. 93)
+Ingested 8 @neilpatel long-form videos, oldest-first: "How to Find Unlimited Content
+Ideas for Social Media in 2023" (2022-04-07, 130-posts/mo cross-platform cadence
+self-report), "8 Ways to Increase Your Website Traffic FAST and FOR FREE" (2022-04-09,
+infographic-backlink reverse-engineering via Ubersuggest; a likely-garbled
+"1,000 visitors/mo" figure flagged against his own repeated >2M/mo claims), "How to
+Convert Your Leads Into Sales With These 5 CRM Features" (2022-04-11, Pipedrive-
+sponsored; NP Digital ~100 sales reps/48 in the S&B division; the Inc-500-#21
+self-report recurs from [[wiki/sources/2022-03-21-yt-qIGucc-ssjY]]), "Generate 6
+Months' Worth of Content in 3 Days" (2022-04-14, GSC-impressions + Ubersuggest 5-hack
+content-ideation system; neilpatel.com 8,000+ pages/225-countries self-report),
+"Instagram Trends To Try This Year 2023" (2022-04-16, Sensor Tower/eMarketer stats;
+Reels/shopping/story-links/live trends), "10 Extremely Useful Tools You Should Be
+Using In Your Marketing Right Now" (2022-04-18, tool roundup; AI-writing "saves
+around half the time... not perfect" assessment; Ubersuggest AI-writing feature
+teased; an FTP-era solo-operator origin detail), "The 4 Best Digital Marketing
+Careers to Pursue in 2023 and Beyond" (2022-04-21, origin story + 4 salary-sourced
+career paths incl. AI specialist $162K US avg; a self-reported Obama "top 30
+entrepreneurs under 30" nomination that gives a different number than the
+"top-100" framing recorded in SUBJECT.md — flagged as an unreconciled self-report
+variant, not smoothed), and "How to Run TikTok Ads 2023" (2022-04-23, 7-step
+framework — pixel, broad-then-narrow targeting, $50/day minimum, breakeven CPA cap,
+TikTok ad-library modeling).
+
+All 8 fully Neil-attributed, solo tactical/case-study content, no yt-dlp failures.
+Ledger rows set to L2 with domains/notes; `wiki/sources/youtube-index.md` and
+`index.md` counts bumped 908 → 916.
+
+Synthesis notes: the Obama top-30-vs-top-100 self-report contradiction (new,
+persona-relevant if/when the awards claim is ever promoted — currently kept
+self-reported/unverified per SUBJECT.md rule, not upgraded); the NP Digital
+sales-headcount/Inc-500-#21 reinforcement (third recurrence of the same growth
+narrative, agency-entrepreneurship); the AI-writing "half the time, not perfect"
+self-assessment (a dated, moderately-positioned AI-adoption data point for the
+ai-marketing timeline); the 139-traffic-sources/likely-garbled-visitor-figure note
+(flagged for QA, not for promotion). Nothing else genuinely new — largely
+reinforcement of existing SEO/content/social-media/paid-ads doctrine. 8 ingest
+batches since synthesis pass 11; checkpoint at 10 — not due. Persona last touched
+by synthesis pass 11 (8 batches ago) — not yet stale by the ≥10-batch rule; no P1
+rows open to retrigger the drain-condition.
