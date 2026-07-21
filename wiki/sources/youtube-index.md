@@ -674,6 +674,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2020-07-23 — [How to Optimize Your On-Page SEO in Less Than 10 Minutes (Ubersuggest Site Audit walkthrough; 75-80 score is "decent," 100 is a red flag)](2020-07-23-yt-QpLBzNrzj4c.md) — seo
 - 2020-07-25 — [How to Outrank and Steal Traffic From Your Competition (Ubersuggest competitor content-gap analysis + backlink outreach playbook)](2020-07-25-yt-CaPRbcxUGeE.md) — seo, content-marketing
 - 2020-07-27 — [Welcome to the Content Marketing Unlocked! - Free Content Marketing Course with Neil Patel (new course launch; Larry Page/Bill Gates framing quotes; Timothy Sykes + Gawker Media self-reported case studies)](2020-07-27-yt-9_rULUbLqE4.md) — content-marketing
+- 2020-07-30 — [How Content Marketing Started - Module 1 - Lesson 2 - Content Marketing Unlocked (content-marketing history 1895→digital; Sergey Brin quote; Ubersuggest keyword-research walkthrough; Kraft Heinz/NerdWallet case studies)](2020-07-30-yt-tDvBdnLZLp4.md) — content-marketing, seo
+- 2020-08-01 — [How To Rank Your Existing Content - Module 1 - Lesson 3 - Content Marketing Unlocked (content-refresh workflow: delete/redirect, evergreen dates, merge duplicates, CTR-threshold optimization)](2020-08-01-yt-W13rm0OZ6dI.md) — content-marketing, seo, analytics-cro
+- 2020-08-03 — [18 Content Types to Dominate Content Marketing - Module 2 - Lesson 1 - Content Marketing Unlocked (tools/infographics/guides/podcasts/carousels survey; Marketing School podcast w/ Eric Siu; infographic-campaign case study)](2020-08-03-yt-U0ekBz_wWwI.md) — content-marketing, social-media
+- 2020-08-06 — [Rank In Competitive Markets With Topical Clusters - Module 2 - Lesson 2 - Content Marketing Unlocked (pillar/cluster page model; E-A-T; Ubersuggest Content Ideas workflow)](2020-08-06-yt-nuU_yXiTDv4.md) — content-marketing, seo
+- 2020-08-10 — [Promoting Your Content With Zero Budget - Module 3 - Lesson 1 - Content Marketing Unlocked (site structure/sitelinks; niche-focus philosophy; Airbnb/Dropbox/Buffer $0-budget growth tactics; Hello Bar)](2020-08-10-yt-mbIt8Sd2N2w.md) — content-marketing, seo
+- 2020-08-13 — [18 Link Building Strategies (Templates Included) - Module 3 - Lesson 2 - Content Marketing Unlocked (Credit Karma case study; outreach workflow via Mailshake; 5-10% conversion benchmark; Moz 10-week ranking-lag stat)](2020-08-13-yt-SxEEg1tOV70.md) — seo, content-marketing
+- 2020-08-15 — [Tools To Improve Your Content Marketing - Module 3 - Lesson 3 - Content Marketing Unlocked (Google Analytics goals/alerts/annotations; Search Console; Tag Manager; Ubersuggest rank tracking)](2020-08-15-yt-NRU7Bsb9OEo.md) — analytics-cro, content-marketing
+- 2020-08-17 — [How To Rank #1 For Competitive Keywords - Module 4 - Lesson 1 - Content Marketing Unlocked (brand as SEO signal; Eric Schmidt/Matt Cutts quotes; Rule of Seven; CRO page priorities; 3-4-email nurture cadence)](2020-08-17-yt-6qSVBtlBvzQ.md) — seo, content-marketing, analytics-cro
 
 ---
-_661 videos ingested (L2) so far._
+_669 videos ingested (L2) so far._

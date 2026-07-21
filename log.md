@@ -4004,3 +4004,34 @@ COMPLETES; Content Marketing Unlocked STARTS) — a sub-era checkpoint, not a
 full-channel completion, so not itself a driver-triggered `>>> CHECKPOINT`. Ingest
 batches since last synthesis now at 6/10 per the driver; continuing @neilpatel P2 next
 iteration.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2020-07-30→08-17, Content Marketing Unlocked weeks 1-4 COMPLETE, cont. 62)
+
+Batch of 8, all captions fetched successfully (no rate-limiting). Completes the
+**Content Marketing Unlocked** course, launched in the prior batch
+([[wiki/sources/2020-07-27-yt-9_rULUbLqE4]]): week 1 (content-marketing history +
+keyword research via Ubersuggest; refreshing/optimizing existing content),
+week 2 (18 content types survey incl. an infographic-campaign case study and a
+Marketing School / Eric Siu podcast mention; the topical-cluster/pillar-page/E-A-T
+model), week 3 (zero-budget promotion tactics — Airbnb/Dropbox/Buffer case studies,
+Hello Bar; an 18-link-building-strategies deep dive with a Credit Karma case study
+and a Mailshake-based outreach workflow; Google Analytics/Search Console/Tag
+Manager/Ubersuggest tracking setup), and week 4 lesson 1 (brand as an SEO ranking
+signal, Eric Schmidt/Matt Cutts quotes, the "Rule of Seven" branding heuristic,
+CRO page-priority list, a stated 3-4-educational-email-then-sell nurture cadence).
+All 8 videos solo Neil-fronted course lessons — no other speakers, no attribution
+concerns. No captions issues, no duplicates, no skips.
+
+Ledger: 8 rows → L2 (`yt-tDvBdnLZLp4`, `yt-W13rm0OZ6dI`, `yt-U0ekBz_wWwI`,
+`yt-nuU_yXiTDv4`, `yt-mbIt8Sd2N2w`, `yt-SxEEg1tOV70`, `yt-NRU7Bsb9OEo`,
+`yt-6qSVBtlBvzQ`). youtube-index.md footer 661→669; index.md count 661→669.
+
+Synthesis notes: no fundamentally new frameworks — this batch is mostly tactical
+tutorial content (Ubersuggest workflows, analytics setup) already well-represented
+in persona/beliefs.md. Two items worth a synthesis-pass look: (1) the "Rule of
+Seven" branding heuristic recurs here (2020-08-17) after first appearing in the
+2019-05-27 batch ("rule-of-7") — worth confirming persona/beliefs.md has it dated
+to its earliest (2019) appearance rather than this one; (2) a minor personal aside
+(drove a "1989 Toyota Camry... forever") in the 2020-08-10 source page, flagged ★
+as a rare biographical/voice detail, not yet promoted. Ingest batches since last
+synthesis now at 7/10 per the driver; continuing @neilpatel P2 next iteration.
