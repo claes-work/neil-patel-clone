@@ -5199,3 +5199,41 @@ since synthesis pass 11; checkpoint at 10 — not due. Persona last touched by s
 pass 11 (2 batches before this one at status-check time, 4 now) — not yet stale by the
 ≥10-batch rule; no P1 rows are open to retrigger the drain-condition; continue
 monitoring the two-anecdote / two-framework backlog above for the next checkpoint.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2022-02-07→02-24 solo tactical era: 7-social-content-ideas / WordPress-speed-5-steps / paid-ads-vs-SEO-lead-gen / plan-a-week-of-content-in-60-minutes / $1500-Facebook-vs-Google-Ads / social-media-trends-2023[title mismatch, spoken 2022] / Facebook-engagement-2023[title mismatch, spoken 2022] / Instagram-strategy-0-to-290K, cont. 90)
+
+8/8 captions fetched successfully, no rate-limiting. All 8 videos OK (solo tactical
+shorts-length long-form, no promo/joke/other-people-only videos to skip). Ledger rows
+set to L2 with domains/notes; rows inserted into wiki/sources/youtube-index.md in date
+order, footer bumped 884→892, index.md count bumped to match. Two videos in this batch
+carry a title/content date mismatch (title says "2023," spoken content and publish date
+say 2022) — flagged inline on both source pages, same pattern previously logged on
+other @neilpatel videos.
+
+Synthesis notes: three new personal/biographical color points worth folding into
+persona/biography.md or voice.md at the next pass — (1) his social team quietly
+launched and ran his TikTok account and surprised him with it around a past Christmas —
+he was not initially aware he "had a TikTok," a concrete data point on his own
+delegate-the-platforms operating style (see [[2022-02-19-yt-HvUrSEuhXuU]]); (2) a
+personal posting-time detail — he gets poor engagement posting at 6pm and strong
+engagement posting at 5am Pacific, used as a data-driven-scheduling example (see
+[[2022-02-21-yt-HvOjcigOsQw]]); (3) a QVC/home-shopping-network anecdote about his mom
+calling in to buy from TV, used as the historical analogy for Facebook Live selling
+(see [[2022-02-19-yt-HvUrSEuhXuU]]). Also a quantified, fairly complete growth
+framework — self-attributes the bulk of his own Instagram growth (0 to 290K over ~2
+years) to live-interview partnerships specifically (not content type/volume), with a
+concrete ~8% personal outreach hit-rate and a follower-count-staged tactic sequence
+(partner-with-peers → guest-on-bigger-accounts → ask-for-reciprocal-shoutouts) — a good
+candidate for its own wiki/topics/social-media/ page, similar in shape to the "boring
+product" and "6 stages of learning digital marketing" frameworks still in the synthesis
+backlog from the last two batches. Everything else (Ubersuggest SEO-analyzer workflow,
+WordPress/CDN/lazy-loading site-speed tactics, Forrester/HubSpot/Backlinko/WordStream/
+eMarketer/Hootsuite/Statista/Meta third-party stats, Facebook Groups/Stories tactics,
+weekly-content-planning process) reinforces existing doctrine rather than adding new
+claims. 5 ingest batches since synthesis pass 11; checkpoint at 10 — not due. Persona
+last touched by synthesis pass 11 (5 batches before this one) — not yet stale by the
+≥10-batch rule; no P1 rows are open to retrigger the drain-condition; continue
+monitoring the growing backlog (Honda-Odyssey/grandmother anecdotes, boring-product
+framework, NP-Digital sales-tool-ROI case study, 6-Stages framework, TikTok-delegation/
+5am-posting/QVC anecdotes, Instagram-partnership-growth framework) for the next
+checkpoint.
