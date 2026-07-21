@@ -992,6 +992,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2022-09-22 — [How to Outrank a Large Corporate When You Don't Have the Budget or Manpower (infographics/Kissmetrics repeat, schema markup + 10 title-tag CTR stats)](2022-09-22-yt-BLxA_fhGEn8.md) — seo
 - 2022-09-24 — [The Long Term Marketing Tactic You Need to Start Focusing On (partnerships playbook; NP Digital/design-agency example; WP Engine webinar)](2022-09-24-yt-ji7XSKC_ayc.md) — agency-entrepreneurship, content-marketing
 - 2022-09-26 — [The Best Digital Marketing Strategy You've Never Tried (push notifications via subscribers.com; drip sequence; agency-of-the-year self-cite)](2022-09-26-yt-Y7LL4wowKqw.md) — email-marketing, content-marketing
+- 2022-09-29 — [7 Lessons Learn From Hiring a CEO That Is Smarter Than Me (never-be-your-own-CEO business model; 7 hiring lessons; hard-work-over-pedigree)](2022-09-29-yt-irhoV0lg1YA.md) — agency-entrepreneurship
+- 2022-10-01 — [Digital Marketing Strategies That Just Work (email list, landing pages, upsells, podcasting, paid-ads starter playbook)](2022-10-01-yt-3rrcT0wD7Ik.md) — email-marketing, content-marketing, paid-ads
+- 2022-10-03 — [Rethink Your Marketing With This Unorthodox Concept (mother's free-teaching origin story new detail; give-away-free-then-upsell framework; Ubersuggest/Orabrush examples) ★](2022-10-03-yt-Nhx78Ecj2D4.md) ★ — agency-entrepreneurship, content-marketing
+- 2022-10-06 — [7 Ways For Your Co-workers to Help You With Marketing (employee-advocacy playbook; 700+ employees marker)](2022-10-06-yt-KZhl0jg9ZAk.md) — content-marketing, social-media, agency-entrepreneurship
+- 2022-10-08 — [The Easiest Way to Get Clients For Your Ad Agency (Crunchbase-teardown cold-outreach tactic; hunter.io; sixth-fastest-agency Adweek repeat)](2022-10-08-yt-zUwK51XBMEI.md) — agency-entrepreneurship, content-marketing
+- 2022-10-10 — [Free Resources to Learn Instagram Marketing (resource roundup, low claim density)](2022-10-10-yt-fkqCz12pGpI.md) — social-media
+- 2022-10-15 — [The Biggest Social Media Opportunity That You Aren't Leveraging (LinkedIn low-competition-content thesis; carousels; 13K-impressions self-example)](2022-10-15-yt-PF14kyW1LP4.md) — social-media, content-marketing
 
 ---
-_979 videos ingested (L2) so far._
+_986 videos ingested (L2) so far._

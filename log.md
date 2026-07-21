@@ -5746,3 +5746,50 @@ with only minor new benchmarks (300+-word page-length minimum; a "<10%" personal
 selling-ratio variant) — not flagged ★.
 
 6 ingest batches accumulated since synthesis pass 12 (checkpoint at 10) — not yet due.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2022-09-29→10-15, solo tactical era, cont. 102)
+
+Batch of 8 @neilpatel long-form videos, 2022-09-29 through 2022-10-15 (one no-captions).
+7 ok, 1 marked no-captions. Ledger rows set to L2 (or skipped/no-captions); youtube-index.md
++ index.md counts bumped to 986.
+
+Titles: "7 Lessons Learn From Hiring a CEO That Is Smarter Than Me" (irhoV0lg1YA),
+"Digital Marketing Strategies That Just Work" (3rrcT0wD7Ik), "Rethink Your Marketing
+With This Unorthodox Concept" (Nhx78Ecj2D4), "7 Ways For Your Co-workers to Help You
+With Marketing" (KZhl0jg9ZAk), "The Easiest Way to Get Clients For Your Ad Agency"
+(zUwK51XBMEI), "Free Resources to Learn Instagram Marketing" (fkqCz12pGpI), "The
+Biggest Social Media Opportunity That You Aren't Leveraging" (PF14kyW1LP4). No-captions:
+yt-5y6iR0TRqu0 (marked, skipped, never Whisper without approval).
+
+Synthesis notes: (1) ★ "Rethink Your Marketing With This Unorthodox Concept"
+(Nhx78Ecj2D4, 2022-10-03) elaborates the existing "immigrant-mother work-ethic story"
+(currently sourced in persona/biography.md from a 2018-11-15 video) with a previously
+undocumented specific: the mother's six-months-free-teaching deal with the preschool
+also secured free attendance there for Neil and his sister during the trial period.
+Flagged for persona/biography.md at the next synthesis pass as an elaboration, not a
+new fact source. (2) "7 Lessons Learn From Hiring a CEO..." (irhoV0lg1YA) and "7 Ways
+For Your Co-workers to Help You With Marketing" (KZhl0jg9ZAk) each restate already-
+synthesized hiring/culture and employee-advocacy beliefs with sharper phrasing; the
+latter's "over 700 plus employees" (2022-10-06) headcount marker slots consistently
+between the existing 2022-01-03 ("over 500") and 2022-03-21 ("~640") markers in
+persona/biography.md — no contradiction, not flagged ★. (3) "The Easiest Way to Get
+Clients For Your Ad Agency" (zUwK51XBMEI) introduces a concrete, not-yet-documented
+Crunchbase-teardown cold-outreach tactic (target companies that raised up to ~$20M;
+free specific teardown; email investors + founder together; hunter.io for contacts;
+~1-in-4-to-5 claimed conversion) — worth a short addition to
+wiki/topics/agency-entrepreneurship/ at the next synthesis pass; its "sixth
+fastest-growing ad agency" Adweek self-cite repeats the 2022-09-15 source, not new.
+(4) "Digital Marketing Strategies That Just Work" (3rrcT0wD7Ik) is a generic 5-strategy
+beginner roundup (list-building, landing pages, upsells, podcasting, paid ads) already
+well-covered — no new persona material, minor unresolved citation ("Neil Shafer"
+podcast-demographic stat, likely a transcript mis-hearing). (5) "The Biggest Social
+Media Opportunity That You Aren't Leveraging" (PF14kyW1LP4) adds a LinkedIn
+low-competition-content thesis (<1% of LinkedIn's 830M+ users create content per
+Kinsta, vs. ~87% of Instagram's per True List) plus a concrete self-reported
+13,000-impressions LinkedIn video-performance data point — worth a short mention in
+wiki/topics/social-media/ if not already covered; also surfaces a recurring named third
+party ("my friend Brian Dean") worth checking against wiki/entities/ if he appears
+again. (6) "Free Resources to Learn Instagram Marketing" (fkqCz12pGpI) is a pure
+third-party resource list — no persona-training material.
+
+7 ingest batches accumulated since synthesis pass 12 (checkpoint at 10) — not yet due.
