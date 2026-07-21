@@ -4516,3 +4516,46 @@ tools-are-content-marketing doctrine; and the 10/40/20/30 content-time-allocatio
 breakdown as a more complete version of the existing content-operation-cadence
 material. The domain-authority-debunk and competitor-outrank-workflow videos are
 mostly reinforcement of already-promoted beliefs (not flagged as new).
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2021-04-05→04-22 solo tactical era, cont. 74)
+
+Ingested 8 more @neilpatel P2 rows, dated 2021-04-05 through 2021-04-22 — dispatched
+under the roster autopilot, so all source pages were written directly by one agent,
+sequentially, per the collapsed-nesting rule (no per-video subagents). All eight are
+solo, Neil-fronted tactical tutorials — no promo trailers, no other-people-only
+content. Videos: a "How to Build a Global Brand" personal-branding checklist (7 facts:
+blogging, omni-channel presence, be-yourself, video, personal connection, repurposing,
+consistency; **QA flag — title/content mismatch**, the video is a general branding
+checklist with no international-specific tactics despite the "global"/"internationally"
+title; notable for an explicit first-person style contrast with Gary Vaynerchuk — "I'm
+not Gary Vee... I try to do what's me"); a six-point on-site blog-CTA placement system
+(homepage-first-link, yes/no interstitial, sticky top bar, bottom bar, in-post CTAs,
+sidebar CTAs) with a self-reported +30% conversion lift from in-context lead forms vs.
+routing to a separate page, and a Hello Bar tool plug; 10 quantified title-tag CTR
+tactics (questions +14.1%, exact-match URL +45%, emotional language +17.3%, etc.)
+framed through the Dave Brailsford "marginal gains" analogy and Rand Fishkin's
+pogo-sticking experiment; the "37,186,336 views without going viral" case reinforcing
+the existing volume-over-virality doctrine, with a live Ubersuggest competitor-keyword
+video-ideation demo (mined Copyblogger + Content Marketing Institute); a long-tail-vs-
+head-term SEO argument (593M results for 135K "SEO" searches) with a live GA
+real-time-visitors proof point; a YouTube-growth video naming a specific mechanism —
+promotion within a video's first 24 hours (email/push/social) drives the YouTube
+algorithm's subsequent ranking — plus a "say the keyword aloud in-video" ranking claim
+★; a beginner keyword-list workflow (Ubersuggest Keyword Ideas → named, saved lists per
+post) with a quantified ~5%-max-overlap anti-cannibalization rule; and a live SEO
+Analyzer walkthrough fixing real thin-content and duplicate-meta-description errors on
+his own multi-language site. All Neil-attributed, single-speaker solo videos; no
+guest/interviewer material to gate. No contradictions found vs. existing wiki. Ledger:
+8 rows → L2. youtube-index.md: 757 → 765. Synthesis debt now 9 ingest batches since
+synthesis pass 9 (checkpoint at 10) — not yet due; the next batch should trigger the
+Stage S checkpoint.
+
+Synthesis notes: genuinely new — the first-24-hours-promotion-drives-YouTube-ranking
+mechanism (★, more mechanistic than prior general promotion advice) plus the
+say-the-keyword-aloud-in-video ranking tactic; the explicit Gary Vaynerchuk
+style-contrast quote as a new voice/self-positioning datapoint; the six-point blog-CTA
+placement system with the +30% in-context-lead-form lift figure; the Brailsford
+marginal-gains / Fishkin pogo-sticking framing pairing for title-tag CTR tactics (10
+quantified percentages); and the ~5%-max-keyword-overlap-per-post anti-cannibalization
+rule. The long-tail-vs-head-term SEO and beginner-keyword-research videos are mostly
+restatement of already-promoted material (not flagged as new).

@@ -770,6 +770,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2021-03-29 — [How to Create The Ideal Blog Homepage (three-part homepage template: above-fold offer / credibility / numbered getting-started pathway)](2021-03-29-yt-UHuz6oJ_3wE.md) — content-marketing, analytics-cro
 - 2021-04-01 — [How to Generate 355 Backlinks With 29 Dollars (cheap CodeCanyon tool-sourcing tactic; anti-link-buying disclaimer)](2021-04-01-yt-JlxTM_DKILs.md) — seo, content-marketing
 - 2021-04-03 — [How to Come Up With Content Ideas That Drive Traffic (keyword-gap ideation workflow; 10/40/20/30 content-time allocation)](2021-04-03-yt-7l5btHy2rxQ.md) — content-marketing, seo
+- 2021-04-05 — [How to Build a Global Brand [title mismatch, content=general personal-branding checklist] (7 branding facts; explicit Gary Vaynerchuk style contrast; blog/omni-channel traffic breakdown)](2021-04-05-yt-kBUJ1lPUi8E.md) — content-marketing, social-media, agency-entrepreneurship
+- 2021-04-08 — [How to Convert Blog Readers Into Customers (six-point on-site CTA placement system; +30% in-context lead-form lift; Hello Bar)](2021-04-08-yt-3MGT8jnzetk.md) — content-marketing, analytics-cro
+- 2021-04-10 — [10 Title Tag Tweaks That'll Boost Your SEO Traffic (10 quantified CTR tactics; Brailsford marginal-gains framing; Fishkin pogo-sticking anecdote)](2021-04-10-yt-K2d4BLtQLR0.md) — seo
+- 2021-04-12 — [How I Generated 37,186,336 Video Views Without Going Viral (volume-over-virality doctrine; Ubersuggest competitor-keyword video-ideation demo)](2021-04-12-yt-lzb1OhuldXY.md) — seo, content-marketing, social-media
+- 2021-04-15 — [The Painful Truth About SEO (head-term saturation vs. long-tail strategy; live Ubersuggest + GA real-time demo)](2021-04-15-yt-IAJIJIDss7E.md) — seo
+- 2021-04-17 — [The Secret to Being Popular on YouTube (first-24-hours promotion-drives-ranking mechanism; say-the-keyword-aloud tactic) ★](2021-04-17-yt-3nykPLWfPu4.md) ★ — social-media, seo, email-marketing
+- 2021-04-19 — [SEO For Beginners - The Easiest Way to Generate Traffic (per-post keyword-list workflow; ~5% max keyword overlap between posts)](2021-04-19-yt-7LAkDz3iyGs.md) — seo, content-marketing
+- 2021-04-22 — [The SEO Checklist - How to Fix All of Your SEO Errors (SEO Analyzer tool walkthrough; live thin-content + duplicate-meta fixes on his own site)](2021-04-22-yt-vbJp-jFMXEE.md) — seo
 
 ---
-_757 videos ingested (L2) so far._
+_765 videos ingested (L2) so far._

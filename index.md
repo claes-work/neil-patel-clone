@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-21 (@neilpatel batch — 8 P2 long-form L2, 2021-03-18→2021-04-03, cont. 73: eight solo SEO/CRO/content tactical videos (domain-authority debunk demo, four-part competitor-outrank workflow, AMP sticky-bar monetization, a 714K-email quiz-funnel framework, a GA/GSC report checklist, a three-part blog-homepage template, cheap-tool link-magnet sourcing, and a keyword-gap content-ideation workflow with a 10/40/20/30 content-time split); 757 videos L2. Full change history: see log.md (append-only) and pipeline/synthesis-state.md for synthesis-pass detail; this header now tracks only the latest batch to avoid unbounded growth.)_
+_Last updated: 2026-07-21 (@neilpatel batch — 8 P2 long-form L2, 2021-04-05→2021-04-22, cont. 74: eight solo SEO/content/branding tactical videos (a personal-branding checklist with an explicit Gary Vaynerchuk style contrast [title mismatch: not actually international-focused], a six-point blog-CTA placement system, 10 quantified title-tag CTR tactics, the "37M views without going viral" volume-over-virality case, long-tail-vs-head-term SEO, a first-24-hours YouTube-ranking mechanism ★, a beginner keyword-list workflow with a ~5%-overlap rule, and a live SEO Analyzer thin-content/duplicate-meta walkthrough); 765 videos L2. Full change history: see log.md (append-only) and pipeline/synthesis-state.md for synthesis-pass detail; this header now tracks only the latest batch to avoid unbounded growth.)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life/career timeline (England → Orange County → Crazy Egg/KISSmetrics → NP Digital → Ubersuggest → Marketing School), registry/court-verified vs self-reported marked per claim.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe.
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 757 videos ingested (L2).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 765 videos ingested (L2).
 
 ## Topics
 
