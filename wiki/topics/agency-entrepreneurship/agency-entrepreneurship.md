@@ -456,6 +456,105 @@ hiring/culture, and fundraising. Dated seeds; several carry an explicit through-
   in the same telling he credits learning **entrepreneurship from his mom**
   ([[2018-05-29-yt-w0AjQoLrKfw]]). Recorded **neutrally, self-reported**; see [[persona/biography|biography]].
 
+## 2022-06 → 2022-12 solo-era operating principles — the freemium-to-services thesis, a speaking-fee belief-evolution arc & the Crunchbase-teardown extension (@neilpatel P2, synthesis pass 13)
+
+- **"My Favorite Business Hack" — the freemium-to-services business model, named and reasoned
+  (2022-07-11, ★).** His fullest statement of why Ubersuggest is "95 plus percent" free while
+  direct competitors charge ~$99/month: **more money exists in marketing services than in
+  marketing software**. Supports it with a company-scale comparison — HubSpot ("probably the
+  biggest marketing tool out there") does "a bit over a billion dollars a year," while
+  marketing-service holding companies (Dentsu, WPP, Omnicom) each generate "10 plus billion" —
+  and gives an explicit rule for what to give away: it must be genuinely valuable (something
+  competitors charge meaningfully for) **and** directly related to the higher-ticket offer (his
+  counterexample: free payroll software wouldn't work as a lead-in to marketing services, wrong
+  audience overlap). Cites **Orabrush** (free tongue cleaner → upsell to teeth whitening/tooth
+  care, eventually sold) as a non-marketing-industry parallel — the same case study recurs in the
+  2022-10-03 mother-origin-story retelling below. This is the fullest, most explicit statement yet
+  of the free-tool-as-acquisition-channel thesis first flagged in synthesis pass 6
+  ([[2022-07-11-yt-9cRjTh4yZDc]]).
+  > "It's because there's more money in marketing services than there is in marketing software...
+  > there's not a lot of HubSpots, but there's a lot of marketing agencies that generate a ton of
+  > money." [[2022-07-11-yt-9cRjTh4yZDc]]
+  > "Make sure whatever you give away for free is super valuable, and everyone else charges for
+  > it... And make sure you can upsell those people into something bigger." [[2022-07-11-yt-9cRjTh4yZDc]]
+- **The immigrant-mother origin story, elaborated with a new specific — free preschool attendance
+  for Neil and his sister (2022-10-03, ★).** Retells the existing "learned entrepreneurship from
+  my mom" story (sourced in [[../../persona/biography|persona/biography]] from a 2018-11-15 video)
+  with a previously undocumented detail: his mother's deal to teach free for six months at a local
+  preschool **also secured free attendance there for Neil and his sister** during the trial period,
+  since she wasn't being paid and couldn't otherwise afford daycare. Neil explicitly frames this as
+  the origin of the give-away-then-upsell philosophy, mapping it directly onto the Ubersuggate
+  ($120K acquisition, 2017) and Orabrush examples ([[2022-10-03-yt-Nhx78Ecj2D4]]).
+  > "In essence, what my mom did was take the free approach. She got her foot in the door by
+  > offering something for free, and eventually, she up-sold herself." [[2022-10-03-yt-Nhx78Ecj2D4]]
+- **"Why I Speak at Conferences for Free Now" — a three-point, dated speaking-fee belief-evolution
+  arc (2022-08-11, ★).** Names and dates the turning point between his 2019 $25-50K-per-talk
+  speaking-fee era (25-30 gigs/yr pre-COVID, see
+  [[../../persona/biography|persona/biography]]) and speaking for free: historical fees were
+  **$50K domestic / $100K international**; the reasoning shift was explicit Elon-Musk/Bill-Gates-
+  tier-event access being worth more than the fee itself, plus a self-critical "don't be
+  shortsighted" lesson. Chains as a three-point dated arc with the 2019 fee era and the 2026
+  "conferences are my #1 needle-mover, three-for-one" claim already in the corpus
+  ([[2022-08-11-yt-RxF1hZbE1Ko]]).
+- **The Crunchbase-teardown cold-outreach playbook, extended with a size ceiling and a
+  conversion-rate figure (2022-10-08).** A concrete client-acquisition tactic: target companies
+  that raised **up to ~$20M** on Crunchbase (works up to that size, not on $100M+-raised
+  corporations), do a free, highly specific "teardown" of what they're doing wrong in your service
+  area (screenshots + step-by-step fixes, not just "hire me"), then email it to **both the
+  investors and the founder in the same thread** — higher response rate than the founder alone,
+  per Neil's own testing. States a self-reported conversion rate of roughly **1-in-4-to-5 emails**.
+  Extends the existing playbook (synthesis passes 7, 10, 12) with its first size-ceiling-plus-
+  conversion-rate combination in one source ([[2022-10-08-yt-zUwK51XBMEI]]).
+  > "If you send the email off to both the investors and the founder in the same thread, there's a
+  > good chance that they will respond, much higher than if you just email the founder alone, from
+  > what I tested." [[2022-10-08-yt-zUwK51XBMEI]]
+- **LinkedIn talent-poaching: ask if they know someone else, don't pitch the job directly
+  (2022-10-31).** A recruiting-outreach refinement: a direct "do you want a job" pitch
+  underperforms; asking whether the target **knows anyone interested in the role** gets a much
+  higher response rate and often surfaces the target's own latent interest — the same mechanism
+  restated in the 2022-07-09 hiring video below ([[2022-10-31-yt-JsaGGtzj-Yc]]).
+- **"How to Build an Amazing Marketing Team" — the tenure/promotion recruiting mechanism, merged
+  with the hire-people-twice heuristic (2022-07-09).** Refines the existing "hire people who've
+  done it twice" philosophy ([[2022-06-09-yt-bVw2v0KjFtM]]) with a concrete verification mechanism:
+  source candidates from named competitors via Ubersuggest + LinkedIn, then use **tenure (3-6+
+  years) plus visible promotion history** as a proxy for real performance, since interview
+  self-reports of past results can't be independently checked. Culture fit is treated as an
+  independent hard gate regardless of track record. Interview philosophy: ask specific,
+  executional questions ("how would you fix our SEO") to filter for "players," not "coaches"
+  ([[2022-07-09-yt-uUkR0xvHFKY]]).
+  > "You're not just looking for coaches, you're looking for players." [[2022-07-09-yt-uUkR0xvHFKY]]
+- **A personal motivation/philanthropy statement — "hit a number as a sport," donate-not-inherit
+  (2022-06-13, ★).** An unusually reflective, personal video: Neil frames his own drive to keep
+  pushing revenue as **"a sport,"** not personal enrichment (cites his plain white t-shirts and
+  Honda Odyssey as evidence of low personal consumption), and states he and his wife intend to
+  **donate essentially everything they don't need** rather than leave a large inheritance — "my
+  kids can go earn it, just like everyone else." Says only one person he's worked with (his
+  **brother-in-law**) shares this pure number-chasing motivation. Leadership lesson: since most
+  people are driven by personal material goals (homes, cars, causes) rather than an abstract
+  number, a founder should identify and lean into *each person's* individual goal — illustrated
+  with three named colleagues (Mike Kamo: an eight-figure Las Vegas home; "Caio": a
+  million-plus-dollar home; Nick Roshan: restoring/collecting old cars). See
+  [[../../persona/beliefs|persona/beliefs]] and [[../../persona/biography|persona/biography]]
+  ([[2022-06-13-yt-8p7SX5iDTBI]]).
+  > "It's because, to me, it's a sport, and I just have to hit a number. My wife and I are going to
+  > donate all our money anyways... My kids can go earn it, just like everyone else."
+  > [[2022-06-13-yt-8p7SX5iDTBI]]
+- **"Here's Why I Don't Blog As Often as I Used To" — a fully quantified 2022 content-production
+  system (2022-07-02, ★).** Fuller entry lives on
+  [[../content-marketing/content-marketing|content-marketing]]; cross-referenced here as an
+  agency-scale operating detail: ~1 blog post/week (down from a ~4/day peak), 3 long-form
+  videos/week, 7 short-form videos/week, a daily podcast episode, heavily **batched** production
+  (podcast recorded 10-at-a-time; video shot in one monthly sitting) — self-reports ~640,000
+  YouTube views/month and podcast revenue "over $1 million a month," attributed to lower channel
+  competition rather than superior marketing skill ([[2022-07-02-yt-m2j01xvvE0o]]).
+- **New NP Digital webinar co-hosting partners + a five-touch reminder cadence (2022-12-10).**
+  Self-reports NP Digital generates **1,000+ leads/month** from webinars; names **BigCommerce** and
+  **WP Engine** as specific past co-webinar partners (splitting audience exposure and production
+  50/50), and lays out a precise five-touch promotional cadence: an email a few weeks out, a
+  follow-up three days before, a same-day email, an SMS reminder the day before, and an SMS 15
+  minutes before, plus a no-show follow-up offering the recording
+  ([[2022-12-10-yt-DjXRQo4K8ss]]).
+
 ## Key source pages
 
 - [[2016-11-25-yt--dCls0VoY58]] — "Learn REAL Digital Marketing In Just 5 Minutes a Day":
@@ -558,6 +657,17 @@ hiring/culture, and fundraising. Dated seeds; several carry an explicit through-
 - [[2022-05-09-yt-9Gb8XCjNh-I]] — ★ "Vet the people, not the brand" hiring rule; $100M-raised goal-misalignment anecdote.
 - [[2022-05-23-yt-Us6-8JrIHtM]] — ★ RIYA Crunchbase-teardown case; ~$100M-raised cold-outreach ceiling.
 - [[2022-06-02-yt-8QxpDq18Xy8]] — Hire-twice heuristic restated; Honda Odyssey anti-flashy detail.
+
+### 2022-06 → 2022-12 solo-era operating principles (@neilpatel P2, synthesis pass 13)
+- [[2022-06-13-yt-8p7SX5iDTBI]] — ★ Personal motivation/philanthropy statement ("hit a number as a sport," donate-not-inherit).
+- [[2022-07-02-yt-m2j01xvvE0o]] — ★ Quantified 2022 content-production system (batching; self-reported YouTube/podcast revenue).
+- [[2022-07-09-yt-uUkR0xvHFKY]] — Tenure/promotion recruiting mechanism merged with hire-twice heuristic.
+- [[2022-07-11-yt-9cRjTh4yZDc]] — ★ Freemium-to-services business model, named (Ubersuggest, HubSpot-vs-holdco, Orabrush).
+- [[2022-08-11-yt-RxF1hZbE1Ko]] — ★ "Why I Speak at Conferences for Free Now" — 2019→2022→2026 speaking-fee arc.
+- [[2022-10-03-yt-Nhx78Ecj2D4]] — ★ Immigrant-mother origin story elaborated (free preschool attendance clause).
+- [[2022-10-08-yt-zUwK51XBMEI]] — Crunchbase-teardown playbook extended (up-to-$20M ceiling; 1-in-4-5 conversion).
+- [[2022-10-31-yt-JsaGGtzj-Yc]] — LinkedIn talent-poaching outreach tactic.
+- [[2022-12-10-yt-DjXRQo4K8ss]] — Webinar co-hosting partners (BigCommerce, WP Engine) + five-touch reminder cadence.
 
 ## 2018-H2 → 2019 solo-era operating principles (@neilpatel P2)
 

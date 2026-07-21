@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-21
-sources: 6
+sources: 7
 ---
 
 # Appearance
@@ -67,6 +67,15 @@ mark every entry's evidence type.
   analogy) — consistent with, and reinforcing, the 2018 Ferrari-test-drive/driving-anxiety material
   above. 🗣️ ([[../wiki/sources/2022-01-24-yt-d-IieuMzknk]], [[../wiki/sources/2022-06-02-yt-8QxpDq18Xy8]])
   > "I don't have a fancy car, I drive a Honda Odyssey." [[../wiki/sources/2022-06-02-yt-8QxpDq18Xy8]]
+
+## 2022-09 addition (synthesis pass 13)
+
+- **A variant intermittent-fasting eating window — first meal at noon (self-narrated, 2022-09-19).**
+  🗣️ A granular daily-routine account (see [[biography]]) restates the HIIT + intermittent-fasting
+  routine logged above, but with a **first meal at noon**, avoiding sugar and coffee — a different
+  eating window than the previously logged **11am-6pm** window from the ~2018/2021-published
+  source. Recorded as a variant to reconcile (windows plausibly shift over years), not a
+  contradiction. ([[../wiki/sources/2022-09-19-yt-EvOP7War6Jw]])
 
 _(Observed 👁️ description — build, wardrobe, on-camera setting across years — still to be added
 from watched-video samples.)_

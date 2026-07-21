@@ -1018,6 +1018,85 @@ playbook, with a few concrete first-party figures and named-mechanism citations 
   strong user-experience metrics (time on site, page speed, low back-button rate) alone
   ([[2021-12-04-yt-YIxUedvNi1g]]).
 
+## 2022-06 → 2022-12 solo-era SEO — Battlefield Bypass revisited, a CTR-stat block, international/Amazon sub-verticals & the "almost ranking" tactic (@neilpatel P2, synthesis pass 13)
+
+- **"Battlefield Bypass" black-hat retelling, now named and quantified (2022-07-21, ★).** A new,
+  fuller telling of the well-documented black-hat-SEO origin story (2018 sources): names the
+  acquired expired domain **"Battlefield Bypass"** — a former U.S. national-park/war-memorial
+  site with naturally-earned authoritative backlinks — converted into an online-casino affiliate
+  site that reached top-3 Google rankings for "online casino" within months, quantified at
+  **"hundreds of thousands" of dollars a month ("millions of dollars a year")** before Google
+  removed all its rankings. Elaborates, rather than conflicts with, the corpus's existing
+  "civil-war .edu domain" phrasing from 2018 — recorded as additional detail on the same
+  anecdote, not a new incident. See [[../../persona/biography|persona/biography]]
+  ([[2022-07-21-yt-j-hZ_8XWwY0]]).
+  > "Within months, I was ranking the top three positions on Google for the term 'online casino.'
+  > That keyword is worth hundreds and thousands of dollars a month in affiliate revenue... That's
+  > millions of dollars a year." [[2022-07-21-yt-j-hZ_8XWwY0]]
+- **The "almost ranking" Search Console tactic + the Ubersuggest AI-writer workflow (2022-10-27,
+  ★).** A concrete quick-win tactic: filter Search Console's Search Results report by **Average
+  Position 11-20**, then reinforce those exact phrases in the title tag, meta description, and
+  body content to push page-two rankings to page one (301-redirect + internal-link updates if the
+  URL itself changes). Paired with the **Ubersuggest AI writer** (Lab section) workflow — keyword
+  in, title/meta-description/heading suggestions plus a draft article out — explicitly framed as a
+  head-start, not a publish-ready generator ("I wouldn't recommend publishing that article...in
+  its current state"). Also self-reports adding the free Ubersuggest tool to his own site
+  increased his backlink count by **24,453 referring domains** ([[2022-10-27-yt-rKgHxZRLXg4]]).
+  > "I wouldn't recommend publishing that article, especially in its current state, but you can use
+  > it as a starting ground... The whole purpose of this tool isn't to write the content for you,
+  > instead, it's to give you a head start." [[2022-10-27-yt-rKgHxZRLXg4]]
+- **A CTR-lift stat block for titles and meta descriptions, cross-linked as one Ubersuggest dataset
+  (2022-10-24 → 2022-10-27).** Two sources give overlapping Ubersuggest-derived CTR figures —
+  recorded together since the **+5.8%-for-having-any-meta-description** figure matches exactly
+  between them, suggesting the same underlying dataset sliced two ways (title-tag-focused vs.
+  meta-description-focused). Title-tag figures (2022-10-27): questions **+14.1%**; 15-40 characters
+  **+8.6%**; exact-query match in the URL up to **+45%**; power words (e.g. "effortless") **+13.9%**;
+  emotional titles **+7.3%**; titles with a year **+4.9%**; curiosity-gap titles **+5.9%**;
+  education-styled titles **+10.4%**. Meta-description-focused figures (2022-10-24, tool tracks
+  "over 900 million domains"): 119-135-character descriptions **+3.4%**; exact-query-match
+  description **+5.7%**; power words **+2.18%**; emotional descriptions **+2-3%**; any description
+  present **+5.8%** ([[2022-10-27-yt-rKgHxZRLXg4]], [[2022-10-24-yt-9LMc75qLKXc]]).
+- **International SEO as a distinct sub-topic — hreflang, region-specific link building & the Nike
+  brand-query example (2022-10-22).** A four-part international-SEO playbook: transcribe/adapt
+  content per region rather than translate word-for-word; implement hreflang tags (recommends
+  Aleyda Solis's hreflang-tag generator tool); build region-specific backlinks (Upwork-hired local
+  link-builders or an agency); generate PR to build brand-name search volume, illustrated with a
+  Nike comparison (7M+ monthly US searches for "Nike" vs. under 2M for "shoes" — brand strength as
+  a ranking signal). Self-reports **"over 82%"** of neilpatel.com/NP Digital traffic comes from
+  outside the US, and warns that expanding into regions the business can't actually serve well
+  drives pogo-sticking that hurts overall SEO ([[2022-10-22-yt-KQkcaSZA9os]]).
+- **Amazon SEO as a distinct marketplace sub-vertical (2022-11-14).** Frames Amazon's ranking
+  algorithm as differently incentivized than Google's: Amazon profits from every sale, so it
+  explicitly favors listings with higher **sales velocity**, not just keyword relevance. Six
+  tactical tips (title via Amazon's own category-specific fields, benefit-led description, one
+  benefit per bullet within Amazon's 200-character bullet cap, multi-angle studio-quality photos,
+  Ubersuggest Keyword Ideas for term research, and genuine-review generation — explicitly
+  distinguished from fake reviews) ([[2022-11-14-yt-Hskgchw9-Po]]).
+  > "With Amazon SEO, just like their paid ads, if people click on them and they buy, they make
+  > more money, so they want to help you rank higher because it helps them make more money."
+  > [[2022-11-14-yt-Hskgchw9-Po]]
+- **Two reusable link/ranking tactics: buy-and-merge an unmonetized blog, and the YouTube
+  first-24-hours engineered spike (2022-08-29, ★).** From "Top 5 Favorite SEO Hacks": (1) buy an
+  existing, well-ranked-but-unmonetized niche blog (found via Ubersuggest traffic data) and merge
+  it into your own site via 301 redirects for a near-instant ranking boost — a concrete acquisition
+  tactic distinct from prior link-building material; (2) YouTube's algorithm rewards strong
+  first-24-hour performance, so he engineers an early view spike via **email + push-notification
+  blast** the moment a video goes live rather than relying on ads (too slow to ramp). Also cites
+  **calculator.net's 6.2 million backlinks**, earned purely from its free calculators, as proof
+  that useful free tools generate links without outreach, and an App Store SEO tip: fewer (not
+  more) high-volume keywords in title/description rank easier than keyword-stuffing
+  ([[2022-08-29-yt-fnM0WZWsmfQ]]).
+- **Data/charts in blog content → ~32% more backlinks (2022-08-27).** A quantified content-authority
+  tactic from "7 Nifty Marketing Tactics": adding stats/charts/citations to blog posts produces
+  roughly **32% more backlinks**, though not necessarily more traffic — an authority, not a traffic,
+  play. See [[../email-marketing/email-marketing|email-marketing]] for the same source's
+  email-vs-SMS figures ([[2022-08-27-yt-HFvVEzrXrOA]]).
+- **"Vet the people, not the brand" — reinforced with a sharper self-critical line + a named award
+  citation (2022-10-29).** Restates the existing agency-hiring belief (synthesis pass 12) with a
+  more vivid framing and a specific award source ("Agency of the Year," Media Post) — a citation
+  add to the existing belief, not a new one ([[2022-10-29-yt-gztsYn8S0wM]]).
+  > "If you hire my agency because of me, that's a big mistake." [[2022-10-29-yt-gztsYn8S0wM]]
+
 ## Signature framing: "get loved by Google"
 
 Neil's recurring sign-off phrase, worth capturing verbatim as voice:
@@ -1139,4 +1218,14 @@ many small things well, for the user, and rankings follow.
 - [[2021-11-22-yt-rSGFJQt1Lh8]] — Who-NOT-to-compete-with 3-tier framework
 - [[2021-11-29-yt-ws26duw7mAw]] — "Google trusts brands" ranking rationale; 6-7-person content-refresh team
 - [[2021-12-04-yt-YIxUedvNi1g]] — ★ Competitor-research tool roster (Google Trends early-mover angle)
+
+### 2022-06 → 2022-12 solo-era SEO (@neilpatel P2, synthesis pass 13)
+- [[2022-07-21-yt-j-hZ_8XWwY0]] — ★ "Battlefield Bypass" black-hat retelling, named + quantified
+- [[2022-08-27-yt-HFvVEzrXrOA]] — Data/charts-in-content → ~32% more backlinks
+- [[2022-08-29-yt-fnM0WZWsmfQ]] — ★ Buy-and-301-merge acquisition tactic; YouTube first-24h spike; calculator.net 6.2M backlinks
+- [[2022-10-22-yt-KQkcaSZA9os]] — International SEO sub-topic (hreflang; Nike brand-query example; 82%-outside-US)
+- [[2022-10-24-yt-9LMc75qLKXc]] — Meta-description CTR stat set (Ubersuggest, 900M+ domains)
+- [[2022-10-27-yt-rKgHxZRLXg4]] — ★ "Almost ranking" Search Console tactic; Ubersuggest AI writer; title-tag CTR stat block
+- [[2022-10-29-yt-gztsYn8S0wM]] — "Vet the people not the brand" reinforced + Media Post award citation
+- [[2022-11-14-yt-Hskgchw9-Po]] — Amazon SEO sub-vertical (sales-velocity ranking incentive)
 - [[2021-12-11-yt-VBSkT08tRqU]] — CTR-over-backlinks reranking claim; optimize-vs-create decision rule

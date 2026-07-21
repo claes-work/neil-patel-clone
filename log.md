@@ -5941,3 +5941,68 @@ Georgia Tech face-photo study, HTTP Archive page-weight stat) but no new framewo
 
 10 ingest batches accumulated since synthesis pass 12 — checkpoint reached. Next iteration
 should run Stage S (synthesis pass 13) before further ingest.
+
+## [2026-07-21] lint | synthesis pass 13 — @neilpatel 2022-06 → 2022-12 P2 tactical era (batches #118–#127)
+
+Ran the SYNTHESIS loop per `tools/SYNTHESIS.md` on the debt accumulated since pass 12: 10 ingest
+batches (log cont. 96–105, ingest batches #118–#127), the @neilpatel 2022-06-04 → 2022-12-12 solo
+tactical/case-study run, taking the corpus to 1,010 L2 sources total. Drained all 10 accumulated
+`Synthesis notes:` lines.
+
+Promotions (quality-over-volume; pure repeats/reinforcements dropped): **seo** (the "Battlefield
+Bypass" black-hat retelling named + quantified ★; the "almost ranking" Search Console tactic +
+Ubersuggest AI-writer workflow ★; a CTR-lift stat block for titles/meta descriptions, cross-linked
+as one dataset; international-SEO (hreflang, Nike brand-query example) and Amazon-SEO as distinct
+sub-verticals; the buy-and-301-merge acquisition tactic + YouTube first-24-hours engineered spike
+★; "vet the people" reinforced + a Media Post award citation); **agency-entrepreneurship** (the
+freemium-to-services business model named explicitly ★ — "there's more money in marketing services
+than there is in marketing software," Ubersuggest-as-loss-leader vs. HubSpot-vs-Dentsu/WPP/Omnicom;
+the immigrant-mother origin story elaborated with a free-preschool-attendance detail ★; a
+three-point, dated speaking-fee belief-evolution arc — 2019 paid → 2022 free → 2026 "#1
+needle-mover" ★; the Crunchbase-teardown playbook extended with an up-to-$20M ceiling + 1-in-4-5
+conversion rate; a LinkedIn talent-poaching outreach tactic; a personal philanthropy/
+donate-not-inherit statement ★ ("business is a sport... my kids can go earn it, just like everyone
+else"); the quantified 2022 content-production system ★ cross-linked from content-marketing; named
+webinar co-hosting partners (BigCommerce, WP Engine) + a five-touch reminder cadence);
+**content-marketing** (the quantified 2022 content-production system ★, the audience-to-owned-
+product model — Kylie Jenner/Gary Vaynerchuk — paralleled to Neil's own following, the 2017
+YouTube-channel-launch origin story ["didn't translate directly"]); **social-media** ("Why I Focus
+on Social Media Marketing Over SEO" channel-prioritization philosophy ★ — instant feedback vs.
+algorithm lag, still "use all channels" — the LinkedIn low-competition-content thesis, Position-
+Based attribution as his stated personal practice); **email-marketing** (email-vs-SMS engagement
+figures, browser push notifications as a distinct channel, a staged SMS discount drip sequence —
+5% at signup / 10% after 3 weeks / 20% after 2 months); **analytics-cro** (Position-Based
+attribution); **ai-marketing** (an early, explicitly human-in-the-loop AI-adoption stance dated to
+December 2022 ★ — "doesn't mean you should get rid of every single human on your content marketing
+team" — predating the 2025-26 GEO/AEO material by ~2 years). **paid-ads: no genuinely new material
+this run** (the 32%-more-backlinks and email-vs-SMS figures from the same source went to
+seo/email-marketing instead).
+
+**No new hard contradictions flagged this pass** — carried, not reconciled: a CTR-stat overlap
+between two Ubersuggest-derived sources (cross-linked, not double-counted, per the source pages'
+own flag) and a Mike Gullickson name-spelling variant ("Gullaksen") with a new $325M
+iCrossing/Hearst sale-price detail not in the earlier telling ([[wiki/entities/mike-gullickson]]).
+
+Persona: **beliefs.md** (93→98 sources; the business-is-a-sport/donate-not-inherit philanthropy
+stance, the freemium-to-services thesis named explicitly, the social-vs-SEO channel-prioritization
+philosophy, the speaking-for-free 2019→2022→2026 arc, the AI-adoption-since-2022 stance),
+**voice.md** (66→71 sources; "it's...a sport, and I just have to hit a number", "what worked for
+Google, didn't really work for YouTube", "there's more money in marketing services than there is in
+marketing software", "you're not just looking for coaches, you're looking for players", "adapt it
+to your life", "I'm not an expert in any of those topics"), **biography.md** (70→76 sources; the
+philanthropy/donate-not-inherit statement, the granular 2022 daily routine — 700+ employees/900+
+clients marker, ~8hrs/month self-written YouTube scripts, 15-min call cap, wife's "10 minutes of
+undivided attention" line, kids no-phone playtime — the immigrant-mother origin elaborated with the
+free-preschool-attendance detail, the expertise-vs-hustle cautionary anecdote, the fuller
+"Battlefield Bypass" black-hat retelling), **appearance.md** (6→7 sources; a variant
+intermittent-fasting eating window — first meal at noon vs. the existing 11am–6pm window — recorded
+as a variant to reconcile, not a contradiction).
+
+Recompiled **system-prompt.md v13 → v14** (compiled_from_sources 932 → 1,010): wove in the
+freemium-to-services thesis, the philanthropy/donate-not-inherit statement, the fuller "Battlefield
+Bypass" retelling, the speaking-fee belief-evolution arc, and the December-2022 AI-adoption stance;
+kept the remaining tactical/framework material topic-hub-only per the changelog. `index.md` updated
+(topic-hub summaries, entity list, persona summaries, header). `pipeline/synthesis-state.md`
+high-water mark advanced to batch #127 / 1,010 L2 sources; no pending checkpoints remain.
+
+Synthesis notes: none (this is itself a synthesis pass).

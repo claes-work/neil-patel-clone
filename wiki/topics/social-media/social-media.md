@@ -602,6 +602,32 @@ LinkedIn and Facebook playbooks at this depth.
   > "What I found is when someone likes or share a video, it's not that powerful compared to them
   > leaving a comment. You need to encourage comments." [[2022-04-30-yt-kgk5OKV82YY]]
 
+## 2022-06 → 2022-12 solo-era social tactics — channel-prioritization philosophy & the LinkedIn low-competition thesis (@neilpatel P2, synthesis pass 13)
+
+- **"Why I Focus on Social Media Marketing Over SEO" — an explicit channel-prioritization
+  philosophy (2022-11-21, ★).** Despite being "mostly known for all things SEO," Neil states he
+  currently emphasizes social because it gives near-instant feedback ("I don't have to wait for an
+  algorithm update") versus SEO's long lag, letting him pivot strategy quickly. Explicitly frames
+  this as a reallocation of emphasis, **not** SEO abandonment ("it doesn't mean I don't like
+  SEO... you should use all channels" — omnichannel). Cites a Google SVP (Prabhakar Raghavan,
+  transcribed "Pranhakar") reportedly stating at a 2022 conference that ~40% of young people use
+  TikTok/Instagram instead of Google Maps/Search for local queries — used as evidence that even
+  Google is worried about social displacing search ([[2022-11-21-yt-iyKDjFZOrUQ]]).
+  > "A major reason why I love social over SEO, and again it doesn't mean I don't like SEO, it just
+  > means that I love social media and you should use all channels." [[2022-11-21-yt-iyKDjFZOrUQ]]
+- **LinkedIn as a low-competition-content opportunity (2022-10-15).** Cites (per Kinsta) that only
+  <1% (~3M) of LinkedIn's 830M+ users create content, versus ~87% of Instagram's ~1.2B users (per
+  True List) — framing LinkedIn as low-competition for organic reach. Self-reports one of his own
+  LinkedIn videos generating **"over 13,000 impressions,"** outperforming the same video posted to
+  Facebook/YouTube despite 1M+ followers on both. Four-part playbook: native stories (not links
+  out) citing "my friend Brian Dean" as an example; native video 3x/week under 10 minutes; PDF
+  carousels; unhesitant self-promotion ([[2022-10-15-yt-PF14kyW1LP4]]).
+- **Position-Based attribution — his personal model preference (2022-11-07).** In a walkthrough of
+  multi-channel attribution (invoking the "rule of seven"), states his personal preference for the
+  **Position-Based** model, crediting first touch (discovery) and last touch (final conversion
+  source) — because it answers "what are the main two drivers of the conversion." Fuller entry on
+  [[../analytics-cro/analytics-cro|analytics-cro]] ([[2022-11-07-yt-OtLYIf_NExA]]).
+
 ## Key source pages
 - [[2018-10-04-yt-5dyn03RSWVA]] — Post to Facebook natively (schedulers cut reach 2–3×); monthly reporting.
 - [[2018-12-08-yt-dDDpdAnb_Es]] — Instagram weak for B2B; pick channels that fit; don't chase Insta-famous.
@@ -681,3 +707,8 @@ LinkedIn and Facebook playbooks at this depth.
 - [[2022-02-24-yt-qistbQs-yyg]] — ★ Instagram 0→290K partnership-growth framework (~8% outreach hit-rate).
 - [[2022-04-28-yt-HBB8gaAayfU]] — TikTok 0→30K-in-6mo growth (batch-record-and-test playbook).
 - [[2022-04-30-yt-kgk5OKV82YY]] — YouTube first-24-hours virality mechanic; yes/no-vs-open-ended comment self-correction.
+
+### 2022-06 → 2022-12 solo-era social tactics (@neilpatel P2, synthesis pass 13)
+- [[2022-10-15-yt-PF14kyW1LP4]] — LinkedIn low-competition-content thesis; 13,000-impressions data point.
+- [[2022-11-07-yt-OtLYIf_NExA]] — Position-Based attribution personal preference.
+- [[2022-11-21-yt-iyKDjFZOrUQ]] — ★ "Why I Focus on Social Media Marketing Over SEO" channel-prioritization philosophy.

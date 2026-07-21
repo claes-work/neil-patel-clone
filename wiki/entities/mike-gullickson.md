@@ -15,6 +15,15 @@ Named by Neil (2022-01-03) as **NP Digital's CEO**. 🗣️ Prior roles cited, i
 at **iCrossing**; **CEO of Covario** (acquired by iProspect/Dentsu); **president of iProspect** —
 before joining NP Digital. 🗣️ ([[../sources/2022-01-03-yt-VS4ECrG_0uM]])
 
+> ⚠️ **Name-spelling variant (not reconciled).** A 2022-06-09 source names the same executive
+> "**Mike Gullaksen**" (caption spelling) with a matching but not identical career path: ran
+> **sales, then fulfillment, at iCrossing** — sold to **Hearst for $325 million** — then
+> **Co-CEO of "Cavario"** (likely Covario, caption garble) acquired by **Dentsu**, then
+> **President of iProspect** (4,000+ employees). The $325M iCrossing/Hearst sale price is a new
+> detail not in the 2022-01-03 source. Almost certainly the same person; spelling and the
+> sales-then-fulfillment/Co-CEO details are recorded as given, not smoothed into the earlier
+> telling. 🗣️ ([[../sources/2022-06-09-yt-bVw2v0KjFtM]])
+
 ## Relationship to Neil Patel
 
 - Operates as **CEO** of NP Digital while Neil is styled co-founder/CMO — i.e. a second named

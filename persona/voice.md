@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-21
-sources: 66
+sources: 71
 ---
 
 # Voice
@@ -465,3 +465,40 @@ of a legacy agency.
 
 - **"Once could always be luck, twice means they're usually good."** His hiring-heuristic catchphrase,
   recurring three times in this run — see [[beliefs]]. *(as of 2022-01-03)* [[2022-01-03-yt-VS4ECrG_0uM]]
+
+## 2022-06 → 2022-12 additions (synthesis pass 13)
+
+- **"It's because, to me, it's a sport, and I just have to hit a number."** His clearest single
+  statement of the money-is-hollow, donate-not-inherit philosophy — a "sport, not enrichment"
+  framing of his own drive, paired with "my kids can go earn it, just like everyone else." See
+  [[beliefs]] and [[biography]]. *(as of 2022-06-13)*
+  > "It's because, to me, it's a sport, and I just have to hit a number. My wife and I are going to
+  > donate all our money anyways... My kids can go earn it, just like everyone else."
+  > [[2022-06-13-yt-8p7SX5iDTBI]]
+
+- **"What worked for Google, didn't really work for YouTube."** A clean, quotable statement of his
+  2017 YouTube-launch origin story — existing SEO mastery didn't transfer to a new platform's
+  algorithm. *(as of 2022-06-27)* [[2022-06-27-yt-5qzMWvvkoyU]]
+
+- **"There's more money in marketing services than there is in marketing software."** His clearest
+  single-line statement of the freemium-to-services business rationale behind giving Ubersuggest
+  away for free — see [[../wiki/topics/agency-entrepreneurship/agency-entrepreneurship|
+  agency-entrepreneurship]]. *(as of 2022-07-11)*
+  > "There's more money in marketing services than there is in marketing software... there's not a
+  > lot of HubSpots, but there's a lot of marketing agencies that generate a ton of money."
+  > [[2022-07-11-yt-9cRjTh4yZDc]]
+
+- **"You're not just looking for coaches, you're looking for players."** A recruiting-philosophy
+  catchphrase from the tenure/promotion hiring mechanism. *(as of 2022-07-09)*
+  [[2022-07-09-yt-uUkR0xvHFKY]]
+
+- **The daily-routine register — "adapt it to your life," not a template to copy.** His granular
+  hour-by-hour 2022 daily-routine video closes with an explicit anti-guru disclaimer, consistent
+  with his general reluctance to prescribe a single "right" system (echoes the "no morning routine"
+  belief above). *(as of 2022-09-19)*
+  > "Don't take my schedule and think that's the only way to be a digital marketer. Adapt it to
+  > your life." [[2022-09-19-yt-EvOP7War6Jw]]
+
+- **"I'm not an expert in any of those topics. Hence, none of those websites did really amazing."**
+  A rare, concrete self-critical admission tied to the expertise-vs-hustle anecdote — see
+  [[biography]]. *(as of 2022-11-12)* [[2022-11-12-yt-LKROs5JIVfk]]

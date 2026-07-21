@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-21
-sources: 93
+sources: 98
 ---
 
 # Beliefs
@@ -895,3 +895,63 @@ to prompt comments, but learned the YouTube algorithm rewards **substantive, mul
 replies more than simple yes/no responses, so he switched to open-ended questions — see the fuller
 entry on [[../wiki/topics/social-media/social-media|social-media]]. *(as of 2022-04-30, self-reported)*
 [[2022-04-30-yt-kgk5OKV82YY]]
+
+## 2022-06 → 2022-12 additions (synthesis pass 13)
+
+### Business is "a sport" — donate essentially everything, don't leave an inheritance
+His fullest statement of philanthropy/wealth philosophy, extending the existing money-is-hollow
+minimalism and contentment-over-happiness beliefs above: frames his own drive to keep pushing
+revenue as **a sport**, not personal enrichment ("I don't do anything with my money"), and states
+he and his wife intend to **donate essentially everything they don't need** rather than leave a
+large inheritance — explicitly, "my kids can go earn it, just like everyone else." Says only his
+brother-in-law shares his pure number-chasing motivation among everyone he's worked with; the
+practical leadership lesson he draws is that since most people (including his own co-founders) are
+driven by concrete personal goals rather than an abstract number, a founder should identify and
+lean into *each person's* individual motivator. *(as of 2022-06-13, self-reported)*
+[[2022-06-13-yt-8p7SX5iDTBI]]
+> "It's because, to me, it's a sport, and I just have to hit a number. My wife and I are going to
+> donate all our money anyways... My kids can go earn it, just like everyone else."
+> [[2022-06-13-yt-8p7SX5iDTBI]]
+
+### The freemium-to-services thesis, named explicitly
+His fullest statement of why Ubersuggest is given away almost entirely free: **more money exists in
+marketing services than in marketing software**, illustrated with a company-scale comparison
+(HubSpot ~$1B+/yr vs. marketing-service holding companies Dentsu/WPP/Omnicom at $10B+/yr each). A
+strict rule governs what to give away: it must be genuinely valuable (something competitors charge
+meaningfully for) **and** directly related to the higher-ticket offer being upsold. The most
+explicit articulation yet of the free-tool-as-acquisition-channel thesis first flagged in synthesis
+pass 6 — see [[../wiki/topics/agency-entrepreneurship/agency-entrepreneurship|
+agency-entrepreneurship]]. *(as of 2022-07-11, self-reported)* [[2022-07-11-yt-9cRjTh4yZDc]]
+> "It's because there's more money in marketing services than there is in marketing software...
+> there's not a lot of HubSpots, but there's a lot of marketing agencies that generate a ton of
+> money." [[2022-07-11-yt-9cRjTh4yZDc]]
+
+### Social's instant feedback loop vs. SEO's lag — a channel-prioritization philosophy
+An explicit statement of why he currently emphasizes social media over SEO despite being "mostly
+known for all things SEO": social gives near-instant feedback he can act on, whereas SEO's lag
+means waiting on algorithm updates before knowing if a strategy is working. Explicitly framed as a
+reallocation of emphasis, **not** an SEO abandonment — "you should use all channels," reinforcing
+the existing omnichannel/rule-of-seven belief. *(as of 2022-11-21, self-reported)*
+[[2022-11-21-yt-iyKDjFZOrUQ]]
+> "A major reason why I love social over SEO, and again it doesn't mean I don't like SEO, it just
+> means that I love social media and you should use all channels." [[2022-11-21-yt-iyKDjFZOrUQ]]
+
+### Speaking for free — a three-point, dated belief-evolution arc (2019 → 2022 → 2026)
+Names and dates the turning point in his conference-speaking economics: a **2019 paid-speaking era**
+($25-50K/talk domestic, up to $100K international, 25-30 gigs/yr pre-COVID) gave way, by **2022**,
+to speaking for free — reasoned as Elon-Musk/Bill-Gates-tier event access being worth more than the
+fee itself, paired with a self-critical "don't be shortsighted" lesson — which by **2026** hardens
+into "conferences are my #1 needle-mover, three-for-one." A rare case where the corpus documents a
+belief's full evolution across three distinct, dated stages rather than a single position.
+*(2019 → 2022-08-11 → 2026, self-reported)* [[2022-08-11-yt-RxF1hZbE1Ko]]
+
+### AI as a productivity multiplier, not a replacement — the stance dates back to 2022
+An early, explicit statement of the human-in-the-loop AI-adoption stance that becomes central to
+the 2025-26 GEO/AEO material: AI/GPT-3-era tools are his go-to shortcut for keyword/topic ideation
+and meta text, explicitly **not** a replacement for the content team. Dates the stance back to at
+least December 2022, roughly two years before the heavier AEO-era coverage — see
+[[../wiki/topics/ai-marketing/ai-marketing|ai-marketing]]. *(as of 2022-12-03, self-reported)*
+[[2022-12-03-yt-O_2fJqmcQAA]]
+> "That doesn't mean that you should just get rid of every single human on your content marketing
+> team. These tools just make their lives easier so they can be more productive."
+> [[2022-12-03-yt-O_2fJqmcQAA]]

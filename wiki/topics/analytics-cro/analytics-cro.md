@@ -483,6 +483,18 @@ named strategic-analysis frameworks (Porter's Five Forces, PEST, SWOT) in the le
   converts "way more" than either alone; paired with a ~95%-of-shoppers-consult-reviews stat
   ([[2021-10-30-yt-c_rSzi5RwtU]]).
 
+## 2022-06 → 2022-12 solo-era analytics/CRO (@neilpatel P2, synthesis pass 13)
+
+- **Position-Based attribution — his stated personal practice (2022-11-07).** Explains multi-channel
+  attribution as the problem platforms don't surface (each ad platform is incentivized to claim
+  credit for conversions it touched, even late in a journey that started elsewhere) and walks
+  through standard models (Last Click, Time Decay, Linear, Position-Based, First Click,
+  Data-Driven). States his personal preference for **Position-Based** (credit split between first
+  and last touch) because it answers "what are the main two drivers of the conversion"
+  ([[2022-11-07-yt-OtLYIf_NExA]]).
+  > "I typically use Position-Based myself which typically gives credit to the first touch and the
+  > last touch." [[2022-11-07-yt-OtLYIf_NExA]]
+
 ## Key source pages
 - [[2018-10-16-yt-AbcoFUHcs9M]] — ★ LTV/ad-spend model (7/8/9-figure "$1 in / $2 back" rule; Mixpanel).
 - [[2018-11-17-yt-av9WfdR4cVk]] — CRO beats acquisition (convert better → outbid on ad spend).
@@ -537,3 +549,6 @@ named strategic-analysis frameworks (Porter's Five Forces, PEST, SWOT) in the le
 - [[2021-10-16-yt-yE7gNbQ24G8]] — Scarcity-honesty ethical line + "common enemy" trigger
 - [[2021-10-23-yt-mCdpocxd7Ks]] — Sign-in-with-Google conversion-reversal case study
 - [[2021-10-30-yt-c_rSzi5RwtU]] — Logic + emotion copy-combination finding
+
+### 2022-06 → 2022-12 solo-era analytics/CRO (@neilpatel P2, synthesis pass 13)
+- [[2022-11-07-yt-OtLYIf_NExA]] — Position-Based attribution personal preference.

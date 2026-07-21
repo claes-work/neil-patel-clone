@@ -392,6 +392,18 @@ Consistent through-line: AI augments the marketer rather than fully replacing th
   trap: measure AI/marketing by revenue through the whole funnel, not engagement metrics; apply AI
   to the *actual ROI driver*, not "AI theater" ([[2026-04-07-yt-3OXIyYkVCdQ]]). See [[analytics-cro]]
   and [[paid-ads]].
+- **"The Easiest SEO Strategy I've Ever Used" — an early, human-in-the-loop AI-adoption stance
+  (2022-12-03, ★, synthesis pass 13).** Names AI/GPT-3-era tools as his go-to SEO shortcut for
+  keyword/topic ideation, meta text, titles, and blog outlines, explicitly **not** a replacement
+  for the content team ("that doesn't mean that you should just get rid of every single human on
+  your content marketing team... these tools just make their lives easier"). Consistent with the
+  later, more explicit "saves ~half the time... not perfect" self-assessment already logged from
+  2022-04-18 (synthesis pass 12) — this earlier source dates the human-in-the-loop AI stance back
+  to at least **December 2022**, predating the heavier 2025-26 GEO/AEO material by roughly two
+  years ([[2022-12-03-yt-O_2fJqmcQAA]]).
+  > "That doesn't mean that you should just get rid of every single human on your content marketing
+  > team. These tools just make their lives easier so they can be more productive."
+  > [[2022-12-03-yt-O_2fJqmcQAA]]
 
 ## Key source pages
 
@@ -414,6 +426,7 @@ Consistent through-line: AI augments the marketer rather than fully replacing th
 - [[2021-10-09-yt-aB16TtWHv9Q]] — Ubersuggest AI-SEO automation begins; "ironing is a zen moment" manual-writing habit.
 - [[2021-11-15-yt-c4w9GaabAV4]] — ★ Extended AI-content-tool roster; three-stage Ubersuggest automation roadmap.
 - [[2022-04-18-yt--c_QnqiwM5g]] — "Saves ~half the time... not perfect" AI-writing-tool self-assessment (synthesis pass 12).
+- [[2022-12-03-yt-O_2fJqmcQAA]] — ★ Early human-in-the-loop AI-adoption stance (GPT-3-era tools; synthesis pass 13).
 
 ### Marketing School podcast (co-hosted; Neil-attributed) — the GEO/AEO evolution
 - [[2023-11-27-yt-EUVspvV6_UQ]] — Will SEO go extinct: "SEO evolves, doesn't die" (GEO seed).

@@ -428,6 +428,51 @@ marketing" doctrine, and a self-critique that extends the corporate-brand belief
   > "It's not about your solution. It's about how it makes your customer's lives better." —
   > [[2022-01-27-yt--H-XPd4E5Xc]]
 
+## 2022-06 → 2022-12 solo-era content tactics — the quantified 2022 production system & the audience-to-owned-product model (@neilpatel P2, synthesis pass 13)
+
+- **A quantified 2022 content-production system, contrasted against his earlier daily-blogging
+  habit (2022-07-02, ★).** States he now blogs only ~once/week (4-5 posts/month, down from a peak
+  of ~4/day), shifting volume into: 3 long-form videos/week (~5 min), 7 short-form videos/week
+  (~30-60 sec), a daily ~5-min podcast episode, 2-3 team-produced image posts/week, and a monthly
+  webinar — heavily **batched** (podcast recorded 10-at-a-time; both video formats shot in one
+  monthly sitting rather than daily). Self-reports YouTube at **~640,000 views/month** and the
+  Marketing School podcast generating **"over $1 million a month,"** attributed to lower channel
+  competition (~2M podcasts worldwide vs. ~1B blogs, via EarthWeb) rather than superior marketing
+  skill. General advice: keep blogging, but shift growing effort to less-saturated channels
+  (YouTube, LinkedIn, Facebook/TikTok/Instagram). Full agency-scale framing on
+  [[../agency-entrepreneurship/agency-entrepreneurship|agency-entrepreneurship]]
+  ([[2022-07-02-yt-m2j01xvvE0o]]).
+  > "My YouTube channel gets roughly 640,000 views a month. Why? Am I the best marketer in the
+  > world? No... There's just not as many competitors." [[2022-07-02-yt-m2j01xvvE0o]]
+- **The audience-to-owned-product model — Kylie Jenner, Gary Vaynerchuk, and Neil's own following
+  (2022-06-04).** A generalizable framework: paid promotion of someone else's product converts
+  weakly (audiences discount it as paid), but converting an already-fostered, topically-relevant
+  audience into a **self-owned product** converts far better because followers trust it's
+  genuinely theirs. Illustrated with Kylie Cosmetics ($200M+ 2019 sales per Forbes; 51% sold to
+  Coty for $600M in 2020), Gary Vaynerchuk's VeeFriends ($90M+ in transactions), and — explicitly —
+  Neil's own marketing-industry following, which he calls "a large part of the reason" NP Digital
+  is successful. Advice: build a following, sell your own product/service to it, then optionally
+  sell the resulting business once it has value ([[2022-06-04-yt-R4ynWwZmIQ8]]).
+  > "Look at Gary V. He doesn't have many followers as Kylie, but he has had over 90 million in
+  > transactions for VeeFriends. Or look at me... My following is a large part of the reason why my
+  > ad agency, NP Digital is successful." [[2022-06-04-yt-R4ynWwZmIQ8]]
+- **The 2017 YouTube-channel-launch origin: existing SEO knowledge "didn't translate directly"
+  (2022-06-27).** A new biographical beat: when Neil started his YouTube channel in 2017, his
+  existing Google-SEO expertise didn't transfer to YouTube's different algorithm, forcing a
+  dedicated learning process of near-daily publishing. Distills three durable YouTube-SEO steps
+  (broad-then-narrow topic selection via Ubersuggest/Answer the Public/site-search operators;
+  payoff-glimpse thumbnails avoiding YouTube's red brand color; on-page title/description
+  optimization plus a pinned engagement-question comment). See
+  [[../../persona/biography|persona/biography]] ([[2022-06-27-yt-5qzMWvvkoyU]]).
+  > "What worked for Google, didn't really work for YouTube... it was a different algorithm."
+  > [[2022-06-27-yt-5qzMWvvkoyU]]
+- **NP Digital's webinar program — 1,000+ leads/month, named co-hosts, a five-touch cadence
+  (2022-12-10).** Full entry on
+  [[../agency-entrepreneurship/agency-entrepreneurship|agency-entrepreneurship]]; cross-referenced
+  here for its content/promotion mechanics: co-hosting with complementary non-competing brands
+  (BigCommerce, WP Engine) to double reach and split production, plus a precise five-touch
+  reminder cadence across email and SMS ([[2022-12-10-yt-DjXRQo4K8ss]]).
+
 ## Key source pages
 - [[2019-07-06-yt-EihqZWH6aT4]] — ★ Content-volume decision rule (writes ~4/mo; domain score <40 vs >65 → volume vs content gaps).
 - [[2019-06-24-yt-7QDNVMVF7ss]] — Storytelling framework (core message → story type → CTA; Significant Objects $129→$8k).
@@ -481,4 +526,10 @@ marketing" doctrine, and a self-critique that extends the corporate-brand belief
 
 ### 2021-11 → 2022-06 solo-era content tactics (@neilpatel P2, synthesis pass 12)
 - [[2022-01-27-yt--H-XPd4E5Xc]] — "Boring product" 5-tip framework (Old Spice, Dollar Shave Club, grandmother anecdote)
+
+### 2022-06 → 2022-12 solo-era content tactics (@neilpatel P2, synthesis pass 13)
+- [[2022-06-04-yt-R4ynWwZmIQ8]] — Audience-to-owned-product model (Kylie Jenner, Gary Vaynerchuk, Neil's own following)
+- [[2022-06-27-yt-5qzMWvvkoyU]] — 2017 YouTube-channel-launch origin story + 3-step YouTube-SEO playbook
+- [[2022-07-02-yt-m2j01xvvE0o]] — ★ Quantified 2022 content-production system (cadence, batching, self-reported revenue)
+- [[2022-12-10-yt-DjXRQo4K8ss]] — Webinar co-hosting partners + five-touch reminder cadence
 - [[2022-04-02-yt-If2wziIAFzA]] — ★ ~140-pieces/mo cross-platform content cadence; English-only + team-translation disclosure

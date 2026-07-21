@@ -235,6 +235,29 @@ within six weeks, replacing prior fragmentary email tactics with a structured pl
   distinct from) the 98/2 ratio logged from the 2021-02-01 Email Marketing Unlocked lesson
   ([[2021-08-12-yt-0QN3KeAtuD8]]).
 
+## 2022-06 → 2022-12 solo-era email/SMS tactics — channel-performance figures & a staged-discount drip sequence (@neilpatel P2, synthesis pass 13)
+
+- **Email-vs-SMS engagement figures, directly contrasted (2022-08-27).** Concrete channel-performance
+  data from "7 Nifty Marketing Tactics": self-reports **~30% average email open rate** for his own
+  sends vs. **18% SMS click-through rate** on follow-ups vs. **under 4% (typically ~2%) email
+  click-through rate** — used to argue SMS outperforms email on engagement. Also names
+  **subscribers.com** (browser push notifications) as a permission channel that doesn't require an
+  email/phone handoff ([[2022-08-27-yt-HFvVEzrXrOA]]).
+  > "When I send out emails, I'm getting roughly 30% open rates... when we use text, we find that we
+  > get 18% click through rate. I'm not talking about open, I'm talking about click."
+  > [[2022-08-27-yt-HFvVEzrXrOA]]
+- **Browser push notifications as a distinct, zero-ad-spend acquisition channel (2022-09-26).**
+  Introduces **subscribers.com** browser push notifications as a channel independent of email/SMS,
+  with a drip-sequence structure of its own — a minor new tactical channel alongside the existing
+  email/SMS coverage ([[2022-09-26-yt-Y7LL4wowKqw]]).
+- **SMS staged-discount drip sequence — 5% → 10% → 20% (2022-12-05).** A concrete, self-reported
+  tactic pitching SMS as his top single channel ("98% open rate," best engagement of any medium he
+  uses): a staged coupon-discount drip — **5% at signup, 10% after three weeks, 20% after two
+  months** — that stops once redeemed. Cites Statista (SMS popularity +75% YoY in 2021) and G2
+  (75%/65% like shipping/confirmation texts) ([[2022-12-05-yt-lgwRiOVOJkQ]]).
+  > "It has a 98% open rate and the best engagement rate out of any other marketing medium. It's SMS
+  > marketing." [[2022-12-05-yt-lgwRiOVOJkQ]]
+
 ## Key source pages
 - [[2019-01-19-yt-QJUIk3qhQ-w]] — First-hour email + push blast (Hello Bar + Subscribers) to spike virality.
 - [[2019-02-14-yt-gCJgHbjXWec]] — 7 free social tools; ManyChat 60%+ open/30–50% CTR beats email (dated).
@@ -264,3 +287,8 @@ within six weeks, replacing prior fragmentary email tactics with a structured pl
 ### 2021-08 solo-era email tactics (@neilpatel P2, synthesis pass 11)
 - [[2021-08-02-yt-X7SY-8_o07U]] — Frank Kern credited for "the money's in the list."
 - [[2021-08-12-yt-0QN3KeAtuD8]] — Tighter 90-95%/5-10% educate-vs-sell ratio.
+
+### 2022-06 → 2022-12 solo-era email/SMS tactics (@neilpatel P2, synthesis pass 13)
+- [[2022-08-27-yt-HFvVEzrXrOA]] — Email-vs-SMS engagement figures (30% open / 18% SMS-click / <4% email-click).
+- [[2022-09-26-yt-Y7LL4wowKqw]] — Browser push notifications (subscribers.com) as a distinct channel.
+- [[2022-12-05-yt-lgwRiOVOJkQ]] — SMS staged-discount drip sequence (5%/10%/20%).

@@ -6,13 +6,58 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **@neilpatel 2021-11 → 2022-06 P2 tactical era complete — all 932 L2 sources, ingest batches #1–#117 (2016-11 → 2022-06)**, via synthesis pass 12 (2026-07-21). Pass 12 folded the @neilpatel 2021-11-22 → 2022-06-02 solo run (batches #108–#117 / log cont. 86–95 — solo tactical/case-study content, 10 `Synthesis notes:` lines of debt) into the 8 topic hubs + all 4 persona files + 1 new entity page (Mike Gullickson). The next pass starts from the debt accumulated after batch #117 (i.e. the next @neilpatel P2 ingest or the next @MarketingSchoolPod P2 run).
+Synthesized through: **@neilpatel 2022-06 → 2022-12 P2 tactical era complete — all 1,010 L2 sources, ingest batches #1–#127 (2016-11 → 2022-12)**, via synthesis pass 13 (2026-07-21). Pass 13 folded the @neilpatel 2022-06-04 → 2022-12-12 solo run (batches #118–#127 / log cont. 96–105 — solo tactical/case-study content, 10 `Synthesis notes:` lines of debt) into 7 of the 8 topic hubs (no new material for paid-ads this run) + all 4 persona files + 1 updated entity page (Mike Gullickson). The next pass starts from the debt accumulated after batch #127 (i.e. the next @neilpatel P2 ingest or the next @MarketingSchoolPod P2 run).
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
-_(none — caught up through batch #117; @neilpatel 2021-11→2022-06 P2 tactical era fully synthesized)_
+_(none — caught up through batch #127; @neilpatel 2022-06→2022-12 P2 tactical era fully synthesized)_
 
 ## Done checkpoints
+- [x] 2026-07-21 — **synthesis pass 13** — @neilpatel 2022-06 → 2022-12 P2 tactical era complete
+  (1,010 L2 sources total, batches #118–#127 / log cont. 96–105, 2022-06-04→2022-12-12 solo run;
+  fully Neil-attributed solo tactical/case-study content). Drained the 10 accumulated `Synthesis
+  notes:` lines. Promotions (quality-over-volume; pure repeats/reinforcements dropped): **seo**
+  ("Battlefield Bypass" black-hat retelling named + quantified ★; the "almost ranking" Search
+  Console tactic + Ubersuggest AI writer ★; a CTR-lift stat block for titles/meta descriptions,
+  cross-linked as one dataset; international-SEO (hreflang, Nike brand-query example) and
+  Amazon-SEO as distinct sub-verticals; the buy-and-301-merge acquisition tactic + YouTube
+  first-24-hours engineered spike ★; "vet the people" reinforced + a Media Post award citation),
+  **agency-entrepreneurship** (the freemium-to-services business model named explicitly ★
+  — Ubersuggest-as-loss-leader vs. HubSpot-vs-Dentsu/WPP/Omnicom; the immigrant-mother origin
+  story elaborated with a free-preschool-attendance clause ★; a three-point, dated
+  speaking-for-free belief-evolution arc (2019→2022→2026) ★; the Crunchbase-teardown playbook
+  extended with an up-to-$20M ceiling + 1-in-4-5 conversion rate; LinkedIn talent-poaching
+  outreach tactic; a personal philanthropy/donate-not-inherit statement ★; the quantified 2022
+  content-production system ★ cross-linked from content-marketing; new webinar co-hosting
+  partners (BigCommerce, WP Engine) + a five-touch reminder cadence), **content-marketing** (the
+  quantified 2022 content-production system ★, the audience-to-owned-product model (Kylie
+  Jenner/Gary Vaynerchuk), the 2017 YouTube-channel-launch origin story), **social-media** ("Why I
+  Focus on Social Media Marketing Over SEO" channel-prioritization philosophy ★, the LinkedIn
+  low-competition-content thesis, Position-Based attribution as his stated personal practice),
+  **email-marketing** (email-vs-SMS engagement figures, browser push notifications as a distinct
+  channel, a staged SMS discount drip sequence), **analytics-cro** (Position-Based attribution),
+  **ai-marketing** (an early, explicitly human-in-the-loop AI-adoption stance dated to December
+  2022 ★, predating the 2025-26 GEO/AEO material by ~2 years). **paid-ads: no genuinely new
+  material this run** (the 32%-more-backlinks and email-vs-SMS figures from the same source went
+  to seo/email-marketing instead). **No new hard contradictions flagged this pass** — carried, not
+  reconciled: a CTR-stat overlap between two Ubersuggest-derived sources (cross-linked, not
+  double-counted, per the source pages' own flag) and a Mike Gullickson name-spelling variant
+  ("Gullaksen") with a new $325M iCrossing/Hearst sale-price detail not in the earlier telling
+  ([[../wiki/entities/mike-gullickson]]). Persona: **beliefs.md** (93→98 sources; the
+  business-is-a-sport/donate-not-inherit philanthropy stance, the freemium-to-services thesis
+  named explicitly, the social-vs-SEO channel-prioritization philosophy, the speaking-for-free
+  2019→2022→2026 arc, the AI-adoption-since-2022 stance), **voice.md** (66→71 sources; "it's...a
+  sport, and I just have to hit a number", "what worked for Google, didn't really work for
+  YouTube", "there's more money in marketing services than there is in marketing software",
+  "you're not just looking for coaches, you're looking for players", "adapt it to your life", "I'm
+  not an expert in any of those topics"), **biography.md** (70→76 sources; the philanthropy/
+  donate-not-inherit statement, the granular 2022 daily routine — 700+ employees/900+ clients
+  marker, script-writing habit, wife's "10 minutes" line, kids no-phone playtime — the immigrant-
+  mother origin elaborated, the expertise-vs-hustle cautionary anecdote, the fuller "Battlefield
+  Bypass" black-hat retelling), **appearance.md** (6→7 sources; a variant intermittent-fasting
+  eating window — first meal at noon vs. the existing 11am-6pm window — recorded as a variant to
+  reconcile, not a contradiction). Recompiled **system-prompt.md v13 → v14**
+  (compiled_from_sources 932 → 1,010). System-prompt version at pass end: **v14**.
 - [x] 2026-07-21 — **synthesis pass 12** — @neilpatel 2021-11 → 2022-06 P2 tactical era complete (932
   L2 sources total, batches #108–#117 / log cont. 86–95, 2021-11-22→2022-06-02 solo run; fully
   Neil-attributed solo tactical/case-study content). Drained the 10 accumulated `Synthesis notes:`
