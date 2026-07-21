@@ -3718,3 +3718,32 @@ E-A-T author-persona recovery play, first-24-hour engagement on YouTube, Faceboo
 the mobile-first/BERT material. Period-tactical and already dated: Tailwind Tribes, free Udemy courses,
 virtual summits, WebinarJam/LeadQuizzes. Synthesis debt now 8/10 (checkpoint at 10). Next iteration:
 Stage B (continue draining @neilpatel P2 long-form, oldest-first from 2020-02-01).
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2020-02-01→2020-02-20 solo tactical: 6-reasons-never-rank / 8-things-to-master-in-SEO / win-SEO-for-free / write-content-that-ranks / still-do-digital-marketing-for-free / two-marketing-careers-2020 / social-media-traffic-2020 / has-blogging-changed era, cont. 54)
+
+Ingested 8 P2 @neilpatel long-form videos (all Neil-fronted solo, no Eric-Siu attribution gating) to L2,
+2020-02-01→2020-02-20 (batch #76). All had captions; 0 skipped, 0 no-captions, 0 duplicates, 0
+rate-limits/errors. Pages written: 6 Reasons Why Your Site Will NEVER Rank (1BlLJjOQdes); 8 Things To
+Master in SEO (7lPNw2ElaVg); How to Win on SEO Without Spending Money - The Penniless Marketer Full
+Strategy (ZDs34NWtAW4); How To Write Content That Ranks Page #1 on Google (pSWCotmPC58); Can You STILL
+Do Digital Marketing for Free? (2rQjjH--HiA); The Two Marketing Careers That Will CRUSH IT in 2023
+(mAn3zmkj4p8); Can Social Media Still Bring You ANY Website Traffic in 2023 (PVby6g0XEsA); Has Blogging
+Changed Too Drastically in 2023? (ednS83_2Y04). youtube-index footer 597 -> 605; index.md count bumped.
+
+Data-integrity flags: TITLE/CONTENT DATE MISMATCH on three consecutive videos — mAn3zmkj4p8, PVby6g0XEsA,
+and ednS83_2Y04 all carry "2023" in their on-screen titles while the spoken script and channel/ledger
+metadata place them as 2020 content (published 2020-02-16/17/20 respectively); consistent with the
+title-refresh pattern already flagged on several 2019/2020 videos elsewhere in the ledger (see e.g.
+[[wiki/sources/2020-01-04-yt-RKnryDGr2DM]]). Treated as a caption/title artifact, not a new claim; all
+dated claims on these three pages use the actual 2020 publish date. No other attribution issues, caption
+garbles, or contradictions found in this batch — all eight videos are straightforward solo tactical/SEO
+content consistent with the established persona voice and prior claims (Ubersuggest workflow, sub-40
+keyword difficulty, omnichannel + rule-of-seven, Eric Schmidt brand-signal attribution repeated
+verbatim-consistent with earlier sources).
+
+Synthesis notes: no new frameworks or bio details beyond what synthesis passes 1-7 already captured;
+this batch reinforces existing tactical material (Ubersuggest keyword-difficulty workflow, AIDA model,
+omnichannel/rule-of-seven, HTTPS/Lighthouse ranking factors) rather than introducing anything genuinely
+new. The three title/content date-mismatch flags are a minor QA note, not persona-affecting. Synthesis
+debt now 9/10 (checkpoint at 10). Next iteration: Stage S (synthesis checkpoint due next batch) or
+continue draining @neilpatel P2 long-form, oldest-first from 2020-02-22 onward.
