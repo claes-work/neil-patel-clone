@@ -4707,3 +4707,44 @@ Synthesis notes: no landmark-tier (★) material this batch — the course-compl
 the "SEO is many small consistently-done things" framing (recurring 3x) are worth checking
 against existing seo/ topic pages and persona/beliefs.md at the next synthesis pass, but
 nothing here rises to inline (L3) promotion on its own.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2021-06-03→06-21, solo tactical run + two title-mismatched interviews, cont. 77)
+
+Batch of 8 P2 long-form videos from @neilpatel, 2021-06-03 through 2021-06-21. All 8
+fetched OK (no rate-limiting). Five are solo tactical tutorials: GSC-alert rank-
+maintenance workflow; the Ubersuggest Similar-Websites→Keywords-Gap "favorite SEO report"
+walkthrough; a self-critical "biggest SEO mistake" piece quantifying traffic-vs-revenue
+with a live $18-vs-$2 CPC relevance heuristic against 58.6M/yr visitor traffic (iProspect/
+Performics traffic-vs-revenue comparison) ★; the "sleeper content" tactic named for the
+first time (publish unpromoted, reinforce only what shows organic traction); and a video-
+SEO piece using GSC's Search-appearance→Videos filter (1M+/yr video traffic, embed-on-
+blog doctrine). The other three are guest interviews, two with title/date mismatches
+matching this channel's established pattern: an unnamed-host interview nominally titled
+"What To Expect From SEO Technology in 2023" that is actually a wide-ranging 2021 trends +
+personal-history interview — biography-rich ★ (burned-CDs-at-15 origin detail, an
+approximate age-35/~20-years-in self-report, a full daily-routine account: 5:30am wake,
+daughter hand-off to wife ~6:30am, workout, multi-inbox email triage ~150-200/day
+personally); an unnamed-host interview nominally titled "Social Media Strategies To Boost
+Your SEO" that is actually a cold-outreach interview on influence, platform strategy, and
+success philosophy — the densest personal-philosophy source in the batch ★ (defines
+success as sustained contentment vs. unmaintainable happiness; "I just like winning" as
+his stated ambition framing; names Bill Gates as an admired figure specifically for wealth
+deployment toward global problems; a LinkedIn>TikTok>YouTube>Google platform-priority
+ranking; comments-not-duration as the primary algorithm signal; family-life detail of
+daily walks with wife/daughter replacing one-on-one mentoring); and a Sujan Patel
+interview (Neil's cousin, existing [[wiki/entities/sujan-patel]] page) that quantifies the
+brand-queries-drive-rankings mechanism already in the wiki (Eric Schmidt "brands are the
+solution" framing, PR-spike→ranking-persistence pattern, 106,447/5,420-post comment stat,
+Ubersuggest's ~340K/mo brand-name-search visits as evidence for "release free tools" as
+his favorite brand-query lever). No new contradictions surfaced. Ledger: 8 rows → L2.
+youtube-index.md: 781 → 789.
+
+Synthesis notes: three ★ items worth checking at the next synthesis pass — (1) the
+biggest-SEO-mistake self-critique's CPC-relevance heuristic and Salesforce-tracking
+mechanism, as supporting detail for the existing "optimize for revenue not traffic"
+belief; (2) the biography-rich interview (burned-CDs-at-15, age-35 self-report, full daily
+routine) as a candidate `persona/biography.md` addition; (3) the contentment/success-
+philosophy interview (contentment-over-happiness definition, "I just like winning," Bill
+Gates admiration) as a candidate `persona/beliefs.md` addition — the densest
+philosophy-of-success material seen in several batches. None promoted inline; debt now
+2/10 batches since synthesis pass 10.

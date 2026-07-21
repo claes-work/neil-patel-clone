@@ -794,6 +794,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2021-05-27 — [How to Track and Improve Your Rankings (Ubersuggest rank-tracking demo on crazyegg.com; competitive content-gap method vs. Hotjar/Wikipedia)](2021-05-27-yt-CcvVgMUzjiI.md) — seo
 - 2021-05-29 — [How to Continually Find New Keyword Opportunities (That You'll Be Able to Rank For) (Ubersuggest keyword-discovery loop: service/geo/niche modifiers; competitive research on saved keywords)](2021-05-29-yt-84JZvEaj8As.md) — seo
 - 2021-05-31 — [4 Daily SEO Tasks That You Need to Do (And That Produce Results) (Neil's personal daily SEO routine: rank check, keyword research, site audit, GSC review)](2021-05-31-yt-ljFUHMCvhAE.md) — seo
+- 2021-06-03 — [How to Protect Your SEO Rankings (While Using Google to Help You) (Google Search Console monthly-email + issue-alert maintenance workflow)](2021-06-03-yt-z7XseRkOkU4.md) — seo
+- 2021-06-05 — [My Favorite SEO Report - Uncover Your Competitors' SEO Strategy in a Few Clicks (Ubersuggest Similar Websites → Keywords Gap workflow)](2021-06-05-yt-WmztGhy9WNY.md) — seo
+- 2021-06-07 — [My Biggest SEO Mistake (And Why Your Organic Traffic Might Be Garbage) (58.6M-visitor self-critique; $18-vs-$2 CPC relevance heuristic; iProspect/Performics traffic-vs-revenue comparison) ★](2021-06-07-yt-EsLhrmdCn3M.md) ★ — seo, analytics-cro
+- 2021-06-10 — [How to Boost Your SEO Traffic with Sleeper Content (And Stop Promoting Worthless Content) ("sleeper content" tactic named: publish unpromoted, reinforce only what shows organic traction)](2021-06-10-yt-kUih7iP-YZY.md) — seo, content-marketing
+- 2021-06-12 — [The Easiest Way to Get More SEO Traffic (Google video-search-appearance GSC tracking; 1M+/yr video traffic; embed-on-blog video-SEO doctrine)](2021-06-12-yt-IHl9xb9VmJw.md) — seo, content-marketing, social-media
+- 2021-06-14 — [What To Expect From SEO Technology in 2023 [title mismatch, content=general marketing-trends interview] (burned-CDs-at-15 + age-35 self-report + daily-routine biography; voice-search/AI/translation trend opinions) ★](2021-06-14-yt-utRVs85Q2Cs.md) ★ — seo, content-marketing, ai-marketing, agency-entrepreneurship
+- 2021-06-17 — [Social Media Strategies To Boost Your SEO [title mismatch, content=cold-outreach interview on influence & success philosophy] (contentment-over-happiness success definition; "I just like winning"; Bill Gates admiration; comments-over-duration algorithm doctrine) ★](2021-06-17-yt-UlmlzJTBL8M.md) ★ — social-media, agency-entrepreneurship, content-marketing
+- 2021-06-21 — [The Biggest Impact on SEO (Sujan Patel interview; brand-queries-drive-rankings mechanism quantified; 106,447/5,420-post comment stat; free-tools-as-brand-lever)](2021-06-21-yt-DKPT6vaWcWk.md) — seo, agency-entrepreneurship
 
 ---
-_781 videos ingested (L2) so far._
+_789 videos ingested (L2) so far._
