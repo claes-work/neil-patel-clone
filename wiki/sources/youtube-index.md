@@ -1055,6 +1055,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2023-02-23 — [What I Wish I Knew When I Started My Blog (TAM-based niche selection; multi-channel distribution; consistency origin story)](2023-02-23-yt-2L4Jh0Ra7Rk.md) — content-marketing, seo
 - 2023-02-25 — [My Ultimate (Quick) Traffic Hack (year-in-title-tag freshness tactic; 5-6% traffic lift)](2023-02-25-yt-icTly7cEVPA.md) — seo
 - 2023-02-27 — [7 Tools to Write Content Faster (AnswerThePublic, Ubersuggest AI writer, VistaCreate, Grammarly, Lumen5, Portent, Hemingway App)](2023-02-27-yt-b2RLM1QqdC0.md) — content-marketing, seo
+- 2023-03-02 — [5 Ways to Eliminate Wasted Ad Spend (40% waste stat; retargeting; cross-channel 287% stat; dayparting)](2023-03-02-yt-Fd6mbzrXMu0.md) — paid-ads, analytics-cro
+- 2023-03-04 — [Step-by-Step Strategy I Use to Drive 1 Million Visitors to My Blog Per Month (content pruning; Wikipedia-freshness; outreach-for-shares; Subscribers push)](2023-03-04-yt-1DWuQiVh7A4.md) — content-marketing, seo
+- 2023-03-06 — [My 5 Favorite PPC Strategies (remarketing; cross-channel learnings transfer; mobile landing pages + CDN)](2023-03-06-yt-Pk4n-Ecr-lI.md) — paid-ads
+- 2023-03-09 — [5 Mistakes (Almost) Every New Marketer Makes (95%-fail stat; Expedia omnichannel anecdote; retention math)](2023-03-09-yt-R9QMSQQPV8Y.md) — agency-entrepreneurship, content-marketing
+- 2023-03-11 — [7 Steps to Ranking Number 1 on YouTube (keyword research, titles, thumbnails, SRT captions)](2023-03-11-yt-8kPi1U9PE8M.md) — seo, social-media
+- 2023-03-13 — [5 Marketing Predictions for 2023 (third-party cookies, voice search, live shopping, social commerce, podcast ads)](2023-03-13-yt-l3a-sdRL5Ns.md) — paid-ads, social-media, seo
+- 2023-03-16 — [Fuel Your Motivation and Stay on Top of Marketing Trends (Rhett Power interview ⚠️ title mismatch/~2022 content; rule-of-seven; hiring; work-life balance)](2023-03-16-yt--bqBAljfpXo.md) — agency-entrepreneurship, social-media
+- 2023-03-18 — [From Novice to Expert: Easy Tips to Master Digital Marketing (★ landmark interview — routine, values, hiring, Instagram-overtakes-Facebook prediction)](2023-03-18-yt-hON3LkphygI.md) — agency-entrepreneurship, social-media, content-marketing
 
 ---
-_1042 videos ingested (L2) so far._
+_1050 videos ingested (L2) so far._

@@ -6157,3 +6157,29 @@ material on plain-language communication. Everything else (customer-survey sampl
 size guidance, TikTok SEO steps, year-in-title-tag hack, tool roundup) is solid
 tactical detail but repeats territory already well covered in analytics-cro/seo/
 content-marketing — cross-link only, no promotion needed.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2023-03-02→03-18 solo tactical + 2 interviews era, cont. 101)
+Batch #101 (8 ok / 0 skipped / 0 no-captions / 0 dup). @neilpatel P2 long-form,
+2023-03-02→2023-03-18: 6 solo tactical videos (wasted-ad-spend 5-tactic; 1M-visitors/mo
+blog-promotion playbook; 5-favorite-PPC-strategies; 5-new-marketer-mistakes; 7-steps
+YouTube-SEO; 5-marketing-predictions-2023) + 2 interview-format videos: a Rhett Power
+sit-down (⚠️ title/content mismatch — internal references place the actual recording in
+~2022, republished 2023-03-16) and an unnamed-host India-focused Q&A (★ landmark-quality
+persona source — routine, values, hiring criteria, Instagram-overtakes-Facebook
+prediction, in unusual depth for this era). All fully Neil-attributed; interviewer
+questions excluded from persona data per attribution rules. No captions issues, no
+rate-limiting (8/8 fetched clean).
+Synthesis notes: (1) The India Q&A interview (yt-hON3LkphygI) is the richest single
+persona-voice source this batch — a coherent operating philosophy across routine
+("110% presence" reframe of work-life balance, "work is life"), hiring (player-coach +
+teaches-me-something-new criteria, extending the existing 2-competitors/promoted
+heuristic), and values (respect/ethics/long-term-thinking as an explicit named triad) —
+a strong beliefs.md + voice.md candidate. (2) The same interview's Instagram-will-overtake-
+Facebook/Meta prediction (2023-03-18) is a datable belief-evolution point worth cross-
+linking against later (2025-26) platform commentary once synthesized. (3) The Rhett Power
+interview's hiring heuristic (2+ competitors, tenure, internal promotions as third-party
+validation) reinforces material already promoted in earlier synthesis passes — cross-link
+only, no new promotion needed there. (4) Everything else (ad-waste tactics, PPC
+strategies, YouTube-SEO checklist, 1M-visitor blog-promotion steps, 2023 predictions) is
+solid tactical long-tail, well covered by existing seo/paid-ads/content-marketing hub
+structure — no promotion needed.
