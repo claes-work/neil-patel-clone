@@ -339,6 +339,53 @@ More concrete 2019 primitives from Neil's solo run. All 2019-dated; figures self
   and stop wasting your time continually looking at reports." Dates his anti-dashboard stance
   ([[2020-01-27-yt-_yXNA4wWS6M]]). Cross-link [[../../../persona/beliefs.md|persona/beliefs.md]].
 
+## 2020-04 → 2020-10 solo-era CRO — the landing-page checklist trio, "hoop theory" & ecommerce cart math (@neilpatel P2, synthesis pass 9)
+
+The spring/summer/autumn-2020 run supplies a quantified landing-page CRO checklist, a named
+checkout-commitment framework, and the corpus's first hard ecommerce cart-abandonment/PDP-conversion
+figures.
+
+- **The landing-page UX checklist — page speed, the fold, and clutter (2020-04-04, ★).** Three
+  quantified CRO levers, anchored to Unbounce's baseline that the average landing page converts at
+  **4.02%** (≈96% never convert): **(1) page speed** — 50% of users expect <2s loads; a cited Walmart
+  datapoint that every 1-second speed gain raised conversions 2%; **(2) CTA-vs-fold placement** — an
+  NN/g stat that above-vs-below-the-fold content usage differs by 84%, and an Unbounce test showing a
+  41% conversion spike from moving a CTA above the fold (with the deliberate counter-case: sometimes
+  *less* above-the-fold content is used on purpose to push scrolling — test with Crazy Egg
+  heatmaps/scrollmaps rather than assume); **(3) clutter removal** — a HubSpot test where cutting
+  navigational links raised free-trial conversions 14% and demo-page conversions 28%
+  ([[2020-04-04-yt-dobgpL_Rqmk]]).
+- **The "hoop theory" checkout-commitment framework + Doofinder (2020-10-22, ★).** A named principle:
+  once a user completes a small initial commitment (name/email), they're far more likely to complete
+  the rest of a multi-step flow than one long form up front — illustrated with a **Crazy Egg case
+  study**: splitting a one-page checkout into a three-step flow (pricing → account → checkout) lifted
+  conversions ~10%. Also names **Doofinder** as his agency's advanced on-site-search tool (learns from
+  aggregate customer behavior across many sites rather than one site's own traffic; ~20% sales lift,
+  self-reported vendor claim), and a simple-navigation rule illustrated on his own neilpatel.com blog
+  (the most-clicked nav element is a generic "Learn More" dropdown, not any specific post — warns
+  against a link "buffet" diluting both UX and SEO link-equity distribution)
+  ([[2020-10-22-yt-sGpcJ3SOITA]]).
+  > "It's what we call the hoop theory. When someone does little actions like gives you their name
+  > and email, they're much more likely to complete the rest of the actions." — [[2020-10-22-yt-sGpcJ3SOITA]]
+- **Ecommerce PDP/cart-abandonment figures, quantified (2020-06-29, ★).** The corpus's first hard
+  ecommerce-CRO numbers: a worked example where a **1%→2.5%** conversion-rate lift (at 600 daily
+  visitors, $45 AOV) moves annual revenue from ~$98,000 to ~$246,000 with no added traffic cost; a
+  cited **Elastic Path** study that "Add To Cart" beats alternate CTA wording ("Add to Bag/Basket");
+  average cart abandonment at **69.23%** (~$260B in lost sales, his framing); and a **Baymard
+  Institute** finding that better checkout design + abandoned-cart email sequencing recovers an
+  additional **35.26%** of conversions. Paired with an explicit ethics line on urgency tactics: "you
+  don't want to trick or deceive them... if you're not running out of inventory don't say that on
+  your page" — reinforcing, not new to, the wiki's existing anti-manipulation throughline
+  ([[2020-06-29-yt-KE12TB3U0qc]]).
+- **Anti-vanity-metrics dashboard doctrine, extended — "dark traffic" & the "not provided" keyword
+  filter (2020-06-01→06-18, SEO Unlocked Module 6).** Extends the existing anti-dashboard operating
+  cadence (pass 8) with concrete Google-tool mechanics: Analytics goals/alerts over raw dashboards; a
+  "**not provided**" keyword filter for privacy-masked organic-search terms; and a **"dark traffic"**
+  concept — apparent "direct" traffic (normally ~20%, rarely above 38–40%) that is often actually
+  unlabeled Google/search traffic — illustrated by a **Groupon experiment** blocking Google for a few
+  days, which showed both organic *and* direct traffic drop sharply ([[2020-06-11-yt-hAkiH_3hC9E]]).
+  Reinforcement of an existing belief with new named mechanics, not a new belief.
+
 ## Key source pages
 - [[2018-10-16-yt-AbcoFUHcs9M]] — ★ LTV/ad-spend model (7/8/9-figure "$1 in / $2 back" rule; Mixpanel).
 - [[2018-11-17-yt-av9WfdR4cVk]] — CRO beats acquisition (convert better → outbid on ad spend).

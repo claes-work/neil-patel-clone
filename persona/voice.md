@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-21
-sources: 53
+sources: 55
 ---
 
 # Voice
@@ -350,3 +350,23 @@ of a legacy agency.
   > "I don't think I'm successful." [[2018-03-10-yt-m_DZVD2NEW0]]
   Gloss: consistent with "be the dumbest person in the room" — modesty as a strategy, not false
   humility.
+
+## Personal asides & touchstone quotes (rare, dated; synthesis pass 9)
+
+- **A rare philosophical touchstone — quoting Marcus Aurelius.** Almost all of his documented voice
+  is tactical/instructional; this is one of the few times he opens with a philosophical quote rather
+  than a stat or hook. *(as of 2020-07-18)*
+  > "Ambition means tying your well-being to what other people say or do. Sanity means tying it to
+  > your own action." — Neil quoting Marcus Aurelius. [[2020-07-18-yt-u3UjgzlkTzg]]
+
+- **"I don't take holidays... I don't count hours."** His fullest self-description of the
+  work-is-life ethic, framed as love of craft rather than grind — see also
+  [[../persona/beliefs.md|beliefs.md]] (extreme work ethic). *(as of 2020-07-18)*
+  > "A lot of people ask me, Neil, do you take holidays? No, I don't take holidays. I don't think
+  > they're bad, but I just love what I'm doing, so I just keep crankin' and crankin'. I don't count
+  > hours." [[2020-07-18-yt-u3UjgzlkTzg]]
+
+- **The 1989 Toyota Camry aside.** A rare, off-the-cuff personal-life detail dropped mid-lesson
+  (used as an alt-tag example, not offered as a substantive claim) — one of the only concrete
+  personal-possession details in the corpus. *(as of 2020-08-10)*
+  > "I drove a 1989 Toyota Camry... drove it forever." [[2020-08-10-yt-mbIt8Sd2N2w]]

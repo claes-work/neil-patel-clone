@@ -813,6 +813,59 @@ product's included.
   [[wiki/topics/content-marketing|content-marketing]] and
   [[wiki/topics/social-media|social-media]] ([[2020-03-12-yt-oc1KaNa91uE]]).
 
+## 2020-03 → 2020-10 solo-era SEO — link-building-as-voting, YouTube's inverted ranking model & keyword-gap mining (@neilpatel P2, synthesis pass 9)
+
+The spring/summer/autumn-2020 run (SEO Unlocked's link-building module through the YouTube
+Unlocked course completion) adds the corpus's first dedicated link-building framework, a small-site
+ranking case-study bundle, a Search-Console-native keyword-gap method distinct from the
+Ubersuggest-first one already documented, and a named counter-model to the corpus's accretive/
+authority-based SEO doctrine.
+
+- **The Link Building Score Card — links as a "voting system" (2020-05-30, ★).** The first
+  dedicated, named link-building framework in the corpus. Reframes link building away from raw
+  quantity with an Obama-vs-Neil-Patel political-endorsement analogy: a link's weight scales with
+  the linking site's topical relevance/authority, not just its size (a site with fewer links can
+  out-traffic one with more — Get Rich Slowly vs. The Penny Hoarder cited). **Essential criteria**:
+  referring domains (unique linking sites, not repeat links from one site), dofollow vs. nofollow
+  (dofollow passes "search engine juice"; nofollow can still drive referral traffic/revenue),
+  domain/page score, and anchor-text naturalness (all-keyword-match anchors signal manipulation).
+  **Optional criteria**: link placement (in-content beats footer/sidebar) and relevancy (some
+  harmless-irrelevant links are fine — e.g. social profiles — but wildly irrelevant links, e.g. a
+  space site linking to a dental site, are not). Cites Moz research that a new link takes ~10 weeks
+  to move rankings, plus his own team's observed ~3-months-to-ramp / ~3-more-months-to-"kick in"
+  timeline — argued as a reason not to give up after quarter one. Two-tool stack: Ubersuggest to
+  find targets, Mailshake for outreach ([[2020-05-30-yt-h-4ksx-b_ns]]).
+  > "No matter how useful your content may be, a site without links is far less likely to rank
+  > highly in the organic search results." — [[2020-05-30-yt-h-4ksx-b_ns]]
+- **"YouTube SEO is the opposite of traditional SEO" — the first-24-hours doctrine (2020-10-17,
+  ★).** The course-completion claim of "YouTube Unlocked" and a distinct, named **counter-model**
+  to this hub's accretive/authority-based web-SEO doctrine: YouTube ranking is decided
+  overwhelmingly by view/engagement performance in the **first 24 hours** (especially the first
+  hour), not by a slow accretion of authority over time. His first-hour promotion playbook for that
+  window: email blast, push notification, and social (Twitter) — timed to launch, not spread out —
+  plus cross-posting to every other owned platform and embedding on the blog. Frames interviewing
+  (rather than paying) influencers as a zero-cost way into their audience, calling influencers a
+  "moat." Recommends 5–15-minute videos (long enough to avoid a too-short penalty, capped to avoid
+  losing viewers) ([[2020-10-17-yt-qwomTmPOtyA]]).
+  > "YouTube SEO is the opposite of traditional SEO. Whatever's popular in the first 24 hours tends
+  > to rank really fast... It's not slow and steady wins the race with YouTube. It's the first 24
+  > hours." — [[2020-10-17-yt-qwomTmPOtyA]]
+- **Google Search Console near-miss-query keyword-gap method (2020-09-03).** A GSC-native
+  companion to the existing Ubersuggest-first long-tail-expansion tactic: in GSC's Search Results
+  report, sort pages by high impressions/low clicks, open that page's Queries tab, and treat any
+  specific phrase the page is *almost* ranking for but doesn't explicitly contain as a keyword to
+  add — then submit the edited URL via GSC's Request Indexing tool to prompt a faster recrawl
+  (ranking gains still take "a few weeks to a month"). Recommended batch size: 20 of the viewer's
+  own pages ([[2020-09-03-yt-W4mT6giCDp0]]).
+- **Small-site ranking case-study bundle (2020-03-30).** Consolidates his "a small site can still
+  rank" evidence: Google's June 2019 diversity update (caps one domain at 2 non-branded SERP slots,
+  opening room for smaller sites); a **Gaps.com study** — a one-page misspelled exact-match domain
+  ("ShoferDriver.co.uk") with 2 backlinks reached page two, a "near-me" domain
+  ("ApartmentsNearMe.co.uk") with ~1,000 words and no backlinks reached page one; personally
+  replying to comments across every owned channel as a small-player differentiator; and the
+  About.com six-vertical-split case study (~900K pages deleted, traffic and revenue +140%) as
+  evidence Google rewards niche focus over broad-authority sites ([[2020-03-30-yt-totiNw9Rypc]]).
+
 ## Signature framing: "get loved by Google"
 
 Neil's recurring sign-off phrase, worth capturing verbatim as voice:

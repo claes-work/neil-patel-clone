@@ -220,6 +220,24 @@ paid works because of the funnel behind the ad, not the ad craft (dated; self-re
   logic-led if it argued on emotion ([[2019-11-23-yt-7tACyXcjZF4]]). Full entry on
   [[wiki/topics/analytics-cro|analytics-cro]] (this is a cross-link, not a duplicate).
 
+## 2020-07 eCommerce Unlocked paid-ads — ACOS, marketplace ads & the Amazon anti-manipulation stance (@neilpatel P2, synthesis pass 9)
+
+- **The ACOS framework + review-velocity target + explicit anti-manipulation stance (2020-07-06,
+  ★).** Introduces **ACOS** (advertisement cost of sale — ad spend ÷ resulting sales) as the core
+  Amazon-PPC profitability metric, with a concrete campaign playbook: one auto + one manual PPC
+  campaign, default bid ~$0.50–$1, "dynamic bids down only," bid toward the **second-place** bid (not
+  the top bid, to avoid overpaying), rolling bids down monthly as profitability improves. Sets a
+  **review-velocity target** — 15 reviews as fast as possible, then 30/50/100+ — paired with an
+  explicit ethical line against manipulated reviews: "you really do need natural five star reviews,
+  because if they're not natural... it's going to cause your listing to go down." Reinforces, with a
+  new named framework, the wiki's existing anti-manipulation throughline
+  ([[wiki/topics/analytics-cro|analytics-cro]] cross-link; [[2020-07-06-yt-k9tqQW4FqlM]]).
+  > "It's not about gaming the system. It's about doing what's best for your customers." — [[2020-07-06-yt-k9tqQW4FqlM]]
+- **Marketplace ads beyond Amazon (2020-07-13 → 07-16).** eCommerce Unlocked's ad-channel survey:
+  Google/Bing Shopping Ads plus Facebook/Instagram dynamic product ads and remarketing for cart
+  abandoners; email flagged as the top-converting channel overall, with seasonal ad-spend patterns
+  and YouTube/Instagram/Etsy ad options surveyed as secondary channels.
+
 ## Key source pages
 - [[2018-12-22-yt-7V3HMRJ8U40]] — SEO vs paid: do both (omni-channel; "if paid is profitable, SEO is").
 - [[2019-02-09-yt-jmRunRQU1wc]] — Funnels as ad costs rise; 2008-recession ad-durability datapoint.

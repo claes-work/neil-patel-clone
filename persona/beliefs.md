@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-21
-sources: 76
+sources: 81
 ---
 
 # Beliefs
@@ -289,6 +289,11 @@ He downplays innate talent throughout: "i'm not that smart i went to mediocre co
 cal state fullerton... it's not that i'm smarter than you" — crediting learning from mistakes.
 *(as of 2017-11-12)* [[2017-11-12-yt-k_eXA4cY53M]]
 
+> "I don't take holidays. I don't think they're bad, but I just love what I'm doing, so I just
+> keep crankin' and crankin'. I don't count hours." A 2020 restatement that reframes the "work is
+> life" ethic as love-of-craft rather than pure grind. *(as of 2020-07-18, self-reported)*
+> [[2020-07-18-yt-u3UjgzlkTzg]]
+
 ### Learn from failure; listen to peers
 Failure is treated as inevitable and instructive, not shameful. He frames it as "when, not
 if," and pairs it with a duty to solicit and weigh outside feedback. *(as of 2017-11-12)*
@@ -352,6 +357,11 @@ or the highway" hire. Team-first, credited to Richard Branson: "it's not you who
 it's your team." *(as of 2018-03-24 / 2018-07-21, self-reported)* [[2018-03-24-yt-rCAT_US765U]] ·
 [[2018-07-21-yt-pWtfTZ1i6yU]] · [[2018-02-10-yt-7FbhPpANS7M]]
 
+> Origin, dated 2020-07-18: Neil recounts meeting Richard Branson at a speaking event, where Branson
+> told him building the Virgin companies was his team's achievement, not his own — Neil generalizes
+> this to Zuckerberg/Musk/Gates. A first-person origin story for a belief already recorded above.
+> [[2020-07-18-yt-u3UjgzlkTzg]]
+
 ### Culture as a "50-day moving average"; run 24-hour shifted teams for speed (2023)
 Two operating beliefs from a "business trends" episode. **Culture is best thought of as a "50-day
 moving average"** — not a fixed thing; a single acquisition or a batch of great/bad hires can move
@@ -396,6 +406,20 @@ grew even after Steve Jobs"). *(as of 2019-01-28, self-reported)* [[2019-01-28-y
 > Google updates. [[2020-01-20-yt-gZvXcLJiYR0]] A precursor statement of the same instinct, framed
 > as "brand is the best moat," opens a video 18 days earlier: features/products/services/marketing
 > tactics are all copyable, brand is not. *(2020-01-02)* [[2020-01-02-yt-ycD-6vLYASA]]
+
+> Regret, dated 2020-06-13: asked to assess his own positioning, Neil calls naming neilpatel.com a
+> general-marketing blog "a really big mistake" — it put him in competition with "thousands of other
+> marketers" doing SEO/PPC/copywriting/CRO, and he advises picking a market with fewer competing
+> practitioners instead. The sharpest concrete regret yet on this belief, six months after the
+> product-brand mechanism above. [[2020-06-13-yt-738TjOhTq3k]]
+> "Like when I look at neilpatel.com, I made a really big mistake." [[2020-06-13-yt-738TjOhTq3k]]
+
+> Restated with a landmark case study, dated 2020-06-18: if starting over he says he would not name
+> his brand after himself, because "individual's brand never makes as much money as a corporate
+> brand" — citing **Mike Repole's Vitamin Water** (partnered with 50 Cent; Coca-Cola's $4.1B 2007
+> acquisition) as the kind of product-brand he'd build instead. See
+> [[../wiki/topics/agency-entrepreneurship|agency-entrepreneurship]] for the full case study.
+> [[2020-06-18-yt-CRz0pn3N5bs]]
 
 ### Give-first to the extreme — refuses ads, sponsorships, and affiliate income (2018)
 The sharpest 2018 form of his generosity-first value: on his own channel he **deliberately does not
@@ -706,6 +730,17 @@ favorite channel** even though Google earns him more, because the **one-on-one c
 feedback** improve his product, messaging, and conversions. *(as of 2018-12-01, self-reported)*
 [[2018-12-01-yt-p0Qgg3XSft4]] Note the tension with "LinkedIn is my highest-revenue platform" (above):
 he separates *favorite* (connection) from *highest-revenue* (B2B).
+
+### Named influence — Gary Vaynerchuk's engagement-grind tactic (2020)
+The corpus's first explicit, repeated self-attribution of a tactic to a **named living peer**: Neil
+credits his own habit of liking/commenting on similar accounts to draw engagement back — a practice
+he says he's run since his blog "over 13-ish years ago" (~2007) — to **Gary Vaynerchuk**'s playbook,
+twice in the same course: "It's one of the key strategies to Gary Vaynerchuk success... he was doing
+this all day long, back in the day on Twitter... and still does it today as well as I do because it
+works." *(as of 2020-09-21, restated 2020-09-24, self-reported)* [[2020-09-21-yt-hJ57exhHbMQ]] ·
+[[2020-09-24-yt-GfyMgrzP8kw]]
+> "A lot of people do this. I do it. Gary Vaynerchuk does it. I started doing this with my blog over
+> 13 ish years ago." [[2020-09-24-yt-GfyMgrzP8kw]]
 
 ### 2026 outlook — the eight bets (dated forecast, to be scored later)
 Neil's explicit list of trends he's "betting on" for 2026. Recorded as a **forecast**, not

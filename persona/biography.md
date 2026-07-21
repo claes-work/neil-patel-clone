@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-21
-sources: 47
+sources: 49
 ---
 
 # Biography
@@ -37,6 +37,10 @@ Neil Patel's life as a dated timeline. Confidence markers: ✅ verified
 - **~2000s (early career, confessed on record in 2018) — a black-hat SEO / growth-hacking era he later renounces.** 🗣️ Self-reported war stories, recorded here as biography (and as anti-patterns, not advice): he says he swapped footer credit links in popular free WordPress themes to rank **#1 for "web hosting"** (an affiliate site he claims did **~$100K/mo** before Google banned only him); filled an **expired civil-war .edu domain** with casino content to reach **top-3 "online casino"** (also banned); **bought links and fake Facebook/YouTube likes**; and ran an early-YouTube **auto-subscribe script** that made a channel **top-100 in <30 days with zero videos** before YouTube killed the account (he also says he nearly got his "Sexy Confidence" channel banned in 3 days for buying 20K views). He frames the whole era as the lesson that **gaming the system is short-term thinking that evaporates → "think long-term."** ([[2018-02-20-yt-CkPZk9i4SSY]], [[2018-06-28-yt-CK-LUnW6uUE]]) See also [[../wiki/topics/seo|seo]].
 - **~2005–2006 — Co-founds Crazy Egg with Hiten Shah** — heatmap / scrollmap / click-tracking SaaS for website optimization. Bootstrapped slow-build; VC-shy early, later profitable. 📰 (Founding year 2005 vs 2006 is contested — conceived ~2005, launched ~2006.) ([[2026-07-14-research-biography-dossier]]) He says Crazy Egg reached **100,000 users**; for its first-person go-to-market story (10,000+ pre-launch beta signups, the "designers vs marketers" messaging pivot, CSS-gallery banner ads, free accounts seeded to TechCrunch/Mashable) see *First-party origin details* below. 🗣️ ([[2021-03-04-yt-H_AUV7Iq2Ec]])
 - **~2007 — Launches Quick Sprout**, his personal SEO/marketing blog + consulting brand — the platform that builds his personal brand and client funnel. 🗣️/📰 ([[2026-07-14-research-biography-dossier]]) He later cites a QuickSprout **"100K challenge"** — a $0→$100k/month-in-12-months demonstration built *without* his name, a supplements/nutrition site (Nutrition Secrets) fronted by a friend "Mike"; see *First-party origin details* below. 🗣️ ([[2021-03-04-yt-H_AUV7Iq2Ec]])
+  > 🗣️ A 2020 aside dates a specific habit to this same blog era: Neil says he's been personally
+  > replying to reader comments "over 13-ish years ago" (i.e., ~2007, consistent with the Quick
+  > Sprout launch above), a practice he says he still runs on Instagram and credits partly to Gary
+  > Vaynerchuk's playbook. ([[2020-09-24-yt-GfyMgrzP8kw]])
 - **2008 — Co-founds KISSmetrics with Hiten Shah** — behavioral analytics / attribution platform, funded by True Ventures. Its blog becomes a landmark SaaS content-marketing case study. 🗣️/📰 ([[2026-07-14-research-biography-dossier]]) First-person 2018 figures (self-reported, unaudited): he says KISSmetrics **raised >$10M and burned ~$4M before its first dollar of revenue** — his cautionary tale for *validate/pre-sell before you build* ([[2018-03-27-yt-4g05lbqBjc0]]); elsewhere he cites the raise as **~$17M** ([[2018-05-29-yt-w0AjQoLrKfw]]). Figures are inconsistent across his own tellings. A 2019 telling ("The Three Unseen Laws of Entrepreneurship") repeats the **"$17M+"** raise and adds a candid post-mortem: he says KISSmetrics **installed a CEO who "couldn't execute"** ("kept spinning his wheels"), and a **competitor that copied their product out-executed them to "$100M+/yr in revenue"** — "they didn't create a better product … they out-executed us." 🗣️ (self-reported/unaudited) ([[2019-03-21-yt-ETHO5QMCUEk]])
   > 🗣️ Lifetime fundraising marker (2018-03-13): Neil says he has **raised >$20M across his ventures**, describing VC as a relationships-first business — see [[../wiki/topics/agency-entrepreneurship|agency-entrepreneurship]]. ([[2018-03-13-yt-69q71xic144]])
   > 🗣️ KISSmetrics' blog reached **~1 million visitors/month purely through unpaid guest posting**
@@ -103,6 +107,11 @@ These enrich the timeline above with the fuller narratives Neil tells in his own
   Guide to SEO* and a recurring named collaborator across Neil's videos (alongside Aaron Agius and
   Larry Kim/WordStream), is Neil's **cousin** — a family relationship not previously recorded in
   the corpus. 🗣️ ([[2020-01-12-yt-idpg3IyTU10]]) See [[../wiki/entities/sujan-patel|Sujan Patel]].
+- **"Real Cool Videos" — a small co-owned site with a partner named Ahmed (self-reported, 2020).**
+  A previously-unrecorded small venture: Neil says he personally spent six months to a year manually
+  optimizing display-ad placement on a site he co-owned, **"Real Cool Videos,"** with a partner named
+  **Ahmed**, before concluding manual ad-optimization doesn't scale and switching to the ad-tech tool
+  Ezoic. 🗣️ ([[2020-10-19-yt-gXzKovmO7pM]])
 - **The immigrant-mother work-ethic story (self-reported, 2018).** Extending the "learned entrepreneurship from my mom" line, Neil says his **immigrant mother taught free for six months while pushing her kids in a stroller** — the origin he attaches to his "make time / out-work everyone" hustle value; consistent with the SUBJECT.md family background (mother a teacher). In the same video he says he **pre-sold >$500k of *Hustle* before launch**, corroborating the book-launch mechanics above. 🗣️ ([[2018-11-15-yt-xQDwBwaT3yc]])
 
 ## Personal life (name-free by policy)

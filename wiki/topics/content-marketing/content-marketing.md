@@ -284,6 +284,55 @@ marketing" doctrine — the missing dated mid-point between the 2018 free-tool t
   signal. Full detail on [[wiki/topics/seo|seo]] (2019-10→2020-03 section); noted here as a
   content-strategy framework too ([[2020-03-12-yt-oc1KaNa91uE]]).
 
+## 2020-04 → 2020-08 solo-era content-marketing — Franklin's Law, WHIPS & editing frameworks (@neilpatel P2, synthesis pass 9)
+
+The SEO Unlocked content-marketing/editing modules add three named, reusable frameworks not
+previously in the corpus, a concrete implementation path for the existing "tools are content
+marketing" doctrine, and a self-critique that extends the corporate-brand belief.
+
+- **Franklin's Law of Content Success (2020-05-18, ★).** A named content-ideation framework (his
+  "consistency over talent" thesis, illustrated by a 30%+ QuickSprout traffic dip after a one-month
+  posting gap that took 3+ months to recover): **(1) String Ideas** — mine Ubersuggest's
+  keyword-ideas/top-pages/content-ideas/backlinks reports for topics at the intent-tier your site's
+  stage needs (low-volume/under-1,000-visit keywords for newer sites); **(2) Target Kite** —
+  deep-dive competitors' top-ranking pages (format, media mix, offer clarity) to beat them
+  qualitatively, not just match keywords. Illustrated with his own Crazy Egg growth (100K+ users via
+  pre-launch customer interviews + guest content on design-community sites) and a performance-based
+  PR contact (Chris Barrett/Prserve.com — pay only if he lands press) as a PR-agency alternative
+  ([[2020-05-18-yt-zks1MFJsyUc]]).
+- **The WHIPS buyer-awareness framework (2020-05-21, ★).** Matches content format to funnel stage:
+  **W**indow-shopper (wants a category, undecided on vendor) → **H**elp-me (aware of a problem, not
+  a solution) → **I**nform-me (aware of the solution, doesn't know where to get it) → **P**ersuade-me
+  (comparing named competitors — reuses the existing "comparison keywords = purchase already
+  decided" intent taxonomy) → **S**how-me (knows the product, needs final proof/testimonials). Maps
+  each stage to a specific Ubersuggest report (Keyword Ideas for help-me/inform-me; the Comparisons
+  tab for persuade-me). Paired with a 20-point 2020 writing rulebook and an anti-perfectionism stance
+  credited to Dave Brailsford's "marginal gains" philosophy (Team Sky) and Toyota's incremental-gains
+  model ([[2020-05-21-yt-cJbKV2_B-xc]]).
+  > "It's not one shot, it's not one thing that gets you to the finish line and beat your
+  > competition. It's a lot of little things that add up." — [[2020-05-21-yt-cJbKV2_B-xc]]
+- **The STEPS editing checklist (2020-05-25, ★).** A named editing methodology, complementing the
+  WHIPS writing rulebook: **S**trive for brevity (cut filler words) → **T**echnical jargon (avoid
+  Ivy-League vocabulary and non-translating idioms for a global/non-native audience; Hemingway App
+  for readability) → **E**nsure flow (subheadings throughout, always a labeled "Conclusion"; argues
+  outlining first prevents expensive post-hoc flow fixes) → **P**ain points (match the reader's
+  problem without over-pushing negativity — "be nice and kind") → **S**EO (natural keyword placement
+  in title/body/conclusion/meta, warns against stuffing). Closes by extending SEO into UX: set up a
+  Crazy Egg heatmap on published content to see drop-off points ([[2020-05-25-yt--1hw7akbdBQ]]).
+- **White-label tool-buying as a concrete "tools are content marketing" implementation (2020-08,
+  cross-referenced from [[wiki/topics/seo|seo]]/agency-entrepreneurship).** The CodeCanyon/Envato
+  white-label-tool tactic already promoted at pass 8 is the buyable, non-technical path into the
+  existing "tools are a new form of content marketing" doctrine above — noted here as a cross-link,
+  not duplicated.
+- **The neilpatel.com positioning self-critique — extends corporate-brand-over-personal-brand
+  (2020-06-13).** Neil calls his own choice to position neilpatel.com as a general marketing blog
+  "a really big mistake," because it puts him in competition with "thousands of other marketers"
+  doing SEO/PPC/copywriting/CRO, and recommends picking a market with fewer competing practitioners.
+  A concrete, dated regret extending the corporate-brand-over-personal-brand belief in
+  [[../../../persona/beliefs.md|persona/beliefs.md]] ([[2020-06-13-yt-738TjOhTq3k]]).
+  > "Like when I look at neilpatel.com, I made a really big mistake. Neilpatel.com is a blog about
+  > marketing and I'm competing with thousands of other marketers like me." — [[2020-06-13-yt-738TjOhTq3k]]
+
 ## Key source pages
 - [[2019-07-06-yt-EihqZWH6aT4]] — ★ Content-volume decision rule (writes ~4/mo; domain score <40 vs >65 → volume vs content gaps).
 - [[2019-06-24-yt-7QDNVMVF7ss]] — Storytelling framework (core message → story type → CTA; Significant Objects $129→$8k).

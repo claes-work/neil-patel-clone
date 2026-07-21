@@ -4172,3 +4172,62 @@ substantially expands on its single prior mention
 wiki. Ingest batches since last synthesis now at 10/10 per the driver — **synthesis
 checkpoint due; next iteration runs Stage S** over the @neilpatel 2020-03→2020-10 P2
 era (batches #78-#87 since synthesis pass 8, log cont. 56-65).
+
+## [2026-07-21] lint | synthesis pass 9 — @neilpatel 2020-03→2020-10 P2 tactical era (batches #78–#87)
+
+Ran the Stage S synthesis checkpoint (its 9th pass) — dispatched under the roster autopilot, so all
+topic edits / persona edits were written directly by one agent, sequentially, per the collapsed-
+nesting rule (no per-video or per-file subagents). Drained the **10 accumulated `Synthesis notes:`
+lines** (log cont. 56–65, @neilpatel 2020-03-14 → 2020-10-22 solo run — spanning the SEO Unlocked
+link-building module through its finale, the full eCommerce Unlocked course, the full Instagram
+Unlocked course, and the YouTube Unlocked course completion) into the 8 `wiki/topics/` hubs +
+`persona/`, taking the corpus high-water mark to **693 L2 sources, ingest batches #1–#87**. Fully
+Neil-attributed (solo era, no gating). Quality-over-volume — restatement/reinforcement material
+already flagged per-batch was dropped (stays L2 as source pages).
+
+**Topic promotions** (new dated 2020-03→2020-10 sections, ★ = high-value): **seo** — the **Link
+Building Score Card**, reframing links as a voting system (essential: referring domains, dofollow/
+nofollow, domain/page score, anchor-text naturalness; optional: placement, relevancy) ★; **"YouTube
+SEO is the opposite of traditional SEO"** — the YouTube Unlocked course-completion claim, a distinct
+named counter-model to the corpus's accretive/authority web-SEO doctrine ★; a Search-Console-native
+near-miss-query keyword-gap method (companion to the existing Ubersuggest-first tactic); a small-site
+ranking case-study bundle (Gaps.com exact-match/near-me domains, the 2019 diversity update, the
+About.com niche-split case). **content-marketing** — **Franklin's Law of Content Success** (String
+Ideas / Target Kite) ★; the **WHIPS** buyer-awareness framework (window-shopper → help-me → inform-me
+→ persuade-me → show-me) ★; the **STEPS** editing checklist ★; the neilpatel.com positioning
+self-critique ("I made a really big mistake... competing with thousands of other marketers")
+extending the corporate-brand-over-personal-brand belief. **analytics-cro** — a quantified
+landing-page UX checklist (page speed, above-the-fold CTA placement, clutter removal — Unbounce/NN
+Group/HubSpot studies) ★; the **"hoop theory"** checkout-commitment framework + the Doofinder tool ★;
+hard ecommerce PDP/cart-abandonment figures (1%→2.5% conversion-lift math; 69.23% cart abandonment;
+Baymard's 35.26% recovery) ★; dark-traffic/"not provided"-keyword Analytics mechanics extending the
+existing anti-dashboard cadence. **paid-ads** — the Amazon **ACOS** framework + a review-velocity
+target (15→30→50→100) with an explicit anti-manipulation ethical stance ★; a marketplace-ads survey
+(Shopping Ads, FB/IG dynamic product ads, Etsy/Walmart/eBay). **agency-entrepreneurship** — the
+**Vitamin Water/Mike Repole $4.1B** case study ("solve a genuinely unmet need," partnered with 50
+Cent, sold to Coca-Cola) ★; the "let me think about it" sales-objection framework (fit/functionality/
+financial). **social-media** — the full six-lesson **Instagram Unlocked** playbook (bio-link-as-
+profit-center, the algorithm-as-dwell-time model, "Instagram SEO," influencer-vetting criteria, the
+Kylie Cosmetics/Frank Body case studies, the anti-account-buying stance); the **Grace & Lace**
+micro-influencer case study ($800K→$1.6M→$20M+); the Etsy emotional-positioning exception; and the
+corpus's first explicit, **repeated self-attribution to a named living peer** — Neil credits his own
+Instagram engagement-grind habit to **Gary Vaynerchuk**'s playbook, tracing his own version to his
+blog "~2007."
+
+**Persona:** **beliefs** 76→81 (the neilpatel.com self-critique + the Vitamin Water case study, both
+extending corporate-brand-over-personal-brand; the Branson-meeting origin story for the already-
+recorded team-not-founder belief; the named Gary Vaynerchuk engagement-tactic credit; "I don't take
+holidays... I don't count hours"). **voice** 53→55 (a rare Marcus Aurelius touchstone quote, "I don't
+take holidays" self-description, the 1989 Toyota Camry aside). **biography** 47→49 ("Real Cool
+Videos"/partner-Ahmed small venture; the comment-reply habit dated to ~2007, reconciled with the
+existing Quick Sprout timeline entry — no new venture, Nutrition Secrets was already recorded).
+Recompiled **system-prompt.md v9 → v10** (compiled_from_sources 613 → 693); prompt body woven
+additively per the usual rule (older changelog blocks kept).
+
+No new contradictions beyond the per-source QA flags already on individual source pages (title/
+content date-mismatch artifacts; the 8,200-cumulative-blog-posts figure left unreconciled, not
+contradictory, against the 2019 4-posts/mo+90-updates/mo rate). Advanced the high-water mark in
+`pipeline/synthesis-state.md`; index.md hub/persona descriptions and source counts updated. No
+pending checkpoints remain (caught up through batch #87).
+
+Synthesis notes: none (this IS the synthesis pass; debt drained to 0 through batch #87).

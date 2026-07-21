@@ -405,6 +405,64 @@ self-reported; date-flag before reuse.
   signal. Full detail on [[wiki/topics/seo|seo]] (2019-10→2020-03 section)
   ([[2020-03-12-yt-oc1KaNa91uE]]).
 
+## 2020-06 → 2020-09 Instagram Unlocked & ecommerce social (@neilpatel P2, synthesis pass 9)
+
+The eCommerce Unlocked content-promotion lesson and the full six-lesson **Instagram Unlocked**
+course (2020-09-17 → 09-26, course complete) add the corpus's fullest Instagram-specific playbook,
+a durable micro-influencer case study, and an explicit, repeated self-attribution to Gary
+Vaynerchuk's engagement tactics.
+
+- **Bio-link-as-profit-center + Stories/hashtag mechanics (2020-09-17).** Frames the Instagram bio
+  link as "the main profit center" of a profile — point it at a lead-capture/landing page over a
+  bare homepage where possible. Stories are his favorite conversion driver after the bio link (cites
+  Will Smith and Dhar Mann's Story Highlights as models he personally follows). Hashtag caps: 30/post,
+  10/story (stuff extras into comments to work around the cap). Single-theme-page discipline (his
+  own theme: "all things marketing related") ([[2020-09-17-yt-IJkYLI1oM4s]]).
+  > "I look at this link as the main profit center for my Instagram profile." — [[2020-09-17-yt-IJkYLI1oM4s]]
+- **Instagram's algorithm as dwell-time optimization + "Instagram SEO" + explicit Gary Vaynerchuk
+  attribution (2020-09-21 & 2020-09-24, ★).** Frames Instagram's algorithm as optimizing for
+  dwell-time/engagement across the full stack (feed + Stories + Highlights + Live + IGTV + DMs +
+  Reels); recommends posting 1–2×/day (48-hour floor) and actively liking/commenting on similar
+  accounts to draw them back. **Neil explicitly and repeatedly credits this engagement-grind tactic
+  to Gary Vaynerchuk** — "It's one of the key strategies to Gary Vaynerchuk success... he was doing
+  this all day long, back in the day on Twitter... and still does it today as well as I do because it
+  works" — tracing his own version of the habit to his blog "over 13-ish years ago" (~2007). Closes
+  with **"Instagram SEO"**: placing Ubersuggest-sourced primary/secondary keywords in display
+  name/username/bio/alt-text/captions — an explicit cross-application of his core SEO toolset to a
+  non-Google platform ([[2020-09-21-yt-hJ57exhHbMQ]], [[2020-09-24-yt-GfyMgrzP8kw]]). This is the
+  first time the wiki records Neil naming a specific living influence by name for a tactic he still
+  uses; cross-link [[../../../persona/beliefs.md|persona/beliefs.md]].
+  > "A lot of people do this. I do it. Gary Vaynerchuk does it. I started doing this with my blog
+  > over 13 ish years ago." — [[2020-09-24-yt-GfyMgrzP8kw]]
+- **Influencer vetting criteria + growth hacks (2020-09-24).** Four growth hacks beyond engagement:
+  micro-influencers over big names, vetted on follower quality/engagement consistency/growth
+  trend/publishing frequency/budget; content repurposing across platforms; new formats to test
+  (Stickers, challenges, AR filters); and Instagram ads startable at $10–50
+  ([[2020-09-24-yt-GfyMgrzP8kw]]).
+- **Instagram Unlocked course completes — Kylie Cosmetics/Frank Body case studies + platform
+  repurposing guide + anti-account-buying stance (2020-09-26).** Case studies: **Kylie
+  Cosmetics/Kylie Jenner** (third-party figures: ~$900M net worth, $300M 2019 revenue, Coty's $600M/
+  51%-stake purchase) and **Frank Body** ($20M in sales in one year via tight niche focus + a
+  personified brand voice + UGC repost habit) — both context/case-study data about third parties,
+  not Neil-attributed claims. Platform-by-platform repurposing guide: Facebook (events, video/photo),
+  LinkedIn (case studies, white papers), Instagram (personal-life, products, inspirational),
+  Twitter (storytelling, quick tips), Pinterest (how-to, aspirational photography). Neil's stated
+  personal stance: he does **not** buy established Instagram accounts (though it's technically
+  permitted and common) because "the engagement just isn't the same" on purchased accounts — he
+  builds from scratch instead ([[2020-09-26-yt-FNuwQcYkP-s]]).
+- **Micro-influencer-over-mega-influencer, reinforced — the Grace & Lace case study (2020-07-04,
+  ★).** A durable illustration for the existing micro-influencer preference: **Grace & Lace** (a
+  Shark Tank company) grew Year 1 ~$800K → Year 2 $1.6M → Year 3 $20M+ in sales via
+  Instagram/Pinterest micro-influencer marketing — his stated rationale: "get 10 of those smaller
+  ones... it makes up then more than one of those big influencers," which "usually don't provide the
+  best ROI." Same lesson reinforces (not reverses) the already-flagged ⚠️ 2020-era Messenger/chatbot
+  boosterism via a Facebook-Messenger 1.3B-MAU citation ([[2020-07-04-yt-5lyrhobB91g]]).
+- **Etsy's emotional-positioning exception (2020-07-09).** A documented, narrow divergence from the
+  spec-forward product-page norm: Etsy buyers shop for handmade/emotional connection, so listings
+  should "describe pretty much less about the product... more about how it feels" rather than lead
+  with specs — a channel-specific messaging adaptation, not a contradiction of the general doctrine
+  ([[2020-07-09-yt-hNTezOCVWNQ]]).
+
 ## Key source pages
 - [[2018-10-04-yt-5dyn03RSWVA]] — Post to Facebook natively (schedulers cut reach 2–3×); monthly reporting.
 - [[2018-12-08-yt-dDDpdAnb_Es]] — Instagram weak for B2B; pick channels that fit; don't chase Insta-famous.

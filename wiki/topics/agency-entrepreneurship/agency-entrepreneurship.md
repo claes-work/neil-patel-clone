@@ -687,3 +687,32 @@ importantly — the first time Neil puts a **hard cost** on the free-product-as-
   already answered elsewhere** as an authority-and-workload trade ([[2020-01-12-yt-idpg3IyTU10]]).
   Cross-link [[../../../persona/biography.md|persona/biography.md]] and add/extend
   [[wiki/entities/sujan-patel]] if the entities page does not already record the cousin relationship.
+
+## 2020-04 → 2020-07 solo-era operating principles (@neilpatel P2, synthesis pass 9)
+
+- **"Solve a genuinely unmet need" — the Vitamin Water/Mike Repole thesis (2020-06-18, ★).** The
+  SEO Unlocked course finale's centerpiece case study: **Mike Repole and Vitamin Water** identified
+  an unmet need in the ~$6B water/sports-drink/energy-drink market, partnered with **50 Cent** (paid
+  in cash plus equity), grew from $0 to $100M to $355M to $700M (2005–2007), and Coca-Cola acquired
+  it for **$4.1 billion** in 2007 — Neil's model example of "that intersection [of what you want to
+  sell and what people want to buy] is where amazing brands live." Paired with a content-vs-paid-ads
+  ROI argument (a $500K content spend keeps generating leads/sales after spending stops; a $500K
+  Google Ads spend does not) and a restated self-critical counterfactual: if starting over, he
+  **would not** name his brand after himself, because "individual's brand never makes as much money
+  as a corporate brand" — citing Vitamin Water as the kind of product-brand he'd build instead. The
+  corporate-brand-over-personal-brand line and the rule-of-seven citation here are **repeats** of
+  beliefs already in [[../../../persona/beliefs.md|persona/beliefs.md]]; only the Vitamin Water case
+  study itself is new ([[2020-06-18-yt-CRz0pn3N5bs]]).
+  > "If I had to do it over again, I wouldn't name my brand after me, Neil Patel... because
+  > individual's brand never makes as much money as a corporate brand." — [[2020-06-18-yt-CRz0pn3N5bs]]
+- **The "let me think about it" sales-objection framework (2020-04-23).** A named
+  objection-handling sequence: diagnose whether a stalling prospect means genuine disinterest or
+  genuine uncertainty ("why aren't you interested?" / "what's your biggest concern?"); for
+  uncertainty, diagnose one of three causes — **fit** (ask directly), **functionality** (commit to
+  building the missing feature, argue they don't need it, or point to a third-party integration that
+  plugs the gap), or **financial** (payment-term options, adjust price/scope, or find the real
+  budget-holder). General tactic: get buy-in from multiple people inside the buying organization, not
+  just the primary contact. Opens with a "forgetting curve" rationale for resolving objections in the
+  moment (people forget 50% within an hour, 90% within 30 days) ([[2020-04-23-yt-Kb_eZzKsdmc]]).
+  > "Sales is not just about emotion. When you take people through those logical steps, it's easier
+  > to get them over that hurdle." — [[2020-04-23-yt-Kb_eZzKsdmc]]
