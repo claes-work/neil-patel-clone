@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-21 (@neilpatel batch — 8 P2 long-form L2, 2020-07-30->08-17 era, cont. 62: Content Marketing Unlocked course weeks 1-4 complete (content history/keyword research, content refresh, 18 content types, topical clusters, zero-budget promotion, 18 link-building strategies, analytics/tracking setup, brand-as-SEO-signal + Rule of Seven); 669 videos L2. Full change history: see log.md (append-only) and pipeline/synthesis-state.md for synthesis-pass detail; this header now tracks only the latest batch to avoid unbounded growth.)_
+_Last updated: 2026-07-21 (@neilpatel batch — 8 P2 long-form L2, 2020-08-20->09-10, cont. 63: Content Marketing Unlocked COMPLETES (guest-posting/podcasting media outlets, omnichannel finale) + solo SEO/CRO tactical run (1000-blog-ideas gap-mining, rank tracking, ideal blog layout, GSC keyword-gap + Request Indexing, tools-as-content + CodeCanyon tactic ★); 677 videos L2. Full change history: see log.md (append-only) and pipeline/synthesis-state.md for synthesis-pass detail; this header now tracks only the latest batch to avoid unbounded growth.)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life/career timeline (England → Orange County → Crazy Egg/KISSmetrics → NP Digital → Ubersuggest → Marketing School), registry/court-verified vs self-reported marked per claim.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe.
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 669 videos ingested (L2).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 677 videos ingested (L2).
 
 ## Topics
 

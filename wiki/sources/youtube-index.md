@@ -682,6 +682,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2020-08-13 — [18 Link Building Strategies (Templates Included) - Module 3 - Lesson 2 - Content Marketing Unlocked (Credit Karma case study; outreach workflow via Mailshake; 5-10% conversion benchmark; Moz 10-week ranking-lag stat)](2020-08-13-yt-SxEEg1tOV70.md) — seo, content-marketing
 - 2020-08-15 — [Tools To Improve Your Content Marketing - Module 3 - Lesson 3 - Content Marketing Unlocked (Google Analytics goals/alerts/annotations; Search Console; Tag Manager; Ubersuggest rank tracking)](2020-08-15-yt-NRU7Bsb9OEo.md) — analytics-cro, content-marketing
 - 2020-08-17 — [How To Rank #1 For Competitive Keywords - Module 4 - Lesson 1 - Content Marketing Unlocked (brand as SEO signal; Eric Schmidt/Matt Cutts quotes; Rule of Seven; CRO page priorities; 3-4-email nurture cadence)](2020-08-17-yt-6qSVBtlBvzQ.md) — seo, content-marketing, analytics-cro
+- 2020-08-20 — [Get On Forbes, HuffPost & NYTimes For Free - Module 4 - Lesson 2 - Content Marketing Unlocked (3-email guest-posting template; nofollow rule; podcasting distribution; Rule of Seven)](2020-08-20-yt-s2LRnowQ_B8.md) — content-marketing, seo, social-media
+- 2020-08-22 — [Go Omni Channel With Your Content Marketing - Module 4 - Lesson 3 - Content Marketing Unlocked (COMPLETES the course; omnichannel doctrine; Eric Schmidt quote; 8-trait great-marketer list; Branson team story)](2020-08-22-yt-wfVXWz1xLKA.md) — content-marketing, agency-entrepreneurship, analytics-cro
+- 2020-08-24 — [Advanced Facebook Ads Strategy: How to Retain Your Subscribers Forever (ManyChat/Messenger chatbot retention; SMS marketing; omnichannel retargeting fix)](2020-08-24-yt-Ir2-kVybZOU.md) — paid-ads, social-media, email-marketing
+- 2020-08-27 — [How to Find 1000 Blog Post Ideas in Less Than 1 Minute (Ubersuggest Content Ideas gap-mining; outrank stale competitor articles)](2020-08-27-yt-a3YwOQeZoG0.md) — seo, content-marketing
+- 2020-08-29 — [How to Track and Grow Your Google Rankings (Ubersuggest rank-tracking setup; long-tail keyword-expansion tactic)](2020-08-29-yt-NhbJm7CdAMo.md) — seo, analytics-cro
+- 2020-08-31 — [How to Create The Perfect Blog Layout (Hello Bar top bar; rotating sidebar CTAs; AudioEye accessibility; category dropdown CRO)](2020-08-31-yt-UBcNQwyjNuY.md) — analytics-cro, content-marketing
+- 2020-09-03 — [How to Rank For 1000s of Keywords Using Google Search Console (near-miss query mining; Request Indexing tactic)](2020-09-03-yt-W4mT6giCDp0.md) — seo, analytics-cro
+- 2020-09-10 — [The Best Traffic Hack (Works Even If You're a Complete Newbie) (tools-are-content doctrine reinforced; CodeCanyon white-label tool-buying tactic ★)](2020-09-10-yt-AN-nNFlhq04.md) ★ — content-marketing, seo
 
 ---
-_669 videos ingested (L2) so far._
+_677 videos ingested (L2) so far._

@@ -4035,3 +4035,47 @@ to its earliest (2019) appearance rather than this one; (2) a minor personal asi
 (drove a "1989 Toyota Camry... forever") in the 2020-08-10 source page, flagged ★
 as a rare biographical/voice detail, not yet promoted. Ingest batches since last
 synthesis now at 7/10 per the driver; continuing @neilpatel P2 next iteration.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2020-08-20→09-10, Content Marketing Unlocked COMPLETES + solo SEO/CRO tactical run, cont. 63)
+
+Batch of 8, all P2, all captions fetched successfully (no rate-limiting, no dup, no
+skips). First two videos finish the **Content Marketing Unlocked** course launched
+[[wiki/sources/2020-07-27-yt-9_rULUbLqE4]]: media-outlet distribution via guest
+posting/podcasting/social with a 3-email guest-posting template and the Rule of Seven
+([[wiki/sources/2020-08-20-yt-s2LRnowQ_B8]]), then the course finale — omnichannel
+doctrine, an Eric Schmidt quote, an 8-trait "great marketer" list, and the recurring
+Richard Branson "team not founder" / "picking up trash and cleaning restrooms"
+anecdotes ([[wiki/sources/2020-08-22-yt-wfVXWz1xLKA]] — **Content Marketing Unlocked
+COMPLETES**, 5-week course, launched 2020-07-27). Then six solo tactical videos: an
+Advanced Facebook Ads/ManyChat Messenger-retention + SMS-marketing tutorial
+([[wiki/sources/2020-08-24-yt-Ir2-kVybZOU]]); a 1000-blog-post-ideas Ubersuggest
+content-gap-mining walkthrough ([[wiki/sources/2020-08-27-yt-a3YwOQeZoG0]]); rank
+tracking + a long-tail keyword-expansion tactic
+([[wiki/sources/2020-08-29-yt-NhbJm7CdAMo]]); an "ideal blog layout" CRO teardown of
+neilpatel.com itself, including a previously-undocumented AudioEye accessibility widget
+([[wiki/sources/2020-08-31-yt-UBcNQwyjNuY]]); a Google-Search-Console near-miss-query
+keyword-gap method plus the Request Indexing tactic
+([[wiki/sources/2020-09-03-yt-W4mT6giCDp0]]); and a "tools are content marketing"
+reinforcement with a ★ new concrete tactic — buying white-label tools from
+CodeCanyon/Envato Market instead of building custom ones
+([[wiki/sources/2020-09-10-yt-AN-nNFlhq04]]).
+
+Ledger: 8 rows → L2 (`yt-s2LRnowQ_B8`, `yt-wfVXWz1xLKA`, `yt-Ir2-kVybZOU`,
+`yt-a3YwOQeZoG0`, `yt-NhbJm7CdAMo`, `yt-UBcNQwyjNuY`, `yt-W4mT6giCDp0`,
+`yt-AN-nNFlhq04`). youtube-index.md footer 669→677; index.md count 669→677.
+
+Synthesis notes: (1) the CodeCanyon/Envato white-label tool-buying tactic ★
+([[wiki/sources/2020-09-10-yt-AN-nNFlhq04]]) is a genuinely new concrete implementation
+path for the existing "tools are content marketing" doctrine (promoted at pass 8) —
+candidate for a content-marketing topic-hub addition, not a new belief; (2) the
+AudioEye accessibility widget ([[wiki/sources/2020-08-31-yt-UBcNQwyjNuY]]) is a minor
+new CRO/UX detail, not flagged for persona promotion; (3) the Richard Branson
+"team not founder" story and the "picking up trash and cleaning restrooms" hard-work
+line both recur verbatim/near-verbatim in this batch
+([[wiki/sources/2020-08-22-yt-wfVXWz1xLKA]]) — both already promoted into persona/ at
+prior passes, so this is a repetition datapoint only, no new promotion needed; (4) the
+Eric Schmidt "tell them what they should be doing next" quote
+([[wiki/sources/2020-08-22-yt-wfVXWz1xLKA]]) duplicates the same quote already sourced
+from [[wiki/sources/2020-08-17-yt-6qSVBtlBvzQ]] (5 days earlier) — no new promotion. No
+contradictions found vs. existing wiki. Ingest batches since last synthesis now at
+8/10 per the driver; continuing @neilpatel P2 next iteration.
