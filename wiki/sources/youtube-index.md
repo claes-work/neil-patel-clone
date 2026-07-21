@@ -968,6 +968,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2022-07-25 — [Here are the Types of Content Twitter Loves (4 content types w/ engagement figures: questions, live video, tweet storms, quotes; elevator-signage anecdote)](2022-07-25-yt-mlY0Wm-XFHQ.md) — social-media
 - 2022-07-28 — [7 Marketing Lessons Learned From Billion-Dollar Companies You've Never Heard Of (Danaher/Fortive/Ceridian case studies; TAM, word-of-mouth, "ugly is sexy," hiring heuristic)](2022-07-28-yt-AvCaacnmWB4.md) — content-marketing, agency-entrepreneurship
 - 2022-07-30 — [How to Create the Perfect Tweet Storm (tweetstorm tactics: Ubersuggest topic-validation, 5+-tweet minimum, stats-drive-retweets; worked SEO-tools example)](2022-07-30-yt-mlA3AqBV_mQ.md) — social-media
+- 2022-08-01 — [How To Improve Communication With Your Customers (sponsored/Meta; Inbox in Meta Business Suite tutorial; fast-response-to-leads doctrine)](2022-08-01-yt-CIdkxrKLo4M.md) — social-media
+- 2022-08-04 — [My Biggest Marketing Win (omnichannel-marketing "biggest win" framing; algorithm-risk reasoning; Microsoft/Apple/IBM/Accenture/Airbnb examples)](2022-08-04-yt-6K8rRlgERq8.md) — agency-entrepreneurship, content-marketing
+- 2022-08-08 — [SEO For Beginners - The Easiest Way to Build Links (infographics/free-tools/targeted-outreach playbook; Ubersuggest/AnswerThePublic backlink counts)](2022-08-08-yt-JJLukrqQ0pU.md) — seo
+- 2022-08-11 — [Why I Speak at Conferences for Free Now (Used to Charge $50k) ($50k/$100k historical fees; Elon Musk/Bill Gates-tier-event ROI pivot; belief-evolution origin story) ★](2022-08-11-yt-RxF1hZbE1Ko.md) ★ — agency-entrepreneurship
+- 2022-08-13 — [The Larger the TAM The Easier it is Market (healthcare-\$2.5T vs web-analytics-\$10.7B TAM contrast; NP Digital Inc-21st-fastest-growing recurrence)](2022-08-13-yt-lrD-J7JN4Ic.md) — agency-entrepreneurship
+- 2022-08-15 — [How to Get 1,000 Followers a Week on Instagram Organically (5-part organic playbook: daily-varied-posting, co-hosted-lives, carousels, engagement, commenting)](2022-08-15-yt-rvmB7V1cAOA.md) — social-media
+- 2022-08-18 — [7 Actionable SEO Tips That Are Easy to Implement (Ubersuggest audit, GSC year-over-year, content-pruning, site-flipping, page-merging)](2022-08-18-yt-sNIoGOPyep4.md) — seo
+- 2022-08-20 — [My 7 Favorite Social Media Tools (That Are Free) (Social Blade/ManyChat/Hootsuite/Exploding Topics/MailChimp/Linktree/Canva roundup)](2022-08-20-yt-lEW0g2b3k1c.md) — social-media, email-marketing
 
 ---
-_955 videos ingested (L2) so far._
+_963 videos ingested (L2) so far._

@@ -5631,3 +5631,36 @@ at the next synthesis pass) is the only genuinely new item this batch; the follo
 ranking, and three-rules/four-content-types material are dated restatements/refinements of frameworks
 already synthesized into persona/beliefs.md and wiki/topics/social-media. 3 ingest batches accumulated
 since synthesis pass 12 (checkpoint at 10) — not yet due.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2022-08-01→08-20 solo tactical era, cont. 99)
+
+Ingested 8 P2 @neilpatel long-form videos (all Neil-fronted solo, no attribution gating) to L2,
+2022-08-01→2022-08-20 (cont. of the 2022 solo-tactical era). All had captions; 0 skipped, 0
+no-captions, 0 duplicates, 0 rate-limits/errors. Pages written: How To Improve Communication With
+Your Customers (CIdkxrKLo4M, disclosed Meta-sponsored — Inbox in Meta Business Suite tutorial); My
+Biggest Marketing Win (6K8rRlgERq8 — omnichannel framing); SEO For Beginners - The Easiest Way to
+Build Links (JJLukrqQ0pU); Why I Speak at Conferences for Free Now (Used to Charge $50k)
+(RxF1hZbE1Ko) ★; The Larger the TAM The Easier it is Market (lrD-J7JN4Ic); How to Get 1,000
+Followers a Week on Instagram Organically (rvmB7V1cAOA); 7 Actionable SEO Tips That Are Easy to
+Implement (sNIoGOPyep4); My 7 Favorite Social Media Tools (That Are Free) (lEW0g2b3k1c).
+youtube-index footer 955 → 963; index.md count bumped.
+Data-integrity flags: none this batch (no title/date mismatches, no caption garbles beyond minor
+noise). CIdkxrKLo4M is disclosed sponsored/branded content (Meta) — kept as L2 tactical material but
+flagged on the page as not an independent product endorsement, consistent with prior sponsored-video
+handling.
+
+Synthesis notes: (1) ★ "Why I Speak at Conferences for Free Now" (RxF1hZbE1Ko, 2022-08-11) is a
+genuinely new belief-evolution node — it dates and narrates the turning point between the 2019
+$25-50k-per-talk speaking-fee era ([[2019-09-26-yt-hbgvd-wbBGU]]) and the 2026 "conferences are my
+#1 needle-mover, three-for-one" claim ([[2026-07-17-yt-L03nbcDp8v8]]): concrete historical fees
+($50k US / $100k international, 25-30 gigs/yr pre-COVID), the explicit Elon-Musk/Bill-Gates-tier-event
+reasoning, and a self-critical "don't be shortsighted" lesson. Worth promoting into
+wiki/topics/agency-entrepreneurship.md's existing conference/speaking material and persona/beliefs.md
+at the next synthesis pass, chained as a three-point dated arc (2019→2022→2026). (2) The TAM video
+(lrD-J7JN4Ic) adds one new concrete worked contrast (healthcare ~$2.5T vs. web-analytics ~$10.7B,
+Allied Market Research) and reinforces the NP Digital Inc.-21st-fastest-growing citation, but the
+underlying TAM-governs-outcomes framework is already fully captured — not flagged ★, a repeat with a
+fresh example. All other five videos (Meta-sponsored inbox tutorial, omnichannel "biggest win",
+link-building 101, Instagram 1k-followers playbook, 7 SEO tips, 7 free social tools) are dated
+restatements of frameworks already synthesized into wiki/topics/ and persona/ — no new frameworks.
+4 ingest batches accumulated since synthesis pass 12 (checkpoint at 10) — not yet due.
