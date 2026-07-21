@@ -5417,3 +5417,59 @@ corrected against the public listing. 9 ingest batches since synthesis pass 11;
 checkpoint at 10 — not yet due, but next @neilpatel or @MarketingSchoolPod batch will
 cross it; the loop should run Stage S at the next iteration. Persona last touched by
 synthesis pass 11 (9 batches ago) — approaching the ≥10-batch staleness threshold.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2022-05-16→06-02, solo tactical era, cont. 95)
+Ingested 8 @neilpatel long-form videos, oldest-first: "7 Beginner Mistakes That Are
+DESTROYING Your Social Media Engagement" (2022-05-16, Khoros DM/comment-response-rate
+stats; self-promo 5-10% ratio; posting-cadence rule), "Add This to Your Website for an
+Instant SEO Boost" (2022-05-19, Ubersuggest self-reported time-on-site/backlink/
+traffic metrics; CodeCanyon white-label-tool-as-domain-authority-asset tactic,
+recurrence of [[2022-04-09-yt-egKFQRuCERE]] reframed explicitly as an SEO mechanism),
+"Email Marketing Secrets - Here's What's Working in 2023" (2022-05-21 — **title/spoken
+mismatch**: spoken intro says "2022," listed title says "2023," consistent with the
+recurring pattern on other 2022 videos; John Reese digital-ATM story recurrence
+[[2021-01-25-yt-Gxd4NeKQg58]] with a new early-20s-mentee detail plus an age-37
+self-report consistent with the ~1985 birth year in SUBJECT.md; 9 tactical tips with
+self-reported effect sizes), "5 Ways to Market Your Business and Generate Instant
+Sales Without Ads" (2022-05-23, affiliate-program payout structuring; Pete Cashmore/
+Mashable commenting-tactic recurrence [[2019-07-22-yt-LdnWx49LUJc]]; a **new named
+case study (RIYA, a photo app)** extending the existing Crunchbase-teardown
+cold-outreach playbook [[2019-05-23-yt-YymWhauqjoA]]/[[2021-10-14-yt-Xz_W96Zmz3s]]
+with a new self-reported upper-bound ("doesn't work well above ~$100M raised") ★;
+TrustPilot joint-webinar example; YouTube first-24-hours virality recurrence),
+"Here's an Ad Hack That Will Produce Instant Sales" (2022-05-26, remarketing
+logic-vs-emotion persuasion-mode-switch tactic, self-reported 6% of sales over 5+
+years), "The Best Marketing Strategy Produces the Worst ROI" (2022-05-28, brand-vs-
+direct-ROI argument; Tesla \$0-marketing-budget example; rule-of-seven channel-
+stacking prescription), "The Marketing Genius Behind Elon Musk" (2022-05-30,
+Cybertruck-stunt case study; Ubersuggest give-away-for-free strategy explicitly
+reframed as Elon-style "think outside the box" marketing; Inc-21st-fastest-growing
+recurrence), and "The Loudest Person in the Room in the Weakest" (2022-06-02,
+American-Gangster-quote-sourced anti-flashy-networking philosophy; hire-people-who-
+did-it-**twice** rule; new self-presentation detail — drives a Honda Odyssey, not a
+"fancy car," reinforcing existing appearance.md anti-flashy material).
+
+All 8 fully Neil-attributed, solo tactical/case-study content, no yt-dlp failures (0
+retries, 0 no-captions, 0 rate-limit hits). Ledger rows set to L2 with domains/notes;
+`wiki/sources/youtube-index.md` and `index.md` counts bumped 924 → 932.
+
+Synthesis notes: the RIYA Crunchbase-teardown case study plus its new "doesn't work
+above ~$100M raised" funding-size threshold (★, extends the existing agency-
+entrepreneurship cold-outreach playbook with a concrete named example and a specific
+upper bound not previously recorded); the John Reese "early 20s mentee" origin detail
+plus the age-37 self-report (persona-relevant — corroborates the ~1985 birth year and
+adds mentorship texture to the existing digital-ATM voice material, still unreconciled
+against the separate Frank Kern attribution already flagged); the Honda-Odyssey
+anti-flashy self-presentation detail (a new, concrete, quotable data point for
+appearance.md, consistent with existing anti-flashy material); the "hire people who've
+done it at least twice, not once" hiring rule (a new, quotable agency-entrepreneurship
+hiring heuristic not yet in beliefs.md); the CodeCanyon-white-label-tool tactic now
+explicitly framed as a *domain-authority* mechanism rather than just a traffic asset
+(recurrence with a new framing angle, minor). Recurrences only, not new: Pete Cashmore/
+Mashable commenting story, rule-of-seven, YouTube first-24-hours virality, Tesla-$0-
+budget/brand-over-ROI framing (consistent with existing brand-is-the-moat belief),
+Inc-21st-fastest-growing figure. **10 ingest batches since synthesis pass 11;
+checkpoint at 10 — DUE.** This was a single-iteration dispatched run (batch-only, no
+synthesis performed this session); the next loop iteration should run Stage S before
+any further ingest. Persona last touched by synthesis pass 11 (10 batches ago) — now
+stale by the ≥10-batch rule as well.

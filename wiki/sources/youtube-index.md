@@ -937,6 +937,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2022-05-09 — [How to Outsource Your Marketing to the Right Ad Agency [title mismatch: ledger title says "5 Industries..."] (ACS/NP-Digital/Kissmetrics origin recap; staff-not-brand vetting rule; \$100M-raised-startup goal-misalignment anecdote) ★](2022-05-09-yt-9Gb8XCjNh-I.md) ★ — agency-entrepreneurship
 - 2022-05-12 — [The 5 Most Important Skills in SEO (creativity/analytics/CRO/people-skills/experimentation; Ubersuggest 10,000+-backlinks recurrence; ~9-algorithm-changes-per-day citation)](2022-05-12-yt-PxUYlx4YZp8.md) — seo, analytics-cro
 - 2022-05-14 — [Is Having a Digital Marketing Certification Really Important? (in-the-trenches-over-certification stance; six-figures-as-teenager-then-lost-it self-report; Backlinko/Ubersuggest/Ad-Library self-education stack)](2022-05-14-yt-CkmFq6nUyJo.md) — agency-entrepreneurship, content-marketing
+- 2022-05-16 — [7 Beginner Mistakes That Are DESTROYING Your Social Media Engagement (Khoros DM/comment-response-rate stats; self-promo 5-10% ratio; posting-cadence rule)](2022-05-16-yt-31pobHjx6us.md) — social-media
+- 2022-05-19 — [Add This to Your Website for an Instant SEO Boost (Ubersuggest self-reported metrics; CodeCanyon white-label-tool-as-authority-asset tactic)](2022-05-19-yt-6gbR1n0qqdM.md) — seo, content-marketing
+- 2022-05-21 — [Email Marketing Secrets - Here's What's Working in 2023 [title mismatch: spoken "2022"] (John Reese digital-ATM story recurrence + early-20s mentee detail, age-37 self-report; 9 tactical tips)](2022-05-21-yt-pwGr4Pl3Wxo.md) — email-marketing
+- 2022-05-23 — [5 Ways to Market Your Business and Generate Instant Sales Without Ads (affiliate programs; Pete Cashmore commenting recurrence; RIYA Crunchbase-teardown cold-outreach case study ★; joint webinars; YouTube first-24-hours virality)](2022-05-23-yt-Us6-8JrIHtM.md) ★ — agency-entrepreneurship, content-marketing, social-media
+- 2022-05-26 — [Here's an Ad Hack That Will Produce Instant Sales (remarketing logic-vs-emotion persuasion-mode switch, self-reported 6% of sales)](2022-05-26-yt-lOeJWoj60qQ.md) — paid-ads, analytics-cro
+- 2022-05-28 — [The Best Marketing Strategy Produces the Worst ROI (brand-vs-direct-ROI marketing; Tesla \$0-marketing-budget example; rule-of-seven channel-stacking)](2022-05-28-yt-R9TrJVK1dpQ.md) — content-marketing, social-media, email-marketing
+- 2022-05-30 — [The Marketing Genius Behind Elon Musk (Cybertruck stunt case study; Ubersuggest give-away-for-free reframed as Elon-style unconventional marketing; Inc-21st-fastest-growing recurrence)](2022-05-30-yt-ecWqei1jSRI.md) — content-marketing, agency-entrepreneurship
+- 2022-06-02 — [The Loudest Person in the Room in the Weakest (anti-flashy networking philosophy; hire-people-who-did-it-twice rule; Honda Odyssey self-presentation detail)](2022-06-02-yt-8QxpDq18Xy8.md) — agency-entrepreneurship
 
 ---
-_924 videos ingested (L2) so far._
+_932 videos ingested (L2) so far._
