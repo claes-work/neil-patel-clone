@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-21 (@neilpatel batch — 8 P2 long-form L2, 2021-01-14->2021-02-01, cont. 70: two more 2021-predictions videos (both title-mismatched to "2023"), an Ubersuggest link-building/keyword-gap/site-audit tutorial run, and three Email Marketing Unlocked lessons continuing the course (lead-gen lift figures, workflow/sequencing taxonomy, LTV/upsell mechanics); 733 videos L2. Full change history: see log.md (append-only) and pipeline/synthesis-state.md for synthesis-pass detail; this header now tracks only the latest batch to avoid unbounded growth.)_
+_Last updated: 2026-07-21 (@neilpatel batch — 8 P2 long-form L2, 2021-02-04→2021-02-20, cont. 71: two Email Marketing Unlocked lessons COMPLETING the course (predictive modeling/retargeting, segmentation stats + webinar sequence), and five SEO/CRO tactical solo videos (question-keyword content strategy, keyword-count/topical-depth doctrine, SaaS pricing-page A/B breakdown, sidebar cornerstone-linking hack, SERP-overlay keyword-gap tactic, free-tool-over-content doctrine); 741 videos L2. Full change history: see log.md (append-only) and pipeline/synthesis-state.md for synthesis-pass detail; this header now tracks only the latest batch to avoid unbounded growth.)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life/career timeline (England → Orange County → Crazy Egg/KISSmetrics → NP Digital → Ubersuggest → Marketing School), registry/court-verified vs self-reported marked per claim.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe.
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 733 videos ingested (L2).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 741 videos ingested (L2).
 
 ## Topics
 

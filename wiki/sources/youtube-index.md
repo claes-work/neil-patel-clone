@@ -746,6 +746,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2021-01-28 — [Lead Generation Tactics I Used To Acquired Over 2 Million Subscribers - Email Marketing Unlocked (Exit Intent/social-login/wording lift figures; Nutrition Secrets quiz case study)](2021-01-28-yt-dG-6A8_R_MY.md) — email-marketing
 - 2021-01-30 — [High-Converting Workflows & Sequences That You Can Copy, Paste & Send - Email Marketing Unlocked ($38 ROI figure; autoresponder/broadcast/campaign-stacking taxonomy; segmentation+journeys)](2021-01-30-yt-S4HcIG1lv2w.md) — email-marketing
 - 2021-02-01 — [How to Maximize Your Customer Lifetime Value with Email Marketing - Email Marketing Unlocked (98/2 educational ratio; ~50% cart-abandonment baseline; plain-text preference)](2021-02-01-yt-nhfs2dyx9Cg.md) — email-marketing, analytics-cro
+- 2021-02-04 — [3X Your Email Results By Applying These Frameworks & Workflows Hacks - Email Marketing Unlocked (predictive modeling from past-buyers list; four-non-opens suppression rule; email retargeting incl. Gmail inbox ads)](2021-02-04-yt-LqFX-81m2Qk.md) — email-marketing, analytics-cro
+- 2021-02-06 — [Mastering Email Marketing: Here's What's Working NOW - Email Marketing Unlocked (COMPLETES the course; segmentation → 760% revenue lift stat; four-stage webinar sequence)](2021-02-06-yt--dosxMP3lhE.md) — email-marketing, analytics-cro
+- 2021-02-08 — [A Dead Simple SEO Strategy That'll Generate 1 Million Visitors (Ubersuggest question-keywords tactic; Quora 27.7M/4.8M keyword case study)](2021-02-08-yt-YA1AvMuMPrk.md) — seo, content-marketing
+- 2021-02-11 — [How Many Keywords Should A Blog Post Contain? (depth-not-count doctrine; HubSpot long-tail case study)](2021-02-11-yt-BuW0FAmo2Ak.md) — seo, content-marketing
+- 2021-02-13 — [How to Create The Optimal SaaS Pricing Page (Ubersuggest pricing-page element-by-element A/B results; two-step checkout; recommends Spiralize over own agency)](2021-02-13-yt-AxTrGSdZC2E.md) — analytics-cro, agency-entrepreneurship
+- 2021-02-15 — [The Dumbest SEO Hack (That Works) (sitewide sidebar cornerstone-guide internal linking; audience-phrasing-over-volume anchor text)](2021-02-15-yt-H096tfFaKPw.md) — seo
+- 2021-02-18 — [How to Get More SEO Traffic Even When You Can't Rank #1 (Ubersuggest Chrome extension SERP overlay; rank-vs-traffic decoupling case study)](2021-02-18-yt-jtkNZRLxZpo.md) — seo
+- 2021-02-20 — [The New Form of Content Marketing (free-tool-over-content doctrine; 14M-click/6,978-post GSC stats; CodeCanyon white-label sourcing)](2021-02-20-yt-blo4PoOfxM8.md) — content-marketing, seo, agency-entrepreneurship
 
 ---
-_733 videos ingested (L2) so far._
+_741 videos ingested (L2) so far._

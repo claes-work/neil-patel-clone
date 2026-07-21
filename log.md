@@ -4396,3 +4396,39 @@ workflow are incremental tool-stack detail. Reinforcement-only, not new: the
 seesawing-rankings/niche-focus/content-length SEO doctrine (already established),
 the 1-new/21-updates content-refresh ratio, and the "dating not marriage" welcome-
 sequence framing.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2021-02-04→02-20, cont. 71)
+
+Batch of 8 P2 long-form videos from @neilpatel, all captions fetched successfully, no
+skips. Two videos COMPLETE the **Email Marketing Unlocked** course: "3X Your Email
+Results" (predictive modeling from the past-buyers list; four-consecutive-non-opens
+suppression rule protecting deliverability; email-marketing retargeting incl. Gmail
+inbox ads) and the course-closing recap "Mastering Email Marketing" (78%-engagement-
+rise and 760%-segmentation-revenue-lift industry stats; a four-stage 3-day webinar
+email sequence). Five solo SEO/CRO tactical videos followed: a question-keyword content
+strategy demoed via Ubersuggest with a Quora 27.7M/4.8M-keyword case study; a "how many
+keywords per post" video that rejects the keyword-count framing for a topical-depth
+doctrine, with a HubSpot long-tail case study; a SaaS pricing-page teardown of
+Ubersuggest's own page with specific A/B-tested element lifts (8-9% from a
+differentiator bullet, social-proof-by-company-age nuance) plus a notable on-camera
+recommendation of a competing CRO agency (Spiralize) over his own; "The Dumbest SEO
+Hack" — a sitewide sidebar cornerstone-guide internal-linking tactic proven live across
+13 keywords, with an audience-phrasing-over-search-volume anchor-text principle; a
+Ubersuggest Chrome-extension SERP-overlay video decoupling rank position from traffic
+(Investopedia's #3 result out-traffics its #1 result) with a competitor-keyword-gap
+workflow; and "The New Form of Content Marketing," arguing free tools beat scaled
+content, backed by GSC figures (14M clicks / 6,978 posts; the "Ubersuggest" keyword
+alone driving ~12x the clicks of his own name) and naming CodeCanyon as a cheap
+white-label tool-sourcing channel. All solo Neil-fronted, no co-speakers, no
+contradictions found. Ledger: 8 rows → L2. youtube-index.md: 733 → 741. Synthesis debt
+now 5 ingest batches since synthesis pass 9 (checkpoint at 10) — not yet due.
+
+Synthesis notes: genuinely new — the predictive-modeling/four-non-opens-suppression
+email doctrine and retargeting-via-Gmail-ads tactic; the segmentation-760%-revenue and
+webinar-sequence stats that close out Email Marketing Unlocked (course-complete
+signal); the question-keyword-content-strategy generalization; the explicit
+depth-not-count keyword doctrine; the SaaS pricing-page element-by-element A/B results
+plus the competitor-agency-recommendation transparency stance; the sitewide
+cornerstone-sidebar-linking hack with its 13-keyword proof; the rank-vs-traffic
+decoupling case study and SERP-overlay competitor-gap workflow; and the free-tool-
+over-content doctrine's concrete GSC figures plus the CodeCanyon sourcing tactic.
