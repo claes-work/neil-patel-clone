@@ -929,6 +929,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2022-04-18 — [10 Extremely Useful Tools You Should Be Using In Your Marketing Right Now (Frase/Clearscope/Madgicx/Canva/Hotpot picks; AI-writing "half the time" assessment; Ubersuggest AI-writing teaser; FTP-era origin detail)](2022-04-18-yt--c_QnqiwM5g.md) — content-marketing, paid-ads, ai-marketing
 - 2022-04-21 — [The 4 Best Digital Marketing Careers to Pursue in 2023 and Beyond (origin story + 4 salary-sourced career paths; Obama top-30-vs-top-100 self-report ⚠️ CONTRADICTION; 600-employees self-report)](2022-04-21-yt-pwDSUP6zGeQ.md) — agency-entrepreneurship, ai-marketing, analytics-cro
 - 2022-04-23 — [How to Run TikTok Ads 2023 - TikTok Advertising Tutorial (TikTok for Business) (7-step framework; 1B+MAU/160M-videos-per-minute stats; broad-then-narrow targeting doctrine)](2022-04-23-yt-3JWZFzn0VQg.md) — paid-ads, social-media
+- 2022-04-28 — [How to Grow a Brand New TikTok Account FAST (Step by Step) (30K-followers-in-6mo self-report; two-to-four-similar-creators inspiration rule; 16-videos-per-batch recording cadence)](2022-04-28-yt-HBB8gaAayfU.md) — social-media
+- 2022-04-30 — [If I Were Starting A YouTube Channel Today (first-24-hours virality mechanic; thumbnail-over-title emphasis; keyword-in-spoken-audio tactic; yes/no-vs-open-question comment-engagement lesson)](2022-04-30-yt-kgk5OKV82YY.md) — social-media, seo, content-marketing
+- 2022-05-02 — [How to Develop a Social Media Strategy Step by Step (SMART-goals framework; platform-to-goal matching; one-or-two-channels-first rule; 5-competitor research method)](2022-05-02-yt-IAdigcIHPMo.md) — social-media, content-marketing
+- 2022-05-05 — [5 Marketing SKILLS that are HARD to learn but will pay off FOREVER! (copywriting/analytics/storytelling/funnels/UX; Ogilvy 80-cents-headline citation; COVID/2008-rising-ad-cost point)](2022-05-05-yt-O02nlXSICxI.md) — content-marketing, analytics-cro, paid-ads, agency-entrepreneurship
+- 2022-05-07 — [How to Find a Remote Digital Marketing Job (Tips for 2023) (Indeed/LinkedIn/Glassdoor remote-search method; niche-specialization freelance advice; NP Digital hiring plug)](2022-05-07-yt-a2YrSkEds_k.md) — agency-entrepreneurship
+- 2022-05-09 — [How to Outsource Your Marketing to the Right Ad Agency [title mismatch: ledger title says "5 Industries..."] (ACS/NP-Digital/Kissmetrics origin recap; staff-not-brand vetting rule; \$100M-raised-startup goal-misalignment anecdote) ★](2022-05-09-yt-9Gb8XCjNh-I.md) ★ — agency-entrepreneurship
+- 2022-05-12 — [The 5 Most Important Skills in SEO (creativity/analytics/CRO/people-skills/experimentation; Ubersuggest 10,000+-backlinks recurrence; ~9-algorithm-changes-per-day citation)](2022-05-12-yt-PxUYlx4YZp8.md) — seo, analytics-cro
+- 2022-05-14 — [Is Having a Digital Marketing Certification Really Important? (in-the-trenches-over-certification stance; six-figures-as-teenager-then-lost-it self-report; Backlinko/Ubersuggest/Ad-Library self-education stack)](2022-05-14-yt-CkmFq6nUyJo.md) — agency-entrepreneurship, content-marketing
 
 ---
-_916 videos ingested (L2) so far._
+_924 videos ingested (L2) so far._

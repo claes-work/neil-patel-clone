@@ -5361,3 +5361,59 @@ reinforcement of existing SEO/content/social-media/paid-ads doctrine. 8 ingest
 batches since synthesis pass 11; checkpoint at 10 — not due. Persona last touched
 by synthesis pass 11 (8 batches ago) — not yet stale by the ≥10-batch rule; no P1
 rows open to retrigger the drain-condition.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2022-04-28→05-14, cont. 94)
+Ingested 8 @neilpatel long-form videos, oldest-first: "How to Grow a Brand New TikTok
+Account FAST (Step by Step)" (2022-04-28, self-reported 0→30K-followers-in-6mo TikTok
+growth; two-to-four-similar-creators inspiration rule; 16-videos-per-batch recording
+cadence), "If I Were Starting A YouTube Channel Today" (2022-04-30, first-24-hours
+virality mechanic contrasted with slow-build SEO; thumbnail-over-title emphasis;
+keyword-in-spoken-audio auto-transcription tactic; a self-correction on comment-bait
+questions — yes/no prompts underperform open-ended ones), "How to Develop a Social
+Media Strategy Step by Step" (2022-05-02, SMART-goals framework; platform-to-goal
+matching — Facebook for conversions, LinkedIn/YouTube for thought leadership;
+one-or-two-channels-first rule; 5-competitor research method), "5 Marketing SKILLS that
+are HARD to learn but will pay off FOREVER!" (2022-05-05, copywriting/analytics/
+storytelling/funnels/UX five-skill framework; Ogilvy "80 cents on the headline"
+citation; a storytelling-practice method — telling true personal stories to friends/
+family and tracking which parts land; COVID/2008-recession rising-ad-cost point
+reinforcing the funnels-needed argument), "How to Find a Remote Digital Marketing Job"
+(2022-05-07, Indeed/LinkedIn/Glassdoor remote-search method; niche-specialization
+freelance advice; NP Digital hiring plug), "How to Outsource Your Marketing to the
+Right Ad Agency" (2022-05-09 — **ledger title mismatch**: ledger/YouTube-listed title
+is "The 5 Industries Most Likely to Make You a Fortune as a Digital Marketer" but the
+actual transcript is entirely about choosing/hiring an agency; flagged in the page and
+ledger notes, not silently corrected — ACS-at-16/NP-Digital/Kissmetrics origin recap;
+vet-the-staff-not-the-brand hiring rule; a $100M-raised-startup goal-misalignment
+anecdote where Neil declined the engagement ★), "The 5 Most Important Skills in SEO"
+(2022-05-12, creativity/analytics/CRO/people-skills/experimentation five-skill
+framework; Ubersuggest 10,000+-backlinks figure recurs, consistent with
+[[wiki/sources/2022-04-25-yt-yUvEB7yiBFk]]; ~9-algorithm-changes-per-day citation
+recurs, flagged as a stale, undated-refresh statistic), and "Is Having a Digital
+Marketing Certification Really Important?" (2022-05-14, in-the-trenches-over-
+certification stance; six-figures-as-teenager-then-lost-it bio beat recurs;
+Backlinko/Ubersuggest/Ad-Library self-education stack).
+
+All 8 fully Neil-attributed, solo tactical/framework content, no yt-dlp failures (0
+retries, 0 no-captions). Ledger rows set to L2 with domains/notes;
+`wiki/sources/youtube-index.md` and `index.md` counts bumped 916 → 924.
+
+Synthesis notes: the agency-hiring "vet the specific people, not the agency's brand
+name" framework plus the $100M-raised-startup goal-misalignment anecdote (★, a solid
+agency-entrepreneurship-doctrine candidate, pairs well with the existing NP Digital/ACS
+origin material); the YouTube first-24-hours virality mechanic and its "push it out
+everywhere in the first hour" corollary (a concrete content-strategy tactic, new
+framing not yet in content-strategy topic pages); the yes/no-vs-open-ended-question
+self-correction on YouTube comment engagement (persona-relevant — an explicit "I used
+to do X, learned Y" arc, good voice/beliefs material showing evolution); the
+storytelling-practice method (telling true personal stories to friends/family and
+observing reactions) as a concrete, personal origin detail for voice.md; the TikTok
+0→30K-followers-in-6mo self-report (a new quantified TikTok data point for
+content-strategy/social-media). Recurrences only, not new: Ubersuggest 10,000+-backlink
+figure (3rd+ occurrence), ~9-algorithm-changes/day stat (recurrence, still undated-
+refresh), six-figures-as-teenager-then-lost-it bio beat (recurrence). The
+yt-9Gb8XCjNh-I title/ledger mismatch is noted on the page and in ledger notes, not
+corrected against the public listing. 9 ingest batches since synthesis pass 11;
+checkpoint at 10 — not yet due, but next @neilpatel or @MarketingSchoolPod batch will
+cross it; the loop should run Stage S at the next iteration. Persona last touched by
+synthesis pass 11 (9 batches ago) — approaching the ≥10-batch staleness threshold.
