@@ -5535,3 +5535,34 @@ kept the remaining tactical/framework material topic-hub-only per the changelog.
 high-water mark advanced to batch #117 / 932 L2 sources; no pending checkpoints remain.
 
 Synthesis notes: none (this is itself a synthesis pass).
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2022-06-04→06-20, solo tactical era, cont. 96)
+Batch of 8 selected rows: 7 ok, 1 marked no-captions. Wrote 7 wiki/sources/ pages —
+backlink-outreach tool tactic (NeilPatel.com/backlinks, competitor-gap targeting); "lazy marketers"
+hiring philosophy with a Kyle Baleza case study; a LinkedIn hiring hack ★ naming NP Digital CEO
+Mike Gullickson (captioned "Gullaksen") with a new bio detail — iCrossing sold to Hearst for $325M
+before his Covario ("Cavario" caption)→Dentsu/iProspect path, cross-linked to the existing
+wiki/entities/mike-gullickson.md page (name-spelling variant flagged, not reconciled); the Kylie
+Jenner audience-to-owned-product case study (Kylie Cosmetics $200M/2019, Coty $600M-for-51%/2020,
+paralleled to Gary Vaynerchuk's VeeFriends and to Neil's own following/NP Digital growth); a
+personal, reflective video ★ on Neil's own hit-a-number motivation vs. most people's — his
+philanthropy/no-inheritance stance ("my kids can go earn it"), his brother-in-law as the one other
+person who shares his drive, and three named colleagues' personal-goal levers (Mike Kamo, Caio,
+Nick Roshan); a free-learning-resources roundup (Neil Patel Training Center, HubSpot Academy,
+Backlinko, Search Engine Roundtable, Mailchimp Marketing Library); and a free-SEO-tools roundup
+(Ubersuggest, Subscribers push-notifications, Google Search Console lost-traffic workflow, Answer
+The Public, BuzzSumo). One video (yt-ike-ocmGjDM, "babies love optimized anchor text") had no
+captions available — marked L1/no-captions in the ledger, no page written. Ledger rows set to L2
+via `ledger_set.py`; `wiki/sources/youtube-index.md` updated in date order (footer count 932→939);
+`index.md` count bumped to match. No rate-limiting encountered (0 yt-dlp failures on the 7
+successful fetches).
+
+Synthesis notes: (1) new bio detail for Mike Gullickson — iCrossing sold to Hearst for $325M before
+his Covario/Dentsu/iProspect path (candidate addition to wiki/entities/mike-gullickson.md); (2) a
+dated, fairly landmark personal-motivation/philanthropy statement from Neil ("hit a number as a
+sport," donate-not-inherit stance) — strong candidate for persona/beliefs.md and persona/biography.md;
+(3) the audience-to-owned-product generalization (Kylie Jenner/Gary Vaynerchuk/Neil's own following)
+as a content-marketing/social-media framework candidate for wiki/topics/; (4) minor recurring-stat
+variance — "8 algorithm changes/day" here vs. "~9/day" in 2022-05-12-yt-PxUYlx4YZp8 (not a hard
+contradiction, just approximate); (5) possible caption-garble name variant "S&P division" (this
+video) vs. "S&B division" (2022-04-11-yt-TfQQMJ9b_8E) for the same NP Digital unit — unreconciled.

@@ -945,6 +945,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2022-05-28 — [The Best Marketing Strategy Produces the Worst ROI (brand-vs-direct-ROI marketing; Tesla \$0-marketing-budget example; rule-of-seven channel-stacking)](2022-05-28-yt-R9TrJVK1dpQ.md) — content-marketing, social-media, email-marketing
 - 2022-05-30 — [The Marketing Genius Behind Elon Musk (Cybertruck stunt case study; Ubersuggest give-away-for-free reframed as Elon-style unconventional marketing; Inc-21st-fastest-growing recurrence)](2022-05-30-yt-ecWqei1jSRI.md) — content-marketing, agency-entrepreneurship
 - 2022-06-02 — [The Loudest Person in the Room in the Weakest (anti-flashy networking philosophy; hire-people-who-did-it-twice rule; Honda Odyssey self-presentation detail)](2022-06-02-yt-8QxpDq18Xy8.md) — agency-entrepreneurship
+- 2022-06-04 — [One Quick Hack to Rank #1 of Google (backlink-opportunities tool tactic: find sites linking to 3+ competitors but not you; 100-emails→14+-links ratio)](2022-06-04-yt-R4ynWwZmIQ8.md) — seo
+- 2022-06-06 — [Lazy Marketers Tend to be Amazing (hiring philosophy — smart-but-impatient-with-busywork hires who automate; Kyle Baleza case study)](2022-06-06-yt-usBI1Le0bRI.md) — agency-entrepreneurship
+- 2022-06-09 — [The Hack That Led Me to Build the 21st Fastest Growing Company (LinkedIn hire-people-who've-done-it-twice tactic; Mike Gullickson bio detail — iCrossing sold to Hearst for $325M, Covario→Dentsu/iProspect path) ★](2022-06-09-yt-bVw2v0KjFtM.md) ★ — agency-entrepreneurship
+- 2022-06-11 — [Kylie Jenner is a Genius For This (audience-to-owned-product model; Kylie Cosmetics $200M-2019/Coty-$600M-for-51%-2020; Gary Vaynerchuk VeeFriends parallel)](2022-06-11-yt-eI8vmuhDrK4.md) — social-media, content-marketing
+- 2022-06-13 — [This is the best way to hit your revenue goals (personal-goals-as-motivation-lever framework; philanthropy/no-inheritance stance; Mike Kamo/Caio/Nick Roshan named-goal examples) ★](2022-06-13-yt-8p7SX5iDTBI.md) ★ — agency-entrepreneurship
+- 2022-06-18 — [5 Free Resources to Learn Digital Marketing (Neil Patel Training Center/HubSpot Academy/Backlinko/Search Engine Roundtable/Mailchimp Marketing Library)](2022-06-18-yt-YJ5Hwo7Yew8.md) — content-marketing, seo
+- 2022-06-20 — [5 Free Tools that Will Help You Rank #1 on Google (Ubersuggest/Subscribers-push/Google Search Console lost-traffic workflow/Answer The Public/BuzzSumo)](2022-06-20-yt-E4ZcJ4TpC4k.md) — seo, content-marketing
 
 ---
-_932 videos ingested (L2) so far._
+_939 videos ingested (L2) so far._
