@@ -5059,3 +5059,43 @@ to batch #107 (2021-11-20); no pending checkpoints remain. `index.md` updated fo
 touched topic hubs plus the four persona-page entries. System-prompt version at pass end: **v12**.
 
 Synthesis notes: none (debt fully drained this pass).
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2021-11-22→12-06, cont. 86)
+
+Dispatched under the roster autopilot (single agent, sequential file writes; no per-video
+sub-agents). 8 videos, all captions available on the first attempt, no rate-limiting, all
+solo Neil-fronted, no duplicates. Content: a "who NOT to compete with" framework (indirect
+giants, head-term-only rankers, too-high-DA sites) paired with the Ubersuggest
+backlink-opportunities/keyword-opportunity workflow; a 2022 marketing-predictions video
+(title says "2023," spoken content says "2022" — a title/spoken-year mismatch consistent
+with two earlier-logged cases) covering D2C e-commerce growth (eMarketer $111.54B stat),
+a first-party 6%-voice-search-increase figure, live-video/Restream simulcasting, and
+third-party-cookie deprecation as the "ugly" 2022 trend with an omni-channel+CRO+AOV
+response doctrine; a Google-sponsored WooCommerce Listings & Ads walkthrough (Mullenweg
+$20B/Datanyze 27%-market-share stats); a compounding-disadvantage argument against
+head-term targeting for small/new sites, extending the long-tail-first doctrine; a
+SEO-time-budget video disclosing Neil's own weekly routine on an established site
+(competitive-domains checks, GSC declining-page audits, "rule of seven" reasoning for
+why brand-building improves rankings — "Google trusts brands") plus a first-time
+operational disclosure of a 6-7-person content-refresh team; a PayPal-sponsored "Pay in
+4" BNPL pitch (Oberlo 1.94%-conversion/69.57%-cart-abandonment stats, Grand View Research
+$10T→$27.15T market-size forecast); a cross-channel competitor-research tool roster ★
+(Social Blade, Not Just Analytics, Sociality.io, SpyFu, SEMrush, a probable Ahrefs
+caption-garble ("Atrius"), BigSpy, Facebook Ad Library named as his personal favorite
+with explicit reasoning, Clearscope/Frase.io/SurferSEO, and a Google-Trends
+early-mover-advantage strategy) flagged as an L3 candidate for a dedicated
+competitor-research topics section; and a beyond-technical SEO-audit video extending the
+headline-craft doctrine to subheadings, a branded-Canva-image-for-backlinks tactic, a
+concrete Twitter-search cold-outreach script, and lead-magnet email-capture framed as an
+underrated ranking factor. Two of the eight (WooCommerce/Google, Pay-in-4/PayPal) are
+explicit paid sponsorships — flagged in their source pages' frontmatter/callouts, product
+praise treated as promotional rather than independent evaluation, per fidelity rule 7.
+No new hard contradictions.
+
+Synthesis notes: the cross-channel competitor-research tool roster (★, batch #86) is a
+genuinely new consolidation point (SpyFu/BigSpy/Not Just Analytics/Sociality.io not
+previously named) worth its own competitor-research subsection at the next SEO/paid-ads
+synthesis pass; the "Google trusts brands"/rule-of-seven SEO-ranking rationale and the
+6-7-person content-refresh team headcount are new agency-operations detail for
+beliefs.md/biography.md. Everything else this batch reinforces existing doctrine (2
+batches since last synthesis pass 11; checkpoint at 10 — not due).

@@ -866,6 +866,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2021-11-15 — [One SEO Trend That Is About to Change Everything in 2023 [title mismatch, spoken=2022] (AI-automation SEO trend; extended tool roster — Jarvis/frase/Clearscope/surfer/Copy.ai) ★](2021-11-15-yt-c4w9GaabAV4.md) ★ — ai-marketing, seo
 - 2021-11-18 — [10 Free Tools That'll Help You Get Your First 10,000 Social Media Followers (10-tool social growth stack; Eric Siu named peer via Social Blade; consistency-over-quality growth)](2021-11-18-yt-U8Ze50i1jro.md) — social-media, content-marketing
 - 2021-11-20 — [You NEED to Learn How to Write This Type of Content…. RIGHT NOW! (long-form data-driven content = 3x backlinks, first-party neilpatel.com stat; E-A-T tie-in)](2021-11-20-yt-1odgi9VSx7Q.md) — content-marketing, seo
+- 2021-11-22 — [STOP Trying to Compete Against These Websites in SEO (And Finally Start Getting Traffic) (3 competitor tiers to avoid; Ubersuggest opportunity workflow; GSC impressions-not-clicks tactic)](2021-11-22-yt-rSGFJQt1Lh8.md) — seo
+- 2021-11-25 — [What's Going to CHANGE in Marketing in 2023 [title mismatch, spoken=2022] (D2C/voice-search/live-video good trends; cookie-deprecation "ugly"; omni-channel+CRO+AOV response doctrine)](2021-11-25-yt-2MHMyvbF-HM.md) — paid-ads, analytics-cro, social-media
+- 2021-11-25 — [How to Increase Traffic and Sales From Google With WooCommerce (And With Google Ads) (sponsored by Google; WooCommerce Listings & Ads plugin walkthrough)](2021-11-25-yt-UFIoJUhKreY.md) — paid-ads, analytics-cro
+- 2021-11-27 — [You Will NEVER Rank For These Types of Keywords (STOP Setting Yourself Up For Failure!) (compounding-disadvantage case against head-term targeting; long-tail-first + page-one teardown workflow)](2021-11-27-yt-32URKPTximM.md) — seo, content-marketing
+- 2021-11-29 — [How Much Time Should You Spend on SEO in Order to Rank #1? (slow-vs-aggressive time budgets; personal routine + 6-7-person content-refresh team disclosed; "Google trusts brands" claim)](2021-11-29-yt-ws26duw7mAw.md) — seo, email-marketing
+- 2021-12-02 — [One e-Commerce Hack That Will Increase Your Sales (sponsored by PayPal; Pay in 4 BNPL pitch; affordability-as-conversion-ceiling framing)](2021-12-02-yt-lBY2MYcNyHE.md) — paid-ads, analytics-cro
+- 2021-12-04 — [How to Reverse-Engineer The Strategy of The Most Successful Competitors in Digital Marketing (cross-channel competitor-research tool roster: SpyFu, BigSpy, Not Just Analytics, Sociality.io) ★](2021-12-04-yt-YIxUedvNi1g.md) ★ — seo, paid-ads, social-media, content-marketing
+- 2021-12-06 — [Auditing Your Website's SEO For Rankings (BEYOND Just Technical Fixes) (page-two/three keyword audit; subheading-craft extension; branded-image backlink tactic; Twitter-search outreach script)](2021-12-06-yt-j2U3gXLi4eE.md) — seo, content-marketing
 
 ---
-_853 videos ingested (L2) so far._
+_861 videos ingested (L2) so far._
