@@ -3620,3 +3620,101 @@ rule of seven with push/email/chatbot channels, and the side-hustle rate card (6
 list rather than doctrine, though the "traffic only gets more expensive" premise reinforces his CRO stance).
 Synthesis debt now 7/10 (checkpoint at 10). Next iteration: Stage B (continue draining @neilpatel P2
 long-form, oldest-first from 2020-01-14).
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2020-01-13→2020-01-30 solo tactical: $3M-Ubersuggest-lessons / 30-min-SEO-audit / 270k-email-list / 5-industries-crushed-by-Google / free-traffic-sources / 5-dumbest-founder-SEO-mistakes / 6-SEO-time-wasters / content-at-scale era, cont. 53)
+
+Ingested 8 P2 @neilpatel long-form videos (all Neil-fronted solo, no Eric-Siu attribution gating) to L2,
+2020-01-13→2020-01-30 (the January-2020 "what to stop doing / how to scale" cluster, batch #75). All had
+captions; 0 skipped, 0 no-captions, 0 duplicates, 0 rate-limits/errors. Pages written: I Spent $3 Million
+on this Marketing Tactic - Here's What I've Learned (ZliTye4NEEg); How to Do an SEO Audit In Under 30
+Minutes (zTuNlT29ZWc); How to Build an Email List Fast and for Free - 270k+ Subscribers (Ec9nqdwIjQI);
+5 Industries That Are Getting Crushed by Google in their SEO (gZvXcLJiYR0); The Best FREE Traffic Sources
+for New Websites (X9Wk8K_TxlE); 5 Dumbest Mistakes Entrepreneurs Make With Their SEO (W00hLr627K0); The 6
+Time Wasters of SEO - STOP Doing These Activities (_yXNA4wWS6M); The Cheapest Way to Write Lots of Content
+At Scale (YRZlBjsY_nc). youtube-index footer 589 -> 597; index.md count bumped.
+
+Data-integrity flags: ATTRIBUTION UNCERTAIN (three names, all flagged on-page, none promoted as fact):
+ZliTye4NEEg names competitor people as "Tim" (Ahrefs), "Ole" and "Maryna, she's amazing as the President of
+SEMrush" — first names only, roles unverified; _yXNA4wWS6M cites "one of my buddies, Mike, at Dr. Axe, and
+he runs marketing there" for a second-hand claim that Dr. Axe's algorithm traffic loss did not crush its
+revenue; YRZlBjsY_nc credits "Consulting.com by Sam Evans" where the founder is publicly Sam Ovens —
+treated as a caption error, neither spelling promoted. CAPTION GARBLES corrected on-page: "the FA
+Conference" = Facebook's F8 (X9Wk8K_TxlE); "Gary Vanderchuck" = Gary Vaynerchuk and "Sparrow.io"
+unmatchable to any known CMS tool (YRZlBjsY_nc); "above 50 for e-site just going to be harder to write" =
+"for a site... harder to rank" and "content for just their BA" = for their bots/algorithm (W00hLr627K0);
+"does the SU equivalently" = the SEO equivalently (gZvXcLJiYR0). TERMINOLOGY: ZliTye4NEEg expands TAM as
+"Total Adjustable Market" (the term is *Addressable*) — kept verbatim, corrected inline. TENSION (not a
+contradiction, flagged for synthesis): _yXNA4wWS6M says he does NO deliberate keyword placement when
+writing, while zTuNlT29ZWc/2020-01-12 describe deliberately folding Search Console queries into title tags,
+descriptions and new paragraphs — reconcilable as new-writing-is-user-first vs. existing-winners-get-
+expanded, but the two rules must be stated together, not blended. COMMERCIAL DISCLOSURE: Ubersuggest and
+Hello Bar (his own) supply the workflows in six of the eight videos and are never disclosed as his; every
+page closes pitching his agency ("Neil Patel Digital" in this era). ClickFlow is recommended again
+(zTuNlT29ZWc) with no relationship stated either way — the wiki has NOT established whether he has an
+interest, so it is carried as unknown rather than arm's-length. CodeCanyon is the one explicitly disclosed
+non-affiliation ("I don't even know who owns them"). Self-reported, unverifiable figures kept as claims:
+>$3M spent on Ubersuggest / >$1M-a-year servers / ~3M visits / 15M pageviews / 740k uniques, 270k+ email
+subscribers, 490k YouTube subscribers and ~1M monthly views, KISSmetrics' blog at 1M visitors/mo, outranking
+DA 80-90 sites with a DA 40-50 site. Unsourced period stats: ">50% of Google searches are mobile" (twice),
+cheapest iPhone ~$699, $100B+/yr spent on Google ads, Udemy 68M visitors/mo (attributed to SimilarWeb),
+Facebook's 200M in "meaningful groups" (attributed to its Q2 earnings call).
+
+Synthesis notes: genuinely-new-for-persona threads for the next synthesis pass (debt 7 -> 8): (1) ★ THE
+UBERSUGGEST BET, COSTED — ZliTye4NEEg (2020-01-13) is the first source in the corpus to put a PRICE on the
+free-tool doctrine: over $3 million spent, NOT yet recouped, servers alone over $1M/year, against ~3M
+visits / 15M pageviews / 740k uniques a month. It states the rule outright — "something for free does
+really well even if you're not as good as your competition, people would rather have free over paid" — and
+then, uniquely, tells viewers NOT to copy him ("I wouldn't recommend doing what I did... start off small
+and get traction before you go all in. That's a big mistake that I made"). This is the missing dated
+mid-point between the 2018 free-product-as-acquisition-channel thesis and the 2026 "FREE is the lever"
+position, and the don't-copy-me caveat is dropped in every later retelling — promote to
+agency-entrepreneurship/ + beliefs.md with both halves intact. Same video adds a TAM doctrine (go where the
+market already is; his own A/B-testing calculator as the small-TAM anti-example) and a feature-pruning rule
+(cut anything under 1% usage). (2) ★ PRODUCT BRAND > PERSONAL BRAND, WITH THE MECHANISM NAMED —
+gZvXcLJiYR0 (2020-01-20): "it's not because of an algorithm update here or there, it's because I've really
+focused on building a brand, not just my personal brand, but a PRODUCT brand." Ubersuggest generates the
+brand queries that carry the whole domain through updates. This supplies the concrete dated mechanism for
+the corporate-brand-over-personal-brand belief already in beliefs.md (from the 2018-2019 run), and pairs
+with the sharpest form yet of the brand doctrine: "SEO is not going to help you build a brand, content
+marketing is not going to help you build a brand, you got to go above and beyond." (3) ★ ENDORSING GOOGLE
+AGAINST HIS OWN CLIENT INTERESTS — same video: E-A-T/Medic is "one of my favorite updates, EVEN THOUGH I
+have medical related companies that we do marketing for," because people should not be reading information
+that can hurt them (his example: anti-vaccine content); and on Google's disintermediation of travel, "it's
+their company, they should be able to do whatever they want," with a clean split of self-interest — "as a
+marketer, of course, I'd rather have people on my website." A values datapoint for beliefs.md, not a
+tactic. Also from that video, an agency-floor observation worth a line in seo/: sites posing as health
+INFORMATION sites while selling products everywhere took the biggest hits. (4) ★ HIS OWN OPERATING CADENCE
+— _yXNA4wWS6M (2020-01-27): rankings checked ONCE A WEEK, Google Analytics roughly daily and only to catch
+a hit, "focus on execution and stop wasting your time continually looking at reports." Rare first-person
+process detail for voice.md/beliefs.md, and it dates his anti-dashboard stance. (5) ★ THE DOMAIN-AUTHORITY
+DEBUNK — same video: "I've outranked sites that have domain authorities of 80 and 90 with a site that only
+has a domain authority of 40 or 50," plus "Google doesn't use domain authority, domain score, or any of
+these other metrics" (noting DA is Moz's coinage and Ubersuggest's own equivalent is domain score — i.e.
+he debunks his OWN product's metric), illustrated with Forbes/HuffPo guest-post content losing to a
+mom-and-pop's good article. A durable anti-vanity-metric position that extends the existing
+distrust-platform-numbers belief to third-party SEO tools, his own included. (6) ★ BEZOS AS THE SOURCE OF
+"OBSESS ABOUT USERS, NOT COMPETITORS" — same video attributes the customer-obsession principle to a Jeff
+Bezos interview he watched; he used the line unattributed two weeks earlier (2020-01-13). Worth recording
+the provenance in beliefs.md rather than presenting it as his own coinage. (7) ★ KISSMETRICS' BLOG TO 1M
+VISITORS/MO ON UNPAID GUEST POSTING — YRZlBjsY_nc (2020-01-30): "we did this purely through guest posting
+and we didn't pay authors to write for us" (a few paid at the start, then free), with the recruiting hack
+of poaching the guest authors already writing on competitors' sites. A concrete dated biography/operating
+fact about one of his own companies that the corpus has not recorded in this form — biography.md +
+content-marketing/. (8) ★ SPEAK-DON'T-TYPE AS A PERSONAL WORKING HABIT — same video: 125-150 words per
+minute spoken vs. typing, Rev.com or Google Docs voice typing, and the flat preference "I prefer it over
+writing. It's much quicker and it's much more efficient." Pairs with the writer-hiring protocol worth a
+content-marketing/ page: samples -> pay per word -> minimums and maximums -> OUTLINE BEFORE WRITING, or
+outsource only the research/data for a piece you write yourself. (9) A REVENUE-FIRST EPISTEMIC RULE
+covering his own advice — W00hLr627K0 (2020-01-25): "when you're getting all this SEO advice that people
+are giving you and you're implementing but it's not converting into revenue, STOP doing that." Short, in
+character, and unusually self-undercutting for a marketing educator; a voice.md candidate. (10) A HARD
+NUMBER ON POPUP RESTRAINT — Ec9nqdwIjQI (2020-01-18): two to three opt-ins maximum, five is already too
+many, "I've seen some sites where it's like NASCAR, they have like 13, 14 of them" — the first ceiling he
+has put on his own aggressive opt-in stack, in productive tension with it. Mostly-restatements folded in
+(not new debt): pillar pages/content clusters via Moz's Beginner's Guide (now with a Wikipedia/Abraham-
+Lincoln analogy), land-and-expand with the user-first gate, the 1-writer + 3-updaters / 90-updates-a-month
+operation (corroborating 2020-01-12), CPC-as-conversion-proxy keyword selection, anchor-text rotation, the
+E-A-T author-persona recovery play, first-24-hour engagement on YouTube, Facebook Groups earn-first, and
+the mobile-first/BERT material. Period-tactical and already dated: Tailwind Tribes, free Udemy courses,
+virtual summits, WebinarJam/LeadQuizzes. Synthesis debt now 8/10 (checkpoint at 10). Next iteration:
+Stage B (continue draining @neilpatel P2 long-form, oldest-first from 2020-02-01).
