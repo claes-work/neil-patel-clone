@@ -5278,3 +5278,45 @@ framework, NP-Digital sales-tool-ROI case study, 6-Stages framework,
 TikTok-delegation/5am-posting/QVC anecdotes, Instagram-partnership-growth framework,
 own-YouTube-growth-history, agency-from-scratch 6-point framework, blog/YouTube
 traffic-figure reconciliation) for the next checkpoint.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2022-03-17→04-04, solo tactical era, cont. 92)
+
+8/8 captions fetched successfully, no rate-limiting. All 8 videos OK (solo tactical
+long-form, no promo/joke/other-people-only videos to skip). Ledger rows set to L2 with
+domains/notes; rows inserted into wiki/sources/youtube-index.md in date order, footer
+bumped 900→908, index.md count bumped to match. One video in this batch carries a
+title/content date mismatch (title says "2023," no explicit contradicting year spoken,
+publish date 2022-03-24) — flagged inline, same recurring pattern previously logged on
+other @neilpatel videos from this era.
+
+Synthesis notes: two strong candidates this batch, both flagged ★. (1) "I Spent
+$500,000 in TV Ads to Promote My Ad Agency" is a detailed, dated first-person case
+study of a 2021 TV-ad experiment on stock/business channels (CNBC/Bloomberg), with
+concrete self-reported NP Digital scale figures at the time (~640 employees globally,
+>50% yoy growth, Inc. 500 #21 fastest-growing, "Performance Marketing Agency of the
+Year") and a clear conclusion — weak direct ROI but a legitimacy/RFP-inclusion effect
+— a good agency-entrepreneurship/persona/biography candidate (see
+[[wiki/sources/2022-03-21-yt-qIGucc-ssjY]]). (2) "7 Free Apps That'll Help You Write
+Content Faster" contains a fully quantified personal cross-platform content-output
+cadence (~12 YouTube videos/mo, ~20 IG posts/mo, ~20 TikTok posts/mo, ~30 Facebook
+posts/mo, ~20 LinkedIn posts/mo, ~8 Twitter posts/mo, ~30 podcast eps/mo, plus blog
+posts — roughly 140 pieces/month total, team-dependent) plus a biographical aside that
+he "really only" speaks English (translations are team-produced) — a strong
+content-strategy/social-media framework candidate, in the same shape as prior
+quantified-cadence material already in the backlog (see
+[[wiki/sources/2022-04-02-yt-If2wziIAFzA]]). Also worth noting: "How to Write a Blog
+Post Fast" repeats a ~2M/mo SEO-traffic self-report, close to but not identical to the
+~2.2M/mo Google-blog-traffic figure already flagged for reconciliation two batches ago
+(see [[wiki/sources/2022-03-28-yt-hwVb9kJHmfY]] and
+[[wiki/sources/2022-03-10-yt-deEOjN08_VM]]) — flagged again rather than silently
+merged. Everything else (free-tool roundups for marketing education/AI/writing,
+landing-page CRO blueprint, YouTube-topic-research tools) reinforces existing doctrine
+rather than adding new claims. 7 ingest batches since synthesis pass 11; checkpoint at
+10 — not due. Persona last touched by synthesis pass 11 (7 batches ago) — not yet
+stale by the ≥10-batch rule; no P1 rows are open to retrigger the drain-condition;
+continue monitoring the growing backlog (Honda-Odyssey/grandmother anecdotes,
+boring-product framework, NP-Digital sales-tool-ROI case study, 6-Stages framework,
+TikTok-delegation/5am-posting/QVC anecdotes, Instagram-partnership-growth framework,
+own-YouTube-growth-history, agency-from-scratch 6-point framework, blog/YouTube
+traffic-figure reconciliation, $500K-TV-ad case study, ~140-pieces/mo content-cadence
+framework) for the next checkpoint.
