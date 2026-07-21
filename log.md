@@ -3747,3 +3747,18 @@ omnichannel/rule-of-seven, HTTPS/Lighthouse ranking factors) rather than introdu
 new. The three title/content date-mismatch flags are a minor QA note, not persona-affecting. Synthesis
 debt now 9/10 (checkpoint at 10). Next iteration: Stage S (synthesis checkpoint due next batch) or
 continue draining @neilpatel P2 long-form, oldest-first from 2020-02-22 onward.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2020-02-22→03-12 solo tactical era: backlinks-without-outreach / 4-useless-marketing-tools / definition-of-digital-marketing / facebook-ads-alternatives / biggest-seo-mistake-long-tail / beautiful-homepage-that-ranks / 7-marketing-trends-2020 [title re-dated "2023"] / rank-#1-competitive-keywords-youtube ★, cont. 55)
+All 8 videos ok (no rate limiting, 0 retries). No promos, no other-people-only videos,
+no duplicates — full L2 treatment for all. Most reinforces established tactical
+material (Ubersuggest keyword-difficulty workflow, mobile/CRO best practices, paid-ad
+platform stats). One genuinely-new item flagged ★: rank-#1-competitive-keywords-youtube
+lays out Neil's explicit YouTube channel-growth formula (niche-focus > breadth,
+video-format hook→CTA→content→CTA structure, first-24-hours algorithm-velocity thesis)
+— a reusable, citable framework candidate for a content-strategy topic page. Continues
+the "2023" title-refresh artifact pattern seen on several 2020-era videos (content and
+publish metadata confirm 2020; on-screen titles were later refreshed) — flagged per
+source, not corrected. Synthesis notes: rank-#1-competitive-keywords-youtube's video-format
+formula and channel-focus lesson are the one durable, synthesis-worthy addition (★);
+everything else is repeat-pattern reinforcement. Synthesis debt now 10/10 (checkpoint
+reached) — next iteration should run Stage S before further ingest.

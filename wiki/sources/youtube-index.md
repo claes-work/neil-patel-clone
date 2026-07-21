@@ -514,7 +514,15 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2020-02-16 — [The Two Marketing Careers That Will CRUSH IT in 2023 (title re-dated "2023"; content is 2020) (marketing data scientist and director of growth marketing career/salary breakdown)](2020-02-16-yt-mAn3zmkj4p8.md) — agency-entrepreneurship, analytics-cro
 - 2020-02-17 — [Can Social Media Still Bring You ANY Website Traffic in 2023 (title re-dated "2023"; content is 2020) (483-company organic-social study: Pinterest wins, 38.6% traffic decline since 2015, 8-posts/month diminishing returns)](2020-02-17-yt-PVby6g0XEsA.md) — social-media, analytics-cro
 - 2020-02-20 — [Has Blogging Changed Too Drastically in 2023? (title re-dated "2023"; content is 2020) (market saturation not algorithm change; keyword difficulty, mobile/voice search, omnichannel + rule-of-seven)](2020-02-20-yt-ednS83_2Y04.md) — content-marketing, seo
+- 2020-02-22 — [How To Build Thousands of Backlinks Without Even Asking For Them (5 organic link tactics: free courses, free tools, proprietary stats, ego bait, infographics — KISSmetrics case study)](2020-02-22-yt-wzYZkO1T4_4.md) — seo, content-marketing
+- 2020-02-24 — [4 USELESS Marketing Tools You're Still Using (STOP Wasting Your Money) (avoid automated link tools, content spinners, LinkedIn bots, comment bots)](2020-02-24-yt-6Q3H_RrV15Y.md) — seo, content-marketing
+- 2020-02-27 — [The Definition of Digital Marketing by Neil Patel (definitional intro; digital vs traditional marketing; attention economics)](2020-02-27-yt-ORYkfcBOXh4.md) — content-marketing, paid-ads, seo
+- 2020-02-29 — [STOP Using Facebook Ads - The Best Alternative Ad Platforms (YouTube, Instagram, Pinterest, Twitter, LinkedIn ad platform survey)](2020-02-29-yt-nbXX68QJjAQ.md) — paid-ads, social-media
 - 2020-03-02 — [The Definitive Guide to Ubersuggest for SEO and Content Marketing (full feature walkthrough)](2020-03-02-yt-_ve9cmRaem0.md) ★ — seo, content-marketing
+- 2020-03-05 — [The #1 Biggest SEO Mistake Nearly Everyone Makes (long-tail vs head-term keywords; dog-food worked example; Amazon 57%-long-tail-sales stat)](2020-03-05-yt-X6B0TOGsbRw.md) — seo
+- 2020-03-07 — [How to Design A Beautiful Homepage That Ranks on Google (value prop, testimonials, mobile-first, nav simplicity, Quick Sprout nav test, Olay CRO case study)](2020-03-07-yt-D7GLEoN8yvA.md) — seo, analytics-cro
+- 2020-03-09 — [7 Marketing Trends to Help you DOMINATE Social Media in 2023 (title re-dated "2023"; content is 2020) (Stories, niche platforms, social commerce, AR/VR, privacy regulation, video dominance)](2020-03-09-yt-10IuyBkrB7o.md) — social-media, content-marketing
+- 2020-03-12 — [How I Rank #1 For Very Competitive Keywords on YouTube (★ channel-growth focus lesson + video-format formula; search = 25.5% of channel views)](2020-03-12-yt-oc1KaNa91uE.md) ★ — content-strategy, seo, social-media
 - 2020-03-26 — [How Long Does SEO Take to Work For a New Website? (~6-month traction rule)](2020-03-26-yt-wc_uo1prLg8.md) ★ — seo
 - 2020-04-16 — [7 Google Ads Hacks That'll Make Your Campaigns Scale Profitably (first paid-ads landmark)](2020-04-16-yt-S-hn2ThmQEw.md) ★ — paid-ads, analytics-cro
 - 2020-05-02 — [SEO Unlocked: FULL Free SEO Course With Neil Patel (course intro + SEO-mindset framework)](2020-05-02-yt-Q_lySNxCag0.md) ★ — seo, content-marketing
@@ -618,4 +626,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2026-07-20 — [AI Operators Dinner, Marketing Loops & GPT Sol 5.6 vs Fable 5 (MS, co-hosted — Neil's durable signal: agency AI-economics (AI unlocks NEW client work, not margin savings; strict cheap-model discipline), M&A/PE playbook (key-man risk, high-margin = weak mgmt, earnouts, minority-vs-majority chips-off-the-table, roll-up cross-sell), cold-call/follow-up sales gospel (40+ calls/day, close on 2nd-3rd try), and the AI-slop pendulum swinging back to humans; Eric-quarantined: the AI-operators dinner recap, "marketing loops," GEO/Profound read, Single Grain EU roll-up; ephemeral 2026-Q3 model-news flagged NOT-doctrine — GPT Sol 5.6 vs Claude Fable 5 [sic?], OpenAI raise, Anthropic-Blackstone JV)](2026-07-20-yt-0Pg-dNUWaI8.md) ★ — ai-marketing, agency-entrepreneurship, seo, paid-ads
 
 ---
-_605 videos ingested (L2) so far._
+_613 videos ingested (L2) so far._
