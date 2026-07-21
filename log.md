@@ -5694,3 +5694,55 @@ wiki/topics/ and persona/beliefs.md, with only minor new data points (Expedia's 
 ~10%-CAC-reduction-via-omnichannel anecdote, a video-first content-repurposing pipeline order, a
 2-3-emails-per-100-visitors benchmark) — not flagged ★.
 5 ingest batches accumulated since synthesis pass 12 (checkpoint at 10) — not yet due.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2022-09-10→09-26, solo tactical era, cont. 101)
+
+Batch of 8 @neilpatel long-form videos, 2022-09-10 through 2022-09-26. All ok (no
+429s, no missing captions). Ledger rows set to L2; youtube-index.md + index.md counts
+bumped to 979.
+
+Titles: "How to Build An Ultra Engaged Audience That Buys From You" (cXQ47bACDPw),
+"5 Underrated SEO Lessons" (bR9TvplOWmc), "How I Grew My SEO Traffic by 300% Through
+Translations and Patience" (1OMGxzT8fRU), "An SEO Tip That Just Works" (WAYnIlRs7C0),
+"How I Spend My Day as a Digital Marketer" (EvOP7War6Jw), "How to Outrank a Large
+Corporate When You Don't Have the Budget or Manpower" (BLxA_fhGEn8), "The Long Term
+Marketing Tactic You Need to Start Focusing On" (ji7XSKC_ayc), "The Best Digital
+Marketing Strategy You've Never Tried" (Y7LL4wowKqw).
+
+Synthesis notes: (1) ★ "How I Spend My Day as a Digital Marketer" (EvOP7War6Jw,
+2022-09-19) is the batch's landmark source — a granular hour-by-hour 2022 daily
+routine: a "700 employees / 900+ clients" NP Digital headcount marker (sits between the
+2018 "150+ employees" and the later 2022 "500+/640-employee" markers already in
+persona/biography.md — reconcile the sequence), a variant HIIT + intermittent-fasting
+routine (first-meal-at-noon vs. the previously logged 11am-6pm eating window in
+persona/appearance.md), and new texture (self-writes YouTube scripts at ~8hrs/month for
+16 videos, 15-minute call discipline, a daily marketer-peer-call hour, an evening
+space/history/tech research habit, wife's "10 minutes of undivided attention" line,
+kids playtime with no-phone framing). Flagged for persona/biography.md,
+persona/appearance.md, and persona/voice.md at the next synthesis/persona pass.
+(2) "5 Underrated SEO Lessons" (bR9TvplOWmc) retells the existing "Battlefield Bypass"
+black-hat-SEO origin story (already landmark-logged at 2022-07-21-yt-j-hZ_8XWwY0.md) —
+no new ★, but adds a brand-queries-via-NP-Digital-client-work ranking mechanism and a
+"no single channel is the best" channel-diversification framing, both minor new
+angles on existing beliefs. (3) "How I Grew My SEO Traffic by 300%..." (1OMGxzT8fRU)
+extends the existing Brazil-first/international-SEO material with concrete 2022
+percentages (14.53% US / 28.07% Brazil / 13.52% India / 3.25% UK / 2.63% Germany) and
+a new self-reported, unverified award claim ("6th fastest growing ad agency in the
+world," Ad Week) — worth folding into the agency-growth timeline. (4) "How to Outrank
+a Large Corporate..." (BLxA_fhGEn8) repeats the Kissmetrics-infographics traffic story
+but adds a concrete block of 10 dated title-tag/meta-description CTR-lift percentages
+(e.g. exact-query-match URL +45% CTR, question-format titles +14.1%) worth folding
+into wiki/topics/seo/seo.md's CTR section. (5) "The Long Term Marketing Tactic..."
+(ji7XSKC_ayc) introduces partnerships as a growth channel — not yet covered in
+wiki/topics/agency-entrepreneurship/ — with a concrete NP-Digital/design-agency and
+WP-Engine-webinar example; a new (unverified) contact domain npaccel.com surfaced, to
+watch for recurrence. (6) "The Best Digital Marketing Strategy You've Never Tried"
+(Y7LL4wowKqw) introduces browser push notifications (subscribers.com) as a distinct,
+zero-ad-spend acquisition channel with a drip-sequence structure — minor new tactical
+channel for wiki/topics/email-marketing/. (7) The remaining two videos ("An SEO Tip
+That Just Works" / "How to Build An Ultra Engaged Audience...") are dated restatements
+of already-synthesized fresh-content, AnswerThePublic, and 90/10-email-ratio doctrine,
+with only minor new benchmarks (300+-word page-length minimum; a "<10%" personal
+selling-ratio variant) — not flagged ★.
+
+6 ingest batches accumulated since synthesis pass 12 (checkpoint at 10) — not yet due.

@@ -984,6 +984,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2022-09-03 — [7 Underrated Marketing Lessons (TAM, omnichannel, branding-patience, early-platform-adoption, KISSmetrics-vs-Mixpanel repeat)](2022-09-03-yt-EXobBCjxLp0.md) — agency-entrepreneurship, content-marketing
 - 2022-09-05 — [My Favorite Type of Marketing (in-person events/conferences fave channel; trade-speaking-fee-for-booth tactic; Expedia 10%-CAC-reduction anecdote)](2022-09-05-yt-rSyh3GhpNDQ.md) — agency-entrepreneurship, content-marketing
 - 2022-09-08 — [7 Practical Content Marketing Tips (fresh-content-is-king, video-first repurposing pipeline, auto-insurance oversaturation stat, 2-3-emails-per-100-visitors benchmark)](2022-09-08-yt-gsRcUw6VP70.md) — content-marketing, seo, email-marketing
+- 2022-09-10 — [How to Build An Ultra Engaged Audience That Buys From You (email 90/10 rule, digital-ATM framing, video cadence)](2022-09-10-yt-cXQ47bACDPw.md) — email-marketing, social-media, content-marketing
+- 2022-09-12 — [5 Underrated SEO Lessons (Battlefield Bypass repeat, brand-queries-via-NP-Digital, US<=25% traffic, channel-diversification)](2022-09-12-yt-bR9TvplOWmc.md) — seo, agency-entrepreneurship
+- 2022-09-15 — [How I Grew My SEO Traffic by 300% Through Translations and Patience (14.53% US/28.07% Brazil/13.52% India traffic breakdown; hreflang playbook; 6th-fastest-agency AdWeek claim)](2022-09-15-yt-1OMGxzT8fRU.md) — seo, agency-entrepreneurship
+- 2022-09-17 — [An SEO Tip That Just Works (Especially If You Are a Beginner) (AnswerThePublic/Quora long-tail-question tactic, 300-word page-length benchmark)](2022-09-17-yt-WAYnIlRs7C0.md) — seo
+- 2022-09-19 — [How I Spend My Day as a Digital Marketer (hour-by-hour 2022 daily routine; 700-employee/900-client marker; HIIT/intermittent-fasting variant; family/research-habit texture) ★](2022-09-19-yt-EvOP7War6Jw.md) ★ — agency-entrepreneurship
+- 2022-09-22 — [How to Outrank a Large Corporate When You Don't Have the Budget or Manpower (infographics/Kissmetrics repeat, schema markup + 10 title-tag CTR stats)](2022-09-22-yt-BLxA_fhGEn8.md) — seo
+- 2022-09-24 — [The Long Term Marketing Tactic You Need to Start Focusing On (partnerships playbook; NP Digital/design-agency example; WP Engine webinar)](2022-09-24-yt-ji7XSKC_ayc.md) — agency-entrepreneurship, content-marketing
+- 2022-09-26 — [The Best Digital Marketing Strategy You've Never Tried (push notifications via subscribers.com; drip sequence; agency-of-the-year self-cite)](2022-09-26-yt-Y7LL4wowKqw.md) — email-marketing, content-marketing
 
 ---
-_971 videos ingested (L2) so far._
+_979 videos ingested (L2) so far._
