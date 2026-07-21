@@ -3885,3 +3885,43 @@ link-building framework in the wiki; (5) a new possible entity, Legion Athletics
 47-infographics ROI (2.5M visitors, 41,142 backlinks, $28,200 vs. $948,000) restates a
 figure already in the wiki from an earlier source — no new number, treat as
 corroboration, not a new claim. No contradictions found vs existing wiki.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form, 2020-06-01→06-18, COMPLETES SEO Unlocked course
+
+Ingested batch #79 (cont. 59): 8/8 captions fetched cleanly, no rate-limit issues, no
+skips. Drains the rest of SEO Unlocked modules 5-7 — link building (Module 5, lessons
+2-3: competitor/content-backlink sourcing via Ubersuggest, a scripted 3-email
+guest-post author-outreach sequence, broken-link building, reverse-image-search link
+recovery, Mailshake-driven relationship outreach with a Monday-8am/6am publish-email
+cadence and a "maintain velocity, don't burst" link-building doctrine), mastering
+Google tools (Module 6, lessons 1-3: Analytics goals/dashboards/alerts with an
+anti-vanity-metrics stance, Search Console crawl-error/404 triage + sitemap +
+schema/breadcrumbs + regionally-uneven AMP lift (Brazil/India) + lazy-load, and
+advanced Analytics — the "not provided" keyword filter, a "dark traffic" concept
+illustrated by a Groupon block-Google experiment, annotations, and a
+Search-Console-CTR-rewrite feedback loop), and brand + experience (Module 7, all
+three lessons — a two-sided market-assessment framework, brand-story/positioning
+methodology (Bezos and Elon Musk brand-definition quotes), and the course finale:
+designing a 5+-step customer-experience sequence, the Vitamin Water/Mike Repole/50
+Cent/Coca-Cola $4.1B case study, a content-vs-paid-ads long-run-ROI argument, the rule
+of seven restated with an 8,200-published-blog-posts figure, and a restated/reinforced
+corporate-brand-over-personal-brand regret ("I wouldn't name my brand after me").
+**This batch completes the entire "SEO Unlocked" course** (7 modules, first lesson
+ingested 2026-07-15 as batch #78 continuation) — a landmark structured curriculum
+now fully L2-ingested end to end.
+
+Synthesis notes: (1) the neilpatel.com-positioning self-critique ("competing with
+thousands of other marketers... a really big mistake") is a new, specific extension of
+the existing corporate-brand-over-personal-brand belief — worth folding in at the next
+pass as concrete evidence/regret, not just restated doctrine; (2) the Vitamin Water/
+Mike Repole/50 Cent case study (independently well-documented $4.1B Coca-Cola
+acquisition) is a new landmark case study for the agency-entrepreneurship hub,
+illustrating the "solve a genuinely unmet need" thesis — candidate for promotion,
+possibly with a new `wiki/entities/` page if Repole/Vitamin Water recurs; (3) the
+8,200-published-blog-posts figure is a new self-reported cumulative total, worth a
+light cross-check against the existing "4 posts/mo + 90 updates/mo" 2019 content-
+operation rate at the next synthesis (not necessarily inconsistent, just unreconciled);
+(4) the "dark traffic"/Groupon-block-Google framing and the anti-vanity-metrics
+dashboard doctrine reinforce, rather than add to, analytics-cro material already
+promoted (measurement mini-series, anti-dashboard cadence) — no new number. No
+contradictions found vs. existing wiki.
