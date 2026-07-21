@@ -4902,3 +4902,30 @@ Synthesis notes: two ★ items worth promoting at the next synthesis pass — (1
 business revenue disclosure ($371,882/mo avg, ~$600K peak) + full 7-step webinar-funnel system
 (agency-entrepreneurship/paid-ads/analytics-cro), (2) the Jarvis AI-writing-tool usage as a dated
 ai-marketing data point. Debt now 7/10 batches since synthesis pass 10.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2021-09-27→10-14, cont. 83)
+8 videos, all captions available, no rate-limiting. Two ★ items: (1) the "Who is Neil Patel"
+self-promotion campaign gets new concrete color — a bodybuilder influencer (~300 lb bench press)
+had "Neil Patel" written on his pecs and flexed them to make the name "dance" on Instagram
+(2021-10-04-yt-ADr1NSFYTis), extending the previously-documented campaign/apology story;
+(2) the Crunchbase → teardown → CEO cold-outreach agency-acquisition playbook (documented at
+synthesis pass 7) gets two new concrete tactics — CC'ing investors on the teardown email (with an
+A/B variant emailing the investor alone asking them to forward it) and, for enterprise targets,
+cold-emailing the CEO directly and asking them to forward to the CMO (~20-30% self-reported
+response rate); hunter.io named as the email-discovery tool (2021-10-14-yt-Xz_W96Zmz3s). A third
+smaller but quotable voice detail: despite endorsing AI drafting tools (Morphio.ai, MarketBrew,
+Jarvis.ai, Clearscope toured by name), he says he writes all his own content manually because it's
+a "zen moment" for him, comparing it explicitly to ironing clothes (2021-10-09-yt-aB16TtWHv9Q) —
+also a 2021 AI-content-tools-"not amazing yet" skepticism datapoint worth the ai-marketing
+belief-evolution timeline (2021-10-02-yt-nYN7fLt_oZI, title says "2023" but spoken content is
+2021 — title/date mismatch flagged). Remaining three videos were tactical reinforcement of
+existing doctrine (headline-vs-clickbait content-quality framework, 5 remote-job salary figures
+with named 3rd-party course providers, solo-entrepreneur SEO time budgets, a live on-camera
+strategy-build demo for a random local business). No contradictions found. Ledger: yt-7DjgqRPHQGI,
+yt-YeoCcj-4IGA, yt-nYN7fLt_oZI, yt-ADr1NSFYTis, yt-2Kp4arQ2sM8, yt-aB16TtWHv9Q, yt-UgkNGB3LvKs,
+yt-Xz_W96Zmz3s all set to L2.
+Synthesis notes: three items worth promoting at the next synthesis pass — (1) the Who-is-Neil-Patel
+campaign bodybuilder-pecs execution detail (agency-entrepreneurship), (2) the investor-CC +
+CEO-to-CMO cold-outreach tactic extensions (agency-entrepreneurship), (3) the "ironing is a zen
+moment" personal-habit voice detail (voice.md) plus the 2021 AI-content skepticism datapoint
+(ai-marketing timeline). Debt now 8/10 batches since synthesis pass 10.

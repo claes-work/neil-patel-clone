@@ -842,6 +842,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2021-09-20 — [7 SEO Secrets You Can Learn From Big Brands (indexed-page-count figures for Apple/Microsoft/IBM/Nike; neilpatel.com's own multi-language translations; PR Serve name-drop)](2021-09-20-yt-c_BaHl0YPs8.md) — seo, content-marketing
 - 2021-09-23 — [4 eCommerce SEO Techniques for Beginners (Ranking Your Products and Getting FREE Google Traffic) (Google Merchant, transactional-intent product-page SEO, canonical/301 over deletion, NP Digital >40% ecommerce clients)](2021-09-23-yt-FFWg6Dzw--g.md) — seo, agency-entrepreneurship
 - 2021-09-25 — [The Optimization TRAP: When SEO Actually HURTS Your Traffic (over-optimization pitfalls: anchor-text, keyword-density myth, link-velocity; own early-SEO-years habit disclosure)](2021-09-25-yt-s7sitpg1knA.md) — seo
+- 2021-09-27 — [How to Write Blog Posts That Are Better Than Any Other Content Piece On The Web (3-step competitive-analysis/Ubersuggest/production-quality framework; clickbait-vs-amazing-headline distinction)](2021-09-27-yt-7DjgqRPHQGI.md) — content-marketing, seo
+- 2021-09-30 — [5 High-Paying Digital Marketing Jobs That You Can Do From Home (salary figures for 5 roles; named 3rd-party course providers — Neville Medhora, CXL, Metis, Harvard, UMich)](2021-09-30-yt-YeoCcj-4IGA.md) — content-marketing, seo, email-marketing, agency-entrepreneurship
+- 2021-10-02 — [The Most Valuable Digital Marketing Skills in 2023 (That Every Company Is Looking For) [title mismatch, spoken content=2021] (7 skills; 2021 AI-content skepticism vs later AEO embrace)](2021-10-02-yt-nYN7fLt_oZI.md) — content-marketing, paid-ads, analytics-cro, ai-marketing
+- 2021-10-04 — [EVERYTHING You've Been Taught About Content Promotion is WRONG (Who-is-Neil-Patel campaign new color — bodybuilder pecs stunt; content-refresh outreach angle) ★](2021-10-04-yt-ADr1NSFYTis.md) ★ — content-marketing, agency-entrepreneurship
+- 2021-10-07 — [A Realistic Approach to SEO For Busy Solo Entrepreneurs (GSC/Ubersuggest/GA workflow; concrete time budgets — 2-8h/wk content, 4-10h/mo editing)](2021-10-07-yt-2Kp4arQ2sM8.md) — seo, content-marketing, analytics-cro
+- 2021-10-09 — [How AI is Changing Marketing and SEO (Morphio.ai/MarketBrew/Jarvis.ai/Clearscope tool tour; Ubersuggest automated-SEO roadmap disclosure; "ironing is a zen moment" voice detail) ★](2021-10-09-yt-aB16TtWHv9Q.md) ★ — ai-marketing, seo, content-marketing
+- 2021-10-11 — [Watch Me Build a Marketing Strategy in 10 Minutes For a Completely Random Business (live demo: cosmetic-dentistry/Orlando topic-cluster + Google My Business build)](2021-10-11-yt-UgkNGB3LvKs.md) — seo, content-marketing, paid-ads, analytics-cro
+- 2021-10-14 — [A Simple Strategy to Getting More Customers For Your Ad Agency (extends Crunchbase cold-outreach playbook: investor-CC A/B test + CEO-to-CMO enterprise tactic; hunter.io named) ★](2021-10-14-yt-Xz_W96Zmz3s.md) ★ — agency-entrepreneurship
 
 ---
-_829 videos ingested (L2) so far._
+_837 videos ingested (L2) so far._
