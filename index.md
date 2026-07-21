@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-21 (@neilpatel batch — 8 P2 long-form L2, 2021-10-16→2021-11-01, cont. 84: solo tactical run — psychological-buying-triggers list with an explicit scarcity-honesty ethics line, a digital-marketing-job-hunting free-audit playbook, a 7-step content-that-ranks framework (headline 8/10-read-2/10-click ratio) with a title mismatch (spoken "2022" vs. displayed "2023"), 8 big-brand paid-ad tactics including a sign-in-with-Google conversion-reversal case study, a per-platform content-promotion playbook, a funnel-first/content-pruning framework, an ecommerce CRO batch (logic+emotion copy finding, repeat Spiralyze mention), and a content-over-link-building piece introducing the Ubersuggest "page one ranking potential" tool feature; no new contradictions; 845 videos L2. Full change history: see log.md (append-only) and pipeline/synthesis-state.md for synthesis-pass detail; this header now tracks only the latest batch to avoid unbounded growth.)_
+_Last updated: 2026-07-21 (@neilpatel batch — 8 P2 long-form L2, 2021-11-04→2021-11-20, cont. 85: solo tactical run — a 4-favorite-tools rundown (Ubersuggest/ClickFlow/GSC/Trends) with an ROI-over-tool-count doctrine, a product/brand-over-tactics piece (Larry Page quote, Nike-vs-shoes brand-query comparison), a new-site SEO time budget (4h/wk content, 2-3h/mo keywords), a writer-vs-marketer distinction with a concrete link-outreach email template, a 10-point technical-SEO checklist (noindex/thin-content/redirects/orphan pages), an AI-automation SEO-trend piece with an extended AI-tool roster (Jarvis/frase/Clearscope/surfer/Copy.ai, title mismatch spoken-2022-vs-displayed-2023) ★, a 10-tool social-growth stack naming Eric Siu as a peer benchmarked via Social Blade, and a long-form-data-driven-content piece with a first-party neilpatel.com stat (data content = 3x more backlinks) tied to Google's E-A-T framework; no new contradictions; 853 videos L2. Full change history: see log.md (append-only) and pipeline/synthesis-state.md for synthesis-pass detail; this header now tracks only the latest batch to avoid unbounded growth.)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life/career timeline (England → Orange County → Crazy Egg/KISSmetrics → NP Digital → Ubersuggest → Marketing School), registry/court-verified vs self-reported marked per claim.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe.
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 845 videos ingested (L2).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 853 videos ingested (L2).
 
 ## Topics
 

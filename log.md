@@ -4952,3 +4952,47 @@ sign-in-with-Google conversion-reversal case study reinforcing the
 what-works-now-won't-work-forever belief (paid-ads/analytics-cro), (3) the Ubersuggest
 "page one ranking potential" tool-feature detail (seo), (4) the logic+emotion
 copy-combination finding (analytics-cro). Debt now 9/10 batches since synthesis pass 10.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2021-11-04→11-20, cont. 85)
+
+Dispatched under the roster autopilot (single agent, sequential file writes; no per-video
+sub-agents). 8 videos, all captions available, no rate-limiting, all solo Neil, no
+duplicates. Content: a 4-favorite-SEO-tools rundown (Ubersuggest/ClickFlow/Google Search
+Console/Google Trends) closing with an explicit ROI-over-tool-count doctrine; a
+product/brand-over-tactics piece (Larry Page "multi-billion-dollar business" quote, a
+Nike-vs-"shoes" brand-query-volume comparison, a repeat of the sign-in-with-Google
+conversion-reversal case study); a new-site SEO time-budget framework (~4h/week content,
+~2-3h/month keyword research — a smaller, more specific figure than the 2-8h/wk range
+logged 2021-10-07); a writer-vs-marketer distinction piece with a concrete, reusable
+link-outreach email script; a 10-point technical-SEO checklist (accidental noindex tags,
+thin content reframed as a value problem not a word-count one, excessive same-anchor
+links, uncompressed images, intrusive pop-ups, error pages, redirect loops, orphan pages,
+redirected internal links, broken links) with two new operational disclosures (his team
+links every new post from three older pages; broken links are audited quarterly); an
+AI-automation SEO-trend piece marked ★ for the next synthesis pass — extends the AI
+content-tool roster (frase.io, Clearscope, surfer.seo, Outranking.io, Copy.ai, Copysmith
+alongside the previously-logged Jarvis.ai/Morphio.ai/MarketBrew) and discloses a
+three-stage Ubersuggest automation roadmap (on-page SEO already in beta → content
+creation → link building); another title/date mismatch (spoken "2022" vs. displayed
+"2023", consistent with the channel's known retitling pattern); a 10-tool social-growth
+stack that explicitly names Eric Siu (alongside Backlinko and Ahrefs) as a peer marketer
+benchmarked via Social Blade, plus a self-attribution of his own social growth to
+posting consistency (via Later) rather than content quality; and a long-form
+data-driven-content piece disclosing a first-party neilpatel.com stat (data-heavy
+long-form content generates ~3x more backlinks than content without data) explicitly
+tied to Google's E-A-T framework, with a self-deprecating example (won't write about
+cancer, not a doctor). No contradictions found; one nuance flagged (not a
+contradiction): the AI-automation-evangelism stance here sits alongside the
+"writes all content manually, it's a zen moment" personal habit logged 2021-10-09 — a
+business-recommendation-vs-personal-preference split worth carrying into the next
+synthesis pass. Ledger: yt-C03x9stIzys, yt-MjMeQitV1lw, yt-UUZubwI6DLs, yt-9azXElM2kxU,
+yt-s_u_UQUeF64, yt-c4w9GaabAV4, yt-U8Ze50i1jro, yt-1odgi9VSx7Q all set to L2.
+
+Synthesis notes: four items worth promoting at the next synthesis pass — (1) the
+extended AI-content-tool roster + three-stage Ubersuggest automation roadmap
+(ai-marketing) ★, (2) the AI-automation-evangelism vs. manual-writing-zen-moment nuance
+(voice.md/ai-marketing), (3) the first-party 3x-backlinks data-driven-content stat tied
+to E-A-T (content-marketing/seo), (4) the Eric Siu-as-benchmarked-peer detail
+(social-media/[[wiki/entities/eric-siu]]) plus the consistency-over-quality
+growth-attribution quote (voice.md candidate). Debt now 10/10 batches since synthesis
+pass 10 — **checkpoint due next iteration.**

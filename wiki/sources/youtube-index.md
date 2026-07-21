@@ -858,6 +858,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2021-10-28 — [Stop Obsessing Over Traffic So You Can Start Getting Sales With Your Online Business (funnel-first framework; content-pruning "SEO guide for 20XX" example)](2021-10-28-yt-rAJT4Y4G5IE.md) — analytics-cro, seo, content-marketing
 - 2021-10-30 — [7 Ecommerce Marketing Secrets You Can Learn From Big Brands (logic+emotion copy finding; 95%-reviews stat; Spiralyze repeat mention)](2021-10-30-yt-c_rSzi5RwtU.md) — analytics-cro, paid-ads
 - 2021-11-01 — [Don't Build Backlinks This Year - Do This Instead (Ubersuggest "page one ranking potential" tool feature; content-over-links doctrine)](2021-11-01-yt-QnBHcjQOIBM.md) — seo, content-marketing
+- 2021-11-04 — [My 4 Favorite SEO Tools (And The Ones That Are a Time Waste) (Ubersuggest/ClickFlow/GSC/Trends tool tour; ROI-over-tool-count doctrine)](2021-11-04-yt-C03x9stIzys.md) — seo, analytics-cro
+- 2021-11-06 — [Why Some SEO Gurus Have Been LYING To Your Face This Whole Time (product/brand-over-tactics doctrine; Larry Page quote; Nike-vs-shoes brand-query comparison)](2021-11-06-yt-MjMeQitV1lw.md) — seo, agency-entrepreneurship
+- 2021-11-08 — [How Much Time Do You Need to Invest In SEO With a New Website That Has No Traffic (new-site SEO time budget: 4h/wk content, 2-3h/mo keywords; GSC workflow)](2021-11-08-yt-UUZubwI6DLs.md) — seo, analytics-cro
+- 2021-11-11 — [How to Stop Being Just a Content Writer and Become a Marketer (writer-vs-marketer distinction; concrete link-outreach email template)](2021-11-11-yt-9azXElM2kxU.md) — content-marketing, seo
+- 2021-11-13 — [10 Small Things On Your Website That Are Ruining Your Traffic (10-point technical SEO checklist: noindex, thin content, redirects, orphan pages)](2021-11-13-yt-s_u_UQUeF64.md) — seo
+- 2021-11-15 — [One SEO Trend That Is About to Change Everything in 2023 [title mismatch, spoken=2022] (AI-automation SEO trend; extended tool roster — Jarvis/frase/Clearscope/surfer/Copy.ai) ★](2021-11-15-yt-c4w9GaabAV4.md) ★ — ai-marketing, seo
+- 2021-11-18 — [10 Free Tools That'll Help You Get Your First 10,000 Social Media Followers (10-tool social growth stack; Eric Siu named peer via Social Blade; consistency-over-quality growth)](2021-11-18-yt-U8Ze50i1jro.md) — social-media, content-marketing
+- 2021-11-20 — [You NEED to Learn How to Write This Type of Content…. RIGHT NOW! (long-form data-driven content = 3x backlinks, first-party neilpatel.com stat; E-A-T tie-in)](2021-11-20-yt-1odgi9VSx7Q.md) — content-marketing, seo
 
 ---
-_845 videos ingested (L2) so far._
+_853 videos ingested (L2) so far._
