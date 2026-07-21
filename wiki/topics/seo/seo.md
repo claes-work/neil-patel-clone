@@ -866,6 +866,76 @@ authority-based SEO doctrine.
   About.com six-vertical-split case study (~900K pages deleted, traffic and revenue +140%) as
   evidence Google rewards niche focus over broad-authority sites ([[2020-03-30-yt-totiNw9Rypc]]).
 
+## 2020-10 → 2021-05 solo-era SEO — Local SEO Unlocked, link-magnet sourcing & the domain-brand mechanics (@neilpatel P2, synthesis pass 10)
+
+The late-2020/early-2021 run adds a full local-SEO playbook, sharpens the domain-strategy and
+brand-CTR mechanics with explicit causal reasoning (not just correlation), and a first-24-hours
+YouTube-ranking mechanism.
+
+- **Local SEO Unlocked (2020-11-16 → 11-28, ★, course complete).** Six lessons — the corpus's first
+  dedicated local-SEO playbook (previously only a single 2017 local-SEO video existed): GMB/Bing
+  Places/Facebook/Apple Maps setup walkthroughs; local-ranking signal categories (business/location/
+  review/off-page/on-page/link/social-behavior signals), with the **Podium** review-tool endorsement
+  and an explicit no-incentivized-reviews compliance stance ([[2020-11-19-yt-F7vbg3wskZk]]); the
+  **proximity/relevance/prominence** local-ranking triad, illustrated via a New-York-vs-New-Jersey
+  per-region content-localization exercise and Tiffany & Co.'s dense per-retailer local pages
+  ([[2020-11-26-yt-8PKEi1denlQ]]); and the course-closing recap ★: "near me" search-growth stats (via
+  Think with Google), the **local-reviews-matter-more-than-national** thesis (a sub-4.5-star rating
+  meaningfully hurts local performance), an explicit no-paid-reviews/no-astroturfing stance, the
+  **Google Guarantee** program as an underused local-traffic tactic, and citations defined (unlinked
+  name/phone/website mentions that still act as ranking signals) ([[2020-11-28-yt-00ntiTMDyNU]]).
+  > "I started my career picking up trash at a theme park, and I turned to SEO because it allowed me
+  > to compete with the big guys, when I didn't have much money." — [[2020-11-28-yt-00ntiTMDyNU]]
+- **The exact-match-domain CTR-suppression mechanism (2020-12-07).** Sharpens the existing EMD
+  skepticism with an explicit causal mechanism: a domain matching a generic keyword only helps if the
+  site *also* earns strong branded CTR on searches for that keyword; low CTR reads to Google as weak
+  relevance/brand loyalty and can **suppress** rankings — the opposite of the EMD's intended
+  advantage (his nurse.com-ranks-#3-not-#1 example; hotels.com works only because of Expedia-scale
+  brand investment, not the domain string). Complements, doesn't contradict, the existing Bing-
+  specific EMD note (that one is Bing-scoped; this one is explicitly Google) ([[2020-12-07-yt-z5P68CSI2BY]]).
+  > "It's fine to have your keyword in the domain, but you don't want your domain name to be a
+  > quote-unquote 'generic keyword,' because it can hurt your overall rankings." — [[2020-12-07-yt-z5P68CSI2BY]]
+- **The Wikipedia/company-name content-gap tactic (2020-12-10).** Reverse-engineers Wikipedia's
+  traffic (344M+ keywords per Ubersuggest) to a replicable, low-competition content play: write
+  neutral, accurate profile articles on every company/brand in your niche (enumerated via a
+  services-review directory like **Clutch**) — company/brand names are comparatively low-competition
+  because most SEO effort targets generic terms, not competitor names. Explicit ethical guardrail:
+  never write bashing/negative competitor content ([[2020-12-10-yt-K4HTG_m_w4Q]]).
+- **First-24-hours-promotion drives YouTube-algorithm ranking + say-the-keyword-aloud (2021-04-17,
+  ★).** A more mechanistic statement than prior general promotion advice: concentrated engagement
+  (email blasts, push notifications, social/Messenger-bot promotion) within a video's first 24 hours
+  is "the secret" behind his channel's YouTube-search traffic (34.3% of total), because YouTube's
+  algorithm rewards early engagement velocity, which then compounds into sustained ranking; also
+  claims saying a target keyword explicitly in a video's spoken audio improves its ranking for that
+  term ([[2021-04-17-yt-3nykPLWfPu4]]).
+  > "Any video that's popular within 24 hours of its release tends to rank better on YouTube... that's
+  > how I'm ranking for terms on YouTube." — [[2021-04-17-yt-3nykPLWfPu4]]
+- **Cheap-tool (CodeCanyon) link-magnet sourcing (2021-03-18 → 04-03).** Buy sub-$29 calculator/tool
+  scripts from CodeCanyon rather than custom-build link-magnet tools, extending the existing
+  tools-are-content-marketing doctrine to a concrete, cheap sourcing tactic — paired with an explicit
+  anti-link-buying disclaimer and the Ubersuggest 17,671-referring-domain figure as the larger-scale
+  version of the same play ([[2021-04-01-yt-JlxTM_DKILs]]).
+- **Sitewide cornerstone-sidebar internal linking, proven across 13 keywords (2021-02-15).** "The
+  Dumbest SEO Hack": a sitewide sidebar link to a cornerstone/pillar guide, anchor-text chosen for
+  audience phrasing over raw search volume — Neil demonstrates it live moving 13 target keywords
+  ([[2021-02-15-yt-H096tfFaKPw]]).
+- **Rank-vs-traffic decoupling + SERP-overlay competitor-gap workflow (2021-02-18).** Rank position
+  and traffic can diverge (Investopedia's #3 result out-traffics its #1 result); the Ubersuggest
+  Chrome-extension SERP overlay surfaces competitor keyword-gaps and backlink-gaps in one view
+  ([[2021-02-18-yt-jtkNZRLxZpo]]).
+- **The free-tool-over-content doctrine, quantified (2021-02-20).** "The New Form of Content
+  Marketing": free tools beat scaled content, backed by his own Search Console figures — 14M clicks
+  across 6,978 posts, with the keyword "Ubersuggest" alone driving roughly 12× the clicks of his own
+  name — plus CodeCanyon named again as the cheap white-label tool-sourcing channel
+  ([[2021-02-20-yt-blo4PoOfxM8]]). Cross-link [[../content-marketing/content-marketing|content-marketing]].
+- **Same-weekday/region-filtered GA comparison method (2021-03-27).** A specific analytics-audit
+  technique: compare GA week-over-week using the same weekday and region filters, cross-validated
+  against a second site, and prefer Search Console over Analytics for organic-specific trend reading
+  ([[2021-03-27-yt-P54LGZFLiqI]]).
+- **21-old-articles-per-1-new content-refresh ratio (2020-12-19).** Extends the existing rank-old-
+  content doctrine with a specific ratio via Search Console workflow: roughly 21 updates to old
+  content for every 1 new article ([[2020-12-19-yt-l8JUF0bNIo4]]).
+
 ## Signature framing: "get loved by Google"
 
 Neil's recurring sign-off phrase, worth capturing verbatim as voice:
@@ -960,3 +1030,18 @@ many small things well, for the user, and rankings follow.
 - [[2019-08-12-yt-V2udMQNVCAc]] — Anatomy of a perfect SEO campaign (gap→internal→land-and-expand→calendar→clusters)
 - [[2019-08-26-yt-Prp2lkzNQv4]] — ★ Rank for thousands of keywords without links (land-and-expand / clusters / gaps)
 - [[2019-09-05-yt-srRwLFNLing]] — ★ Bing SEO (exact-match domains, keyword-in-URL, social a direct Bing factor)
+- [[2020-11-16-yt-c-h3GxHofcA]] — Local SEO Unlocked L1 (launch; local-by-the-numbers stats)
+- [[2020-11-19-yt-F7vbg3wskZk]] — Local SEO Unlocked L2 (GMB categories; Podium; Yum/KFC/Whole Foods)
+- [[2020-11-21-yt-cgifDKJZaZU]] — Local SEO Unlocked L3 (GMB/Bing Places/Facebook/Apple Maps setup)
+- [[2020-11-23-yt-RXE1uqN3qzQ]] — Local SEO Unlocked L4 (local keyword-modifier taxonomy; E-A-T content workflow)
+- [[2020-11-26-yt-8PKEi1denlQ]] — Local SEO Unlocked L5 (proximity/relevance/prominence triad; schema; voice search)
+- [[2020-11-28-yt-00ntiTMDyNU]] — ★ Local SEO Unlocked L6, COMPLETES (reviews thesis; Google Guarantee; citations)
+- [[2020-12-07-yt-z5P68CSI2BY]] — EMD CTR-suppression mechanism (nurse.com #3-not-#1 example)
+- [[2020-12-10-yt-K4HTG_m_w4Q]] — Wikipedia/company-name content-gap tactic via Clutch
+- [[2020-12-19-yt-l8JUF0bNIo4]] — 21-old-articles-per-1-new content-refresh ratio
+- [[2021-02-15-yt-H096tfFaKPw]] — Sitewide cornerstone-sidebar linking hack (13-keyword proof)
+- [[2021-02-18-yt-jtkNZRLxZpo]] — Rank-vs-traffic decoupling + SERP-overlay competitor-gap workflow
+- [[2021-02-20-yt-blo4PoOfxM8]] — Free-tool-over-content doctrine (14M clicks/6,978 posts GSC figures)
+- [[2021-03-27-yt-P54LGZFLiqI]] — Same-weekday/region-filtered GA comparison method
+- [[2021-04-01-yt-JlxTM_DKILs]] — CodeCanyon cheap-tool link-magnet sourcing
+- [[2021-04-17-yt-3nykPLWfPu4]] — ★ First-24-hours-promotion-drives-YouTube-ranking mechanism

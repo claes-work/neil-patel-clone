@@ -386,6 +386,66 @@ figures.
   days, which showed both organic *and* direct traffic drop sharply ([[2020-06-11-yt-hAkiH_3hC9E]]).
   Reinforcement of an existing belief with new named mechanics, not a new belief.
 
+## 2021-04 → 2021-05 CRO Unlocked — the traffic×conversion formula & first Porter/PEST/SWOT (@neilpatel P2, synthesis pass 10)
+
+The full six-lesson **CRO Unlocked** course launches and completes within this batch — the corpus's
+most structured CRO course, anchored on two large agency case studies and closing with the first
+named strategic-analysis frameworks (Porter's Five Forces, PEST, SWOT) in the ledger.
+
+- **Course intro — the traffic×conversion formula + two large case studies (2021-04-26, ★).**
+  Frames CRO around "new signups = traffic × conversion rate" (a formula Neil explicitly attributes to
+  his Crazy Egg co-founder, not his own coinage — see the CONTRADICTION flag below), and pitches CRO
+  as the highest-leverage revenue lever since doubling conversion rate doubles sales without added ad
+  spend. Two case studies: **Skincare by Alana** (friends Jared & Alana Mitchell) improved CVR **>200%**
+  via surveys/split-tests/SEO atop an already >$3M-revenue site; an unnamed **Atlanta wholesale
+  extension supplier** grew **$3.1M → $7.9M** via full-funnel CRO + content + link-building, landing on
+  the Inc 500 list two years running. Adds a Toyota-82-years analogy alongside the recurring Dave
+  Brailsford "marginal gains" framing ([[2021-04-26-yt-E_CyyiRXH0U]]).
+  > "Your website is probably earning roughly 1/5 of what it should be, and that's why you need to do
+  > Conversion Rate Optimization." — [[2021-04-26-yt-E_CyyiRXH0U]]
+- **One-test-per-funnel-step iteration rule + the Gumroad pricing case (2021-04-29).** Prescribes
+  exactly one test at a time per funnel step (parallel tests across *different* pages are fine given
+  traffic); cites Gumroad's reported **118%** conversion lift from a **$2.00 → $1.99** charm-pricing
+  change; a B2B funnel-math example where a 5%→8% lead-capture lift (unchanged 15% close rate) grows
+  revenue from $740K to $1.2M ([[2021-04-29-yt-GijcPbdadz0]]).
+  > "The key to CRO is iteration. You're not going to do a test and find out that you doubled your
+  > conversions. That's very, very rare." — [[2021-04-29-yt-GijcPbdadz0]]
+- **Conditional yes/no exit-intent + landing-page checklist + the 35%-Amazon-recommendations stat
+  (2021-05-03).** Conditional exit-intent popups (a yes/no question before the "carrot") consistently
+  outperform popups that go straight to the ask; a landing-page checklist (high-quality images, ≤3
+  choices, testimonials, short scroll, video over long text); cites **35% of Amazon's revenue** from
+  dynamic recommendations; frames brand-loyalty ("making customers love you" — Apple/Nike/Amazon) as
+  an under-discussed CRO lever distinct from page tweaks ([[2021-05-03-yt-Mfe9gM0VnDw]]).
+  > "One strategy that very few people talk[ed] about when it comes to CRO is making your customers
+  > love you." — [[2021-05-03-yt-Mfe9gM0VnDw]]
+- **First appearance of Porter's Five Forces, PEST, and SWOT (2021-05-06, ★).** Introduces all three
+  named competitive/strategic-analysis frameworks for the first time in the ledger, as inputs for
+  generating CRO/strategy test ideas, alongside an A/B-vs-multivariate testing distinction. Also names
+  **MobileMonkey** with an 80%+ Messenger open-rate claim — dated against the corpus's 2021-02-27
+  Messenger-decline note (see [[../social-media/social-media|social-media]]/[[../paid-ads/paid-ads|paid-ads]])
+  ([[2021-05-06-yt-1Zr35pNe9-0]]).
+- **Course completion — the iteration thesis + Crazy Egg course-closing stats (2021-05-08).**
+  **COMPLETES** CRO Unlocked with a repeatable CRO process loop (track → research → plan → design →
+  refine → repeat) and the closing thesis that meaningful CRO results take hundreds of tests over
+  years, not one, five, or ten; quotes **Jeff Bezos** ("if you double the number of experiments you do
+  per year, you're going to double your inventiveness") alongside Zuckerberg's Facebook-testing
+  practice; cites Crazy Egg's stated >1B monthly tracked visitors / 100K+ customers
+  ([[2021-05-08-yt-685tvu__Nss]]).
+  > "Great businesses are built off of years of iteration. You're not going to get the results you want
+  > with one or two AB tests or even five or 10. You're going to have to run hundreds over time." — [[2021-05-08-yt-685tvu__Nss]]
+
+> ⚠️ **CONTRADICTION (flagged, not reconciled — ★).** In the 2021-04-26 CRO Unlocked launch, Neil
+> identifies his **Crazy Egg co-founder** as his **brother-in-law**, "now the full owner" of Crazy Egg —
+> repeated again in the same batch's Growth Hacking Unlocked fundraising lesson ("my brother-in-law and
+> my sister own it and now they run it," [[2021-05-13-yt-Ol2kGMDvX4o]]). This is the first source
+> explicitly naming the brother-in-law as the Crazy Egg co-founder specifically. The existing,
+> independently-reported wiki narrative names **Hiten Shah** as Neil's Crazy Egg/KISSmetrics co-founder
+> ([[../../entities/crazy-egg|entities/crazy-egg]], [[../../entities/hiten-shah|entities/hiten-shah]]).
+> A brother-in-law business partner is separately established elsewhere in the wiki
+> (2018-11-24-yt-_TmX1PcjIhk: "one of my business partners"), but this is the first source naming him
+> as *the* co-founder and current full owner. Not smoothed — see the entity-page CONTRADICTION
+> callouts for the full reconciliation discussion. [[2021-04-26-yt-E_CyyiRXH0U]]
+
 ## Key source pages
 - [[2018-10-16-yt-AbcoFUHcs9M]] — ★ LTV/ad-spend model (7/8/9-figure "$1 in / $2 back" rule; Mixpanel).
 - [[2018-11-17-yt-av9WfdR4cVk]] — CRO beats acquisition (convert better → outbid on ad spend).
@@ -426,3 +486,9 @@ figures.
 - [[2019-04-25-yt-oqx7IjS6SOg]] — Survey → A/B-test → re-survey loop ("opinions don't matter"; checkout 70–90% drop-off).
 - [[2019-05-18-yt-0NGQLgrHRe4]] — Raise-price-to-raise-sales (Diamond Foundry; anchoring; A/B-test price for profit) ⚠️ vs undercut-to-grow.
 - [[2019-03-30-yt-zLz3JSvNUMM]] — Anti-discounting hard datum (discounted signups churned 29% faster; never discount B2B; optimize LTV).
+- [[2021-04-26-yt-E_CyyiRXH0U]] — ★ CRO Unlocked L1 (traffic×conversion formula; Skincare-by-Alana/Atlanta cases) ⚠️ Crazy Egg co-founder contradiction
+- [[2021-04-29-yt-GijcPbdadz0]] — CRO Unlocked L2 (one-test-per-step rule; Gumroad pricing case)
+- [[2021-05-01-yt-RVamsWm_TDg]] — CRO Unlocked L3 (Crazy Egg heatmap/scrollmap tool walkthrough)
+- [[2021-05-03-yt-Mfe9gM0VnDw]] — CRO Unlocked L4 (conditional exit-intent; 35%-Amazon-recs stat)
+- [[2021-05-06-yt-1Zr35pNe9-0]] — ★ CRO Unlocked L5 (first Porter's Five Forces/PEST/SWOT)
+- [[2021-05-08-yt-685tvu__Nss]] — CRO Unlocked L6, COMPLETES (Bezos/Zuckerberg iteration quotes)

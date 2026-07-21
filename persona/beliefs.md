@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-21
-sources: 81
+sources: 83
 ---
 
 # Beliefs
@@ -795,3 +795,26 @@ why the premium delivers results they can't. *(as of 2019-03-30, restated 2019-0
 > [[2019-07-08-yt-LMAPoKW1CUY]]
 
 This is the pricing edge of his 2019 [[#the-power-of-no--decline-discounts-and-scope-creep-to-protect-margins-and-respect-2019|Power of No]] framework.
+
+### "Learn from other founders, not just your own mistakes" (2021)
+Launching the Growth Hacking Unlocked course, Neil states the trait separating great
+entrepreneurs/marketers from mediocre ones is actively studying OTHER founders' journeys and
+mistakes, not just reflecting on your own — paired with an explicit self-deprecating framing of his
+own authority as evidence-based ("I've worked with these brands and it keeps working"), not
+intelligence-based. *(as of 2021-05-10, self-reported)* [[2021-05-10-yt-gaOXEceU6Ic]]
+> "The big thing that I've learned over the years is[:] if you're not learning from other founders,
+> you're missing out big time... what separates the amazing entrepreneurs and the amazing marketers
+> [from] the ones who are just mediocre is[:] the amazing ones are learning from other people's
+> mistakes, other people's journeys." [[2021-05-10-yt-gaOXEceU6Ic]]
+> "I'm not showing you all of this to brag. I don't think I know everything, I don't think I'm the
+> smartest person out there. I know I'm not the smartest person out there." [[2021-05-10-yt-gaOXEceU6Ic]]
+
+### "Be great at one thing, outsource the rest" (2021)
+From the Bucharest origin-story interview: Neil frames his own strengths as narrow — "traffic
+acquisition, anything marketing... good at making deals... good at sales although I don't like doing
+it" — and treats everything else as a relative weakness to hire or delegate away, citing Malcolm
+Gladwell's 10,000-hour framework as backing. Consistent with his stated reason for being CEO of none
+of his own companies (including KISSmetrics): he dislikes day-to-day people-management and delegates
+operations to co-founders. *(as of 2021-03-01, self-reported)* [[2021-03-01-yt-669n5497uAs]]
+> "I love what I'm doing. If you love what you're doing you shouldn't have to motivate yourself
+> because you won't see it as work, you'll see it as fun." [[2021-03-01-yt-669n5497uAs]]

@@ -6,13 +6,49 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **@neilpatel 2020-03 → 2020-10 P2 tactical era complete — all 693 L2 sources, ingest batches #1–#87 (2016-11 → 2020-10)**, via synthesis pass 9 (2026-07-21). Pass 9 folded the @neilpatel 2020-03-14 → 2020-10-22 solo run (batches #78–#87 / log cont. 56–65 — the SEO Unlocked link-building module through the YouTube Unlocked course completion, plus the full eCommerce Unlocked and Instagram Unlocked courses, 10 `Synthesis notes:` lines of debt) into the topic hubs + persona. The next pass starts from the debt accumulated after batch #87 (i.e. the next @neilpatel P2 ingest or the next @MarketingSchoolPod P2 run).
+Synthesized through: **@neilpatel 2020-10 → 2021-05 P2 tactical era complete — all 773 L2 sources, ingest batches #1–#97 (2016-11 → 2021-05)**, via synthesis pass 10 (2026-07-21). Pass 10 folded the @neilpatel 2020-10-24 → 2021-05-13 solo run (batches #88–#97 / log cont. 66–75 — LinkedIn Unlocked, Facebook Unlocked, Local SEO Unlocked, Email Marketing Unlocked, and CRO Unlocked all launch and complete, plus Growth Hacking Unlocked launches, 10 `Synthesis notes:` lines of debt) into the topic hubs + persona. The next pass starts from the debt accumulated after batch #97 (i.e. the next @neilpatel P2 ingest or the next @MarketingSchoolPod P2 run).
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
-_(none — caught up through batch #87; @neilpatel 2020-03→2020-10 P2 tactical era fully synthesized)_
+_(none — caught up through batch #97; @neilpatel 2020-10→2021-05 P2 tactical era fully synthesized)_
 
 ## Done checkpoints
+- [x] 2026-07-21 — **synthesis pass 10** — @neilpatel 2020-10 → 2021-05 P2 tactical era complete (773
+  L2 sources total, batches #88–#97 / log cont. 66–75, 2020-10-24→2021-05-13 solo run; fully
+  Neil-attributed). Drained the 10 accumulated `Synthesis notes:` lines. Five named courses launch
+  and complete end-to-end within this run — **LinkedIn Unlocked**, **Facebook Unlocked**, **Local SEO
+  Unlocked**, **Email Marketing Unlocked**, **CRO Unlocked** — plus **Growth Hacking Unlocked**
+  launches. Promotions (quality-over-volume; pure repeats/reinforcements dropped): **social-media**
+  (LinkedIn Unlocked's five-stage B2B sales-cycle framework + 80/20 Groups rule + 8-12-day webinar
+  countdown framework ★; Facebook Unlocked's News-Feed-algorithm mechanism + five-rules brand-growth
+  framework ★ + two-ad blog-then-retarget funnel; the Messenger-decline → push-notification pivot;
+  the Gary Vaynerchuk style-contrast quote), **seo** (Local SEO Unlocked's full playbook ★ — proximity/
+  relevance/prominence triad, local-reviews-matter-more thesis, Google Guarantee; the EMD
+  CTR-suppression mechanism; the Wikipedia/Clutch content-gap tactic; the first-24-hours-promotion-
+  drives-YouTube-ranking mechanism ★; the sitewide cornerstone-sidebar linking hack; the free-tool-
+  over-content GSC figures), **content-marketing** (the quiz-funnel design ruleset ★ — 714K emails;
+  the three-part blog-homepage template; the 10/40/20/30 content-time allocation; the question-
+  keyword-content generalization), **email-marketing** (Email Marketing Unlocked's full course ★ —
+  Exit-Intent/social-login lift figures, the 98/2 educational ratio, the four-non-opens suppression
+  rule, the 760%-segmentation stat), **analytics-cro** (CRO Unlocked's full course ★ — the
+  traffic×conversion formula, the Skincare-by-Alana/Atlanta case studies, the first appearance of
+  Porter's Five Forces/PEST/SWOT ★, the Bezos/Zuckerberg iteration quotes), **paid-ads** (Gmail-inbox-
+  ads email retargeting; the SaaS pricing-page A/B results + Spiralize competitor-agency
+  recommendation), **agency-entrepreneurship** (the Bucharest origin-story interview ★ — job-board-at-
+  16 reframing, "be great at one thing," SWOT sales technique, micro-commitments framework; the
+  KISSmetrics $16.4M/seven-rounds fundraising history ★ + True Ventures rejected-then-invested
+  anecdote ★; Growth Hacking Unlocked's "learn from other founders" doctrine ★; the 6-10x-revenue-at-
+  breakeven SaaS exit claim). **New CONTRADICTION flagged, not reconciled:** two sources in this batch
+  ([[../wiki/sources/2021-04-26-yt-E_CyyiRXH0U]], [[../wiki/sources/2021-05-13-yt-Ol2kGMDvX4o]]) name
+  Neil's **brother-in-law** as the Crazy Egg co-founder/current full owner, in tension with the
+  well-documented Hiten Shah co-founder narrative — flagged on both `wiki/entities/` pages
+  ([[../wiki/entities/crazy-egg]], [[../wiki/entities/hiten-shah]]) and on `persona/biography.md`.
+  Persona: **beliefs.md** (81→83 sources; "learn from other founders" doctrine, "be great at one
+  thing, outsource the rest"), **voice.md** (55→57 sources; the Gary Vee style-contrast quote, "I'm
+  not the smartest person out there," "a no just means not right now"), **biography.md** (49→51
+  sources; the Bucharest origin-story reframing, KISSmetrics fundraising detail, the Crazy Egg
+  co-founder CONTRADICTION). Recompiled **system-prompt.md v10 → v11** (compiled_from_sources 693 →
+  773). System-prompt version at pass end: **v11**.
 - [x] 2026-07-21 — **synthesis pass 9** — @neilpatel 2020-03 → 2020-10 P2 tactical era complete (693 L2
   sources total, batches #78–#87 / log cont. 56–65, 2020-03-14→2020-10-22 solo run; fully
   Neil-attributed; spans the SEO Unlocked link-building module completion, the full eCommerce

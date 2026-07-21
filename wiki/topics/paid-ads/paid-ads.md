@@ -238,6 +238,34 @@ paid works because of the funnel behind the ad, not the ad craft (dated; self-re
   abandoners; email flagged as the top-converting channel overall, with seasonal ad-spend patterns
   and YouTube/Instagram/Etsy ad options surveyed as secondary channels.
 
+## 2021-01 → 2021-05 retargeting, Gmail-inbox ads & the SaaS pricing-page A/B tests (@neilpatel P2, synthesis pass 10)
+
+- **Email-marketing retargeting via Gmail-inbox ads (2021-02-04).** His personal-favorite email
+  tactic: remarketing banner ads — including ads shown **inside the Gmail inbox itself** — to people
+  who opened a prior email, claimed among the highest-converting tactics he's used
+  ([[2021-02-04-yt-LqFX-81m2Qk]]). Cross-link [[../email-marketing/email-marketing|email-marketing]].
+- **SaaS pricing-page A/B results + a competitor-agency recommendation (2021-02-13).** An
+  element-by-element teardown of Ubersuggest's own pricing page: a unique-differentiator bullet
+  measured an 8-9% conversion lift; an overly detailed plan overview underperformed a brief summary
+  with expandable details; social proof helped newer/less-established brands more than established
+  ones (never measurably hurt); a visual feature-breakdown + comparison table reduced support-ticket
+  volume vs. a table alone; two-step checkout (registration, then payment) outperformed one-step.
+  Notably, Neil recommends the competing CRO agency **Spiralize** ("Gajon['s]" company) over his own
+  NP Digital for pricing-page work, framing it as a transparency choice
+  ([[2021-02-13-yt-AxTrGSdZC2E]]). Cross-link [[../analytics-cro/analytics-cro|analytics-cro]].
+  > "I know that sounds a bit weird promoting another agency, but I'd rather be transparent." — [[2021-02-13-yt-AxTrGSdZC2E]]
+- **Messenger-marketing decline → push-notification pivot, reinforced then re-contradicted (2021-02-27
+  vs. 2021-05-06, ⚠️ dated).** Neil states Messenger click-through/conversion had been declining for
+  6-12 months and pivots to push notifications ([[2021-02-27-yt-4imowpDWrDg]], full detail on
+  [[../social-media/social-media|social-media]]) — yet three months later still names **MobileMonkey**
+  by name with an 80%+-open-rate endorsement in CRO Unlocked ([[2021-05-06-yt-1Zr35pNe9-0]]). Recorded
+  as-is, not smoothed: treat Messenger-channel enthusiasm as inconsistent/declining across this period
+  rather than a clean reversal.
+- **Facebook Unlocked's two-ad remarketing funnel (2021-01-09).** Cold traffic → blog post → Facebook
+  retargeting → landing/sales page, claimed cheaper per-acquisition than sending cold traffic directly
+  to a sales page — full course detail on [[../social-media/social-media|social-media]]
+  ([[2021-01-09-yt-NWMkd58lxSQ]]).
+
 ## Key source pages
 - [[2018-12-22-yt-7V3HMRJ8U40]] — SEO vs paid: do both (omni-channel; "if paid is profitable, SEO is").
 - [[2019-02-09-yt-jmRunRQU1wc]] — Funnels as ad costs rise; 2008-recession ad-durability datapoint.
@@ -270,3 +298,8 @@ paid works because of the funnel behind the ad, not the ad craft (dated; self-re
 - [[2017-10-26-yt-D_W7t7T-5oM]] — Mobile-app install marketing (performance PR, blogger early access).
 - [[2017-10-27-yt-Ru3jcnHWVJE]] — AdWords ROI: relevance → Quality Score → cheaper CPC.
 - [[2017-12-07-yt-P2KWsco-gig]] — ★ Evergreen automated-webinar funnel (2017 antecedent of the 2018 playbook).
+- [[2021-01-09-yt-NWMkd58lxSQ]] — Facebook Unlocked two-ad blog-then-retarget funnel model
+- [[2021-02-04-yt-LqFX-81m2Qk]] — Gmail-inbox-ads email retargeting tactic
+- [[2021-02-13-yt-AxTrGSdZC2E]] — SaaS pricing-page A/B results + Spiralize competitor recommendation
+- [[2021-02-27-yt-4imowpDWrDg]] — Messenger decline → push-notification pivot ⚠️ dated
+- [[2021-05-06-yt-1Zr35pNe9-0]] — MobileMonkey Messenger endorsement (⚠️ vs 2021-02-27 decline note)

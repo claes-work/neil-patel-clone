@@ -30,6 +30,10 @@ respected SaaS founder and product/analytics figure in his own right.
 - Widely cited as Neil's most important early business partner; the shared "we lost a million
   before we won" origin story is central to Neil's public narrative. 🗣️/📰
 
+> ⚠️ CONTRADICTION — see the co-founder-identity CONTRADICTION callout on
+> [[crazy-egg]]: two 2021 @neilpatel P2 sources identify Neil's Crazy Egg co-founder as his
+> **brother-in-law**, not Hiten Shah. Not reconciled — recorded on both entity pages.
+
 ## See also
 
 - [[crazy-egg]], [[kissmetrics]] — the companies they co-founded

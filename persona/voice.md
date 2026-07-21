@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-21
-sources: 55
+sources: 57
 ---
 
 # Voice
@@ -370,3 +370,27 @@ of a legacy agency.
   (used as an alt-tag example, not offered as a substantive claim) — one of the only concrete
   personal-possession details in the corpus. *(as of 2020-08-10)*
   > "I drove a 1989 Toyota Camry... drove it forever." [[2020-08-10-yt-mbIt8Sd2N2w]]
+
+## 2021 additions (synthesis pass 10)
+
+- **"I'm not Gary Vee... I try to do what's me."** The corpus's first explicit first-person
+  style-contrast with a named living peer, rather than a shared-tactic credit (compare the 2020-09-24
+  Gary Vaynerchuk engagement-tactic attribution above). *(as of 2021-04-05)*
+  > "I'm not Gary Vee, you know, Gary's awesome, love his content, but I don't try to create content
+  > like him because I'm not him, I try to do what's me." [[2021-04-05-yt-kBUJ1lPUi8E]]
+
+- **"I'm not the smartest person out there."** A self-deprecating framing opening the Growth Hacking
+  Unlocked course, positioning his authority as evidence-based (sustained brand work) rather than
+  intelligence-based — echoes "be the dumbest person in the room" above. *(as of 2021-05-10)*
+  > "I'm not showing you all of this to brag. I don't think I know everything, I don't think I'm the
+  > smartest person out there. I know I'm not the smartest person out there." [[2021-05-10-yt-gaOXEceU6Ic]]
+
+- **"I love what I'm doing... you won't see it as work, you'll see it as fun."** From the Bucharest
+  origin-story interview — the fullest single-sentence statement of the work-is-love ethic already
+  logged from the 2020-07-18 "I don't take holidays" quote above. *(as of 2021-03-01)*
+  > "I love what I'm doing. If you love what you're doing you shouldn't have to motivate yourself
+  > because you won't see it as work, you'll see it as fun." [[2021-03-01-yt-669n5497uAs]]
+
+- **"A no just means not right now."** His reframe of investor rejection, from the KISSmetrics/True
+  Ventures fundraising anecdote. *(as of 2021-05-13)*
+  > "A no doesn't mean no, a no just means not right now." [[2021-05-13-yt-Ol2kGMDvX4o]]

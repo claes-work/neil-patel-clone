@@ -333,6 +333,42 @@ marketing" doctrine, and a self-critique that extends the corporate-brand belief
   > "Like when I look at neilpatel.com, I made a really big mistake. Neilpatel.com is a blog about
   > marketing and I'm competing with thousands of other marketers like me." — [[2020-06-13-yt-738TjOhTq3k]]
 
+## 2020-12 → 2021-04 solo-era content tactics — quiz funnels, homepage design & the content-time budget (@neilpatel P2, synthesis pass 10)
+
+- **The quiz-funnel design ruleset — 714,000 emails (2021-03-25, ★).** His fullest list-building
+  framework: a LeadQuizzes-built exit-intent quiz sourced 714,000 ConvertKit subscribers (~3,000/day
+  weekdays). Tested design rules: keep quizzes to 6-7 questions (both under-3 and over-10 hurt
+  opt-ins); explain *why* each question is asked to build trust; never offer a "zero effort/zero
+  budget" answer on commitment questions (it lets respondents self-select out of getting value); keep
+  the back button everywhere **except** the final pre-capture step (removing it there measurably cuts
+  abandonment); reports 80%+ completion-to-opt-in at the final step ([[2021-03-25-yt-Gr64i-ZiG68]]).
+  > "The money's in the list... I've generated a lot of emails through a quiz." — [[2021-03-25-yt-Gr64i-ZiG68]]
+- **The three-part blog-homepage template (2021-03-29).** Above-the-fold direct offer/CTA (his own
+  live site-analysis-tool demo; Legion Athletics as an e-commerce example) → a credibility/"about"
+  section → a numbered 3-4-step "getting started" pathway funneling new visitors into the
+  content/product funnel — explicitly against a homepage that's just a list of blog posts
+  ([[2021-03-29-yt-UHuz6oJ_3wE]]).
+  > "Don't make your homepage just a list of blog articles. That's not going to drive you leads and
+  > sales." — [[2021-03-29-yt-UHuz6oJ_3wE]]
+- **The 10/40/20/30 content-time-allocation breakdown (2021-04-03).** His own content-production time
+  split: 10% advanced/data-heavy content (optimized for shares/backlinks over search traffic), 40%
+  keyword-gap-driven search-intent content, 20% refreshing old content, 30% promotion — paired with a
+  named, repeatable keyword-gap ideation workflow (Ubersuggest Similar Websites + Keyword Gaps,
+  checking existing content before writing "new" posts) ([[2021-04-03-yt-7l5btHy2rxQ]]).
+- **Question-keyword content as a low-competition strategy, generalized (2021-02-08).** A Quora
+  case study (an estimated 27.7M keywords ranked positions 51-100, 4.8M in positions 1-3, almost all
+  question-phrased) generalizes to a claim that question-phrased keywords are consistently
+  lower-difficulty "on anything," demoed across four unrelated niches via Ubersuggest's Questions
+  filter ([[2021-02-08-yt-YA1AvMuMPrk]]).
+- **Depth-over-count keyword doctrine, explicit rejection of the count framing (2021-02-13).**
+  Rejects "how many keywords per post" as the wrong question in favor of topical-depth coverage,
+  reinforced with a HubSpot long-tail case study — consistent with, and sharper than, the existing
+  single-page-exhaustive-depth material in [[../seo/seo|seo]] ([[2021-02-11-yt-BuW0FAmo2Ak]]).
+- Cross-link: the **free-tool-over-content doctrine's** quantified GSC figures (14M clicks / 6,978
+  posts) and the CodeCanyon cheap-tool-sourcing tactic are recorded on [[../seo/seo|seo]]
+  (2021-02-20 / 2021-04-01) to avoid duplication — both extend the existing "tools are content
+  marketing" doctrine.
+
 ## Key source pages
 - [[2019-07-06-yt-EihqZWH6aT4]] — ★ Content-volume decision rule (writes ~4/mo; domain score <40 vs >65 → volume vs content gaps).
 - [[2019-06-24-yt-7QDNVMVF7ss]] — Storytelling framework (core message → story type → CTA; Significant Objects $129→$8k).
@@ -371,3 +407,8 @@ marketing" doctrine, and a self-critique that extends the corporate-brand belief
 - [[2017-11-18-yt-P8wWBZc978E]] — 6 tips for a great blog post ("dumbest person in the room").
 - [[2017-11-21-yt-VozfuBgjSmg]] — ★ Headline-primacy: shares driven by the headline, not the content.
 - [[2017-11-26-yt-RnwgCmcH-IU]] — Skyscraper competitor one-up outreach (10→101; 2-step linker email).
+- [[2021-02-08-yt-YA1AvMuMPrk]] — Question-keyword content generalization (Quora 27.7M/4.8M case)
+- [[2021-02-11-yt-BuW0FAmo2Ak]] — Depth-over-count keyword doctrine (HubSpot long-tail case)
+- [[2021-03-25-yt-Gr64i-ZiG68]] — ★ Quiz-funnel design ruleset (714K emails via LeadQuizzes)
+- [[2021-03-29-yt-UHuz6oJ_3wE]] — Three-part blog-homepage template (offer/credibility/getting-started)
+- [[2021-04-03-yt-7l5btHy2rxQ]] — 10/40/20/30 content-time-allocation breakdown

@@ -530,6 +530,12 @@ hiring/culture, and fundraising. Dated seeds; several carry an explicit through-
 - [[2019-07-29-yt-XPp9YaQm3WE]] — ★ Disruption doctrine quantified (Ubersuggest ~$200k/mo loss → brand queries; Slack/Mailchimp/Apple).
 - [[2019-07-27-yt-jLHAu_wjG-w]] — Disrupt-not-for-money framing (companion to the disruption doctrine; 2020 automate-SEO vision → ai-marketing/seo).
 
+### 2020-10 → 2021-05 solo-era operating principles (@neilpatel P2, synthesis pass 10)
+- [[2021-02-27-yt-4imowpDWrDg]] — 6-10x-revenue-at-breakeven SaaS exit claim.
+- [[2021-03-01-yt-669n5497uAs]] — ★ Bucharest origin-story interview (job-board-at-16; be-great-at-one-thing; SWOT sales; micro-commitments).
+- [[2021-05-10-yt-gaOXEceU6Ic]] — ★ Growth Hacking Unlocked L1 (launch; learn-from-other-founders doctrine; Bill Gates case).
+- [[2021-05-13-yt-Ol2kGMDvX4o]] — ★ Growth Hacking Unlocked L2 (KISSmetrics $16.4M/7-rounds; True Ventures anecdote).
+
 ## 2018-H2 → 2019 solo-era operating principles (@neilpatel P2)
 
 The late-2018/2019 run adds the **clearest early statement of the free-product-as-acquisition thesis**
@@ -716,3 +722,50 @@ importantly — the first time Neil puts a **hard cost** on the free-product-as-
   moment (people forget 50% within an hour, 90% within 30 days) ([[2020-04-23-yt-Kb_eZzKsdmc]]).
   > "Sales is not just about emotion. When you take people through those logical steps, it's easier
   > to get them over that hurdle." — [[2020-04-23-yt-Kb_eZzKsdmc]]
+
+## 2020-10 → 2021-05 solo-era operating principles — the Bucharest origin story, KISSmetrics fundraising & Growth Hacking Unlocked (@neilpatel P2, synthesis pass 10)
+
+The corpus's richest single origin-story interview lands in this batch, alongside the first
+detailed KISSmetrics fundraising history and the launch of a sixth named course, **Growth Hacking
+Unlocked**.
+
+- **The Bucharest (GPeC conference) origin-story interview (2021-03-01, ★).** Reconciles with, and
+  extends, the existing **Advice Monkey** job-board account in
+  [[../../../persona/biography.md|persona/biography.md]]: Neil frames the 16-year-old job-board
+  venture as pure necessity, not entrepreneurial ambition ("the only other option, you either go get
+  a job or you go make your own job"), and names a parallel failed **clothing-import** business run on
+  thin-margin Facebook ads — both reinforcing that promotion, not the underlying product, was his
+  strength. States he is **CEO of none of his companies**, including KISSmetrics, because he dislikes
+  day-to-day people-management and delegates to operator co-founders. Names the **"be great at one
+  thing, outsource/hire for the rest"** doctrine (citing Malcolm Gladwell's 10,000-hour framework), a
+  paid-diagnosis/SWOT-before-proposal sales technique for corporate buyers, and a **"micro-commitments"**
+  persuasion framework (escalating small asks toward a large one, via a dating-to-marriage analogy)
+  ([[2021-03-01-yt-669n5497uAs]]).
+  > "I love what I'm doing. If you love what you're doing you shouldn't have to motivate yourself
+  > because you won't see it as work, you'll see it as fun." — [[2021-03-01-yt-669n5497uAs]]
+- **KISSmetrics fundraising history + "a no just means not right now" (2021-05-13, ★).** Names
+  KISSmetrics as raising **$16.4 million over seven rounds** ("a little bit too many rounds"),
+  confirms it was originally a Crazy Egg spinoff, and tells the **True Ventures** anecdote: they
+  rejected his first pitched company but later invested in KISSmetrics. States Series A rounds were
+  $1-4M when he started raising, now commonly $10-20M+. Also reinforces (does not resolve) the
+  Crazy Egg co-founder identity — see the CONTRADICTION flag on
+  [[../analytics-cro/analytics-cro|analytics-cro]] ([[2021-05-13-yt-Ol2kGMDvX4o]]).
+  > "A no doesn't mean no, a no just means not right now. One of the original companies I pitched was
+  > True Ventures. They said no to my first company, and eventually they end up investing in
+  > KISSmetrics." — [[2021-05-13-yt-Ol2kGMDvX4o]]
+- **Growth Hacking Unlocked launches — "learn from other founders" doctrine (2021-05-10, ★).** A
+  sixth named free course launches. Neil's explicit self-positioning: "I don't think I know
+  everything, I don't think I'm the smartest person out there" — his authority rests on evidenced,
+  sustained work with major brands, not personal genius. Core teaching doctrine: the trait separating
+  great entrepreneurs from mediocre ones is actively learning from *other* founders' journeys, not
+  just your own mistakes — illustrated with a detailed Bill Gates/Microsoft case study and a
+  "copy-the-market-leader" tech lineage (Google modeled after Microsoft, Facebook after Google,
+  Snapchat/WhatsApp after Facebook) ([[2021-05-10-yt-gaOXEceU6Ic]]).
+  > "The big thing that I've learned over the years is[:] if you're not learning from other founders,
+  > you're missing out big time... what separates the amazing entrepreneurs and the amazing marketers
+  > [from] the ones who are just mediocre is[:] the amazing ones are learning from other people's
+  > mistakes, other people's journeys." — [[2021-05-10-yt-gaOXEceU6Ic]]
+- **The 6-10x-revenue-at-breakeven SaaS exit claim (2021-02-27).** States he has personally sold SaaS
+  companies at **6-10x annual revenue** while the business was only breakeven on profit, attributing
+  the multiple entirely to recurring-revenue predictability and private-equity leverage economics (no
+  company named) ([[2021-02-27-yt-4imowpDWrDg]]).

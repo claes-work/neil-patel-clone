@@ -4621,3 +4621,60 @@ co-founder-identity CONTRADICTION ★ (flagged above) requiring reconciliation a
 [[wiki/entities/hiten-shah]] and [[wiki/entities/crazy-egg]]. The backlink-reclamation
 tutorial and the MobileMonkey Messenger-bot material are mostly restatement/extension of
 already-promoted tactics (not flagged as new).
+
+## [2026-07-21] lint | synthesis pass 10 — @neilpatel 2020-10 → 2021-05 P2 tactical era (batches #88–#97)
+
+Stage S synthesis pass, dispatched under the roster autopilot (single agent, sequential file writes;
+no per-file sub-agents). Drained the 10 accumulated `Synthesis notes:` lines covering @neilpatel
+batches #88–#97 (log cont. 66–75, 2020-10-24 → 2021-05-13, 80 L2 sources, fully Neil-attributed
+solo run). Five named courses launch and complete end-to-end within this run — **LinkedIn
+Unlocked**, **Facebook Unlocked**, **Local SEO Unlocked**, **Email Marketing Unlocked**, **CRO
+Unlocked** — plus **Growth Hacking Unlocked** launches.
+
+Promotions (quality-over-volume; pure repeats/reinforcements dropped): **social-media** (LinkedIn
+Unlocked's five-stage B2B sales-cycle framework, the Groups 80/20 content-mix rule, and the
+course-closing 8-12-day webinar countdown-sequencing framework ★; Facebook Unlocked's News-Feed-
+algorithm mechanism and the course-closing five-rules brand-growth framework + two-ad blog-then-
+retarget funnel model ★; the Messenger-marketing decline → push-notification pivot ⚠️ dated; the
+Gary Vaynerchuk style-contrast quote), **seo** (the full Local SEO Unlocked playbook ★ — proximity/
+relevance/prominence triad, the local-reviews-matter-more-than-national thesis, the Google Guarantee
+tactic; the exact-match-domain CTR-suppression mechanism; the Wikipedia/company-name content-gap
+tactic via Clutch; the first-24-hours-promotion-drives-YouTube-ranking mechanism ★ + say-the-
+keyword-aloud tactic; the sitewide cornerstone-sidebar linking hack proven across 13 keywords; the
+rank-vs-traffic decoupling + SERP-overlay workflow; the free-tool-over-content doctrine quantified
+with GSC figures; the CodeCanyon link-magnet sourcing tactic; the 21:1 content-refresh ratio),
+**content-marketing** (the quiz-funnel design ruleset ★ — 714,000 emails via LeadQuizzes; the
+three-part blog-homepage template; the 10/40/20/30 content-time-allocation breakdown; the
+question-keyword-content-strategy generalization; the depth-over-count keyword doctrine),
+**email-marketing** (the full Email Marketing Unlocked course ★ — Exit-Intent/social-login/wording
+lift figures, the Nutrition Secrets quiz case, the 98/2 educational-to-promotional ratio, the
+four-non-opens suppression rule, Gmail-inbox-ads retargeting, the 760%-segmentation-revenue stat, the
+four-stage webinar sequence), **analytics-cro** (the full CRO Unlocked course ★ — the
+traffic×conversion-rate formula, the Skincare-by-Alana and Atlanta-wholesaler case studies, the
+one-test-per-funnel-step iteration rule, conditional yes/no exit-intent, the first appearance of
+Porter's Five Forces / PEST / SWOT ★, the Bezos/Zuckerberg iteration-quote pairing), **paid-ads**
+(the Gmail-inbox-ads email-retargeting tactic; the SaaS pricing-page A/B results + the Spiralize
+competitor-agency recommendation), **agency-entrepreneurship** (the Bucharest/GPeC origin-story
+interview ★ — the job-board-at-16 necessity reframing, the parallel clothing-import failure, the
+"be great at one thing, outsource the rest" doctrine, the paid-diagnosis/SWOT sales technique, the
+micro-commitments persuasion framework; the KISSmetrics $16.4M/seven-rounds fundraising history ★ +
+the True Ventures rejected-then-invested anecdote ★; Growth Hacking Unlocked's "learn from other
+founders" doctrine ★; the 6-10x-revenue-at-breakeven SaaS exit claim).
+
+**New CONTRADICTION flagged, not reconciled (★):** two sources in this batch
+([[wiki/sources/2021-04-26-yt-E_CyyiRXH0U]], [[wiki/sources/2021-05-13-yt-Ol2kGMDvX4o]]) have Neil
+identify his Crazy Egg co-founder as his **brother-in-law**, "now the full owner" of Crazy Egg
+together with his sister — in tension with the well-documented, independently-reported **Hiten Shah**
+co-founder narrative. Recorded, not smoothed, on [[wiki/entities/crazy-egg]],
+[[wiki/entities/hiten-shah]], and `persona/biography.md`.
+
+Persona: **beliefs.md** (81→83 sources; "learn from other founders, not just your own mistakes",
+"be great at one thing, outsource the rest"), **voice.md** (55→57 sources; the Gary Vee style-
+contrast quote, "I'm not the smartest person out there", "a no just means not right now"),
+**biography.md** (49→51 sources; the Bucharest origin-story reframing, the KISSmetrics fundraising
+detail, the Crazy Egg co-founder CONTRADICTION). Recompiled **system-prompt.md v10 → v11**
+(compiled_from_sources 693 → 773). Advanced the high-water mark in `pipeline/synthesis-state.md` to
+batch #97 (2021-05-13); no pending checkpoints remain. `index.md` updated for all six touched topic
+hubs plus the four persona-page entries. System-prompt version at pass end: **v11**.
+
+Synthesis notes: none (debt fully drained this pass).

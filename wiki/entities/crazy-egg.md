@@ -24,6 +24,19 @@ his long-running business partner.
 > Some loose bios wrongly say "his first company in 2008" (that conflates it with
 > [[kissmetrics]]). Best reading: **conceived ~2005, launched ~2006.**
 
+> ⚠️ CONTRADICTION — co-founder identity: in two 2021-04/05 sources (CRO Unlocked and Growth
+> Hacking Unlocked, part of the @neilpatel P2 corpus), Neil identifies his Crazy Egg
+> co-founder as his **brother-in-law**, "now the full owner" of Crazy Egg together with his
+> sister ([[../sources/2021-04-26-yt-E_CyyiRXH0U]], [[../sources/2021-05-13-yt-Ol2kGMDvX4o]]).
+> This sits in tension with the well-documented, independently-reported **Hiten Shah**
+> co-founder narrative above. A brother-in-law business partner is separately established
+> elsewhere in the wiki ([[../sources/2018-11-24-yt-_TmX1PcjIhk]]: "one of my business
+> partners"), but these 2021 sources are the first to name him as *the* Crazy Egg co-founder
+> specifically and as its current full owner. Possible readings: (a) Hiten Shah co-founded
+> Crazy Egg with Neil and a separate brother-in-law later became a partner/owner who bought
+> Neil and/or Shah out; (b) genuine inconsistency in Neil's self-reported account. Not
+> reconciled — both self-reported claims are recorded as-is, not smoothed together.
+
 ## Product
 
 Heatmap/scrollmap/confetti reporting so site owners can see where visitors click and how far

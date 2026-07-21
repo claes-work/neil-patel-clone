@@ -184,6 +184,46 @@ won't buy on the first visit and email beats remarketing for winning non-buyers 
   emails; a one-time visitor who hasn't returned in 30 days gets trust-building/educational content
   instead — an explicit lifecycle-stage segmentation rule ([[2019-12-21-yt-qUtZS7rKbnE]]).
 
+## 2021-01 → 2021-02 Email Marketing Unlocked (@neilpatel P2, synthesis pass 10)
+
+The corpus's fullest, most quantified email-marketing course — six lessons, launched and completed
+within six weeks, replacing prior fragmentary email tactics with a structured playbook.
+
+- **List-building lift figures + the Nutrition Secrets quiz case (2021-01-28).** A cluster of
+  previously-unlogged conversion-lift figures for opt-in mechanics: **Exit Intent popups +50.3%**
+  emails collected; **social login (Google/Facebook sign-in) +59.4%**; changing CTA wording from
+  "sign up" to "login" **+22%**. Quizzes are the top performer — the **Nutrition Secrets** branching
+  quiz drove a **108%** lift in email capture and a **210%** sales increase from the resulting leads;
+  a Quicksprout webinar funnel saw 42% registration / 8.5% close ([[2021-01-28-yt-dG-6A8_R_MY]]).
+  Cross-link the quiz-funnel design ruleset on [[../content-marketing/content-marketing|content-marketing]].
+- **Autoresponder/broadcast/campaign taxonomy + $38 email ROI (2021-01-30).** Distinguishes
+  autoresponders (list-membership-triggered) from broadcasts (unplanned one-offs) from campaigns
+  (stackable sequences — one educates, the next sells); cites a **$38-return-per-$1-spent** average
+  email ROI, and sharpens the existing "dating, not marriage-proposal" welcome-sequence framing to a
+  specific **14-15-day** nurture window before asking for a purchase
+  ([[2021-01-30-yt-S4HcIG1lv2w]]).
+  > "You don't ask someone to marry you right away — you date them first, and then you ask them to
+  > convert into a customer." — [[2021-01-30-yt-S4HcIG1lv2w]]
+- **The 98/2 educational-to-promotional ratio + ~50% cart-abandonment baseline + plain-text preference
+  (2021-02-01, ★).** Self-reports a personal email ratio sharper than the standard 80/20 rule —
+  **98% educational, 2% promotional** — plus a ~50% cart-abandonment baseline and an explicit stated
+  preference for plain-text over image-heavy HTML emails (better deliverability, more personal feel,
+  higher clicks in his own experience) ([[2021-02-01-yt-nhfs2dyx9Cg]]).
+  > "I'm probably more like a 98/2 [ratio] where 98% of my emails are educational, maybe 2% sell — but
+  > that model's really worked out for me because it also helps build trust." — [[2021-02-01-yt-nhfs2dyx9Cg]]
+- **Predictive modeling + the four-non-opens suppression rule + Gmail-ads retargeting (2021-02-04).**
+  ~20% of new purchases come from re-emailing his past-buyers list ("I really treat that list like
+  it's gold"); a personal deliverability rule — stop emailing a contact after **four consecutive
+  non-opens**, since continuing degrades inbox-provider deliverability for the whole list; and his
+  favorite email tactic, **email-marketing retargeting** (remarketing banner ads — including ads
+  inside the Gmail inbox itself — to people who opened an email) ([[2021-02-04-yt-LqFX-81m2Qk]]).
+  Cross-link [[../paid-ads/paid-ads|paid-ads]].
+- **Course completion — segmentation-760% + the four-stage webinar sequence (2021-02-06, ★).**
+  **COMPLETES** Email Marketing Unlocked: cites that marketers who segment their lists see a **760%**
+  revenue increase and that 78% of marketers saw email engagement rise over the prior year; lays out
+  a four-stage, 3-days-per-stage webinar email sequence (invite → replay offer → offer → countdown)
+  as the recommended B2B/B2C nurture flow ([[2021-02-06-yt--dosxMP3lhE]]).
+
 ## Key source pages
 - [[2019-01-19-yt-QJUIk3qhQ-w]] — First-hour email + push blast (Hello Bar + Subscribers) to spike virality.
 - [[2019-02-14-yt-gCJgHbjXWec]] — 7 free social tools; ManyChat 60%+ open/30–50% CTR beats email (dated).
@@ -203,3 +243,9 @@ won't buy on the first visit and email beats remarketing for winning non-buyers 
 - [[2017-10-01-yt-GAfvXdWt3a8]] — Sell more to existing customers (upsells/downsells, automation, new products).
 - [[2017-10-07-yt-E5UZug6310g]] — Double open rates (sender-name / casual lowercase subject / personalize / test).
 - [[2017-10-18-yt-cio1MNOYiaw]] — Email click-through hacks (story, 2–3 links, casual anchor text).
+- [[2021-01-25-yt-Gxd4NeKQg58]] — Email Marketing Unlocked L1 (launch; zero→50k subscriber cadences)
+- [[2021-01-28-yt-dG-6A8_R_MY]] — Email Marketing Unlocked L2 (Exit Intent/social-login lift figures)
+- [[2021-01-30-yt-S4HcIG1lv2w]] — Email Marketing Unlocked L3 (autoresponder taxonomy; $38 ROI)
+- [[2021-02-01-yt-nhfs2dyx9Cg]] — ★ Email Marketing Unlocked L4 (98/2 ratio; plain-text preference)
+- [[2021-02-04-yt-LqFX-81m2Qk]] — Email Marketing Unlocked L5 (4-non-opens rule; Gmail-ads retargeting)
+- [[2021-02-06-yt--dosxMP3lhE]] — ★ Email Marketing Unlocked L6, COMPLETES (760% segmentation stat)

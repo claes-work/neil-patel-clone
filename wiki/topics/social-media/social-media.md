@@ -463,6 +463,58 @@ Vaynerchuk's engagement tactics.
   with specs — a channel-specific messaging adaptation, not a contradiction of the general doctrine
   ([[2020-07-09-yt-hNTezOCVWNQ]]).
 
+## 2020-10 → 2021-01 LinkedIn Unlocked & Facebook Unlocked courses (@neilpatel P2, synthesis pass 10)
+
+Two full six-lesson courses launch and complete back-to-back — the corpus's first dedicated
+LinkedIn and Facebook playbooks at this depth.
+
+- **LinkedIn Unlocked (2020-10-26 → 11-07, ★, course complete).** Six lessons: platform-scale framing
+  (~675M users, ~260M MAU, but only ~1% of active users share content weekly — "becoming an active
+  sharer faces comparatively little competition") ([[2020-10-26-yt-d_7GbF-12CI]]); profile-optimization
+  checklist ([[2020-10-29-yt-TJnmoiL4_h8]]); a **five-stage B2B sales-cycle framework** — lead → discovery
+  call → strategic plan/presentation → decision meeting → close, with a per-stage rep/prospect
+  goal/homework pair, cycles commonly 90–120 days, paired with LinkedIn Sales Navigator prospecting
+  ([[2020-10-31-yt-fuPxKEp9xKE]]); strategic alliances (reinforcing the Brazil/India international-
+  expansion origin story); the **Groups 80/20 content-mix rule** (join ≥10 groups, interact with ≥5/day,
+  80% others'-content / 20% self-promotion) plus a "sponsor only organically-proven content" ad-testing
+  rule ([[2020-11-05-yt-5N4x7g2x2g4]]); and the course-closing **8–12-day webinar countdown-sequencing
+  framework** — invite (~3 days) → replay (~3 days) → offer → countdown, with the countdown period
+  alone claimed to drive roughly half of total webinar sales ([[2020-11-07-yt-hGr4GMT62D4]]).
+  > "Don't think of your LinkedIn profile as something that you have to maintain. Think of it as an
+  > asset that you want to grow, scale, and continue to leverage." — [[2020-11-07-yt-hGr4GMT62D4]]
+- **Facebook Unlocked (2020-12-21 → 2021-01-09, ★, course complete).** Six lessons: platform-history
+  primer + 0→200k-follower course premise ([[2020-12-21-yt-LInnulL_6is]]); a Facebook-specific
+  content-type checklist (how-to, stats, news, case studies, checklists, Q&A, roundups, quotes,
+  vlogs, live/webinars) with a $400K/10-livestream client case ([[2020-12-28-yt-QyJziMOSN_8]]); the
+  **News-Feed-algorithm mechanism** — reach is gated first by whether your *existing* follower base
+  engages, not by a post's broader appeal — paired with a native-posting-over-scheduling-apps
+  rationale (Facebook deprioritizes off-platform links) ([[2021-01-04-yt-RpVx_sLP9os]]); and the
+  course-closing **five-rules brand-growth framework** — (1) set goals/budget before spending, (2) map
+  the sales process stranger→customer, (3) test everything and double down on winners, (4) target
+  audiences per buying-cycle stage, (5) patience/relationship-building (his "asking a stranger to
+  marry you" analogy for expecting instant conversions) — plus a **two-ad blog-then-retarget funnel
+  model** (cold traffic → blog post → Facebook retargeting → landing/sales page) claimed cheaper per-
+  acquisition than sending cold traffic straight to a sales page ([[2021-01-09-yt-NWMkd58lxSQ]]).
+  > "It's like asking a random person to just marry you — they're going to say no. And that's why you
+  > need to get to know people and build that relationship." — [[2021-01-09-yt-NWMkd58lxSQ]]
+- **Instagram engagement-rate-over-followers algorithm doctrine + live-video growth tactic
+  (2021-02-22).** A conference-format restatement of the algorithm-as-engagement doctrine, with a
+  live-video cross-audience growth tactic added; the unnamed interviewer's own follower stats are
+  excluded from persona attribution ([[2021-02-22-yt-ahPVHMHyhqE]]).
+- **Messenger-marketing decline → push-notification pivot (2021-02-27, ⚠️ dated).** Neil states
+  Messenger click-through/conversion performance had been declining for the prior 6–12 months, so he
+  shifted to push notifications served from HTTPS squeeze pages — the corpus's first explicit
+  Messenger-marketing *reversal*, dated against the still-enthusiastic MobileMonkey endorsement
+  repeated as late as [[2021-05-06-yt-1Zr35pNe9-0]] (CRO Unlocked) ([[2021-02-27-yt-4imowpDWrDg]]).
+  > "It's all churn and burn and I don't understand why." — [[2021-02-27-yt-4imowpDWrDg]]
+- **The Gary Vaynerchuk style-contrast (2021-04-05, voice signal).** On a personal-branding checklist
+  video, Neil draws an explicit first-person contrast with Gary Vaynerchuk's on-camera style — the
+  first time in the corpus he frames the difference rather than just crediting a shared tactic (see
+  the 2020-09-24 Gary Vaynerchuk engagement-tactic credit above).
+  > "I'm not Gary Vee, you know, Gary's awesome, love his content, but I don't try to create content
+  > like him because I'm not him, I try to do what's me." — [[2021-04-05-yt-kBUJ1lPUi8E]]
+  Cross-link [[../../../persona/voice.md|persona/voice.md]].
+
 ## Key source pages
 - [[2018-10-04-yt-5dyn03RSWVA]] — Post to Facebook natively (schedulers cut reach 2–3×); monthly reporting.
 - [[2018-12-08-yt-dDDpdAnb_Es]] — Instagram weak for B2B; pick channels that fit; don't chase Insta-famous.
@@ -514,3 +566,18 @@ Vaynerchuk's engagement tactics.
 - [[2017-11-09-yt-f9yGqZeYLQw]] — Best time to post on Facebook (Insights + A/B windows) — dated
 - [[2017-11-10-yt-oTbX-3iknII]] — LinkedIn posting times (B2B 9-5 audience TZ) — dated
 - [[2017-11-11-yt-6HVvHIwqYu4]] — Instagram posting times (Iconosquare; audience behavior) — dated
+- [[2020-10-26-yt-d_7GbF-12CI]] — LinkedIn Unlocked L1 (launch; 1%-of-users-share-content framing)
+- [[2020-10-29-yt-TJnmoiL4_h8]] — LinkedIn Unlocked L2 (profile-optimization checklist)
+- [[2020-10-31-yt-fuPxKEp9xKE]] — LinkedIn Unlocked L3 (five-stage B2B sales-cycle framework)
+- [[2020-11-02-yt-a3MLOWzC9yk]] — LinkedIn Unlocked L4 (strategic alliances)
+- [[2020-11-05-yt-5N4x7g2x2g4]] — LinkedIn Unlocked L5 (Groups 80/20 rule; LinkedIn Ads survey)
+- [[2020-11-07-yt-hGr4GMT62D4]] — LinkedIn Unlocked L6, COMPLETES (webinar 8-12-day countdown framework)
+- [[2020-12-21-yt-LInnulL_6is]] — Facebook Unlocked L1 (launch; platform-history primer)
+- [[2020-12-24-yt-g5UXuPp62VQ]] — Facebook Unlocked L2 (pages/groups setup)
+- [[2020-12-28-yt-QyJziMOSN_8]] — Facebook Unlocked L3 (content-type checklist; $400K livestream case)
+- [[2021-01-04-yt-RpVx_sLP9os]] — Facebook Unlocked L4 (News-Feed-algorithm mechanism)
+- [[2021-01-07-yt-IuS6CO14e1s]] — Facebook Unlocked L5 (ad auction/targeting)
+- [[2021-01-09-yt-NWMkd58lxSQ]] — Facebook Unlocked L6, COMPLETES (five-rules framework; two-ad funnel)
+- [[2021-02-22-yt-ahPVHMHyhqE]] — Instagram engagement-rate-over-followers doctrine; live-video tactic
+- [[2021-02-27-yt-4imowpDWrDg]] — Messenger-marketing decline → push-notification pivot ⚠️ dated
+- [[2021-04-05-yt-kBUJ1lPUi8E]] — Gary Vaynerchuk style-contrast ("I try to do what's me")
