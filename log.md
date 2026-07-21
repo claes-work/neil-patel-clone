@@ -3973,3 +3973,34 @@ adaptation), not a contradiction. No contradictions found vs. existing wiki. Thi
 the second course launched in this batch (after "SEO Unlocked" completed at batch #59)
 — not a channel/era boundary in the checkpoint-synthesis sense; ingest batches since
 last synthesis now at 5/10 per the driver, so continuing @neilpatel P2 next iteration.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2020-07-11→07-27, eCommerce Unlocked course COMPLETES + Content Marketing Unlocked course launches, cont. 61)
+Batch of 8, all P2, all OK (no captions failures, no rate-limiting). Completed the
+**eCommerce Unlocked** course backlog: B2B sales process + LinkedIn/Sales Navigator
+outreach ([[wiki/sources/2020-07-11-yt-4G9o-aQqjSE]]); Google/Bing Shopping Ads + FB/IG
+dynamic product ads + remarketing ([[wiki/sources/2020-07-13-yt-eoCSHaLawmI]]); email as
+top-converting channel + seasonal-spend stats + YouTube/Instagram/Etsy ads
+([[wiki/sources/2020-07-16-yt-NOUG_wCgrEI]]); and the course-completion wrap-up ★
+([[wiki/sources/2020-07-18-yt-u3UjgzlkTzg]] — note: YouTube title says "21 eCommerce Case
+Studies" but actual content is the course finale: Marcus Aurelius quote, a Richard
+Branson "team not founder" anecdote, and "I don't take holidays / don't count hours"
+self-description — genuinely new voice/mindset material). Then three solo SEO tactical
+videos (Ubersuggest keyword-research methodology
+[[wiki/sources/2020-07-20-yt-3mDauNkvK7I]]; Site Audit / on-page SEO walkthrough with
+the "100 score is a red flag" heuristic [[wiki/sources/2020-07-23-yt-QpLBzNrzj4c]];
+competitor content-gap-analysis + backlink outreach playbook
+[[wiki/sources/2020-07-25-yt-CaPRbcxUGeE]]), followed by the launch of the
+**Content Marketing Unlocked** course ([[wiki/sources/2020-07-27-yt-9_rULUbLqE4]] —
+Larry Page / Bill Gates framing quotes, Timothy Sykes + Gawker Media self-reported case
+studies, reinforces the self-reported-award/figure caution from SUBJECT.md).
+youtube-index.md footer bumped to 661; index.md count bumped to match.
+
+**Synthesis notes:** the ★-flagged course-completion lesson
+([[wiki/sources/2020-07-18-yt-u3UjgzlkTzg]]) adds genuinely new persona/voice.md and
+persona/beliefs.md material — the Marcus Aurelius quote, the Branson
+team-not-founder anecdote, and the "I don't take holidays" self-description — not yet
+reflected in persona/. Two course boundaries crossed in one batch (eCommerce Unlocked
+COMPLETES; Content Marketing Unlocked STARTS) — a sub-era checkpoint, not a
+full-channel completion, so not itself a driver-triggered `>>> CHECKPOINT`. Ingest
+batches since last synthesis now at 6/10 per the driver; continuing @neilpatel P2 next
+iteration.
