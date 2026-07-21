@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-21 (@neilpatel batch — 8 P2 long-form L2, 2020-10-24->11-09, cont. 66: link-building-outreach solo tutorial + the full LinkedIn Unlocked course launch-through-COMPLETES (six lessons: profile optimization, B2B sales-cycle framework, strategic alliances, marketing/ads/groups, webinar-countdown sequencing) + a "what is/how" competitive-keyword content tutorial; 701 videos L2. Full change history: see log.md (append-only) and pipeline/synthesis-state.md for synthesis-pass detail; this header now tracks only the latest batch to avoid unbounded growth.)_
+_Last updated: 2026-07-21 (@neilpatel batch — 8 P2 long-form L2, 2020-11-12->11-28, cont. 67: an Ubersuggest keyword-research tutorial + a Site Audit/on-page tutorial + the full Local SEO Unlocked course launch-through-COMPLETES (six lessons: GMB/Bing Places/Facebook/Apple Maps setup, proximity-relevance-prominence, content workflow with E-A-T, schema markup, voice search, review-dependency thesis); 709 videos L2. Full change history: see log.md (append-only) and pipeline/synthesis-state.md for synthesis-pass detail; this header now tracks only the latest batch to avoid unbounded growth.)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life/career timeline (England → Orange County → Crazy Egg/KISSmetrics → NP Digital → Ubersuggest → Marketing School), registry/court-verified vs self-reported marked per claim.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe.
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 701 videos ingested (L2).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 709 videos ingested (L2).
 
 ## Topics
 

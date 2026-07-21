@@ -714,6 +714,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2020-11-05 — [Marketing On LinkedIn - Module 2 - Lesson 2 - LinkedIn Unlocked (Calendly outreach lift; Groups 80/20 content-mix rule; LinkedIn Ads format survey)](2020-11-05-yt-5N4x7g2x2g4.md) — social-media, paid-ads
 - 2020-11-07 — [Advanced LinkedIn Tactics - Module 2 - Lesson 3 - LinkedIn Unlocked (COMPLETES the course; webinar 8-12-day countdown sequence ★; Beats by Dre anecdote)](2020-11-07-yt-hGr4GMT62D4.md) ★ — social-media, analytics-cro
 - 2020-11-09 — [An Easy Way to Rank For Competitive Keywords (Without Being a Professional SEO) ("what is"/"how" informational-content pattern; Nextiva conversion-mechanics case study)](2020-11-09-yt-p1te4WYipVk.md) — seo
+- 2020-11-12 — [An Easy Way to Find More Keywords (Without Spending Lots of Time or Using a Ton of Tools) (Ubersuggest keyword-research workflow; competitor-URL mining, Nextiva example)](2020-11-12-yt-LwRRLh960Xw.md) — seo
+- 2020-11-14 — [How to Optimize For Google's 200 Ranking Factors (Ubersuggest Site Audit walkthrough; optimize-for-80-not-100 SEO-score heuristic)](2020-11-14-yt-WgAjHAnrGqU.md) — seo
+- 2020-11-16 — [Welcome to my FREE Local SEO Course - Module 1 - Lesson 1 - Local SEO Unlocked (course launch; local-by-the-numbers stats; ranking-signal categories)](2020-11-16-yt-c-h3GxHofcA.md) — seo
+- 2020-11-19 — [Local SEO Signals (And How to Master Them) - Module 1 - Lesson 2 - Local SEO Unlocked (GMB category selection; Podium review tool; Yum Brands/KFC/Whole Foods case studies)](2020-11-19-yt-F7vbg3wskZk.md) — seo
+- 2020-11-21 — [How to OWN Google My Business Rankings - Module 1 - Lesson 3 - Local SEO Unlocked (GMB/Bing Places/Facebook/Apple Maps setup walkthroughs)](2020-11-21-yt-cgifDKJZaZU.md) — seo
+- 2020-11-23 — [How to Create Content That Ranks in Local Areas - Module 2 - Lesson 1 - Local SEO Unlocked (local keyword modifiers; content workflow; E-A-T discipline)](2020-11-23-yt-RXE1uqN3qzQ.md) — seo, content-marketing
+- 2020-11-26 — [The Easy Way to Rank Local Websites - Module 2 - Lesson 2 - Local SEO Unlocked (proximity/relevance/prominence; schema markup; voice search)](2020-11-26-yt-8PKEi1denlQ.md) — seo
+- 2020-11-28 — [The Secret Local SEO Recipe - Module 2 - Lesson 3 - Local SEO Unlocked (COMPLETES the course; near-me stats; review-dependency thesis; Google Guarantee; citations)](2020-11-28-yt-00ntiTMDyNU.md) ★ — seo
 
 ---
-_701 videos ingested (L2) so far._
+_709 videos ingested (L2) so far._

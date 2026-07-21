@@ -4269,3 +4269,42 @@ at this depth. Candidates for the next synthesis pass: the five-stage B2B sales-
 sales sequencing framework (a new email-marketing/analytics-cro-adjacent claim) ★; the Groups 80/20
 content-mix rule; the volunteering-with-wife → organic-business biography anecdote. Reinforcement-
 only, not new: the Brazil/India alliance-based international-expansion model (already recorded).
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2020-11-12→11-28, Ubersuggest keyword-research + Site Audit tutorials + full Local SEO Unlocked course launch-through-COMPLETES, cont. 67)
+
+Stage B ingest batch, 8 videos → L2, all @neilpatel solo (no other speakers; fully Neil-attributed).
+Dispatched under the roster autopilot — all 8 source pages written directly, sequentially, one after
+another (collapsed-nesting rule; no per-video subagents). Ledger rows set to L2 with domains/notes;
+`wiki/sources/youtube-index.md` updated in date order (701→709, footer bumped); `index.md` source
+count and header bumped to match.
+
+**Coverage**: [[wiki/sources/2020-11-12-yt-LwRRLh960Xw]] (Ubersuggest keyword-research workflow via
+Google-search overlay + competitor-URL mining, Nextiva example) and
+[[wiki/sources/2020-11-14-yt-WgAjHAnrGqU]] (Ubersuggest Site Audit walkthrough; "optimize for 80, not
+100" SEO-score heuristic; the ~2,200-word page-one-average figure) open the batch, followed by the
+complete six-lesson **Local SEO Unlocked** course launched and finished within this batch:
+[[wiki/sources/2020-11-16-yt-c-h3GxHofcA]] (Module 1 Lesson 1, course launch + "local by the numbers"
+stats + ranking-signal categories + an origin-story recap, reinforcement only), [[wiki/sources/2020-11-19-yt-F7vbg3wskZk]]
+(Module 1 Lesson 2, GMB category-selection discipline + the Podium review-tool endorsement +
+no-incentivized-reviews compliance caution + Yum Brands/KFC/Whole Foods case studies), [[wiki/sources/2020-11-21-yt-cgifDKJZaZU]]
+(Module 1 Lesson 3, step-by-step GMB/Bing Places/Facebook/Apple Maps setup walkthroughs, closing with
+a hustle aphorism), [[wiki/sources/2020-11-23-yt-RXE1uqN3qzQ]] (Module 2 Lesson 1, local keyword-
+modifier taxonomy + a content-creation workflow built around Google's E-A-T discipline), [[wiki/sources/2020-11-26-yt-8PKEi1denlQ]]
+(Module 2 Lesson 2, the proximity/relevance/prominence local-ranking triad + a Tiffany & Co. local-page-
+depth example + schema markup + voice search), and [[wiki/sources/2020-11-28-yt-00ntiTMDyNU]] (Module
+2 Lesson 3, **COMPLETES the course** ★: near-me search-growth stats, the local-reviews-matter-more-
+than-national thesis, an explicit no-paid-reviews/no-astroturfing stance, the Google Guarantee program,
+citations defined).
+
+No captions issues, no rate-limiting (8/8 fetched clean on the first attempt). Ledger open long-form
+after batch: **@neilpatel P2:517 P3:21**, **@MarketingSchoolPod P2:731 P3:28** (unchanged, not this
+batch's channel). Ingest batches since last synthesis: 2 (checkpoint at 10).
+
+Synthesis notes: the full **Local SEO Unlocked** course (6 lessons) is a landmark-scale, genuinely new
+addition to the **seo** domain at playbook depth — the corpus previously had only a single local-SEO
+video, not a dedicated course. Candidates for the next synthesis pass: the proximity/relevance/
+prominence local-ranking triad ★; the local-reviews-matter-more-than-national thesis + explicit
+no-paid-reviews stance ★; the Google Guarantee program tactic ★; the Podium review-tool endorsement;
+the GMB/Bing Places/Facebook/Apple Maps multi-platform-listing playbook. Reinforcement-only, not new:
+the "picking up trash at a theme park" origin-story detail (already recorded); the E-A-T
+anti-fabrication framing (already recorded from synthesis pass 8).
