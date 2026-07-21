@@ -4788,3 +4788,30 @@ self-disclosure + first-livestream Starbucks story (voice.md/biography.md), (8) 
 Eric-Siu/Restream tool-adoption story (biography.md, cross-link eric-siu entity), (9) the
 hair-extensions livestream-frequency case study (social-media.md). None promoted inline;
 debt now 3/10 batches since synthesis pass 10.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2021-07-15→07-31 solo/interview tactical era, cont. 79)
+8 P2 long-form videos, all Neil-attributed (three solo Ubersuggest/platform tutorials,
+five interviews with UK/AWAI/growth-hacking/"Dan"-hosted hosts). One title/date mismatch
+flagged (Dv-44E0lPog, "2023" title, content dated ~2020-12-29/30 by internal references).
+No captions issues, no dupes, no rate-limiting. Domains touched: seo, agency-
+entrepreneurship, content-marketing, social-media, paid-ads, email-marketing,
+ai-marketing.
+
+Synthesis notes: (1) personal-brand-liability doctrine extended with the Tony
+Robbins/LeBron/key-man-syndrome argument + the NP Digital rename origin + a new
+ad-spend-return-by-maturity framework + the ACS-agency/2008-financial-crisis bio detail
+(xCiwfnFR8os, ★ — agency-entrepreneurship, biography), (2) the "Who is Neil Patel?"
+campaign retold with quantified figures ($50-60K spend / >$100K/mo PPC savings) and a
+notably unapologetic tone versus the existing 2018-05-29 apology source — tone
+divergence flagged for a synthesis-pass note, not a factual contradiction
+(SiPvYXsiA_s, ★ — agency-entrepreneurship, seo), (3) a humanizing toothbrush-parenting
+growth-hacking anecdote + India SMS-cost-inversion/Jio case study (Tbja-0mTkjw, ★ —
+voice/appearance, paid-ads), (4) an explicit politics/religion-avoidance stance with a
+named realtor case study (~$100K commissions lost) + a small/local-outlet-over-Forbes
+earned-media strategy (FbBVrn_zaUk, ★ — agency-entrepreneurship, social-media), (5) new
+Marketing School backstory: Eric Siu tested longer-form episodes before the 5-minute
+bite-size format won out (eyZyIZeu7D4 — content-marketing), (6) a concrete non-Google/
+Facebook paid-platform ROI ranking (Taboola/Outbrain > Snap > TikTok > Pinterest >
+LinkedIn) + a new $1.5-2M/mo avoided-ad-spend figure for the free-tool doctrine
+(O6-PxcW1dZ4 — paid-ads). None promoted inline; debt now 4/10 batches since synthesis
+pass 10.
