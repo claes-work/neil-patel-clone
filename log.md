@@ -5901,3 +5901,43 @@ than new topic-page sections.
 
 9 ingest batches accumulated since synthesis pass 12 (checkpoint at 10) — not yet due; next
 iteration will likely hit the Stage S checkpoint after one more P2 batch.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2022-11-26→12-12, solo tactical era, cont. 105)
+
+Batch of 8 @neilpatel P2 long-form videos, all captions ok, no rate-limiting (0/8
+failures). All eight are solo, Neil-fronted tactical/listicle videos (no guests, no
+attribution questions) closing the 2022-11-26 → 2022-12-12 window:
+
+- 2022-11-26 How I Stay Ahead of Google Algorithm Updates (yt-WB1BqzKVbjw) — seo
+- 2022-11-28 The Secret to Getting a 30% Email Open Rate (yt-_ONqoc1RtN8) — email-marketing
+- 2022-12-01 5 Hacks for Small Businesses to Outrank Larger Ones (yt-Ux_t28VygbQ) — seo, social-media
+- 2022-12-03 The Easiest SEO Strategy I've Ever Used (yt-O_2fJqmcQAA) ★ — seo, ai-marketing
+- 2022-12-05 The One Growth Strategy You Can't Overlook [SMS marketing] (yt-lgwRiOVOJkQ) — email-marketing
+- 2022-12-08 How to Get More Social Engagement When Reach is Declining (yt-AXPtkSMou-s) — social-media
+- 2022-12-10 How My Webinars Generate 1038 Leads A Month (yt-DjXRQo4K8ss) — content-marketing, agency-entrepreneurship
+- 2022-12-12 How To Future Proof Your SEO Against Google's Next Update (yt-E6j_D4WQ1r4) — seo
+
+Corpus now at 1010 L2 sources.
+
+Synthesis notes: (1) "The Easiest SEO Strategy I've Ever Used" (O_2fJqmcQAA, ★) is a
+dated (2022-12-03) self-reported AI-adoption stance — "I leverage AI" for keyword/topic/
+meta-tag ideation, explicitly human-in-the-loop ("doesn't mean you should get rid of
+every single human on your content marketing team") — a useful early data point predating
+the heavier 2025-26 ai-marketing/ material and worth a timeline entry showing the stance
+has been consistent since at least late 2022. (2) The Eric Schmidt "brands are the
+solution, not the problem" quote and the "rule of seven" framing in the 2022-12-01 small-
+business SEO hacks video (Ux_t28VygbQ) repeat the same brand-loyalty framework already
+flagged from the 2022-11-21 source — reinforcing, not new; fold as an additional citation
+on the existing rule-of-seven belief rather than a new entry. (3) The SMS-marketing video
+(lgwRiOVOJkQ) adds a concrete, self-reported staged-discount drip-sequence tactic (5% at
+signup / 10% after 3 weeks / 20% after 2 months) that is more specific than existing
+email-marketing/ drip-campaign coverage — worth a line if the topic page covers drip
+sequencing. (4) The webinar video (DjXRQo4K8ss) names two specific past co-webinar
+partners (BigCommerce, WP Engine) and a concrete five-touch reminder cadence — a fresh,
+citable tactical detail, not previously captured. (5) The remaining three (algorithm-
+update tracking, organic-reach-decline tactics, future-proof-SEO/UX-first stance) reinforce
+existing seo/ and social-media/ coverage with fresh supporting stats (HubSpot UX stats,
+Georgia Tech face-photo study, HTTP Archive page-weight stat) but no new frameworks.
+
+10 ingest batches accumulated since synthesis pass 12 — checkpoint reached. Next iteration
+should run Stage S (synthesis pass 13) before further ingest.

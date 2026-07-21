@@ -1015,6 +1015,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2022-11-17 — [How I grew my email subscriber list to 873,049 subscribers (Ubersuggest free-tool funnel; opt-in 0.1%-unsubscribe stat; partnerships, contests)](2022-11-17-yt-wK6tPoH17JI.md) — email-marketing
 - 2022-11-19 — [SEO Expert Reveals: The Easiest Way To Explode Your Blog Traffic (Quora-as-proof-of-concept; AnswerThePublic 7-step workflow; question-search volume stats)](2022-11-19-yt-fFO__qaxnfA.md) — content-marketing, seo
 - 2022-11-21 — [Why I Focus on Social Media Marketing Over SEO (instant-feedback-loop rationale; Google SVP TikTok-vs-Search remark; omnichannel reiteration) ★](2022-11-21-yt-iyKDjFZOrUQ.md) ★ — social-media, seo
+- 2022-11-26 — [How I Stay Ahead of Google Algorithm Updates (200+ ranking components; Google Alerts/Search Liaison tracking; blackhat risks; UX-first response)](2022-11-26-yt-WB1BqzKVbjw.md) — seo
+- 2022-11-28 — [The Secret to Getting a 30% Email Open Rate (name-personalized/3-word subject lines; geo+buyer segmentation; IP-warming vs. piggyback; re-engagement pruning)](2022-11-28-yt-_ONqoc1RtN8.md) — email-marketing
+- 2022-12-01 — [5 Hacks for Small Businesses to Outrank Larger Ones (UX; rule-of-seven/Eric Schmidt brand quote; canonical tags; local listings; refresh-over-new)](2022-12-01-yt-Ux_t28VygbQ.md) — seo, social-media
+- 2022-12-03 — [The Easiest SEO Strategy I've Ever Used (GPT-3/AI tool stack for ideation; Answer the Public acquisition; human-in-the-loop framing) ★](2022-12-03-yt-O_2fJqmcQAA.md) ★ — seo, ai-marketing
+- 2022-12-05 — [The One Growth Strategy You Can't Overlook (SMS 98% open-rate claim; staged-discount drip sequence; transactional-messaging stats)](2022-12-05-yt-lgwRiOVOJkQ.md) — email-marketing
+- 2022-12-08 — [How to Get More Social Engagement When Reach is Declining (Georgia Tech face-photo study; Hootsuite posting-time data; anti-over-posting stance)](2022-12-08-yt-AXPtkSMou-s.md) — social-media
+- 2022-12-10 — [How My Webinars Generate 1038 Leads A Month (BigCommerce/WP Engine co-hosting; 5-touch reminder cadence; Restream distribution)](2022-12-10-yt-DjXRQo4K8ss.md) — content-marketing, agency-entrepreneurship
+- 2022-12-12 — [How To Future Proof Your SEO Against Google's Next Update (UX-over-tactics thesis; HTTP Archive page-weight stat; anti-word-count stance)](2022-12-12-yt-E6j_D4WQ1r4.md) — seo
 
 ---
-_1002 videos ingested (L2) so far._
+_1010 videos ingested (L2) so far._
