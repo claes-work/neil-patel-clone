@@ -1023,6 +1023,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2022-12-08 — [How to Get More Social Engagement When Reach is Declining (Georgia Tech face-photo study; Hootsuite posting-time data; anti-over-posting stance)](2022-12-08-yt-AXPtkSMou-s.md) — social-media
 - 2022-12-10 — [How My Webinars Generate 1038 Leads A Month (BigCommerce/WP Engine co-hosting; 5-touch reminder cadence; Restream distribution)](2022-12-10-yt-DjXRQo4K8ss.md) — content-marketing, agency-entrepreneurship
 - 2022-12-12 — [How To Future Proof Your SEO Against Google's Next Update (UX-over-tactics thesis; HTTP Archive page-weight stat; anti-word-count stance)](2022-12-12-yt-E6j_D4WQ1r4.md) — seo
+- 2022-12-15 — [7 Marketing Tactics That Provide Quick Results (referral programs; content calendars; free-tool growth loop; contests)](2022-12-15-yt-3m9GaRqWfak.md) — content-marketing, social-media, paid-ads, agency-entrepreneurship
+- 2022-12-17 — [How to Optimize Your PPC Landing Pages for SEO (SEO-PPC integration; long-tail keywords; page speed; Ubersuggest backlink report)](2022-12-17-yt-KtgDg5_gc2s.md) — seo, paid-ads, analytics-cro
+- 2022-12-19 — [How to Measure SEO Effectiveness (organic traffic, SERP visibility, backlinks, domain authority, conversions)](2022-12-19-yt-FbQ8gO251po.md) — seo, analytics-cro
+- 2022-12-22 — [My Favorite Social Media Strategy You Can Implement ASAP (email list to drive social growth; live sessions; cross-promo interviews)](2022-12-22-yt-Ht8d27UwI2w.md) — social-media, email-marketing, content-marketing
+- 2022-12-24 — [Why Your Social Media Strategy Doesn't Get Any Engagement (platform-specific content rules; posting cadence; CTAs; customer service)](2022-12-24-yt-Wr8JOdJW2o8.md) — social-media, content-marketing
+- 2022-12-26 — [My Biggest Advertising Mistake (and What I Learned) (KISSmetrics value-prop mistake; $1,250,391 cost; social proof; free trials) ★](2022-12-26-yt-Moa-cA0IDRM.md) ★ — content-marketing, analytics-cro, agency-entrepreneurship
+- 2022-12-29 — [The Most Powerful Content Creation Strategy You're Not Using (hedgehog concept; buyer personas; segmentation; EAT; thought leadership)](2022-12-29-yt-Ad0n7fbVGhA.md) — content-marketing, seo, email-marketing
+- 2022-12-31 — [Why Your Blog Strategy Isn't Driving Traffic (images; internal linking; topic clusters; meta descriptions)](2022-12-31-yt-2WQp99wR74E.md) — content-marketing, seo, social-media
 
 ---
-_1010 videos ingested (L2) so far._
+_1018 videos ingested (L2) so far._

@@ -6006,3 +6006,48 @@ kept the remaining tactical/framework material topic-hub-only per the changelog.
 high-water mark advanced to batch #127 / 1,010 L2 sources; no pending checkpoints remain.
 
 Synthesis notes: none (this is itself a synthesis pass).
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 tactical era continues (batch #128)
+
+Stage machine (`.claude/commands/ingest-loop.md`, first-match) selected **Stage B**.
+Not-taken rules: Stage S not due (0 batches since synthesis pass 13, checkpoint at 10;
+no `>>> CHECKPOINT`); Stage P not stale (pass 13, completed today, already refreshed all
+4 persona files + system-prompt.md v14 — 0 batches since); Stage A n/a (both TARGET
+channels enumerated); Stage B P1 not applicable (0 open P1 rows on either channel).
+Channel @neilpatel, priority 2 — continuing the "ingest a channel → synthesize it → next
+channel" rhythm from where pass 13 left off. Selection = clone's own rule:
+priority-ascending then oldest-`published` first → next 8 oldest open P2 rows
+(2022-12-15 → 2022-12-31).
+
+Processed: **8 ingested (L2), 0 skipped, 0 no-captions, 0 dup.** All 8 captions fetched
+clean on the first try (no rate limiting; no 429s). All 8 are solo Neil videos → fully
+Neil-attributed; self-reported claims marked as such. No contradictions flagged. One row
+flagged **★ L3-candidate**: `yt-Moa-cA0IDRM` ("My Biggest Advertising Mistake") — a
+quantified biographical failure story (KISSmetrics unclear value-prop cost $1,250,391
+over ~3 years; fixed via shorter headline + social proof + free trials → ~40%
+conversion lift).
+
+Ledger after: L2=1018, L3=0. Open long-form @neilpatel 226 (P2:205 P3:21);
+@MarketingSchoolPod 759 (P2:731 P3:28) unchanged. Open shorts ~2,688. Ingest batches
+since last synthesis: 1 (checkpoint at 10).
+
+Synthesis notes: (1) the KISSmetrics $1,250,391 value-prop mistake ★ is a strong
+biography/agency-entrepreneurship candidate — quantified failure story with a named
+lesson arc (value prop → social proof → free trials → trust → short attention spans),
+complements the existing 2022-11-21/2022-10-27 self-critical material. (2) The
+PPC-landing-page SEO-integration piece (yt-KtgDg5_gc2s) and the SEO-effectiveness-
+metrics piece (yt-FbQ8gO251po) mostly reinforce existing seo/analytics-cro coverage
+(UX-first ranking stance, Ubersuggest workflows) with fresh supporting stats (HubSpot
+landing-page benchmarks, Ahrefs reciprocal-link study, 90%-zero-traffic pages stat) —
+citable detail, no new framework. (3) The two social-media pieces
+(yt-Ht8d27UwI2w, yt-Wr8JOdJW2o8) add a concrete, nameable tactic not previously
+captured: using the email list as the primary social-growth lever (weekly
+"email-out-my-best-social-content" habit, cross-promotion interviews with other
+creators — "I'll email out to my list, you email out to your list") — worth a line on
+the email-marketing/social-media hub. (4) The "hedgehog concept" content-strategy
+framing (yt-Ad0n7fbVGhA) is a nameable, quotable strategic frame ("focus on what you
+know" vs. chasing broad reach) not previously captured under content-marketing — a
+good persona/beliefs.md candidate. (5) The blog-traffic piece (yt-2WQp99wR74E) repeats
+familiar territory (images, internal linking, topic clusters) but the 77%-more-links
+stat likely duplicates the 77.2% figure already in the 2022-12-19 source — cross-linked,
+not double-counted.
