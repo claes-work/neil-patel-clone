@@ -3856,3 +3856,32 @@ to agency-entrepreneurship (no sales-objection framework promoted yet). No new
 contradictions found vs existing wiki; the diversity-update citation in the small-site
 video is consistent with the same claim already flagged in
 [[wiki/sources/2020-03-30-yt-totiNw9Rypc]].
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2020-04-30→05-30 solo tactical era: brand-as-SEO-secret-weapon / on-page-technical-SEO-part2 dwell-time-CTR / content-marketing-part1 Franklin's-Law-intro / WHIPS-framework advanced content tactics / 10-commandments-of-content-outlines / STEPS-editing-framework / competitive-content-research / link-building-fundamentals, cont. 58)
+
+Eight solo Neil-fronted videos (SEO Unlocked course + one standalone), all L2, no
+captions issues, no rate-limiting (all 8 fetched clean on the first pass). This batch
+is dense with reusable frameworks rather than one-off tactics: Franklin's Law of
+Content Success (String Ideas, Target Kite — content-marketing-part1), the WHIPS
+buyer-awareness framework, a 20-point writing rulebook, the 10 commandments of content
+outlines, the STEPS editing checklist, and a "link is a vote" framing for link
+building with an essential/optional Link Building Score Card. Continues the SEO
+Unlocked content-marketing/link-building modules chronologically from batch #78
+(cont. 57).
+
+Synthesis notes: several genuinely-new, reusable frameworks are candidates for the
+next synthesis pass — (1) Franklin's Law of Content Success (String Ideas / Target
+Kite / Supercharged Content / Key Personnel) as a named content-creation methodology,
+distinct from the already-promoted "3-signal content validation" doctrine; (2) the
+WHIPS framework (Window-shopper/Help-me/Inform-me/Persuade-me/Show-me) as a
+buyer-awareness-stage content-mapping model, reusing "Musketeer Intent" terminology
+already in the wiki; (3) the STEPS editing checklist (brevity, jargon, flow, pain
+points, SEO) as a named editing methodology, complementing the existing writing
+rulebook; (4) the link-building "voting system" analogy (Obama-endorsement framing) and
+its essential-vs-optional Link Building Score Card criteria as the first dedicated
+link-building framework in the wiki; (5) a new possible entity, Legion Athletics
+(friend's company that took over his Nutrition Secrets site) — not yet a
+`wiki/entities/` page, flag if it recurs. Reused/confirmed figures: KISSmetrics'
+47-infographics ROI (2.5M visitors, 41,142 backlinks, $28,200 vs. $948,000) restates a
+figure already in the wiki from an earlier source — no new number, treat as
+corroboration, not a new claim. No contradictions found vs existing wiki.

@@ -541,10 +541,18 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2020-04-20 — [14 Chrome Extensions That Will Save HOURS of Marketing Work (named tool stack: Grammarly, MozBar, SimilarWeb, hunter.io, Boomerang, more)](2020-04-20-yt-hPFozx7tJ0Q.md) — seo, content-marketing
 - 2020-04-23 — [Client says, 'Let Me Think About it.' and You say, '...' (forgetting curve; fit/functionality/financial objection framework)](2020-04-23-yt-Kb_eZzKsdmc.md) — agency-entrepreneurship
 - 2020-04-27 — [6 Actionable Steps For Better Rankings With Small Websites (local SEO checklist, video/YouTube, long-tail, content clusters, Ezoic study)](2020-04-27-yt-mo_aZOeknBs.md) — seo, content-marketing
+- 2020-04-30 — [Using Your Own Brand As Your SEO Secret Weapon (Kylie Jenner brand-as-SEO case; rule of seven; Ubersuggest brand asset)](2020-04-30-yt-35YU8Lhk594.md) — seo, content-marketing, agency-entrepreneurship
 - 2020-05-02 — [SEO Unlocked: FULL Free SEO Course With Neil Patel (course intro + SEO-mindset framework)](2020-05-02-yt-Q_lySNxCag0.md) ★ — seo, content-marketing
 - 2020-05-04 — [The ONLY Video You Need To Understand SEO (5 myths + core ranking factors)](2020-05-04-yt-pIbQfOcsEsE.md) ★ — seo, content-marketing
 - 2020-05-11 — [On-page and Technical SEO Part 1 — SEO Unlocked (title/headline formulas, on-page checklist)](2020-05-11-yt-PXDPqXHLSOY.md) ★ — seo, content-marketing, analytics-cro
+- 2020-05-14 — [On-page and technical SEO Part 2 — SEO Unlocked (dwell time, bounce rate, CTR, mobile indexing, AMP, site structure)](2020-05-14-yt-utLaKIJKygA.md) — seo, analytics-cro
 - 2020-05-16 — [How To Do An SEO Site Audit — On-page SEO Part 3 — SEO Unlocked (Ubersuggest audit, error prioritization)](2020-05-16-yt-k04rHijEPSw.md) — seo
+- 2020-05-18 — [Content Marketing Part 1 — SEO Unlocked (Franklin's Law of Content Success intro; Crazy Egg content-marketing case study)](2020-05-18-yt-zks1MFJsyUc.md) — content-marketing, seo
+- 2020-05-21 — [Advanced Content Marketing Tactics — Content Marketing Part 1 Lesson 2 — SEO Unlocked (WHIPS framework; 20-point writing rulebook; Brailsford marginal gains)](2020-05-21-yt-cJbKV2_B-xc.md) — content-marketing
+- 2020-05-23 — [The 10 Commandments of Content Marketing — Content Marketing Part 2 Lesson 1 — SEO Unlocked (content-format ROI survey; KISSmetrics infographics; 100K Challenge/Nutrition Secrets)](2020-05-23-yt-28MeI9YccNY.md) — content-marketing
+- 2020-05-25 — [How to Edit Your Content For SEO — Content Marketing Part 2 — SEO Unlocked (STEPS editing framework; Grammarly/Hemingway App; Crazy Egg heatmaps)](2020-05-25-yt--1hw7akbdBQ.md) — content-marketing, seo
+- 2020-05-28 — [Discover Your Competitive Strategy — Content Marketing Part 2 Lesson 3 — SEO Unlocked (competitive content research via Ubersuggest; affiliate/ecommerce/consulting examples)](2020-05-28-yt-aNBotpi7J98.md) — content-marketing, seo
+- 2020-05-30 — [Over 4 Million Backlinks Built With This Simple Process — Module 05 Lesson 1 — SEO Unlocked (link-building fundamentals; Link Building Score Card; Ubersuggest+Mailshake stack)](2020-05-30-yt-h-4ksx-b_ns.md) — seo
 - 2020-06-20 — [Keywords Insights by Ubersuggest Chrome Extension: Keyword Ideas From the SERP](2020-06-20-yt-eXBgXnKGTAw.md) — seo
 - 2020-09-05 — [How to Get More SEO Traffic Using The Ubersuggest Chrome Extension (keyword + backlink-outreach)](2020-09-05-yt-zHDATkRygTE.md) — seo
 - 2020-09-14 — [Welcome to Instagram Unlocked: From 0 to 100,000 Followers (course welcome/intro)](2020-09-14-yt-eJ2NNy1F6y4.md) — social-media
@@ -642,4 +650,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2026-07-20 — [AI Operators Dinner, Marketing Loops & GPT Sol 5.6 vs Fable 5 (MS, co-hosted — Neil's durable signal: agency AI-economics (AI unlocks NEW client work, not margin savings; strict cheap-model discipline), M&A/PE playbook (key-man risk, high-margin = weak mgmt, earnouts, minority-vs-majority chips-off-the-table, roll-up cross-sell), cold-call/follow-up sales gospel (40+ calls/day, close on 2nd-3rd try), and the AI-slop pendulum swinging back to humans; Eric-quarantined: the AI-operators dinner recap, "marketing loops," GEO/Profound read, Single Grain EU roll-up; ephemeral 2026-Q3 model-news flagged NOT-doctrine — GPT Sol 5.6 vs Claude Fable 5 [sic?], OpenAI raise, Anthropic-Blackstone JV)](2026-07-20-yt-0Pg-dNUWaI8.md) ★ — ai-marketing, agency-entrepreneurship, seo, paid-ads
 
 ---
-_629 videos ingested (L2) so far._
+_637 videos ingested (L2) so far._
