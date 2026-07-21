@@ -5664,3 +5664,33 @@ fresh example. All other five videos (Meta-sponsored inbox tutorial, omnichannel
 link-building 101, Instagram 1k-followers playbook, 7 SEO tips, 7 free social tools) are dated
 restatements of frameworks already synthesized into wiki/topics/ and persona/ — no new frameworks.
 4 ingest batches accumulated since synthesis pass 12 (checkpoint at 10) — not yet due.
+
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2022-08-22→09-08 solo tactical era, cont. 100)
+
+Roster-autopilot dispatch (no fresh-P1 backlog — normal P2 selection, batch #122 overall). 8/8
+fetched successfully (no rate-limiting). All eight are solo Neil-fronted short tactical videos (no
+promo trailers, no joke content, no other-people-only videos) — full L2 treatment for all.
+
+Synthesis notes: (1) ★ "7 Nifty Marketing Tactics to Deploy Now" (HFvVEzrXrOA, 2022-08-27) adds two
+concrete, reusable benchmark figures not previously in the corpus: a 32%-more-backlinks lift from
+adding data/charts/citations to blog content, and email-vs-SMS engagement figures (~30% email open /
+18% SMS click-through / <4%, typically ~2%, email click-through) directly contrasting the two
+channels. Worth promoting into wiki/topics/email-marketing/ and wiki/topics/seo/ at the next
+synthesis pass. (2) ★ "Top 5 Favorite SEO Hacks" (fnM0WZWsmfQ, 2022-08-29) introduces a
+buy-an-unmonetized-well-ranked-niche-blog-and-301-merge acquisition tactic (distinct from prior
+link-building material) and names the specific mechanism behind YouTube's first-24-hour ranking
+behavior (email/push-notification blast to engineer an early view spike, ads deliberately avoided as
+too slow) plus the calculator.net 6.2M-backlinks case and an App Store ASO fewer-keywords tip — four
+distinct tactical additions worth a synthesis look for wiki/topics/seo/. (3) The WordPress-SEO video
+(rZS8ffht5kY) adds a concrete topic-cannibalization merge-and-301 workflow (GA-driven) layered onto
+the existing content-freshness doctrine — minor but new, not flagged ★. (4) The Instagram-sales video
+(AGxhgN453Ok) relays a third-party Tai Lopez claim (Dressbarn/Pier 1 ownership via live-pitching)
+explicitly flagged `attribution: uncertain` in the source page — not eligible for any Tai Lopez entity
+claim without independent verification. (5) The remaining four videos (Jimmy Fallon/Corden
+entertainment-marketing, 7 underrated marketing lessons, in-person-events/Expedia anecdote, 7
+practical content marketing tips) are dated restatements of frameworks already synthesized into
+wiki/topics/ and persona/beliefs.md, with only minor new data points (Expedia's self-reported
+~10%-CAC-reduction-via-omnichannel anecdote, a video-first content-repurposing pipeline order, a
+2-3-emails-per-100-visitors benchmark) — not flagged ★.
+5 ingest batches accumulated since synthesis pass 12 (checkpoint at 10) — not yet due.

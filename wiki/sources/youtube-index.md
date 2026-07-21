@@ -976,6 +976,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2022-08-15 — [How to Get 1,000 Followers a Week on Instagram Organically (5-part organic playbook: daily-varied-posting, co-hosted-lives, carousels, engagement, commenting)](2022-08-15-yt-rvmB7V1cAOA.md) — social-media
 - 2022-08-18 — [7 Actionable SEO Tips That Are Easy to Implement (Ubersuggest audit, GSC year-over-year, content-pruning, site-flipping, page-merging)](2022-08-18-yt-sNIoGOPyep4.md) — seo
 - 2022-08-20 — [My 7 Favorite Social Media Tools (That Are Free) (Social Blade/ManyChat/Hootsuite/Exploding Topics/MailChimp/Linktree/Canva roundup)](2022-08-20-yt-lEW0g2b3k1c.md) — social-media, email-marketing
+- 2022-08-22 — [What Jimmy Fallon and James Corden Taught Me About Marketing (entertainment-content doctrine; experiment-demos + slide-animations borrowed from IG/TikTok)](2022-08-22-yt-3EeZNR-hozA.md) — content-marketing, social-media
+- 2022-08-25 — [The Easiest Way to Make a WordPress Blog SEO Friendly (topic-cannibalization merge-and-301 workflow; GSC-driven refresh priority)](2022-08-25-yt-rZS8ffht5kY.md) — seo
+- 2022-08-27 — [7 Nifty Marketing Tactics to Deploy Now (guest carousels, TubeSift, 32%-more-backlinks-from-data stat, email-vs-SMS CTR figures) ★](2022-08-27-yt-HFvVEzrXrOA.md) ★ — social-media, seo, email-marketing, paid-ads
+- 2022-08-29 — [Top 5 Favorite SEO Hacks (buy-unmonetized-blogs tactic, YouTube first-24-hour ranking mechanism, calculator.net 6.2M-backlinks case, App Store ASO fewer-keywords tip) ★](2022-08-29-yt-fnM0WZWsmfQ.md) ★ — seo, social-media
+- 2022-09-01 — [How to Drive More Sales from Instagram (Linktree/swipe-up/live-selling/feed-promo tactics; Tai Lopez Dressbarn/Pier1 claim flagged uncertain)](2022-09-01-yt-AGxhgN453Ok.md) — social-media
+- 2022-09-03 — [7 Underrated Marketing Lessons (TAM, omnichannel, branding-patience, early-platform-adoption, KISSmetrics-vs-Mixpanel repeat)](2022-09-03-yt-EXobBCjxLp0.md) — agency-entrepreneurship, content-marketing
+- 2022-09-05 — [My Favorite Type of Marketing (in-person events/conferences fave channel; trade-speaking-fee-for-booth tactic; Expedia 10%-CAC-reduction anecdote)](2022-09-05-yt-rSyh3GhpNDQ.md) — agency-entrepreneurship, content-marketing
+- 2022-09-08 — [7 Practical Content Marketing Tips (fresh-content-is-king, video-first repurposing pipeline, auto-insurance oversaturation stat, 2-3-emails-per-100-visitors benchmark)](2022-09-08-yt-gsRcUw6VP70.md) — content-marketing, seo, email-marketing
 
 ---
-_963 videos ingested (L2) so far._
+_971 videos ingested (L2) so far._
