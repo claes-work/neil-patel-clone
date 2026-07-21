@@ -3834,3 +3834,25 @@ Ubersuggest-as-link-magnet + two-studies-97k-backlinks figures (consistent with 
 self-reported figures, no new numbers); the naming-taxonomy video is a standalone
 branding-fundamentals piece with no direct SEO tie-in — flag for content-marketing hub
 if a "branding" sub-section is ever warranted. No contradictions found vs existing wiki.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2020-04-04→04-27 solo tactical era: landing-page-96%-never-convert UX/CTA/clutter / Amazon-marketing-secrets case study / biggest-SEO-scam black-hat warnings / 9-things-top-websites brand+authority+UGC / get-backlinks-any-website outreach playbook / 14-Chrome-extensions tool stack / client-let-me-think-about-it objection framework / 6-steps-small-website-rankings, cont. 57)
+
+Eight solo Neil-fronted videos, all L2, no captions issues, no rate-limiting (all 8
+fetched clean on the first pass). Mix of core tactical SEO/CRO (landing-page UX,
+link-building outreach, small-site ranking playbook) plus two business-adjacent
+explainers (the Amazon growth-marketing case study; a black-hat/automation-scam
+warning piece) and two tool/skills pieces (a named Chrome-extension stack; a
+sales-objection-handling framework) — all first-person Neil-voiced tactical content,
+continuing the 2020-Q2 solo-tactical era chronologically from batch #78 (cont. 56).
+
+Synthesis notes: nothing landmark enough for inline L3 promotion. Candidate material for
+the next synthesis pass: the UX-conversion trio (page-speed/above-the-fold/clutter, each
+with a named third-party study — Unbounce, NN Group, HubSpot) as a reusable
+"landing-page CRO checklist"; the Amazon case study's "secret to marketing isn't AdWords
+or SEO or Facebook Ads, it's UX" framing as a possible cross-link/precursor to the
+existing UX-first doctrine already in beliefs.md; the "let me think about it"
+fit/functionality/financial objection framework as a candidate sales-doctrine addition
+to agency-entrepreneurship (no sales-objection framework promoted yet). No new
+contradictions found vs existing wiki; the diversity-update citation in the small-site
+video is consistent with the same claim already flagged in
+[[wiki/sources/2020-03-30-yt-totiNw9Rypc]].

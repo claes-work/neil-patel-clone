@@ -532,7 +532,15 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2020-03-28 — [How to Make Your Website SEO-Friendly When You Can't Code (schema generators, XML sitemaps, robots.txt, CDN, Yoast/Rank Math — no-code technical SEO)](2020-03-28-yt-Cfjn_515kr4.md) — seo
 - 2020-03-30 — [How to Rank Smaller Websites on Google in 2023 (title re-dated "2023"; content is 2020) (diversity update; exact-match/misspelled/near-me domains; personal engagement; long-tail keywords; niche content; About.com case)](2020-03-30-yt-totiNw9Rypc.md) — seo, content-marketing
 - 2020-04-02 — [How to Choose a Great Business Name | Creating an Amazing Brand (naming taxonomy: founder/acronym/descriptive/suggested/associative/foreign/abstract; emotional-appeal branding; Amazon "Cadabra" story)](2020-04-02-yt-txS7IsRumS8.md) — content-marketing, agency-entrepreneurship
+- 2020-04-04 — [96% Of Your Landing Page Visitors Will NEVER Convert (And How to Improve That) (page speed, above-the-fold CTA placement, remove clutter)](2020-04-04-yt-dobgpL_Rqmk.md) — analytics-cro
+- 2020-04-06 — [How Did Amazon Get So Big? (The Marketing Secrets Behind Amazon's Growth) (case study: UX/Prime/reviews/personalization over paid ads/SEO)](2020-04-06-yt-A0T3dTrVDHc.md) — content-marketing, agency-entrepreneurship
+- 2020-04-09 — [The Biggest SEO And Digital Marketing SCAM (That You're Still Falling For) (article spinning, content scraping, link farms, PBNs, expired-domain redirects)](2020-04-09-yt-znKM2TQX8kQ.md) — seo, content-marketing
+- 2020-04-11 — [9 Things You Didn't Know About The World's Top Websites in Search Traffic (brand, domain authority, UGC, content scale, personalization)](2020-04-11-yt-xBt0oE3t7Bw.md) — seo, content-marketing
+- 2020-04-13 — [How to Get Backlinks From Any Website (Big or Small) (value-exchange outreach, prospecting, Mailshake, chart-driven link assets)](2020-04-13-yt-VXnUyD4x68g.md) — seo
 - 2020-04-16 — [7 Google Ads Hacks That'll Make Your Campaigns Scale Profitably (first paid-ads landmark)](2020-04-16-yt-S-hn2ThmQEw.md) ★ — paid-ads, analytics-cro
+- 2020-04-20 — [14 Chrome Extensions That Will Save HOURS of Marketing Work (named tool stack: Grammarly, MozBar, SimilarWeb, hunter.io, Boomerang, more)](2020-04-20-yt-hPFozx7tJ0Q.md) — seo, content-marketing
+- 2020-04-23 — [Client says, 'Let Me Think About it.' and You say, '...' (forgetting curve; fit/functionality/financial objection framework)](2020-04-23-yt-Kb_eZzKsdmc.md) — agency-entrepreneurship
+- 2020-04-27 — [6 Actionable Steps For Better Rankings With Small Websites (local SEO checklist, video/YouTube, long-tail, content clusters, Ezoic study)](2020-04-27-yt-mo_aZOeknBs.md) — seo, content-marketing
 - 2020-05-02 — [SEO Unlocked: FULL Free SEO Course With Neil Patel (course intro + SEO-mindset framework)](2020-05-02-yt-Q_lySNxCag0.md) ★ — seo, content-marketing
 - 2020-05-04 — [The ONLY Video You Need To Understand SEO (5 myths + core ranking factors)](2020-05-04-yt-pIbQfOcsEsE.md) ★ — seo, content-marketing
 - 2020-05-11 — [On-page and Technical SEO Part 1 — SEO Unlocked (title/headline formulas, on-page checklist)](2020-05-11-yt-PXDPqXHLSOY.md) ★ — seo, content-marketing, analytics-cro
@@ -634,4 +642,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2026-07-20 — [AI Operators Dinner, Marketing Loops & GPT Sol 5.6 vs Fable 5 (MS, co-hosted — Neil's durable signal: agency AI-economics (AI unlocks NEW client work, not margin savings; strict cheap-model discipline), M&A/PE playbook (key-man risk, high-margin = weak mgmt, earnouts, minority-vs-majority chips-off-the-table, roll-up cross-sell), cold-call/follow-up sales gospel (40+ calls/day, close on 2nd-3rd try), and the AI-slop pendulum swinging back to humans; Eric-quarantined: the AI-operators dinner recap, "marketing loops," GEO/Profound read, Single Grain EU roll-up; ephemeral 2026-Q3 model-news flagged NOT-doctrine — GPT Sol 5.6 vs Claude Fable 5 [sic?], OpenAI raise, Anthropic-Blackstone JV)](2026-07-20-yt-0Pg-dNUWaI8.md) ★ — ai-marketing, agency-entrepreneurship, seo, paid-ads
 
 ---
-_621 videos ingested (L2) so far._
+_629 videos ingested (L2) so far._
