@@ -4133,3 +4133,42 @@ existing wiki. Ingest batches since last synthesis now at 9/10 per the driver;
 next iteration should run **Stage S (synthesis checkpoint)** — either the count trips
 to 10 on the next batch, or this is close enough to justify pulling the checkpoint
 forward given the Instagram Unlocked course-completion signal above.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2020-10-03→10-22, YouTube Unlocked course COMPLETES + Ezoic/eCommerce-CRO tactical run, cont. 65)
+
+Batch of 8, all P2, all captions fetched successfully (no rate-limiting, no dup, no
+skips). First video is a standalone Ubersuggest tutorial
+([[wiki/sources/2020-10-03-yt-JV6wAqj4y-M]]: mining Quora's question-page traffic
+model). Then five videos complete the **YouTube Unlocked** course launched
+2020-10-05 ([[wiki/sources/2020-10-05-yt-BJhTePXFvGo]]): Module 1 Lessons 2-3
+(channel branding, Ubersuggest research, Mon/Thu/Sat posting cadence; a 20-format
+content-type survey) and Module 2 Lessons 1-3 (scripting/storyboarding with the
+"YouTube rewards retention" thesis and manual-transcription-beats-auto-captions
+claim; seven lessons from top-50-channel case studies — MrBeast, Logan Paul, Ed
+Sheeran, GoPro — plus YouTube ad formats and sequential retargeting; **the course
+completes** on the "YouTube SEO is the opposite of traditional SEO" first-24-hours
+doctrine ★, [[wiki/sources/2020-10-17-yt-qwomTmPOtyA]]). Closes with two standalone
+tactical videos: an ad-revenue optimization piece naming Ezoic as Neil's "secret
+weapon" with a cited 93% average revenue-lift study and a new small-business-history
+detail ("Real Cool Videos," a site co-owned with a partner named Ahmed —
+[[wiki/sources/2020-10-19-yt-gXzKovmO7pM]]), and an eCommerce CRO video naming the
+"hoop theory" checkout-commitment framework ★ plus the Doofinder advanced-search
+tool and a Crazy Egg three-step-checkout case study
+([[wiki/sources/2020-10-22-yt-sGpcJ3SOITA]]).
+
+Synthesis notes: (1) **YouTube Unlocked course completion** (6 lessons,
+2020-10-05→10-17) is a synthesis-checkpoint-relevant event, and this batch also
+trips the driver's batch-count checkpoint to 10/10 — **next iteration must run
+Stage S**. (2) The "YouTube SEO is the opposite of traditional SEO" first-24-hours
+ranking doctrine is a distinct, named counter-model to the existing accretive/
+authority-based SEO doctrine in [[wiki/topics/seo/seo]] — clear promotion candidate.
+(3) The "hoop theory" checkout-commitment framework and the Doofinder tool are new,
+named, reusable CRO material not yet in [[wiki/topics/analytics-cro/analytics-cro]].
+(4) The "Real Cool Videos" / Ahmed co-ownership detail is a new small-business-history
+item, not yet in [[persona/biography.md]] — worth checking whether it reconciles or
+adds to the existing early-ventures timeline. (5) Ezoic's 93% revenue-lift claim
+substantially expands on its single prior mention
+([[wiki/sources/2020-04-27-yt-mo_aZOeknBs]]). No contradictions found vs. existing
+wiki. Ingest batches since last synthesis now at 10/10 per the driver — **synthesis
+checkpoint due; next iteration runs Stage S** over the @neilpatel 2020-03→2020-10 P2
+era (batches #78-#87 since synthesis pass 8, log cont. 56-65).

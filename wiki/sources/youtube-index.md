@@ -698,6 +698,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2020-09-26 — [How Kylie Jenner Built Her Empire - Module 2 - Lesson 3 - Instagram Unlocked (COMPLETES the course; Kylie Cosmetics/Frank Body case studies; platform-repurposing guide; "I don't buy Instagram accounts" stance)](2020-09-26-yt-FNuwQcYkP-s.md) — social-media
 - 2020-09-28 — [A Quick Hack That'll Help You Rank For More Keywords (Search Console + Ubersuggest long-tail clustering/internal-linking tactic)](2020-09-28-yt-64ZDgNFWdU4.md) — seo
 - 2020-10-01 — [Why You Should Write Content For Google and Not Social Media (live Analytics demo: ~100x organic-vs-social traffic; search-intent-first content sequencing)](2020-10-01-yt-s37Bemfuph8.md) — seo, content-marketing
+- 2020-10-03 — [How to Get Millions of Visitors Like Quora (Ubersuggest question-content mining; question pages decouple traffic from social shares)](2020-10-03-yt-JV6wAqj4y-M.md) — seo, content-marketing
+- 2020-10-08 — [How to Build Your YouTube Channel The Right Way - Module 1 - Lesson 2 - YouTube Unlocked (channel branding, Ubersuggest research, Mon/Thu/Sat posting cadence)](2020-10-08-yt-oe5SPPHe6xs.md) — social-media, seo
+- 2020-10-10 — [Top-Performing Content Types for YouTube (The MASTER LIST) - Module 1 - Lesson 3 - YouTube Unlocked (20-format survey; MrBeast/Logan Paul/PewDiePie examples; unboxing-drives-conversions claim)](2020-10-10-yt-lazS3Gwv0vI.md) — social-media, content-marketing
+- 2020-10-12 — [How to Script & Storyboard Your YouTube Videos - Module 2 - Lesson 1 - YouTube Unlocked (outlining worksheet; "YouTube rewards retention"; manual-transcription-beats-auto-captions)](2020-10-12-yt-sMbo87-nDwU.md) — social-media, seo
+- 2020-10-15 — [Lessons From MrBeast, Logan Paul & Ed Sheeran - Module 2 - Lesson 2 - YouTube Unlocked (7 lessons from top-50 channels; ad formats + sequential-retargeting setup)](2020-10-15-yt-5BfdTwxVicw.md) — social-media, paid-ads
+- 2020-10-17 — [How to Promote YouTube Videos (Even With 0 Subscribers) - Module 2 - Lesson 3 - YouTube Unlocked (COMPLETES the course; "YouTube SEO is the opposite of traditional SEO" first-24-hours doctrine ★)](2020-10-17-yt-qwomTmPOtyA.md) ★ — social-media, seo
+- 2020-10-19 — [A Simple Hack to Generating 93% More Ad Revenue (Ezoic AI ad-optimization; "Real Cool Videos" bio detail; ad-UX-to-SEO mechanism)](2020-10-19-yt-gXzKovmO7pM.md) — paid-ads, analytics-cro
+- 2020-10-22 — [Start Selling 20% More Online in Less Than 10 Minutes | Growth Hack Your eCommerce ("hoop theory" checkout framework ★; Doofinder advanced search; Crazy Egg 3-step-checkout case study)](2020-10-22-yt-sGpcJ3SOITA.md) ★ — analytics-cro, content-marketing
 
 ---
-_685 videos ingested (L2) so far._
+_693 videos ingested (L2) so far._
