@@ -850,6 +850,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2021-10-09 — [How AI is Changing Marketing and SEO (Morphio.ai/MarketBrew/Jarvis.ai/Clearscope tool tour; Ubersuggest automated-SEO roadmap disclosure; "ironing is a zen moment" voice detail) ★](2021-10-09-yt-aB16TtWHv9Q.md) ★ — ai-marketing, seo, content-marketing
 - 2021-10-11 — [Watch Me Build a Marketing Strategy in 10 Minutes For a Completely Random Business (live demo: cosmetic-dentistry/Orlando topic-cluster + Google My Business build)](2021-10-11-yt-UgkNGB3LvKs.md) — seo, content-marketing, paid-ads, analytics-cro
 - 2021-10-14 — [A Simple Strategy to Getting More Customers For Your Ad Agency (extends Crunchbase cold-outreach playbook: investor-CC A/B test + CEO-to-CMO enterprise tactic; hunter.io named) ★](2021-10-14-yt-Xz_W96Zmz3s.md) ★ — agency-entrepreneurship
+- 2021-10-16 — [10 Psychological Triggers to MAKE PEOPLE BUY From YOU! (scarcity/authority/urgency/social-proof triggers; explicit scarcity-honesty ethical line)](2021-10-16-yt-yE7gNbQ24G8.md) — analytics-cro
+- 2021-10-18 — [How To Get a Digital Marketing Job with No Experience (free-audit tactic, niche specialization, certifications)](2021-10-18-yt-WPoTi68IPpI.md) — agency-entrepreneurship, seo
+- 2021-10-21 — [How to Write Content That Ranks in 2023's Crazy SEO Landscape [title mismatch, spoken=2022] (7-step content framework; headline 8/10-read-2/10-click ratio)](2021-10-21-yt-qjYGcWuZ2_U.md) — seo, content-marketing
+- 2021-10-23 — [8 Paid Ad Secrets You Can Learn From Big Brands (seasonal-spend pacing, 73%-mobile-ecommerce stat, sign-in-with-Google reversal case)](2021-10-23-yt-mCdpocxd7Ks.md) — paid-ads
+- 2021-10-25 — [How to Promote Your Blog Content When Nothing is Working (per-platform promotion playbook — IG/LinkedIn/FB/email/push)](2021-10-25-yt-l6qTxQk2gfk.md) — content-marketing, social-media, email-marketing
+- 2021-10-28 — [Stop Obsessing Over Traffic So You Can Start Getting Sales With Your Online Business (funnel-first framework; content-pruning "SEO guide for 20XX" example)](2021-10-28-yt-rAJT4Y4G5IE.md) — analytics-cro, seo, content-marketing
+- 2021-10-30 — [7 Ecommerce Marketing Secrets You Can Learn From Big Brands (logic+emotion copy finding; 95%-reviews stat; Spiralyze repeat mention)](2021-10-30-yt-c_rSzi5RwtU.md) — analytics-cro, paid-ads
+- 2021-11-01 — [Don't Build Backlinks This Year - Do This Instead (Ubersuggest "page one ranking potential" tool feature; content-over-links doctrine)](2021-11-01-yt-QnBHcjQOIBM.md) — seo, content-marketing
 
 ---
-_837 videos ingested (L2) so far._
+_845 videos ingested (L2) so far._

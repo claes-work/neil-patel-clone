@@ -4929,3 +4929,26 @@ campaign bodybuilder-pecs execution detail (agency-entrepreneurship), (2) the in
 CEO-to-CMO cold-outreach tactic extensions (agency-entrepreneurship), (3) the "ironing is a zen
 moment" personal-habit voice detail (voice.md) plus the 2021 AI-content skepticism datapoint
 (ai-marketing timeline). Debt now 8/10 batches since synthesis pass 10.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2021-10-16→11-01, solo tactical era, cont. 84)
+Ingested 8 @neilpatel P2 long-form videos, 2021-10-16→2021-11-01, all solo Neil, no
+captions issues, no duplicates: a psychological-buying-triggers list (with an explicit
+scarcity-honesty ethics line and a common-enemy cause-marketing example), a
+digital-marketing-job free-audit/certifications playbook, a 7-step "content that ranks"
+framework (headline 8/10-read-2/10-click ratio; title mismatch — spoken "2022" vs.
+displayed "2023," consistent with the channel's later-retitling pattern), 8 big-brand
+paid-ad tactics (73%-mobile-ecommerce stat; sign-in-with-Google conversion-reversal case
+study), a per-platform content-promotion playbook (IG/LinkedIn/FB/email/push, explicit
+paid-beats-organic-Facebook stance), a funnel-first/traffic-deprioritization framework
+(content-pruning "SEO guide for 20XX" duplicate-post example), an ecommerce CRO batch
+(logic+emotion-copy finding, 95%-reviews stat, a repeat Spiralyze mention), and a
+content-over-link-building piece introducing the Ubersuggest "page one ranking
+potential" tool feature. No contradictions. Ledger updated (8× L2), youtube-index.md +
+index.md counts bumped to 845.
+
+Synthesis notes: worth promoting at the next synthesis pass — (1) the explicit
+scarcity-honesty ethical line + common-enemy trigger (analytics-cro), (2) the
+sign-in-with-Google conversion-reversal case study reinforcing the
+what-works-now-won't-work-forever belief (paid-ads/analytics-cro), (3) the Ubersuggest
+"page one ranking potential" tool-feature detail (seo), (4) the logic+emotion
+copy-combination finding (analytics-cro). Debt now 9/10 batches since synthesis pass 10.
