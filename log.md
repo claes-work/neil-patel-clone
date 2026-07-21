@@ -5853,3 +5853,51 @@ content-freshness coverage; no clearly new fact beyond the "Agency of the Year"
 self-description already covered in note (3).
 
 8 ingest batches accumulated since synthesis pass 12 (checkpoint at 10) — not yet due.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2022-11-05→11-21, solo tactical era, cont. 104)
+
+Batch of 8, oldest-open-first from @neilpatel P2 (`tools/ingest_batch.py prepare --channel
+@neilpatel --n 8`). One transient yt-dlp caption error on first attempt (`yt-iyKDjFZOrUQ`,
+left open); re-ran `prepare` and it succeeded on retry (subtitles present, not rate-limited)
+— all 8 ingested, no `no-captions`/`unavailable`/`dup` outcomes, no rate-limiting observed.
+Sources: 5 Quick Ways to Get More Instagram Likes (TXsG6nQgrG0, 2022-11-05); Here's What
+Facebook and Google Aren't Telling You About Your Ads (OtLYIf_NExA, 2022-11-07); How Google
+Uses NLP and How You Can Too With Your SEO (1CYeFuocpkc, 2022-11-10); Here's What Google
+Classifies as Helpful Content (LKROs5JIVfk, 2022-11-12); Amazon SEO - Tutorial For Beginners
+(Hskgchw9-Po, 2022-11-14); How I grew my email subscriber list to 873,049 subscribers
+(wK6tPoH17JI, 2022-11-17); SEO Expert Reveals: The Easiest Way To Explode Your Blog Traffic
+(fFO__qaxnfA, 2022-11-19); Why I Focus on Social Media Marketing Over SEO ★ (iyKDjFZOrUQ,
+2022-11-21). Ledger rows set to L2 with domains; youtube-index.md + index.md counts bumped
+to 1002.
+
+Synthesis notes: (1) ★ "Why I Focus on Social Media Marketing Over SEO" (iyKDjFZOrUQ,
+2022-11-21) is the clearest synthesis candidate in this batch — an explicit, quotable
+channel-prioritization philosophy (social's instant-feedback loop vs. SEO's lag, while
+still endorsing omnichannel/"use all channels") that reinforces and sharpens the
+give-first/experimentation-over-formula belief cluster already in persona/beliefs.md;
+worth a dedicated line at the next synthesis pass, cross-referenced with the 2022-11-03
+Quick-Read-Test source (same Google-weather-box example) and the 2022-11-07 attribution
+source (same omnichannel/rule-of-seven framing). (2) Amazon SEO - Tutorial For Beginners
+(Hskgchw9-Po) opens a sub-vertical (marketplace/Amazon SEO) not yet represented in
+wiki/topics/seo/ — the sales-velocity-vs-keyword-relevance ranking-factor framing and the
+"Amazon profits from every sale, unlike Google" incentive contrast are genuinely new and
+worth a short new subsection if the topic page has room, or a dedicated sub-page once more
+Amazon-specific sources accumulate. (3) "Here's What Google Classifies as Helpful Content"
+(LKROs5JIVfk) restates the existing helpful-content-update coverage (cf. Llm-LXlH0JM,
+2022-10-20, already logged as reinforcing) but adds one new autobiographical data point:
+Neil built sites in medical/financial/poker niches he wasn't expert in, and they
+underperformed long-term despite occasional short-term rankings — a small but concrete
+"expertise vs. hustle" cautionary anecdote worth a line in persona/biography.md if not
+already captured. (4) "Here's What Facebook and Google Aren't Telling You About Your Ads"
+(OtLYIf_NExA) states a specific personal practice (Position-Based attribution, crediting
+first+last touch) with a stated rationale — a concrete, checkable analytics-cro belief
+worth adding if the topic page currently only has generic attribution-model definitions.
+(5) The remaining three (Instagram-likes hacks, email-list-growth playbook, Quora/
+AnswerThePublic blog-traffic workflow) reinforce existing tactical coverage in
+social-media/, email-marketing/, and content-marketing/ respectively with fresh illustrative
+stats (38.45%/49.22% Instagram-engagement lifts; 873,049-subscriber list size; Quora's
+788M-visitor scale) but no new frameworks — safe to fold as supporting citations rather
+than new topic-page sections.
+
+9 ingest batches accumulated since synthesis pass 12 (checkpoint at 10) — not yet due; next
+iteration will likely hit the Stage S checkpoint after one more P2 batch.

@@ -1007,6 +1007,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2022-10-29 — [7 Tips For Selecting a Performance Marketing Agency (Media Post "Agency of the Year"; "vet the people not the brand" reinforcement)](2022-10-29-yt-gztsYn8S0wM.md) — agency-entrepreneurship, paid-ads
 - 2022-10-31 — [This is What Will Happen with Instagram, Facebook and Tiktok Whether You Like it Or Not (feature-copying thesis; LinkedIn talent-poaching tactic; weekly-experiment cadence)](2022-10-31-yt-JsaGGtzj-Yc.md) — social-media, agency-entrepreneurship
 - 2022-11-03 — [What Google's Quick Read Test Tells Us About the Future of SEO (Ubersuggest 41.9%-over-2000-words stat; "SEO isn't about word count" stance)](2022-11-03-yt-DmdkfMVLrVs.md) — seo, content-marketing
+- 2022-11-05 — [5 Quick Ways to Get More Instagram Likes (go-live, influencer-comments, trend-audio, explicit-CTA 38.45% lift, carousels 49.22% lift)](2022-11-05-yt-TXsG6nQgrG0.md) — social-media
+- 2022-11-07 — [Here's What Facebook and Google Aren't Telling You About Your Ads (multi-touch attribution models; Position-Based preference; GA4 walkthrough)](2022-11-07-yt-OtLYIf_NExA.md) — analytics-cro, paid-ads
+- 2022-11-10 — [How Google Uses NLP and How You Can Too With Your SEO (BERT/MUM; topics-over-keywords; Ubersuggest AI writer demo)](2022-11-10-yt-1CYeFuocpkc.md) — seo, content-marketing
+- 2022-11-12 — [Here's What Google Classifies as Helpful Content (write-what-you-know; niche-focus; executable conclusions; secret-sauce)](2022-11-12-yt-LKROs5JIVfk.md) — seo, content-marketing
+- 2022-11-14 — [Amazon SEO - Tutorial For Beginners (title/description/bullets/photos playbook; sales-velocity incentive framing)](2022-11-14-yt-Hskgchw9-Po.md) — seo
+- 2022-11-17 — [How I grew my email subscriber list to 873,049 subscribers (Ubersuggest free-tool funnel; opt-in 0.1%-unsubscribe stat; partnerships, contests)](2022-11-17-yt-wK6tPoH17JI.md) — email-marketing
+- 2022-11-19 — [SEO Expert Reveals: The Easiest Way To Explode Your Blog Traffic (Quora-as-proof-of-concept; AnswerThePublic 7-step workflow; question-search volume stats)](2022-11-19-yt-fFO__qaxnfA.md) — content-marketing, seo
+- 2022-11-21 — [Why I Focus on Social Media Marketing Over SEO (instant-feedback-loop rationale; Google SVP TikTok-vs-Search remark; omnichannel reiteration) ★](2022-11-21-yt-iyKDjFZOrUQ.md) ★ — social-media, seo
 
 ---
-_994 videos ingested (L2) so far._
+_1002 videos ingested (L2) so far._
