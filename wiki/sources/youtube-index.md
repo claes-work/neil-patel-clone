@@ -730,6 +730,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2020-12-12 — [How to Find 1000s of Lucrative Keywords in Under a Minute (Ubersuggest Keyword Gap workflow; volume/CPC/difficulty selection criteria)](2020-12-12-yt-30cqsQvOsrU.md) — seo
 - 2020-12-14 — [How To Protect & Grow Your Business With Digital Accessibility & SEO (AudioEye guest webinar; Page Experience tie-in; guest-gated attribution)](2020-12-14-yt-C3DIBs-sPzo.md) — seo, analytics-cro
 - 2020-12-17 — [How to Beat Google by Leveraging User Metrics (Backlinko/Clickflow CTR-copywriting lift percentages; Rand Fishkin click-experiment)](2020-12-17-yt-RegMu2Ye6HE.md) — seo, analytics-cro
+- 2020-12-19 — [How to Grow Your SEO Traffic by Updating Your Old Content (21-old-articles-per-1-new ratio; GSC year-over-year diagnostic workflow)](2020-12-19-yt-l8JUF0bNIo4.md) — seo, content-marketing
+- 2020-12-21 — [My FREE Facebook Marketing Course - Getting Started - Module 1 - Lesson 1 - Facebook Unlocked (course launch; Facebook company history/stats)](2020-12-21-yt-LInnulL_6is.md) — social-media
+- 2020-12-24 — [Setting Up Your Business on Facebook - Module 1 - Lesson 2 - Facebook Unlocked (page/Business Manager/Groups setup walkthrough)](2020-12-24-yt-g5UXuPp62VQ.md) — social-media
+- 2020-12-28 — [The Highest Reach and Engagement Content Types - Module 1 - Lesson 3 - Facebook Unlocked (content-type checklist; Elon Musk best-post anecdote)](2020-12-28-yt-QyJziMOSN_8.md) — social-media, content-marketing
+- 2021-01-04 — [How to Get More Organic Reach & Visibility on Facebook - Module 2 - Lesson 1 - Facebook Unlocked (News Feed algorithm mechanism; native-posting doctrine)](2021-01-04-yt-RpVx_sLP9os.md) — social-media
+- 2021-01-07 — [The Beginner's Guide to Facebook Ads - Module 2 - Lesson 2 - Facebook Unlocked (auction formula; Pixel/targeting/ad-spec detail)](2021-01-07-yt-IuS6CO14e1s.md) — social-media, paid-ads
+- 2021-01-09 — [Growing Your Brand on Facebook - Module 2 - Lesson 3 - Facebook Unlocked (COMPLETES the course; five-rules framework ★; two-ad remarketing funnel)](2021-01-09-yt-NWMkd58lxSQ.md) ★ — social-media, paid-ads, agency-entrepreneurship
+- 2021-01-11 — [How Digital Marketing Will Change in 2023 [title/date mismatch, content=2021] (7 predictions; marginal-gains meta-framework; 10-min video-length threshold)](2021-01-11-yt-KzRka1lpdb4.md) — seo, content-marketing, social-media
 
 ---
-_717 videos ingested (L2) so far._
+_725 videos ingested (L2) so far._
