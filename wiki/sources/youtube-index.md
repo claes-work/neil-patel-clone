@@ -1063,6 +1063,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2023-03-13 — [5 Marketing Predictions for 2023 (third-party cookies, voice search, live shopping, social commerce, podcast ads)](2023-03-13-yt-l3a-sdRL5Ns.md) — paid-ads, social-media, seo
 - 2023-03-16 — [Fuel Your Motivation and Stay on Top of Marketing Trends (Rhett Power interview ⚠️ title mismatch/~2022 content; rule-of-seven; hiring; work-life balance)](2023-03-16-yt--bqBAljfpXo.md) — agency-entrepreneurship, social-media
 - 2023-03-18 — [From Novice to Expert: Easy Tips to Master Digital Marketing (★ landmark interview — routine, values, hiring, Instagram-overtakes-Facebook prediction)](2023-03-18-yt-hON3LkphygI.md) — agency-entrepreneurship, social-media, content-marketing
+- 2023-03-20 — [Overcoming Marketers' 5 Toughest Challenges (HubSpot 1,000-marketer survey; global-audience translate/transcribe; vanity-metrics doctrine; Andrew Chen "all channels go to shit")](2023-03-20-yt-C5Z1kD_aNcA.md) — content-marketing, analytics-cro, paid-ads
+- 2023-03-23 — [Proven Secrets and Strategies for Effortless Blogging (★ personal-brand-vs-business-brand naming story; Mike Kamo/NP Digital rename; platform-throttling theory)](2023-03-23-yt-YXRuz23PPjw.md) — agency-entrepreneurship, content-marketing, social-media
+- 2023-03-25 — [Common Marketing Mistakes to Avoid: Tips for New Marketers (origin story — job board, Speech 101; focus regret; Kissmetrics hiring lesson; Ray Dalio rec)](2023-03-25-yt-4q9l-x2RSMg.md) — agency-entrepreneurship
+- 2023-03-27 — [How to Create User-Focused Content That Converts (real-estate SEO interview; PBN/link-package warnings; Boy Scout popcorn anecdote; ⚠️ AnswerThePublic date)](2023-03-27-yt-01qUWcCw1xw.md) — seo, agency-entrepreneurship
+- 2023-03-30 — [Growth Hacks: How to Scale in Record Time (★ landmark — GM-firing→Crazy Egg origin variant; AnswerThePublic $8.6M price breakdown; declined PE/IPO offers; Fenty vs. Kylie influencer economics)](2023-03-30-yt-fslIfiEouqs.md) — agency-entrepreneurship
+- 2023-04-01 — [Get More Traffic Now: Insider Tips for Success (Success with Soul podcast; AI-EEAT skepticism; uncle's stay-level-headed mantra origin; kids ages 3&1)](2023-04-01-yt-eL3aif7oF6c.md) — seo, agency-entrepreneurship
+- 2023-04-03 — [Future-Proof Your Content Strategy in the Age of AI (TAM/disrupt/omnichannel formula; AI "first inning"; 20/80 create/promote rule; AI-jobs-vs-economy stance)](2023-04-03-yt-8NBFZE3EOBY.md) — ai-marketing, content-marketing
+- 2023-04-06 — [Digital Marketing Tips for 2023 (★ cold-call origin variant; 76%-referrals client mix; 8-country footprint named; WordPress vs. Shopify)](2023-04-06-yt-Ji5urXQRoLo.md) — seo, agency-entrepreneurship, ai-marketing
 
 ---
-_1050 videos ingested (L2) so far._
+_1058 videos ingested (L2) so far._

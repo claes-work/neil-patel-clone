@@ -6183,3 +6183,55 @@ only, no new promotion needed there. (4) Everything else (ad-waste tactics, PPC
 strategies, YouTube-SEO checklist, 1M-visitor blog-promotion steps, 2023 predictions) is
 solid tactical long-tail, well covered by existing seo/paid-ads/content-marketing hub
 structure — no promotion needed.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2023-03-20→04-06, cont. 102)
+Batch #102 (8 ok / 0 skipped / 0 no-captions / 0 dup). @neilpatel P2 long-form,
+2023-03-20→2023-04-06: a HubSpot 1,000-marketer-survey interview (5 challenges: global
+audience, privacy regs, pivoting strategy, ROI/vanity metrics, traffic/leads); a
+UK-hosted interview built around the "Neil Patel Digital" → "NP Digital" personal-brand
+naming decision; a podcast origin-story interview (job board, Speech 101, focus regret,
+Kissmetrics hiring lesson); a real-estate-audience SEO interview (PBN/link-package
+warnings, Boy Scout popcorn anecdote); a long financially-detailed interview (★
+landmark — a GM-account-firing origin variant for Crazy Egg, AnswerThePublic acquisition
+economics, declined PE/IPO offers, influencer-brand economics); a "Success with Soul"
+values interview (AI/E-E-A-T skepticism, uncle's stay-level-headed mantra origin); an
+AI-marketing-formula interview (TAM/disrupt/omnichannel, "first inning" analogy,
+AI-vs-economy jobs stance); and a small-business interview (cold-call origin variant,
+76%-referrals client mix, exact country footprint). All fully Neil-attributed
+(interviewer questions excluded); no captions issues, no rate-limiting (8/8 fetched
+clean).
+Synthesis notes: (1) ★ [[wiki/sources/2023-03-30-yt-fslIfiEouqs]] gives a new causal
+origin variant for Crazy Egg — fired from a General Motors ad-spend account for advising
+the client to cut wasted budget, which he says directly inspired building ROI-proof
+software — additive to, not reconciled with, the existing "hated being a consultant"/
+cloud-computing account on [[wiki/entities/crazy-egg]]; worth a synthesis-pass addition
+noting both tellings. (2) The same source discloses AnswerThePublic acquisition
+economics — ~$8.6M total ($6M upfront + $2.6M over 6 quarters), ~$100-130K/mo EBITDA at
+acquisition, targeting ~$300-400K/mo — where the registry-verified press
+(searchengineland.com, cited on [[wiki/entities/np-digital]]) records terms as
+undisclosed; strong candidate to add this self-reported figure (flagged self-reported)
+to np-digital.md/ubersuggest.md. (3) Two sources this batch ([[wiki/sources/2023-03-27-yt-01qUWcCw1xw]],
+[[wiki/sources/2023-03-30-yt-fslIfiEouqs]]) date that same acquisition to "February"/
+"earlier this year" (2023), contradicting the registry-verified 2022-05-31 close date —
+flagged as a self-reported-vs-registry contradiction on both source pages, not smoothed
+over. (4) [[wiki/sources/2023-03-30-yt-fslIfiEouqs]] also records NP Digital declining
+multiple PE/IPO-adjacent offers over the prior two years ("the business is like a
+baby... I don't want to give my kids away") — a values/independence belief not yet in
+persona/beliefs.md, strong candidate for promotion. (5) [[wiki/sources/2023-04-01-yt-eL3aif7oF6c]]
+names his **uncle** as the source of the recurring "someone's better off, someone's
+worse off" leveling mantra (previously recorded without an origin) — a small but genuine
+new attribution for persona/biography.md. (6) [[wiki/sources/2023-04-06-yt-Ji5urXQRoLo]]
+gives a cold-call/pay-on-results monetization story that differs from the existing
+Speech-101/Elpac-Electronics first-client account — recorded as an additional telling,
+not reconciled; worth a synthesis note flagging both versions live in the corpus.
+(7) [[wiki/sources/2023-03-23-yt-YXRuz23PPjw]]'s personal-brand-vs-business-brand
+narrative (Mike Kamo's rename rationale, blog traffic at founding, Tony Robbins/Ogilvy/
+Michael-Jordan durability framing) sharpens and dates a belief already gestured at
+elsewhere — good beliefs.md candidate on personal-brand risk ("key man syndrome").
+Everything else (HubSpot 5-challenges answers, AI-formula/first-inning content, WordPress
+vs. Shopify, 76%-referrals stat, country-footprint detail) is solid corroborating detail
+of already-recorded positions — cross-link only, no new promotion needed.
+
+Ledger: open P2 long-form now @neilpatel 165 / @MarketingSchoolPod 731; ingested L2=1058.
+Ingest batches since last synthesis: 6 (checkpoint at 10). Next iteration: Stage B,
+continue @neilpatel P2 (oldest-first).
