@@ -754,6 +754,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2021-02-15 — [The Dumbest SEO Hack (That Works) (sitewide sidebar cornerstone-guide internal linking; audience-phrasing-over-volume anchor text)](2021-02-15-yt-H096tfFaKPw.md) — seo
 - 2021-02-18 — [How to Get More SEO Traffic Even When You Can't Rank #1 (Ubersuggest Chrome extension SERP overlay; rank-vs-traffic decoupling case study)](2021-02-18-yt-jtkNZRLxZpo.md) — seo
 - 2021-02-20 — [The New Form of Content Marketing (free-tool-over-content doctrine; 14M-click/6,978-post GSC stats; CodeCanyon white-label sourcing)](2021-02-20-yt-blo4PoOfxM8.md) — content-marketing, seo, agency-entrepreneurship
+- 2021-02-22 — [The BEST Way to Grow Your Instagram With Neil Patel (engagement-rate-over-followers algorithm doctrine; conference interview, interviewer's own stats excluded)](2021-02-22-yt-ahPVHMHyhqE.md) — social-media, analytics-cro
+- 2021-02-27 — [7 Landing Page Hacks That'll Double Your Sales - Part 2 [title mismatch, content=affiliate-conf Q&A] (SaaS 6-10x-revenue-at-breakeven exit claim; Messenger-marketing decline → push-notification pivot; 550K email list)](2021-02-27-yt-4imowpDWrDg.md) — paid-ads, email-marketing, agency-entrepreneurship, ai-marketing
+- 2021-03-01 — [Neil Patel on His First Job Creating Content - Selling Strategies [title mismatch, content=Bucharest GPeC origin-story interview] (job-board-at-16 origin; clothing-line failure; delegate-the-CEO-role; SWOT sales technique; micro-commitments) ★](2021-03-01-yt-669n5497uAs.md) ★ — agency-entrepreneurship
+- 2021-03-06 — [Is SEO Really Working For You? (traffic + rank-trend leading indicators; daily rank-tracking rationale)](2021-03-06-yt-u0uw-RicDKc.md) — seo, analytics-cro
+- 2021-03-08 — [Here's How You Assess and Improve a Website's SEO - Neil Patel's Website SEO Breakdown Session (five-bucket 0-10 audit framework; co-host Saulo Medeiros; 54% form-side CRO test)](2021-03-08-yt-Wxf9AISXBuU.md) — seo, analytics-cro, content-marketing
+- 2021-03-11 — [How to Find The Ideal Backlink (Ubersuggest exact-URL backlink prospecting; Hunter.io outreach; ~100-emails-to-3-6-links ratio)](2021-03-11-yt-p4LUA_cZh74.md) — seo
+- 2021-03-13 — [How to Write Blog Posts That Consistently Rank Well on Google (systematic 10-competitor/20-page content-gap workflow; 200-article outreach math)](2021-03-13-yt-CjzjUbA8nzA.md) — seo, content-marketing
+- 2021-03-15 — [How Many Anchor Text Rich Links Do You Really Need? (anchor-text-distribution analysis across competitor URLs for one keyword)](2021-03-15-yt-jYmBcEj9ygs.md) — seo
 
 ---
-_741 videos ingested (L2) so far._
+_749 videos ingested (L2) so far._

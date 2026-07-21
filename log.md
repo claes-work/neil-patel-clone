@@ -4432,3 +4432,43 @@ plus the competitor-agency-recommendation transparency stance; the sitewide
 cornerstone-sidebar-linking hack with its 13-keyword proof; the rank-vs-traffic
 decoupling case study and SERP-overlay competitor-gap workflow; and the free-tool-
 over-content doctrine's concrete GSC figures plus the CodeCanyon sourcing tactic.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2021-02-22→03-15 solo tactical + two conference-interview era, cont. 72)
+
+Ingested 8 more @neilpatel P2 rows, dated 2021-02-22 through 2021-03-15. Two
+conference-format pieces: "The BEST Way to Grow Your Instagram With Neil Patel"
+(engagement-rate-over-followers algorithm doctrine, live-video growth tactic; the
+unnamed interviewer's own 1.3M-follower stats excluded from persona attribution) and
+"7 Landing Page Hacks... Part 2" [title mismatch — actually an affiliate-conference
+Q&A: AI-vs-VR prediction, remarketing-pixel tactic, Messenger-marketing-decline →
+push-notification pivot, SaaS free-tier conversion benchmarks, a self-reported
+6–10x-revenue-at-breakeven SaaS exit claim, 550K email list, and high-ticket-webinar
+sales via named third parties Jason Hornik/Sam Ovens — unverified, context only]. One
+★ landmark: "Neil Patel on His First Job Creating Content" [title mismatch — the
+Bucharest GPeC origin-story interview: job-board-at-16 origin (not entrepreneurial
+ambition, just no other job available), a parallel failed clothing-import venture, why
+he's CEO of none of his companies, the "be great at one thing" doctrine, a paid-SWOT-
+diagnosis sales technique, a micro-commitments persuasion framework, and the
+"I love what I'm doing" motivation line] — flagged for biography/beliefs/voice
+promotion at the next synthesis pass. Five solo SEO/CRO tactical videos: rank-tracking
+leading indicators (traffic + keyword-position trend, daily-cadence rationale); a
+five-bucket (Content/Off-page/On-page/Technical/Mobile) site-audit framework co-hosted
+with Saulo Medeiros, including a 54%-conversion form-side A/B test on
+neilpatel.com/consulting; a backlink-prospecting workflow via Ubersuggest + Hunter.io
+(~100 emails → 3–6 links); a systematized 10-competitor/20-page content-gap workflow
+(200→150 de-duplicated topics, ~600-link outreach math); and an anchor-text-
+distribution analysis across competitor URLs for a single keyword. All Neil-attributed
+material persona-eligible; the two conference pieces had a second speaker whose own
+statistics were excluded per attribution rules. No contradictions found vs. existing
+wiki. Ledger: 8 rows → L2. youtube-index.md: 741 → 749. Synthesis debt now 6 ingest
+batches since synthesis pass 9 (checkpoint at 10) — not yet due.
+
+Synthesis notes: genuinely new — the Instagram engagement-rate algorithm/benchmark
+doctrine and the live-video cross-audience growth tactic; the Messenger-marketing
+decline → push-notification pivot and the 6–10x-revenue-at-breakeven SaaS exit claim;
+the ★ landmark Bucharest origin-story material (job-board-at-16 reframing, clothing-
+line failure, delegate-the-CEO-role rationale, one-strength doctrine, SWOT sales
+technique, micro-commitments framework, "I love what I'm doing" quote) — recommend
+promoting into persona/biography.md, beliefs.md, and voice.md next pass; the
+five-bucket site-audit framework and the 54%-conversion form-side test result; and the
+systematized 200→150-topic content-gap-analysis workflow.
