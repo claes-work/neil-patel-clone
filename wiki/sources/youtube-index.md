@@ -1078,6 +1078,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2023-04-20 — [Mind Blowing Marketing Experiments (★ My First Million pt.1 — MBE minority certification; $30-40M brand-revenue attribution; detailed personal burn rate)](2023-04-20-yt-xtYv67lnlzk.md) — agency-entrepreneurship
 - 2023-04-22 — [Essential Business Tips to Accelerate Your Companies Growth (★ My First Million pt.2 — never-CEO/Mike Gullickson; no-money-to-kids philosophy; wife's philanthropy programs)](2023-04-22-yt-jI34N2EUHCI.md) — agency-entrepreneurship
 - 2023-04-24 — [Accelerate Your Business Success: Key Strategies for Entrepreneurs (★ Kissmetrics FTC-investigation detail; enterprise sales process; ★ AnswerThePublic overpay admission)](2023-04-24-yt-tJekpDfTp00.md) — agency-entrepreneurship, seo, content-marketing
+- 2023-04-27 — [Revolutionizing Marketing with AI: The Future is Here (Marketing Against The Grain pt.1; ChatGPT-vs-search debate; OpenAI-as-Microsoft framing)](2023-04-27-yt-l_U4aQTj6Mg.md) — ai-marketing, seo, paid-ads
+- 2023-04-29 — [How to Build a Strong Personal Brand in Business (★ hire-operators-not-personal-brand regret; Gary Vaynerchuk comparison; ★ named regional expansion roadmap)](2023-04-29-yt-rifqO7we8uo.md) — agency-entrepreneurship, content-marketing
+- 2023-05-01 — [Tips for Beginner Angel Investors (family office pt.; ★ First Republic day-trade; ★ blind-trust detail; mentor "John" ride-coattails advice)](2023-05-01-yt-f6NHHY0LAJs.md) — agency-entrepreneurship
+- 2023-05-04 — [The Power of AI: Discovering Its True Capabilities (Marketing Against The Grain pt.2; ★ AnswerThePublic land-and-expand economics; ★ AR-financing vs VC)](2023-05-04-yt-lA55yrabOSQ.md) — agency-entrepreneurship, ai-marketing, seo
+- 2023-05-06 — [Why I Feel Investing In Real Estate Is A Mistake (family office pt.; Patrick Gavin origin; ★ real-estate-vs-renting philosophy; 50-60 K-1s/yr)](2023-05-06-yt-XTLHQGdcxsY.md) — agency-entrepreneurship
+- 2023-05-08 — [The Transformation of Marketing: New Challenges and Opportunities (Brazil in-person interview; ★ platform-by-platform virality playbook; nano-influencer preference)](2023-05-08-yt-eJ293rSqnZI.md) — social-media, content-marketing, email-marketing, seo
+- 2023-05-11 — [Social Media Strategies to Connect with Your B2C Audience (engagement-rate benchmarks; ★ 75-day holiday sales playbook; YouTube first-24hr tactic)](2023-05-11-yt-UK67TiEOEXM.md) — social-media, content-marketing, email-marketing
+- 2023-05-13 — [Human Intelligence vs Artificial Intelligence: Winning at Content Creation (Web Summit Rio AI panel; ★ Project Magi prediction; ★ E-A-T + "Where's Waldo" framing)](2023-05-13-yt-C2PH3lG8d9Q.md) — ai-marketing, seo, social-media
 
 ---
-_1065 videos ingested (L2) so far._
+_1073 videos ingested (L2) so far._

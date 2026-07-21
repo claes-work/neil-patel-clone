@@ -6290,3 +6290,62 @@ detail of already-recorded positions — cross-link only, no new promotion neede
 Ledger: open P2 long-form now @neilpatel 157 / @MarketingSchoolPod 731; ingested L2=1065.
 Ingest batches since last synthesis: 7 (checkpoint at 10). Next iteration: Stage B,
 continue @neilpatel P2 (oldest-first).
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2023-04-27→05-13, cont. 104)
+Batch #104 (8 ok / 0 skipped / 0 no-captions / 0 dup). @neilpatel P2 long-form,
+2023-04-27→2023-05-13: two-part HubSpot "Marketing Against The Grain" interview with Kieran
+Flanagan and Kipp Bodnar (pt.1 ChatGPT-vs-search debate; pt.2 AnswerThePublic/Ubersuggest
+land-and-expand economics, AR-financing-vs-VC history, "software is a race to the bottom"
+thesis); a personal-brand-vs-hiring-operators interview with an extended Gary Vaynerchuk
+comparison and a named regional-expansion roadmap; a two-part "family office" interview
+(host Andy Haggins) covering the March 2023 First Republic Bank day trade, blind-trust
+structure, real-estate-vs-renting philosophy, and Patrick Gavin origin-story detail; an
+in-person Brazil interview with a platform-by-platform virality/channel-sequencing playbook;
+a "Sales School"-host interview with quantified engagement-rate benchmarks and a 75-day
+holiday-sales tactical playbook; and a Web Summit Rio AI panel (with co-panelists Gail and
+FX) introducing Google's "Project Magi" prediction and the E-A-T + "Where's Waldo" framing
+for AI-content commoditization. No rate-limiting (8/8 fetched clean).
+Synthesis notes: (1) ★ [[wiki/sources/2023-05-04-yt-lA55yrabOSQ]] gives the most granular
+AnswerThePublic acquisition narrative in the corpus to date — $8.6M price (originally
+negotiated toward ~$6M with an earn-out), ~$100K/mo non-fully-burdened EBITDA at acquisition
+grown to ~$200K/mo fully burdened, and the explicit land-and-expand cold-calling mechanic
+behind the deal thesis — extends the $8.6M figure already recorded from
+[[wiki/sources/2023-03-30-yt-fslIfiEouqs]] and [[wiki/sources/2023-04-24-yt-tJekpDfTp00]]
+with new mechanics; strong candidate for the np-digital.md/ubersuggest.md entity pages. (2)
+The same source adds NP Digital's VC-vs-bank-AR-financing history (declined Sequoia/Bezos
+Expeditions pitches once profitable enough for banks to float ad-spend AR) — new financing
+detail, candidate for np-digital.md. (3) [[wiki/sources/2023-05-01-yt-f6NHHY0LAJs]] records a
+specific, dated financial-markets anecdote (a ~$900K→~$1.4M First Republic Bank day trade
+during the March 2023 banking crisis) plus a named early-20s mentor ("John" from Seattle,
+"ride the coattails" advice) — both new, concrete biographical material not previously in the
+corpus. (4) [[wiki/sources/2023-05-06-yt-XTLHQGdcxsY]] (same taped conversation as #3, per
+shared "family office" framing and host) adds that Crazy Egg — not KISSmetrics — was the
+company that kept growing through the 2008 financial crisis while his earlier ad agency
+collapsed, sharpening the existing 2008-pivot narrative with a specific company attribution;
+also states real estate is a "mistake" specifically for owner-occupied residences (not real
+estate as an asset class generally) — a nuance worth reconciling with any existing wealth-
+philosophy material at synthesis. (5) ★ [[wiki/sources/2023-04-29-yt-rifqO7we8uo]] records an
+explicit "if I started over, forget personal brand, hire experienced operators" position —
+directly in tension with (not quite contradicting) the well-documented "99% of year-one
+revenue came from personal brand" origin narrative; both are self-reported and dated the same
+day, so recorded as a nuanced values statement (early-stage personal brand was necessary, but
+he'd optimize differently in hindsight) rather than a contradiction. (6) ★
+[[wiki/sources/2023-05-11-yt-UK67TiEOEXM]] is unusually tactic-dense (quantified engagement
+benchmarks + a full 75-day holiday playbook covering cross-promotion, story-format landing
+pages, live-selling, a YouTube first-24hr view-velocity tactic, guest-post listicle
+placement, and two list-hygiene/deliverability hacks) — strong candidate for promotion into
+content-marketing/email-marketing tactics pages. (7) ★
+[[wiki/sources/2023-05-13-yt-C2PH3lG8d9Q]] introduces Google's E-A-T (Expertise, Authority,
+Trust) framework by name paired with a "Where's Waldo" AI-commoditization analogy, and the
+"Project Magi" search-consolidation prediction — both worth checking against any existing
+ai-marketing topic material at synthesis for reconciliation/cross-linking rather than
+duplication. Everything else (the Brazil interview's platform-virality playbook, the
+Marketing Against The Grain pt.1 ChatGPT-vs-search debate) is solid corroborating/expansion
+detail of already-recorded positions and third-party-attributed statistics (MIT search-value
+stat, Earth Web live-video stat, Walmart Labs personalization case) — cross-link only, no new
+promotion needed beyond what's flagged above.
+
+Ledger: open P2 long-form now @neilpatel 149 / @MarketingSchoolPod 731; ingested L2=1073.
+Ingest batches since last synthesis: 8 (checkpoint at 10). Next iteration: Stage B,
+continue @neilpatel P2 (oldest-first) — 2 more batches until the ~10-batch synthesis
+checkpoint is due.
