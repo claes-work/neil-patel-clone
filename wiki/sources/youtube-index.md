@@ -834,6 +834,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2021-09-02 — [The Content Marketing TRAP: Why Writing Content Can Drive ZERO Traffic (topic-cluster doctrine reinforced; conversion-over-traffic point)](2021-09-02-yt-a5PsN-Zuga8.md) — seo, content-marketing
 - 2021-09-04 — [10 Most Profitable SEO Niches to Start an Online Business (niche listicle: health/CBD, home-improvement, e-bikes, solar, furniture, wardrobe, board games, EV accessories, pet supplies)](2021-09-04-yt-9WNpEyNUIt4.md) — agency-entrepreneurship, content-marketing
 - 2021-09-06 — [Should You Design Your Landing Pages From Scratch or Use Templates? (Portent site-speed conversion study, 4.42%/sec 0-5s; template-vs-custom recommendation by business size)](2021-09-06-yt-3d9V7G2rOkM.md) — analytics-cro
+- 2021-09-09 — [WordPress SEO Tutorial for Beginners | Step-by-Step to Ranking a WordPress Site (4-factor plugin-driven checklist: speed, technical SEO, content promotion, security)](2021-09-09-yt-OZL33QIwDic.md) — seo, content-marketing, analytics-cro
+- 2021-09-11 — [The ONLY Features You Need to Use in SEO Tools (Ubersuggest feature tour: rank tracking, competitive analysis, keyword ideas, backlinks)](2021-09-11-yt-uWxyKa7osh4.md) — seo
+- 2021-09-13 — [A Simple Strategy to Scale Your E-Commerce Business (And Prepping for the 2021 Holiday Season) (sponsored by alibaba.com; seasonal-holiday prep + sourcing playbook)](2021-09-13-yt-Z50M18CNgqg.md) — agency-entrepreneurship, content-marketing
+- 2021-09-16 — [How to Write Amazing Blog Posts WITHOUT Being an Expert in Your Niche (copy-paste blog process; early Jarvis AI-writing-tool usage) ★](2021-09-16-yt-uEXzdo8aV8k.md) ★ — content-marketing, ai-marketing
+- 2021-09-18 — [How to Develop & Sell a Digital Product, Step by Step (1 Million Revenue Formula) (own info-product business disclosure: $371,882 avg monthly revenue, full 7-step webinar-funnel system) ★](2021-09-18-yt-H8XjS-SpoJI.md) ★ — agency-entrepreneurship, paid-ads, analytics-cro
+- 2021-09-20 — [7 SEO Secrets You Can Learn From Big Brands (indexed-page-count figures for Apple/Microsoft/IBM/Nike; neilpatel.com's own multi-language translations; PR Serve name-drop)](2021-09-20-yt-c_BaHl0YPs8.md) — seo, content-marketing
+- 2021-09-23 — [4 eCommerce SEO Techniques for Beginners (Ranking Your Products and Getting FREE Google Traffic) (Google Merchant, transactional-intent product-page SEO, canonical/301 over deletion, NP Digital >40% ecommerce clients)](2021-09-23-yt-FFWg6Dzw--g.md) — seo, agency-entrepreneurship
+- 2021-09-25 — [The Optimization TRAP: When SEO Actually HURTS Your Traffic (over-optimization pitfalls: anchor-text, keyword-density myth, link-velocity; own early-SEO-years habit disclosure)](2021-09-25-yt-s7sitpg1knA.md) — seo
 
 ---
-_821 videos ingested (L2) so far._
+_829 videos ingested (L2) so far._

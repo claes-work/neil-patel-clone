@@ -4878,3 +4878,27 @@ range) — with a template-vs-custom recommendation split by business size (3d9V
 content-marketing-trap, 10-niches listicle) were pure tactical reinforcement or
 listicle content with no new persona-level claims. None promoted inline; debt now
 6/10 batches since synthesis pass 10.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2021-09-09→09-25, cont. 82)
+Batch of 8 solo tactical videos, all Neil-attributed, no captions issues, no rate-limiting.
+Two items stand out: (1) **How to Develop & Sell a Digital Product, Step by Step** ★ — a
+first-person disclosure of Neil's discontinued info-product business, self-reporting average
+monthly revenue of $371,882 (peak ~$600K), the reason he exited it ("wanted to build a bigger
+business"), and his complete 7-step survey→webinar→money-back-guarantee→$1-trial→community→
+paid-ads→analytics-funnel-diagnosis system, including a self-reported >$100K/month paid-ad spend
+that reportedly outperformed SEO traffic to the same webinar — new, concrete, dated
+autobiographical/business material. (2) **How to Write Amazing Blog Posts WITHOUT Being an
+Expert** ★ — an early (2021-09) disclosure of using the AI writing tool Jarvis for partial
+drafting/outlining, framed explicitly as a time-saver not a ghostwriter; a useful dated data
+point for the ai-marketing belief-evolution timeline (prior AI entries were 2018 forecasts, not
+tool-usage claims). The remaining six videos were tactical reinforcement of existing doctrine
+(WordPress-plugin SEO checklist, Ubersuggest feature tour, ecommerce SEO techniques, big-brand
+SEO secrets with new indexed-page-count figures and neilpatel.com's own multi-language footprint,
+over-optimization pitfalls) plus one sponsored Alibaba ecommerce-seasonal video (disclosed
+sponsorship, low persona value beyond a generic seasonal-prep framework). No contradictions
+found. Ledger: yt-OZL33QIwDic, yt-uWxyKa7osh4, yt-Z50M18CNgqg, yt-uEXzdo8aV8k, yt-H8XjS-SpoJI,
+yt-c_BaHl0YPs8, yt-FFWg6Dzw--g, yt-s7sitpg1knA all set to L2.
+Synthesis notes: two ★ items worth promoting at the next synthesis pass — (1) the info-product
+business revenue disclosure ($371,882/mo avg, ~$600K peak) + full 7-step webinar-funnel system
+(agency-entrepreneurship/paid-ads/analytics-cro), (2) the Jarvis AI-writing-tool usage as a dated
+ai-marketing data point. Debt now 7/10 batches since synthesis pass 10.
