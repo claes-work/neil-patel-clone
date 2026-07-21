@@ -960,6 +960,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2022-07-07 — [A Simple Marketing Tactic That Still Works (10-year interview/PR tactic; hunter.io outreach template; self-reported 6-7-figure deals)](2022-07-07-yt-GjQzocNu1k4.md) — content-marketing, agency-entrepreneurship
 - 2022-07-09 — [How to Build an Amazing Marketing Team (Ubersuggest-sourced competitor-LinkedIn recruiting; tenure/promotion-as-performance-proxy; players-not-coaches)](2022-07-09-yt-uUkR0xvHFKY.md) — agency-entrepreneurship
 - 2022-07-11 — [My Favorite Business Hack (freemium-to-services funnel; Ubersuggest-vs-HubSpot-vs-Dentsu/WPP/Omnicom revenue framing; Orabrush case study) ★](2022-07-11-yt-9cRjTh4yZDc.md) ★ — agency-entrepreneurship, paid-ads
+- 2022-07-14 — [The Number 1 Hack to Collect More Emails (spin-the-wheel gamified opt-in; John Reese "digital ATM" anecdote; 2.3-3.8%-unique-emails-per-100-visitors benchmark)](2022-07-14-yt-2kS1p9mbCZ8.md) — email-marketing
+- 2022-07-16 — [Why Social Media Marketing Doesn't Work (For Most People) (ideal-customer-vs-vanity-metrics thesis; lifestyle-content-vs-marketing-tips conversion contrast)](2022-07-16-yt-98dRHoH1t1M.md) — social-media
+- 2022-07-18 — [One Data Point That Will Change How You Do B2B Marketing (NP Digital channel ranking: referrals #1, SEO #2 [2M+ visitors/mo], YouTube #3 [640K views/mo]; 700+-employee marker)](2022-07-18-yt-CeWlh0rEE-8.md) — social-media, seo, agency-entrepreneurship
+- 2022-07-21 — [The Biggest SEO Mistake I've Made (black-hat-era retelling: names the site "Battlefield Bypass," casino-content top-3 ranking, $ figures; age-37 self-report) ★](2022-07-21-yt-j-hZ_8XWwY0.md) ★ — seo
+- 2022-07-23 — [Exposing My Social Media Strategy (follower-count snapshot; 3 rules: post consistently, target ideal customer, genuinely help others)](2022-07-23-yt-GiAmFByUz6M.md) — social-media
+- 2022-07-25 — [Here are the Types of Content Twitter Loves (4 content types w/ engagement figures: questions, live video, tweet storms, quotes; elevator-signage anecdote)](2022-07-25-yt-mlY0Wm-XFHQ.md) — social-media
+- 2022-07-28 — [7 Marketing Lessons Learned From Billion-Dollar Companies You've Never Heard Of (Danaher/Fortive/Ceridian case studies; TAM, word-of-mouth, "ugly is sexy," hiring heuristic)](2022-07-28-yt-AvCaacnmWB4.md) — content-marketing, agency-entrepreneurship
+- 2022-07-30 — [How to Create the Perfect Tweet Storm (tweetstorm tactics: Ubersuggest topic-validation, 5+-tweet minimum, stats-drive-retweets; worked SEO-tools example)](2022-07-30-yt-mlA3AqBV_mQ.md) — social-media
 
 ---
-_947 videos ingested (L2) so far._
+_955 videos ingested (L2) so far._

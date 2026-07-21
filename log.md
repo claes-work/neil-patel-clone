@@ -5598,3 +5598,36 @@ YouTube") is a new biographical beat for persona/biography.md; (4) the tenure/pr
 proxy recruiting mechanism should be merged with the existing hire-people-who've-done-it-twice
 philosophy from 2022-06-09 into one coherent hiring-methodology topic entry rather than left as two
 separate anecdotes; (5) no contradictions found in this batch.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2022-07-14→07-30, solo tactical era, cont. 98)
+
+Batch of 8 selected rows (oldest-first, @neilpatel P2 long-form): all 8 ok, 0 no-captions, 0 skipped,
+0 dup. Wrote 8 `wiki/sources/` pages — email-list gamification via a "spin the wheel" opt-in widget
+(John Reese "digital ATM" anecdote, 2.3–3.8-unique-emails-per-100-visitors benchmark); the
+ideal-customer-vs-vanity-metrics thesis (zero incremental leads from generic mass-appeal content
+despite "hundreds" of tests); NP Digital's own channel ranking (referrals #1, SEO #2 at 2M+
+visitors/mo, YouTube #3 at 640K views/mo; 700+-employee headcount marker, up from the 500–640 range
+recorded from earlier 2022 sources — growth, not a contradiction); a retelling of the well-documented
+black-hat-SEO origin story that adds new specifics — names the acquired expired domain **"Battlefield
+Bypass"** (a former national-park/war-memorial site), quantifies the casino-affiliate payoff as
+"hundreds of thousands" of dollars a month before Google removed all rankings, and repeats the
+age-37/started-at-16 self-report that corroborates the ~1985 birth-year estimate; a follower-count
+snapshot (1M+ YouTube, 1M+ Facebook, 315K+ Instagram, 440K+ LinkedIn, 430K+ Twitter) plus the
+three-rules social-media framework (post consistently, target ideal customer, genuinely help others —
+the last one traced to a "10+ years ago" accidental habit); a Twitter content-type breakdown (questions,
+live video, tweet storms, quotes) with per-tweet engagement figures and an elevator-signage anecdote;
+the "7 marketing lessons from billion-dollar companies you've never heard of" framework (Danaher/
+Fortive/Ceridian case studies — multi-product portfolios, TAM, word-of-mouth over ad spend, "ugly is
+sexy," go-global, the LinkedIn hire-people-promoted-by-competitors heuristic, patient brand-building);
+and a tweetstorm tactics page (Ubersuggest as topic-validation tool, 5+-tweet minimum, stats drive
+retweets). `pipeline/ledger.csv` updated (8 rows → L2). `wiki/sources/youtube-index.md` updated in
+date order, footer bumped 947→955; `index.md` count bumped to match. No captions issues, no
+rate-limiting encountered.
+
+Synthesis notes: the **Battlefield Bypass** black-hat-SEO retelling (★, new site name + revenue
+figures vs. the corpus's existing "civil-war .edu domain" phrasing from the 2018 sources — elaboration,
+not a hard contradiction, but worth reconciling into wiki/topics/seo/seo.md and persona/biography.md
+at the next synthesis pass) is the only genuinely new item this batch; the follower-count, channel-
+ranking, and three-rules/four-content-types material are dated restatements/refinements of frameworks
+already synthesized into persona/beliefs.md and wiki/topics/social-media. 3 ingest batches accumulated
+since synthesis pass 12 (checkpoint at 10) — not yet due.
