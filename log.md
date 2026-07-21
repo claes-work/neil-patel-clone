@@ -6349,3 +6349,59 @@ Ledger: open P2 long-form now @neilpatel 149 / @MarketingSchoolPod 731; ingested
 Ingest batches since last synthesis: 8 (checkpoint at 10). Next iteration: Stage B,
 continue @neilpatel P2 (oldest-first) — 2 more batches until the ~10-batch synthesis
 checkpoint is due.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2023-05-15→06-01 solo tactical + 2 Digital Social Hour interviews + Brazil interview era, cont. 105)
+Batch #105 (8 ok / 0 skipped / 0 no-captions / 0 dup). @neilpatel P2 long-form,
+2023-05-15→2023-06-01: two paired interview-podcast episodes from an unnamed host
+(webinar/agency-vs-in-house formula, then a 4-step SEO methodology — likely the same
+taped conversation split across two uploads); a narrated recap-style beginner-digital-
+marketing interview (content blindness, 40/10/20/30 content formula, focus advice to his
+younger self); a solo omnichannel-marketing conference talk delivered live in Brazil
+(Ubersuggest/AnswerThePublic acquisition economics, peak-end rule, case studies); two
+Digital Social Hour podcast episodes (hosts Sean Kelly and Wayne Lewis) — the first the
+most detailed personal/family biography in the corpus to date, the second covering AI
+skepticism, celebrity-endorsement views, and personal household hires; an in-person Brazil
+interview with finance creator Thiago Nigro ("Primo Rico") covering NP Digital's Brazil
+origin story and CEO Mike Gullickson's hiring rationale; and a solo scripted TikTok Ads
+setup tutorial. No rate-limiting (8/8 fetched clean).
+Synthesis notes: (1) ★ [[wiki/sources/2023-05-25-yt-jNjE5CGiULs]] is the most detailed
+biographical/family disclosure in the corpus to date: career origin at 16 (Speech 101
+class → $5K/month client → $20-25M client revenue in year one → own ad agency same year);
+2008-crisis pivot from ad agency to software (Crazy Egg, run today by his sister — named
+"Amy" here, a spelling variant against "Amee" recorded in persona/biography.md, not
+reconciled); NP Digital's "7, 8, 9" declined buyout offers and never-sold/no-IPO stance;
+and first-in-corpus specificity on marriage (~2019) and two kids (ages 3 and 1, born during
+COVID, wife of non-Indian mixed heritage) — still name-free per SUBJECT.md's
+not-public-family-names rule, but a strong candidate for a dated biography.md entry and a
+persona/beliefs.md entry on his "money is a scorecard, not a lifestyle" value (Honda
+Odyssey despite having a driver). (2) ★ [[wiki/sources/2023-05-27-yt-luLpx7-Pdtg]] adds
+NP Digital's Brazil-expansion origin story (Hotmart conference → Andre Esteves/BTG Pactual
+conversation) not previously in the corpus, a first-employee date (~April 2018) that
+should be cross-checked against the existing headcount timeline in persona/biography.md,
+and a fuller Mike Gullickson career history (iProspect/Dentsu president, prior company
+sold $50M+, prior-prior led sales/ops at a company sold to Hearst for an estimated
+$300-400M) — partially consistent with, but not fully reconciled against, the entity
+page's existing $325M Hearst-sale figure and "Gullaksen" spelling variant; candidate for
+an entity-page update at the next synthesis pass. (3) The pre-AWS failed cloud-computing
+venture (~2005, "over a million dollars" lost) recorded in the same source is a distinct
+telling from the existing Rockwall/TX fraud-loss story already in persona/biography.md —
+both are self-reported early-career losses but describe different mechanisms (bad hires
+vs. fraud) and should be kept as separate entries, cross-linked, at synthesis. (4)
+[[wiki/sources/2023-05-22-yt-OfZ1WFGpMRs]] gives the fullest single-source breakdown yet
+of Ubersuggest ($120K acquisition, $3-5M invested, 36M users/5yr, 40% of NP Digital
+revenue and customers) and AnswerThePublic ($8.6M, Feb 2023, an 18M-users/5yr figure
+stated so soon after acquisition it reads as an aspirational target rather than an
+achieved result — flagged for synthesis, not smoothed over) economics in one place; strong
+candidate for the ubersuggest.md and np-digital.md entity pages. (5) ★
+[[wiki/sources/2023-05-29-yt-yD9STLejnbk]] adds a concrete NP Digital headcount/expansion
+snapshot (~750-800 employees; France/Italy/Germany/Singapore/LATAM live, Malaysia/Spain
+hiring) and a LinkedIn-as-#2-revenue-channel-after-YouTube claim worth cross-linking into
+any social-media topic page. Everything else (the SEO 4-step formula, the TikTok Ads
+tutorial, the omnichannel platform tactics, the celebrity-endorsement examples) is solid
+corroborating/expansion detail of already-recorded positions — cross-link only, no new
+promotion needed beyond what's flagged above.
+
+Ledger: open P2 long-form now @neilpatel 141 / @MarketingSchoolPod 731; ingested L2=1081.
+Ingest batches since last synthesis: 9 (checkpoint at 10). Next iteration: Stage S —
+one more @neilpatel P2 batch (or straight to synthesis, per the driver's checkpoint
+signal) will cross the 10-batch threshold.

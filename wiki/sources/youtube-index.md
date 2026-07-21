@@ -1086,6 +1086,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2023-05-08 — [The Transformation of Marketing: New Challenges and Opportunities (Brazil in-person interview; ★ platform-by-platform virality playbook; nano-influencer preference)](2023-05-08-yt-eJ293rSqnZI.md) — social-media, content-marketing, email-marketing, seo
 - 2023-05-11 — [Social Media Strategies to Connect with Your B2C Audience (engagement-rate benchmarks; ★ 75-day holiday sales playbook; YouTube first-24hr tactic)](2023-05-11-yt-UK67TiEOEXM.md) — social-media, content-marketing, email-marketing
 - 2023-05-13 — [Human Intelligence vs Artificial Intelligence: Winning at Content Creation (Web Summit Rio AI panel; ★ Project Magi prediction; ★ E-A-T + "Where's Waldo" framing)](2023-05-13-yt-C2PH3lG8d9Q.md) — ai-marketing, seo, social-media
+- 2023-05-15 — [Webinars for Sales Funnel: A Guide to Understanding the Ins and Outs (agency vs in-house; agency comp models; webinar formula; luck-and-timing on virality)](2023-05-15-yt-AJ79QnKgvDA.md) — paid-ads, content-marketing, agency-entrepreneurship, social-media
+- 2023-05-18 — [My Secrets To Creating an SEO Friendly Website (4-step SEO formula; SEO timeline; 10M organic visits stat; billion-dollars-vs-followers)](2023-05-18-yt-5I1hXX_xz7c.md) — seo, content-marketing, agency-entrepreneurship
+- 2023-05-20 — [New to Digital Marketing: 10 Essential Tips for a Strong Start ("content blindness"; 40/10/20/30 content formula; ADD/focus advice to younger self)](2023-05-20-yt-4abNIEHj-10.md) — content-marketing, social-media, seo, agency-entrepreneurship
+- 2023-05-22 — [Unlocking Success: Omnichannel Strategies for 2023 (solo Brazil talk; Ubersuggest/AnswerThePublic economics; peak-end rule; case studies)](2023-05-22-yt-OfZ1WFGpMRs.md) — content-marketing, social-media, email-marketing, agency-entrepreneurship, seo
+- 2023-05-25 — [Impactful Marketing: Why You Should Incorporate Giving Back into Your Strategy (★ Digital Social Hour pt.1; ★ detailed origin story; ★ marriage/kids; buyout offers; cookie deprecation)](2023-05-25-yt-jNjE5CGiULs.md) — agency-entrepreneurship
+- 2023-05-27 — [Navigating Growth: Essential Tips for Expanding Your Small Business (★ Brazil interview w/ Thiago Nigro; NP Digital Brazil origin; ★ Mike Gullickson bio; failed cloud-computing venture)](2023-05-27-yt-luLpx7-Pdtg.md) — agency-entrepreneurship, seo
+- 2023-05-29 — [Alternative Marketing Methods Outperforming AI (Digital Social Hour pt.2; AI-5yr skepticism; celebrity-endorsement views; LinkedIn B2B stat; personal hires)](2023-05-29-yt-yD9STLejnbk.md) — ai-marketing, agency-entrepreneurship, content-marketing, social-media
+- 2023-06-01 — [How to start using TikTok Ads to supercharge your e-commerce business (Spark Ads; TikTok Pixel setup; mid-funnel/add-to-cart optimization)](2023-06-01-yt-f-XD7GB22to.md) — paid-ads, social-media
 
 ---
-_1073 videos ingested (L2) so far._
+_1081 videos ingested (L2) so far._
