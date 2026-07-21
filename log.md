@@ -4338,3 +4338,61 @@ through pass 9.
 ## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2020-12-19→2021-01-11, solo tactical: old-content-refresh 21:1-ratio GSC workflow / full Facebook Unlocked course launch-through-COMPLETES [setup, page/group config, content-type checklist, organic-reach algorithm mechanism, ads auction+targeting, five-rules brand-growth framework ★] / 2021 predictions video [title mismatched "2023"], cont. 69)
 
 Synthesis notes: the 21-old-articles-per-1-new content-refresh ratio (extends the existing rank-old-content doctrine with a specific number); the full **Facebook Unlocked** course now complete end-to-end — News-Feed-algorithm mechanism (reach gated by existing-follower engagement first), native-posting-over-scheduling-apps rationale, the explicit Facebook ad auction-value formula, per-placement ad-spec detail, and the course-closing **five-rules brand-growth framework** ★ + two-ad blog-then-retarget funnel model (both strong synthesis-candidate frameworks for the social-media/paid-ads hubs); the marginal-gains (Brailsford) framing elevated from a one-off anecdote to an explicit organizing meta-principle for a full trends forecast, plus a specific 10-minute audio/video length threshold and a CDN-non-static-files +7%-conversion tactic. QA: flagged a wife-named-"Michelle" aside as self-reported/uncorroborated per SUBJECT.md policy (not promoted to biography); flagged a title/date mismatch on the 2021-01-11 video (YouTube title says "2023," content and publish date are 2021 — same re-titling pattern already flagged elsewhere in the corpus).
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2021-01-14->02-01, cont. 70)
+
+Stage B ingest batch, 8 videos → L2, all @neilpatel solo (no other speakers; fully
+Neil-attributed). Dispatched under the roster autopilot — all 8 source pages written
+directly, sequentially, one after another (collapsed-nesting rule; no per-video
+subagents). Ledger rows set to L2 with domains/notes; `wiki/sources/youtube-index.md`
+updated in date order (725→733, footer bumped); `index.md` source count and header
+bumped to match.
+
+**Coverage**: two more 2021-predictions videos, both carrying the same recurring
+title/date-mismatch pattern already flagged elsewhere in the corpus (current YouTube
+title says "2023," content and publish date agree on 2021):
+[[wiki/sources/2021-01-14-yt-RjIs4S2z1W0]] (SEO predictions — seesawing rankings,
+position-one scarcity as Google claims more SERP real estate, the about.com
+niche-split case reused against branding-alone, a 3-4-month link-outreach-delay
+practice, ~80% non-US traffic) and
+[[wiki/sources/2021-01-16-yt-OZNVuHfQ4IA]] (content-marketing predictions — push
+notifications via "Subscribers" with 16k-89k per-post click figures, the fullest
+10-item quantified CTR-headline-formula list logged so far, the named "Hot Script by
+Sunny" YouTube-hook technique, Ubersuggest self-reported at 200k+ leads/month). Then a
+solo Ubersuggest-tool run: [[wiki/sources/2021-01-18-yt-MFLXnMh-BHo]] (link-building via
+the Backlinks report's followed-only/one-per-domain/anchor-keyword filter combo +
+hunter.io for contact discovery), [[wiki/sources/2021-01-21-yt-gKGtX4PNu0g]] (SEO
+Analyzer site-audit walkthrough; a specific 50ms Page-Experience latency threshold; the
+deliberate-crawl-throttling design detail), and
+[[wiki/sources/2021-01-23-yt-vF1URMDVO7A]] (keyword-gap workflow; prioritize by volume
+AND CPC together, not either alone). Batch closes with three more lessons of the
+**Email Marketing Unlocked** course (intro at
+[[wiki/sources/2021-01-25-yt-Gxd4NeKQg58]], already in the corpus):
+[[wiki/sources/2021-01-28-yt-dG-6A8_R_MY]] (Week 1 lead-gen lesson — Exit Intent +50.3%,
+social-login +59.4%, "login"-vs-"sign up" wording +22%, the Nutrition Secrets
+108%-lift/210%-sales-lift quiz case study, a Quicksprout 42%/8.5% webinar-funnel case),
+[[wiki/sources/2021-01-30-yt-S4HcIG1lv2w]] (Week 1 Lesson 2 — a $38-per-$1 email-ROI
+figure, the autoresponder/broadcast/campaign-stacking taxonomy, segmentation +
+"journeys" per segment), and [[wiki/sources/2021-02-01-yt-nhfs2dyx9Cg]] ★ (Week 2
+Lesson 1 — a self-reported 98%-educational/2%-promotional personal email ratio sharper
+than the standard 80/20 rule, a ~50% cart-abandonment baseline, and a stated
+plain-text-over-HTML stylistic preference with reasoning).
+
+No captions issues, no rate-limiting (8/8 fetched clean on the first attempt). Ledger
+open long-form after batch: **@neilpatel P2:493 P3:21**, **@MarketingSchoolPod P2:731
+P3:28** (unchanged, not this batch's channel). Ingest batches since last synthesis: 5
+(checkpoint at 10).
+
+Synthesis notes: the 10-item quantified CTR-headline-formula list and the named "Hot
+Script by Sunny" YouTube-hook technique are the strongest content-marketing/seo
+candidates (fuller/more quantified than anything currently on those topic pages); the
+Email Marketing Unlocked lesson cluster contributes several previously-unlogged,
+concrete figures worth folding into the email-marketing hub once that course completes
+(Exit-Intent/social-login/wording lift percentages, the $38 ROI figure, the
+autoresponder/broadcast/campaign-stacking taxonomy, the 98/2 email ratio, the ~50%
+cart-abandonment baseline, and the plain-text-over-HTML preference). The 50ms Page
+Experience latency threshold and the Ubersuggest Backlinks-report filter/hunter.io
+workflow are incremental tool-stack detail. Reinforcement-only, not new: the
+seesawing-rankings/niche-focus/content-length SEO doctrine (already established),
+the 1-new/21-updates content-refresh ratio, and the "dating not marriage" welcome-
+sequence framing.

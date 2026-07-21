@@ -738,6 +738,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2021-01-07 — [The Beginner's Guide to Facebook Ads - Module 2 - Lesson 2 - Facebook Unlocked (auction formula; Pixel/targeting/ad-spec detail)](2021-01-07-yt-IuS6CO14e1s.md) — social-media, paid-ads
 - 2021-01-09 — [Growing Your Brand on Facebook - Module 2 - Lesson 3 - Facebook Unlocked (COMPLETES the course; five-rules framework ★; two-ad remarketing funnel)](2021-01-09-yt-NWMkd58lxSQ.md) ★ — social-media, paid-ads, agency-entrepreneurship
 - 2021-01-11 — [How Digital Marketing Will Change in 2023 [title/date mismatch, content=2021] (7 predictions; marginal-gains meta-framework; 10-min video-length threshold)](2021-01-11-yt-KzRka1lpdb4.md) — seo, content-marketing, social-media
+- 2021-01-14 — [How SEO Will Change in 2023 [title/date mismatch, content=2021] (seesaw rankings; position-one scarcity; niche focus; slow link velocity; global SEO)](2021-01-14-yt-RjIs4S2z1W0.md) — seo
+- 2021-01-16 — [How Content Marketing Will Change in 2023 [title/date mismatch, content=2021] (push notifications; translations; 10-item CTR headline formula; YouTube SEO; Ubersuggest lead volume)](2021-01-16-yt-OZNVuHfQ4IA.md) — content-marketing, seo, social-media, analytics-cro
+- 2021-01-18 — [How to Find Lucrative Link-Building Opportunities in Under 60 Seconds (Ubersuggest Backlinks report filters + hunter.io outreach)](2021-01-18-yt-MFLXnMh-BHo.md) — seo
+- 2021-01-21 — [How to Optimize Your Website in Less Than 30 Minutes (Ubersuggest SEO Analyzer; Page Experience 50ms latency threshold)](2021-01-21-yt-gKGtX4PNu0g.md) — seo, analytics-cro
+- 2021-01-23 — [How to Find All the Keywords That Your Competitors Rank For (But That You Don't) (Ubersuggest keyword-gap workflow; volume+CPC prioritization)](2021-01-23-yt-vF1URMDVO7A.md) — seo
+- 2021-01-28 — [Lead Generation Tactics I Used To Acquired Over 2 Million Subscribers - Email Marketing Unlocked (Exit Intent/social-login/wording lift figures; Nutrition Secrets quiz case study)](2021-01-28-yt-dG-6A8_R_MY.md) — email-marketing
+- 2021-01-30 — [High-Converting Workflows & Sequences That You Can Copy, Paste & Send - Email Marketing Unlocked ($38 ROI figure; autoresponder/broadcast/campaign-stacking taxonomy; segmentation+journeys)](2021-01-30-yt-S4HcIG1lv2w.md) — email-marketing
+- 2021-02-01 — [How to Maximize Your Customer Lifetime Value with Email Marketing - Email Marketing Unlocked (98/2 educational ratio; ~50% cart-abandonment baseline; plain-text preference)](2021-02-01-yt-nhfs2dyx9Cg.md) — email-marketing, analytics-cro
 
 ---
-_725 videos ingested (L2) so far._
+_733 videos ingested (L2) so far._
