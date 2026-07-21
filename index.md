@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-21 (@neilpatel batch — 8 P2 long-form L2, 2021-04-05→2021-04-22, cont. 74: eight solo SEO/content/branding tactical videos (a personal-branding checklist with an explicit Gary Vaynerchuk style contrast [title mismatch: not actually international-focused], a six-point blog-CTA placement system, 10 quantified title-tag CTR tactics, the "37M views without going viral" volume-over-virality case, long-tail-vs-head-term SEO, a first-24-hours YouTube-ranking mechanism ★, a beginner keyword-list workflow with a ~5%-overlap rule, and a live SEO Analyzer thin-content/duplicate-meta walkthrough); 765 videos L2. Full change history: see log.md (append-only) and pipeline/synthesis-state.md for synthesis-pass detail; this header now tracks only the latest batch to avoid unbounded growth.)_
+_Last updated: 2026-07-21 (@neilpatel batch — 8 P2 long-form L2, 2021-04-24→2021-05-13, cont. 75: a backlink-reclamation/competitor-link-mining tutorial, the full 6-lesson CRO Unlocked course (launch through COMPLETES — revenue-formula framing, Skincare-by-Alana + Atlanta-wholesaler case studies ★, one-test-per-funnel-step rule, Crazy Egg session recordings, conditional exit-intent, retailer lessons + Porter/PEST/SWOT frameworks, Zuckerberg/Bezos iteration quotes), and the Growth Hacking Unlocked course launch (Bill Gates/Microsoft case study; KISSmetrics $16.4M/7-rounds fundraising history + True Ventures rejected-then-invested anecdote ★); flags a CONTRADICTION (Crazy Egg co-founder identity: brother-in-law vs. the documented Hiten Shah narrative); 773 videos L2. Full change history: see log.md (append-only) and pipeline/synthesis-state.md for synthesis-pass detail; this header now tracks only the latest batch to avoid unbounded growth.)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life/career timeline (England → Orange County → Crazy Egg/KISSmetrics → NP Digital → Ubersuggest → Marketing School), registry/court-verified vs self-reported marked per claim.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe.
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 765 videos ingested (L2).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 773 videos ingested (L2).
 
 ## Topics
 

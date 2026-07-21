@@ -4559,3 +4559,65 @@ marginal-gains / Fishkin pogo-sticking framing pairing for title-tag CTR tactics
 quantified percentages); and the ~5%-max-keyword-overlap-per-post anti-cannibalization
 rule. The long-tail-vs-head-term SEO and beginner-keyword-research videos are mostly
 restatement of already-promoted material (not flagged as new).
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2021-04-24→05-13, backlink-reclamation tutorial + CRO Unlocked course COMPLETES + Growth Hacking Unlocked launches, cont. 75)
+
+Ingested 8 more @neilpatel P2 rows, dated 2021-04-24 through 2021-05-13 — dispatched
+under the roster autopilot, so all source pages were written directly by one agent,
+sequentially, per the collapsed-nesting rule (no per-video subagents). All eight are
+solo, Neil-fronted tactical tutorials — no promo trailers, no other-people-only
+content. Videos: a backlink-building tutorial demoing Ubersuggest's Backlinks Checker
+for link reclamation (mine your own lost backlinks) and competitor new-link mining
+(target a competitor's newest links, not lost ones — "that pitch doesn't really work
+well"), with a hunter.io outreach workflow; then the full 6-lesson **CRO Unlocked**
+course launches and COMPLETES within this batch — Wk1L1 (course intro, the
+traffic-times-conversion-rate formula attributed to his Crazy Egg co-founder, the
+Skincare-by-Alana >200%-CVR-lift case and an Atlanta wholesaler's $3.1M→$7.9M Inc-500
+case ★), Wk1L2 (one-test-per-funnel-step iteration rule, the Gumroad $1.99-vs-$2
+pricing-psychology case, a B2B lead-funnel math example), Wk2L1 (Crazy Egg session
+recordings, quantitative-vs-qualitative research, conditional yes/no exit-intent,
+a landing-page checklist, the Apple/Nike "make customers love you" lever, a 35%-of-
+Amazon-revenue dynamic-recommendations stat), Wk2L2 ("bulletproof" e-commerce sales
+tactics — large-retailer lessons, retargeting doctrine, a named MobileMonkey
+Messenger-bot recommendation ⚠️ dated vs. the wiki's later Messenger-decline note, and
+the FIRST appearance in the ledger of three competitive-analysis frameworks — Porter's
+Five Forces, PEST, and SWOT), and Wk2L3 (course-completion lesson: Zuckerberg's
+10,000-versions-of-Facebook quote, Bezos's double-the-experiments quote, a CRO process
+loop, Crazy Egg's >1B-monthly-visitors/100K-customers stats). The batch closes with
+**Growth Hacking Unlocked** launching: Lesson 1 (learn-from-other-founders doctrine,
+explicit self-deprecation — "I'm not the smartest person out there" — and a detailed
+Bill Gates/Microsoft case study, incl. a "copy the market leader" tech lineage:
+Google-after-Microsoft, Facebook-after-Google, Snapchat/WhatsApp-after-Facebook) and
+Lesson 2 (fundraising fundamentals, naming Crunchbase as his research tool, a
+fundraising-fit-over-dilution doctrine, and two ★ biography details: **KISSmetrics
+raised $16.4M over seven rounds** ["a little bit too many rounds"], and **True
+Ventures rejected his first pitched company but later invested in KISSmetrics** —
+"a no just means not right now"). All Neil-attributed, single-speaker solo videos; no
+guest/interviewer material to gate.
+
+**⚠️ CONTRADICTION flagged (not reconciled, ★ synthesis candidate):** the CRO Unlocked
+Wk1L1 video has Neil identify his Crazy Egg co-founder as his **brother-in-law**, "now
+the full owner" of Crazy Egg — repeated again in the Growth Hacking Unlocked fundraising
+video ("my brother-in-law and my sister own it and now they run it"). This is the first
+source to name the brother-in-law as the Crazy Egg CO-FOUNDER specifically, which sits
+in tension with the well-documented, independently-reported [[wiki/entities/hiten-shah]]
+co-founder narrative already in the wiki ([[wiki/entities/crazy-egg]]). Flagged on both
+new source pages for the next synthesis pass to reconcile.
+
+Ledger: 8 rows → L2. youtube-index.md: 765 → 773. Synthesis debt now 10 ingest batches
+since synthesis pass 9 (checkpoint at 10) — **CHECKPOINT DUE next iteration**: the next
+loop iteration should run Stage S (synthesis pass 10) before resuming ingest.
+
+Synthesis notes: genuinely new — the Skincare-by-Alana and Atlanta-wholesaler CRO case
+studies ★; the Gumroad charm-pricing case and the B2B lead-funnel math example; the
+Crazy Egg session-recording + quant/qual-research framework; the conditional
+yes/no exit-intent finding; the FIRST appearance of Porter's Five Forces / PEST / SWOT
+as named strategy frameworks ★; the Zuckerberg/Bezos iteration-quote pairing; the
+"learn from other founders" doctrine as an explicit course-opening thesis, paired with
+Neil's self-deprecating "not the smartest person" self-positioning (voice signal); the
+KISSmetrics $16.4M/seven-rounds fundraising history ★ and the True Ventures
+rejected-then-invested anecdote ★ (both biography.md candidates); and the Crazy-Egg-
+co-founder-identity CONTRADICTION ★ (flagged above) requiring reconciliation against
+[[wiki/entities/hiten-shah]] and [[wiki/entities/crazy-egg]]. The backlink-reclamation
+tutorial and the MobileMonkey Messenger-bot material are mostly restatement/extension of
+already-promoted tactics (not flagged as new).

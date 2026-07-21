@@ -778,6 +778,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2021-04-17 — [The Secret to Being Popular on YouTube (first-24-hours promotion-drives-ranking mechanism; say-the-keyword-aloud tactic) ★](2021-04-17-yt-3nykPLWfPu4.md) ★ — social-media, seo, email-marketing
 - 2021-04-19 — [SEO For Beginners - The Easiest Way to Generate Traffic (per-post keyword-list workflow; ~5% max keyword overlap between posts)](2021-04-19-yt-7LAkDz3iyGs.md) — seo, content-marketing
 - 2021-04-22 — [The SEO Checklist - How to Fix All of Your SEO Errors (SEO Analyzer tool walkthrough; live thin-content + duplicate-meta fixes on his own site)](2021-04-22-yt-vbJp-jFMXEE.md) — seo
+- 2021-04-24 — [How to Get More Backlinks (FAST) (Ubersuggest new/lost-backlinks report for link reclamation + competitor new-link mining; hunter.io outreach)](2021-04-24-yt-1Q6minLTBM4.md) — seo
+- 2021-04-26 — [CRO Unlocked - Free Conversion Rate Optimization Course by Neil Patel (course launch Wk1L1; revenue-formula framing; Skincare-by-Alana + Atlanta-wholesaler case studies) ★](2021-04-26-yt-E_CyyiRXH0U.md) ★ — analytics-cro
+- 2021-04-29 — [CRO Best Practices - CRO Unlocked (Wk1L2; one-test-per-funnel-step rule; Gumroad $1.99-vs-$2 pricing case; B2B lead-funnel math)](2021-04-29-yt-GijcPbdadz0.md) — analytics-cro
+- 2021-05-03 — [Conversion Hacks - CRO Unlocked (Wk2L1; Crazy Egg session recordings; quant-vs-qual research; conditional exit-intent yes/no; landing-page checklist)](2021-05-03-yt-Mfe9gM0VnDw.md) — analytics-cro, content-marketing
+- 2021-05-06 — [Bullet-proof Ways to Increase eCommerce Sales (Without Getting More Traffic) - CRO Unlocked (Wk2L2; retailer lessons; retargeting; MobileMonkey Messenger bots; Porter Five Forces/PEST/SWOT frameworks)](2021-05-06-yt-1Zr35pNe9-0.md) — analytics-cro, paid-ads, agency-entrepreneurship
+- 2021-05-08 — [Mastering Conversion Rate Optimization in 2 Weeks - CRO Unlocked (Wk2L3 COMPLETES the course; Zuckerberg/Bezos iteration quotes; Crazy Egg wrap-up)](2021-05-08-yt-685tvu__Nss.md) — analytics-cro
+- 2021-05-10 — [Welcome to Growth Hacking Unlocked! Free Course with Neil Patel (course launch L1; learn-from-other-founders doctrine; Bill Gates/Microsoft case study)](2021-05-10-yt-gaOXEceU6Ic.md) — agency-entrepreneurship
+- 2021-05-13 — [How to Raise Money as an Entrepreneur to Fuel Your Growth - Growth Hacking Unlocked (L2; funding-stage primer; KISSmetrics $16.4M/7-rounds + True Ventures rejected-then-invested anecdote) ★](2021-05-13-yt-Ol2kGMDvX4o.md) ★ — agency-entrepreneurship
 
 ---
-_765 videos ingested (L2) so far._
+_773 videos ingested (L2) so far._
