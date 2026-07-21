@@ -5168,3 +5168,34 @@ measurement windows likely, flagged rather than silently reconciled. Everything 
 retargeting tactics) reinforces existing doctrine rather than adding new claims. 3
 ingest batches since synthesis pass 11; checkpoint at 10 — not due. Persona last
 touched by synthesis pass 11 (2 batches ago before this one, 3 now) — not stale yet.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2022-01-20→02-05 solo tactical era: new-website-realistic-advice / social-2022-change / cant-afford-sales-objection / boring-product-marketing / link-out-outreach / rank-without-content / affiliate-platforms-2022 / content-vs-seo, cont. 89)
+
+8/8 captions fetched successfully, no rate-limiting. All 8 videos OK (solo tactical
+shorts-length long-form, no promo/joke/other-people-only videos to skip). Ledger rows
+set to L2 with domains/notes; rows inserted into wiki/sources/youtube-index.md in date
+order, footer bumped 876→884, index.md count bumped to match.
+
+Synthesis notes: two new personal/biographical color points worth folding into
+persona/biography.md or voice.md at the next pass — (1) he says he personally drives a
+Honda Odyssey, not a Rolls-Royce/Bentley/Ferrari, and that driving itself gives him
+anxiety (used as a targeting-the-right-buyer sales analogy, see
+[[2022-01-24-yt-d-IieuMzknk]]); (2) a grandmother anecdote about her enjoying looking
+good to friends purely for the private feeling, not status display, used in the
+boring-product marketing framework (see [[2022-01-27-yt--H-XPd4E5Xc]]). Also a concrete
+NP Digital case study — a $5K/month ($60K/rep/year) sales-efficiency tool the agency
+initially rejected as too expensive, later adopted after fixing upstream sales
+process, reportedly making reps "four times more efficient" — is a good candidate for
+the agency-entrepreneurship topic page on internal tooling/efficiency ROI. The
+"boring product" 5-tip framework (narrative, anchor-to-needs, visual, humor,
+status-elevation) citing Old Spice and Dollar Shave Club is a fairly complete,
+teachable unit, similar in shape to the "6 Stages of Learning Digital Marketing"
+framework flagged at the last pass — both are candidates for their own
+wiki/topics/content-marketing/ or agency-entrepreneurship/ pages. Everything else
+(Ubersuggest keyword/backlink workflows, content-consolidation-via-301, affiliate
+network/payout figures, SEO-vs-content-marketing framing, Sprout Social social-media
+stats) reinforces existing doctrine rather than adding new claims. 4 ingest batches
+since synthesis pass 11; checkpoint at 10 — not due. Persona last touched by synthesis
+pass 11 (2 batches before this one at status-check time, 4 now) — not yet stale by the
+≥10-batch rule; no P1 rows are open to retrigger the drain-condition; continue
+monitoring the two-anecdote / two-framework backlog above for the next checkpoint.
