@@ -1039,6 +1039,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2023-01-14 — [The Best Way to Use WordPress (All in One SEO plugin walkthrough; title-tag length findings)](2023-01-14-yt-iyuxWZ--5-8.md) — seo, content-marketing
 - 2023-01-16 — [Do This Email Marketing Strategy for 100 Days (list scrubbing; personalization 74% lift; segmentation; trigger emails 49% opens)](2023-01-16-yt-A4wg8gF5GU8.md) — email-marketing, analytics-cro
 - 2023-01-20 — [My Favorite Webinar Tip (co-host-partner method; BigCommerce case; email-driven registration; Restream simulcast)](2023-01-20-yt-xEtsliDozvQ.md) — content-marketing, email-marketing, agency-entrepreneurship
+- 2023-01-23 — [This is What Your Marketing Mindset Should ALWAYS Be (UGC; seamless service; retention cost stat; Crazy Egg; SurveyMonkey)](2023-01-23-yt-OPsSGhMfiv4.md) — content-marketing, analytics-cro, agency-entrepreneurship
+- 2023-01-23 — [This Email Marketing Tip Takes 10 Minutes (subject-line tips; A/B testing; emoji-unsubscribe study)](2023-01-23-yt-1CE5TYipgAA.md) — email-marketing
+- 2023-01-28 — [The Right Way to Segment Your Content (sequenced messaging; buyer personas; platform demographics)](2023-01-28-yt--v3dJ5ID_s8.md) — content-marketing, email-marketing, social-media
+- 2023-01-30 — [My 7 Favorite SEO Strategies (Ubersuggest keyword/ranking-potential; voice search; CDN; title tags; backlink-opportunities workflow)](2023-01-30-yt-KB5GQYUW6IU.md) — seo, analytics-cro
+- 2023-02-02 — [Do This Before Google's Next Algorithm Update (4,500 changes/yr stat; GSC year-over-year refresh workflow; user-satisfaction thesis)](2023-02-02-yt-KE2REzss-0w.md) — seo, analytics-cro
+- 2023-02-04 — [3 Easy Ways to Boost Conversions (exit pop-ups; social-proof 400% stat; countdown timers; Brailsford marginal-gains analogy)](2023-02-04-yt-4EmDUxOT6c8.md) — analytics-cro
+- 2023-02-06 — [This Helped Me Get More Traffic Right Away (Instagram Stories traffic hack; 6 content types; UGC)](2023-02-06-yt-jpa-ZNFo4gQ.md) — social-media, content-marketing
+- 2023-02-09 — [This Low Effort Social Strategy Brings in a Ton of ROI (carousel ads; engagement-rate stat bank; platform-retention mechanism)](2023-02-09-yt-dKn45bP4eZg.md) — social-media, paid-ads
 
 ---
-_1026 videos ingested (L2) so far._
+_1034 videos ingested (L2) so far._

@@ -6090,3 +6090,38 @@ social-media-ROI stat bank, WordPress plugin walkthrough, 100-day email plan, we
 partnership tip) are tactical/stat-bank content reinforcing existing seo/
 analytics-cro/social-media/email-marketing coverage — no new frameworks, cross-link
 only.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2023-01-23→02-09 solo tactical era, cont. 99)
+
+Stage machine (`.claude/commands/ingest-loop.md`, first-match) selected **Stage B**.
+Not-taken rules: Stage S not due (2 batches since synthesis pass 13, checkpoint at 10;
+no `>>> CHECKPOINT` printed); Stage P not stale (pass 13 + persona refresh completed
+two iterations ago, 2 batches since); Stage A n/a (both TARGET channels enumerated);
+Stage B P1 not applicable (0 open P1 rows on either channel). Channel @neilpatel,
+priority 2 — continuing the "ingest a channel → synthesize it → next channel" rhythm.
+Selection = clone's own rule: priority-ascending then oldest-`published` first — next 8
+oldest open P2 rows (2023-01-23 → 2023-02-09).
+
+Processed: **8 ingested (L2), 0 skipped, 0 no-captions, 0 dup.** All 8 captions fetched
+clean on the first try (no rate limiting; no 429s). All 8 are solo Neil videos → fully
+Neil-attributed; self-reported claims marked as such. No contradictions flagged.
+
+**Synthesis notes:** No landmark/L3-candidate this batch — all eight are short,
+single-topic tactical pieces in the established "quick tip" format, mostly reinforcing
+existing topic-hub coverage with fresh supporting stat banks rather than new
+frameworks. Worth a line at the next checkpoint: (1) the **Dave Brailsford "marginal
+gains" cycling-coach analogy** (yt-4EmDUxOT6c8) is a nameable, quotable metaphor for
+compounding-small-wins CRO practice, not previously captured — a voice.md/beliefs.md
+candidate; the same source also self-reports a real 7-8% countdown-timer lift vs. the
+33% cited case study, a candid own-data-vs.-cited-data contrast worth a mention. (2)
+The **"Google made 4,500 algorithm changes in 2020"** stat + the specific
+year-over-year Search Console refresh workflow (yt-KE2REzss-0w) is a citable,
+concrete tactic extending the existing content-freshness doctrine. (3) The **carousel
+ads engagement-rate stat bank** (1.9%/2.33% mixed-format, 72% higher CTR;
+yt-dKn45bP4eZg) plus its platform-retention-incentive explanation is a reasonably
+complete, nameable social-ads tactic not previously this detailed in the corpus. (4)
+The Comcast→Xfinity rebrand-doesn't-fix-bad-service anecdote (yt-OPsSGhMfiv4) is a
+new, quotable illustrative story. Everything else (subject-line tips, segmentation
+stats, the 7-favorite-SEO-strategies roundup, Instagram Stories traffic hack) repeats
+territory already well covered in seo/email-marketing/social-media — cross-link only,
+no promotion needed.
