@@ -6051,3 +6051,42 @@ good persona/beliefs.md candidate. (5) The blog-traffic piece (yt-2WQp99wR74E) r
 familiar territory (images, internal linking, topic clusters) but the 77%-more-links
 stat likely duplicates the 77.2% figure already in the 2022-12-19 source — cross-linked,
 not double-counted.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2023-01-02→01-20 solo tactical era, cont. 98)
+
+Stage machine (`.claude/commands/ingest-loop.md`, first-match) selected **Stage B**.
+Not-taken rules: Stage S not due (1 batch since synthesis pass 13, checkpoint at 10; no
+`>>> CHECKPOINT`); Stage P not stale (pass 13 + persona refresh completed one iteration
+ago, 1 batch since); Stage A n/a (both TARGET channels enumerated); Stage B P1 not
+applicable (0 open P1 rows on either channel). Channel @neilpatel, priority 2 —
+continuing the "ingest a channel → synthesize it → next channel" rhythm from batch
+#128. Selection = clone's own rule: priority-ascending then oldest-`published` first →
+next 8 oldest open P2 rows (2023-01-02 → 2023-01-20).
+
+Processed: **8 ingested (L2), 0 skipped, 0 no-captions, 0 dup.** All 8 captions fetched
+clean on the first try (no rate limiting; no 429s). All 8 are solo Neil videos → fully
+Neil-attributed; self-reported claims marked as such. No contradictions flagged. One row
+flagged **★ L3-candidate**: `yt-9D23NaNkNp0` ("My 6 Favorite Productivity Hacks") — a
+dated headcount data point (NP Digital ~750 people, Jan 2023) plus a reinforcing
+corollary to the existing "Power of No" belief (selecting speaking engagements by
+audience fit over fee).
+
+Ledger after: L2=1026, L3=0. Open long-form @neilpatel 218 (P2:197 P3:21);
+@MarketingSchoolPod 759 (P2:731 P3:28) unchanged. Open shorts ~2,688. Ingest batches
+since last synthesis: 2 (checkpoint at 10).
+
+Synthesis notes: (1) the 750-employee headcount (yt-9D23NaNkNp0, Jan 2023) is a
+biography-candidate growth data point — sits between the existing 500+/640-employee
+2022 markers (pass 12) and later counts already in the corpus; worth a timeline line in
+`persona/biography.md` at the next synthesis pass. (2) The same source's delegation
+philosophy ("be more essential, but less involved") and the fee-vs-audience-fit
+speaking-engagement shift are concrete corollaries of the existing "Power of No" belief
+(pass 7) — reinforcing detail, not a new framework. (3) The PayPal case study
+(yt-xR21Ijf-Oak) is a sponsored video but includes genuine self-reported data (18%
+revenue lift, Ubersuggest paying-customer geography ~26% US, PayPal-payer churn
+reduction) consistent with existing Mike Kamo / Ubersuggest material — citable detail,
+no new framework. (4) The remaining five sources (social-media metrics, UX/SEO tips,
+social-media-ROI stat bank, WordPress plugin walkthrough, 100-day email plan, webinar
+partnership tip) are tactical/stat-bank content reinforcing existing seo/
+analytics-cro/social-media/email-marketing coverage — no new frameworks, cross-link
+only.

@@ -1031,6 +1031,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2022-12-26 — [My Biggest Advertising Mistake (and What I Learned) (KISSmetrics value-prop mistake; $1,250,391 cost; social proof; free trials) ★](2022-12-26-yt-Moa-cA0IDRM.md) ★ — content-marketing, analytics-cro, agency-entrepreneurship
 - 2022-12-29 — [The Most Powerful Content Creation Strategy You're Not Using (hedgehog concept; buyer personas; segmentation; EAT; thought leadership)](2022-12-29-yt-Ad0n7fbVGhA.md) — content-marketing, seo, email-marketing
 - 2022-12-31 — [Why Your Blog Strategy Isn't Driving Traffic (images; internal linking; topic clusters; meta descriptions)](2022-12-31-yt-2WQp99wR74E.md) — content-marketing, seo, social-media
+- 2023-01-02 — [7 Social Media Metrics You Need to Track (reach, impressions, engagement/amplification/virality rate, audience growth, social referrals, ROI)](2023-01-02-yt-lAWccwFL5xE.md) — social-media, analytics-cro
+- 2023-01-05 — [How We Boosted Our Revenue by 18% Using PayPal (sponsored; Ubersuggest checkout experiment; Mike Kamo; churn reduction; buy-now-pay-later)](2023-01-05-yt-xR21Ijf-Oak.md) — agency-entrepreneurship, analytics-cro
+- 2023-01-07 — [This is KILLING Your SEO Strategy (Here's How to Fix It) (UX-over-keywords thesis; page speed/CDN; David Ogilvy headline maxim; mobile)](2023-01-07-yt-TJYIECwIWC4.md) — seo, analytics-cro
+- 2023-01-09 — [The Biggest Lie You've Been Told About Social Media (social-ROI stat bank; UGC; Facebook Ad Library research tactic)](2023-01-09-yt-i-yQrTtMsiA.md) — social-media, agency-entrepreneurship
+- 2023-01-12 — [My 6 Favorite Productivity Hacks (750-employee headcount; delegation; power-of-no on speaking fees; batch creation; Marketing School recording cadence) ★](2023-01-12-yt-9D23NaNkNp0.md) ★ — agency-entrepreneurship, content-marketing
+- 2023-01-14 — [The Best Way to Use WordPress (All in One SEO plugin walkthrough; title-tag length findings)](2023-01-14-yt-iyuxWZ--5-8.md) — seo, content-marketing
+- 2023-01-16 — [Do This Email Marketing Strategy for 100 Days (list scrubbing; personalization 74% lift; segmentation; trigger emails 49% opens)](2023-01-16-yt-A4wg8gF5GU8.md) — email-marketing, analytics-cro
+- 2023-01-20 — [My Favorite Webinar Tip (co-host-partner method; BigCommerce case; email-driven registration; Restream simulcast)](2023-01-20-yt-xEtsliDozvQ.md) — content-marketing, email-marketing, agency-entrepreneurship
 
 ---
-_1018 videos ingested (L2) so far._
+_1026 videos ingested (L2) so far._
