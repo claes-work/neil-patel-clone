@@ -1071,6 +1071,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2023-04-01 — [Get More Traffic Now: Insider Tips for Success (Success with Soul podcast; AI-EEAT skepticism; uncle's stay-level-headed mantra origin; kids ages 3&1)](2023-04-01-yt-eL3aif7oF6c.md) — seo, agency-entrepreneurship
 - 2023-04-03 — [Future-Proof Your Content Strategy in the Age of AI (TAM/disrupt/omnichannel formula; AI "first inning"; 20/80 create/promote rule; AI-jobs-vs-economy stance)](2023-04-03-yt-8NBFZE3EOBY.md) — ai-marketing, content-marketing
 - 2023-04-06 — [Digital Marketing Tips for 2023 (★ cold-call origin variant; 76%-referrals client mix; 8-country footprint named; WordPress vs. Shopify)](2023-04-06-yt-Ji5urXQRoLo.md) — seo, agency-entrepreneurship, ai-marketing
+- 2023-04-08 — [Top Skills Every Marketer Needs (consistency thesis; 3-5yr personal-brand timeline; NP Digital 700-800 employees; virtual post-COVID)](2023-04-08-yt-vpLR23NlO40.md) — seo, agency-entrepreneurship, content-marketing
+- 2023-04-10 — [The Ultimate Guide to Launching Your Online Business (small-biz SEO; getlisted.org; $20-50 paid-traffic idea validation; focus mentor advice)](2023-04-10-yt-awqqrgkP8G8.md) — seo, content-marketing, agency-entrepreneurship
+- 2023-04-15 — [The Art of Digital Marketing (★ M&A rollup pacing advice; ★ FTX agency relationship confirmed; TikTok-vs-Google; metaverse/blockchain views)](2023-04-15-yt-ExV24jFfi_g.md) — agency-entrepreneurship, ai-marketing, paid-ads, seo
+- 2023-04-17 — [Proven Tips for Captivating Audiences and Boosting Business Growth (origin story; voice-search research method; 15-videos-in-2hrs production; gift retention tactic)](2023-04-17-yt-D74zHhxQ1RE.md) — content-marketing, seo, agency-entrepreneurship
+- 2023-04-20 — [Mind Blowing Marketing Experiments (★ My First Million pt.1 — MBE minority certification; $30-40M brand-revenue attribution; detailed personal burn rate)](2023-04-20-yt-xtYv67lnlzk.md) — agency-entrepreneurship
+- 2023-04-22 — [Essential Business Tips to Accelerate Your Companies Growth (★ My First Million pt.2 — never-CEO/Mike Gullickson; no-money-to-kids philosophy; wife's philanthropy programs)](2023-04-22-yt-jI34N2EUHCI.md) — agency-entrepreneurship
+- 2023-04-24 — [Accelerate Your Business Success: Key Strategies for Entrepreneurs (★ Kissmetrics FTC-investigation detail; enterprise sales process; ★ AnswerThePublic overpay admission)](2023-04-24-yt-tJekpDfTp00.md) — agency-entrepreneurship, seo, content-marketing
 
 ---
-_1058 videos ingested (L2) so far._
+_1065 videos ingested (L2) so far._

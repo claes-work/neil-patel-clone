@@ -6235,3 +6235,58 @@ of already-recorded positions — cross-link only, no new promotion needed.
 Ledger: open P2 long-form now @neilpatel 165 / @MarketingSchoolPod 731; ingested L2=1058.
 Ingest batches since last synthesis: 6 (checkpoint at 10). Next iteration: Stage B,
 continue @neilpatel P2 (oldest-first).
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2023-04-08→04-24, cont. 103)
+Batch #103 (7 ok / 0 skipped / 1 no-captions / 0 dup). @neilpatel P2 long-form,
+2023-04-08→2023-04-24: a consistency/personal-brand SEO interview (NP Digital headcount
+and country footprint, 76%-referrals repeat); a small-business-audience interview
+(local SEO, getlisted.org, cheap paid-traffic idea validation); a business-strategy
+interview covering M&A roll-up pacing advice and (★) confirmation that NP Digital did
+consulting/marketing work for FTX pre-collapse, plus TikTok/AI/metaverse/blockchain
+views; an origin-story-and-production-workflow interview (voice-search research method,
+15-videos-in-2-hours filming process, UK gift-retention tactic); a two-part **My First
+Million** (Sam Parr/Shaan Puri) interview — part 1 (★ MBE minority-certification
+tiebreaker, ~$30-40M personal-brand revenue attribution, detailed $120-180K/mo personal
+burn-rate breakdown) and part 2 (★ never-CEO-himself/Mike Gullickson hiring pattern,
+no-money-to-my-kids inheritance philosophy, wife's philanthropy programs, investment
+portfolio); and a career-retrospective interview (★ new FTC-investigation detail on the
+KISSmetrics failure, enterprise sales-process detail, ★ AnswerThePublic acquisition
+reframed as an explicit "overpay" bought for Ubersuggest-style lead-gen halo, not
+profitability). One video (yt-iGh3juV5scM, "Marketing Advice For Young People: Neil
+Patel & David Meltzer") had no captions available and was auto-marked L1/no-captions;
+skipped per policy (no Whisper without user approval). No rate-limiting (7/8 fetched
+clean, 1 no-captions).
+Synthesis notes: (1) ★ [[wiki/sources/2023-04-15-yt-ExV24jFfi_g]] is the first source in
+the corpus to put NP Digital's FTX consulting relationship in Neil's own words (outside
+contractor, never met Sam Bankman-Fried, dealt with COO/CMO/VP-marketing layers, and a
+self-reported pre-arrest prediction that "someone's going to go to jail") — directly
+grounds the FTX ~$55M clawback-suit context already flagged in SUBJECT.md; a strong
+candidate for a dedicated wiki/entities/ note or an addition to np-digital.md. (2)
+[[wiki/sources/2023-04-24-yt-tJekpDfTp00]] adds a KISSmetrics **FTC investigation**
+("found we weren't doing anything wrong") alongside the already-documented Kim &
+Schutzman "supercookie" class-action settlement on [[wiki/entities/kissmetrics]] — new
+detail, not yet on that entity page; also gives new acquisition-year revenue color for
+AnswerThePublic (≤$1.2M/yr, self-described "overpay", no dedicated team) that sharpens
+the $8.6M/$100-130K-mo-EBITDA figures already recorded from
+[[wiki/sources/2023-03-30-yt-fslIfiEouqs]] — both are same-topic elaborations, not
+contradictions. (3) [[wiki/sources/2023-04-20-yt-xtYv67lnlzk]]'s detailed personal
+burn-rate disclosure ($120-180K/mo, $25-300K/yr whole-life policy, ~$57K/mo household
+staff) and its MBE-minority-certification tiebreaker claim are both landmark-quality,
+not-yet-recorded persona/beliefs.md-and-biography.md material (financial-philosophy and
+identity/business-advantage angles respectively). (4) The same source's secondhand
+"Magic Johnson formula" anecdote is explicitly flagged by Neil himself as unverified
+hearsay — attribution: uncertain, do not promote as a stated belief. (5)
+[[wiki/sources/2023-04-22-yt-jI34N2EUHCI]]'s never-CEO-himself pattern (explicit "I'm one
+of the worst managers ever," Mike Gullickson named) reinforces and dates the existing
+[[wiki/entities/mike-gullickson]] record; the no-money-to-kids philosophy and the two
+named philanthropy programs (women's-education tuition-for-teaching-return; AIDS
+"growing gardens" nutrition) are new, dated persona/beliefs.md candidates. (6) The ~76%
+(04-06/04-08) vs. ~77% (04-24) referral-revenue figures for NP Digital are treated as the
+same self-reported approximate stat restated across sources, not a contradiction — no
+flag needed. Everything else (consistency/patience thesis, small-business SEO tactics,
+voice-search research method, content-production-pipeline names) is solid corroborating
+detail of already-recorded positions — cross-link only, no new promotion needed.
+
+Ledger: open P2 long-form now @neilpatel 157 / @MarketingSchoolPod 731; ingested L2=1065.
+Ingest batches since last synthesis: 7 (checkpoint at 10). Next iteration: Stage B,
+continue @neilpatel P2 (oldest-first).
