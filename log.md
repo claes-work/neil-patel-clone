@@ -4308,3 +4308,29 @@ no-paid-reviews stance ★; the Google Guarantee program tactic ★; the Podium 
 the GMB/Bing Places/Facebook/Apple Maps multi-platform-listing playbook. Reinforcement-only, not new:
 the "picking up trash at a theme park" origin-story detail (already recorded); the E-A-T
 anti-fabrication framing (already recorded from synthesis pass 8).
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2020-11-30→12-17, cont. 68)
+
+Ingested 8 @neilpatel P2 long-form videos, oldest-first: a free-course/worksheet
+content-marketing tactic (the "give away paid-quality courses" production model +
+downloadable-asset traffic driver); an Ahrefs link-count-vs-rank case study
+reinforcing slow/natural link velocity; a Crazy Egg heatmap page-experience
+diagnostics walkthrough (incl. a documented dropdown → consulting-intent CRO win);
+an exact-match-domain video adding the CTR-suppression mechanism for why generic
+EMDs can backfire on Google; a Wikipedia company-name content-gap tactic (via the
+Clutch directory) with explicit no-bashing competitor-content ethics; an Ubersuggest
+Keyword Gap workflow tutorial with volume/CPC/difficulty selection criteria; an
+AudioEye-sponsored guest webinar on digital accessibility tied to the 2021 Page
+Experience update (Joel/AudioEye speaker-gated out of persona data per fidelity rule
+6, no entity page created — one-off sponsored guest, not a recurring collaborator);
+and a Backlinko/Clickflow CTR-copywriting study with quantified title-tag lift
+percentages. All 8 fetched cleanly (no captions failures, no rate-limiting). 717
+videos L2 total. Open long-form: @neilpatel 530 (P2:509 P3:21); @MarketingSchoolPod
+759 (P2:731 P3:28) — unchanged this batch. Ingest batches since last synthesis: 3
+(checkpoint at 10).
+
+Synthesis notes: the exact-match-domain CTR-suppression mechanism (why EMDs can hurt,
+not just fail to help, on Google) and the Wikipedia/company-name content-gap tactic
+via Clutch are the two most genuinely new items — neither is currently on the seo or
+content-marketing topic pages. Everything else is reinforcement/detail (Ahrefs link
+case study, Crazy Egg CRO win, CTR lift percentages) of doctrine already synthesized
+through pass 9.

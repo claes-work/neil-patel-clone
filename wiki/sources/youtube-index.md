@@ -722,6 +722,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2020-11-23 — [How to Create Content That Ranks in Local Areas - Module 2 - Lesson 1 - Local SEO Unlocked (local keyword modifiers; content workflow; E-A-T discipline)](2020-11-23-yt-RXE1uqN3qzQ.md) — seo, content-marketing
 - 2020-11-26 — [The Easy Way to Rank Local Websites - Module 2 - Lesson 2 - Local SEO Unlocked (proximity/relevance/prominence; schema markup; voice search)](2020-11-26-yt-8PKEi1denlQ.md) — seo
 - 2020-11-28 — [The Secret Local SEO Recipe - Module 2 - Lesson 3 - Local SEO Unlocked (COMPLETES the course; near-me stats; review-dependency thesis; Google Guarantee; citations)](2020-11-28-yt-00ntiTMDyNU.md) ★ — seo
+- 2020-11-30 — [A Unique Type of Content That Will Generate You 100,000 Visitors Per Month (free-course production model; worksheets/assets as the real traffic driver)](2020-11-30-yt-cR9LswOB-wI.md) — content-marketing
+- 2020-12-03 — [How Many Links You Actually Need To Rank Page One On Google (Ahrefs link-count-vs-rank case study; slow natural link velocity)](2020-12-03-yt-hngajJJgV6c.md) — seo
+- 2020-12-05 — [How To Optimize For The Page Experience Algorithm (Google's Upcoming Algorithm Update) (Crazy Egg heatmap diagnostics; dropdown → consulting-intent CRO win)](2020-12-05-yt--xrEkm8S40U.md) — seo, analytics-cro
+- 2020-12-07 — [Why You Shouldn't Use Exact Match Domains (Don't Make This SEO Mistake) (CTR-suppression mechanism; nurse.com vs hotels.com brand-equity contrast)](2020-12-07-yt-z5P68CSI2BY.md) — seo
+- 2020-12-10 — [How to Generate Millions of Visitors Like Wikipedia (company-name content-gap tactic via Clutch; no-bashing competitor-content ethics)](2020-12-10-yt-K4HTG_m_w4Q.md) — seo, content-marketing
+- 2020-12-12 — [How to Find 1000s of Lucrative Keywords in Under a Minute (Ubersuggest Keyword Gap workflow; volume/CPC/difficulty selection criteria)](2020-12-12-yt-30cqsQvOsrU.md) — seo
+- 2020-12-14 — [How To Protect & Grow Your Business With Digital Accessibility & SEO (AudioEye guest webinar; Page Experience tie-in; guest-gated attribution)](2020-12-14-yt-C3DIBs-sPzo.md) — seo, analytics-cro
+- 2020-12-17 — [How to Beat Google by Leveraging User Metrics (Backlinko/Clickflow CTR-copywriting lift percentages; Rand Fishkin click-experiment)](2020-12-17-yt-RegMu2Ye6HE.md) — seo, analytics-cro
 
 ---
-_709 videos ingested (L2) so far._
+_717 videos ingested (L2) so far._
