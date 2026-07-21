@@ -4678,3 +4678,32 @@ batch #97 (2021-05-13); no pending checkpoints remain. `index.md` updated for al
 hubs plus the four persona-page entries. System-prompt version at pass end: **v11**.
 
 Synthesis notes: none (debt fully drained this pass).
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2021-05-15→05-31, Growth Hacking Unlocked COMPLETES + 4 tactical, cont. 76)
+
+Batch of 8 P2 long-form videos from @neilpatel, 2021-05-15 through 2021-05-31. All 8
+fetched OK (no rate-limiting). First 4 complete the **Growth Hacking Unlocked** course
+(launched 2021-05-10, Week 1 funding lessons started 2021-05-13 in the prior batch):
+later-stage funding/M&A/IPO/PE lesson (UiPath pent-up-demand valuation dynamics, WeWork
+cautionary tale, Google/Wildfire $450M 2012 acquisition); the psychology-of-growth-hacking
+lesson (decoy pricing, social proof, Cymatics $4.5M/8-launch client case study, product-
+video stat bank, a Crazy Egg "Demo Duck" vendor detail, Gmail/Dropbox referral loops);
+the technology-shortcuts lesson (Airbnb/Craigslist bootstrap story, Ubersuggest 2M+
+visits/month reinforcement, two-step checkout +10% lift, cart-abandonment stats, an HBR
+1-hour lead-response-time study); and the marketing-case-studies finale that **COMPLETES
+the course** (Procter & Gamble/Nike/Facebook case studies, a brand-query-affects-rankings
+SEO belief). The remaining 4 are standalone tactical/demo videos: an Instagram
+story-mention MobileMonkey chatbot hack; a rank-tracking Ubersuggest demo using
+crazyegg.com live (competitive content-gap method vs. Hotjar/Wikipedia for "heat map");
+a keyword-discovery-loop demo (service/geo/niche-industry modifier pattern); and Neil's
+own **4-task personal daily SEO routine** (rank check, keyword research, site audit,
+Google Search Console review) — a recurring "SEO is many small things done consistently"
+framing that shows up across three sources in this batch (2021-05-27, 2021-05-29,
+2021-05-31). No new contradictions surfaced. Ledger: 8 rows → L2. youtube-index.md: 773 →
+781. Ingest batches since last synthesis: 1/10 (synthesis pass 10 just completed
+immediately prior to this batch).
+
+Synthesis notes: no landmark-tier (★) material this batch — the course-completion arc and
+the "SEO is many small consistently-done things" framing (recurring 3x) are worth checking
+against existing seo/ topic pages and persona/beliefs.md at the next synthesis pass, but
+nothing here rises to inline (L3) promotion on its own.

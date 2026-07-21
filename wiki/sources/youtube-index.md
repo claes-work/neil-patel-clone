@@ -786,6 +786,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2021-05-08 — [Mastering Conversion Rate Optimization in 2 Weeks - CRO Unlocked (Wk2L3 COMPLETES the course; Zuckerberg/Bezos iteration quotes; Crazy Egg wrap-up)](2021-05-08-yt-685tvu__Nss.md) — analytics-cro
 - 2021-05-10 — [Welcome to Growth Hacking Unlocked! Free Course with Neil Patel (course launch L1; learn-from-other-founders doctrine; Bill Gates/Microsoft case study)](2021-05-10-yt-gaOXEceU6Ic.md) — agency-entrepreneurship
 - 2021-05-13 — [How to Raise Money as an Entrepreneur to Fuel Your Growth - Growth Hacking Unlocked (L2; funding-stage primer; KISSmetrics $16.4M/7-rounds + True Ventures rejected-then-invested anecdote) ★](2021-05-13-yt-Ol2kGMDvX4o.md) ★ — agency-entrepreneurship
+- 2021-05-15 — [Funding Scale and Growth: Beyond the Series B Round - Growth Hacking Unlocked (Wk1L2; later-stage funding: Series D-F, M&A, IPO, PE; UiPath/WeWork/Wildfire examples)](2021-05-15-yt-aP4BLKVXPSA.md) — agency-entrepreneurship
+- 2021-05-17 — [The Untold Laws of Growth Hacking - Propelling Your Business to Exponential Growth (Wk2L1; psychology/tech/marketing framework; decoy pricing; Cymatics case study; product-video stats; Crazy Egg Demo Duck detail)](2021-05-17-yt-C6eersDUe9k.md) — agency-entrepreneurship, analytics-cro, content-marketing
+- 2021-05-20 — [How to Use Technology to Grow Faster - Low-Cost Growth Hacks That Scale - Growth Hacking Unlocked (Wk2L2; Airbnb/Craigslist bootstrap; Ubersuggest 2M+ visits/mo; two-step checkout +10%; HBR 1-hour lead-response stat)](2021-05-20-yt-WZOd7vdg11k.md) — agency-entrepreneurship, analytics-cro, seo
+- 2021-05-22 — [Advanced Growth Tactics - Steal The Top-Performing Tech Companies' Best-Kept Secrets - Growth Hacking Unlocked (Wk2L3 COMPLETES the course; P&G/Nike/Facebook case studies; brand-query SEO belief)](2021-05-22-yt-DHf8AGtvreU.md) — agency-entrepreneurship, marketing, seo
+- 2021-05-24 — [How to Get More Instagram Story Mentions (Fast and for FREE) (MobileMonkey chatbot auto-reply demo; engagement-builds-loyalty tactic)](2021-05-24-yt-Pwwbquo360g.md) — social-media
+- 2021-05-27 — [How to Track and Improve Your Rankings (Ubersuggest rank-tracking demo on crazyegg.com; competitive content-gap method vs. Hotjar/Wikipedia)](2021-05-27-yt-CcvVgMUzjiI.md) — seo
+- 2021-05-29 — [How to Continually Find New Keyword Opportunities (That You'll Be Able to Rank For) (Ubersuggest keyword-discovery loop: service/geo/niche modifiers; competitive research on saved keywords)](2021-05-29-yt-84JZvEaj8As.md) — seo
+- 2021-05-31 — [4 Daily SEO Tasks That You Need to Do (And That Produce Results) (Neil's personal daily SEO routine: rank check, keyword research, site audit, GSC review)](2021-05-31-yt-ljFUHMCvhAE.md) — seo
 
 ---
-_773 videos ingested (L2) so far._
+_781 videos ingested (L2) so far._
