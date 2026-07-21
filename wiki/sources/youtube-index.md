@@ -706,6 +706,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2020-10-17 — [How to Promote YouTube Videos (Even With 0 Subscribers) - Module 2 - Lesson 3 - YouTube Unlocked (COMPLETES the course; "YouTube SEO is the opposite of traditional SEO" first-24-hours doctrine ★)](2020-10-17-yt-qwomTmPOtyA.md) ★ — social-media, seo
 - 2020-10-19 — [A Simple Hack to Generating 93% More Ad Revenue (Ezoic AI ad-optimization; "Real Cool Videos" bio detail; ad-UX-to-SEO mechanism)](2020-10-19-yt-gXzKovmO7pM.md) — paid-ads, analytics-cro
 - 2020-10-22 — [Start Selling 20% More Online in Less Than 10 Minutes | Growth Hack Your eCommerce ("hoop theory" checkout framework ★; Doofinder advanced search; Crazy Egg 3-step-checkout case study)](2020-10-22-yt-sGpcJ3SOITA.md) ★ — analytics-cro, content-marketing
+- 2020-10-24 — [A Simple Way to Build More Links (Ubersuggest backlinks-report competitor mining; usability-over-link-count judgment; "editorial staff = skip" outreach heuristic)](2020-10-24-yt-jPtLDr3MBd8.md) — seo
+- 2020-10-26 — [LinkedIn Advanced Strategies to Turn Business Connections Into Leads & Customers - FREE Course - Module 1 - Lesson 1 - LinkedIn Unlocked (course launch; platform-scale stats; ~1%-of-users-share-content framing)](2020-10-26-yt-d_7GbF-12CI.md) — social-media
+- 2020-10-29 — [Creating the Perfect LinkedIn Profile - Module 1 - Lesson 2 - LinkedIn Unlocked (photo/headline/summary checklist; volunteering-with-wife → organic business anecdote)](2020-10-29-yt-TJnmoiL4_h8.md) — social-media
+- 2020-10-31 — [How To Get B2B Leads & Clients On LinkedIn - Module 1 - Lesson 3 - LinkedIn Unlocked (B2B vs B2C; five-stage sales-cycle framework; Sales Navigator prospecting)](2020-10-31-yt-fuPxKEp9xKE.md) — social-media, agency-entrepreneurship
+- 2020-11-02 — [How to Use LinkedIn for Deals & Sales - Module 2 - Lesson 1 - LinkedIn Unlocked (strategic-alliances framework; reinforces Brazil/India international-expansion-via-alliances model)](2020-11-02-yt-a3MLOWzC9yk.md) — social-media, agency-entrepreneurship
+- 2020-11-05 — [Marketing On LinkedIn - Module 2 - Lesson 2 - LinkedIn Unlocked (Calendly outreach lift; Groups 80/20 content-mix rule; LinkedIn Ads format survey)](2020-11-05-yt-5N4x7g2x2g4.md) — social-media, paid-ads
+- 2020-11-07 — [Advanced LinkedIn Tactics - Module 2 - Lesson 3 - LinkedIn Unlocked (COMPLETES the course; webinar 8-12-day countdown sequence ★; Beats by Dre anecdote)](2020-11-07-yt-hGr4GMT62D4.md) ★ — social-media, analytics-cro
+- 2020-11-09 — [An Easy Way to Rank For Competitive Keywords (Without Being a Professional SEO) ("what is"/"how" informational-content pattern; Nextiva conversion-mechanics case study)](2020-11-09-yt-p1te4WYipVk.md) — seo
 
 ---
-_693 videos ingested (L2) so far._
+_701 videos ingested (L2) so far._

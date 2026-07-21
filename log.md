@@ -4231,3 +4231,41 @@ contradictory, against the 2019 4-posts/mo+90-updates/mo rate). Advanced the hig
 pending checkpoints remain (caught up through batch #87).
 
 Synthesis notes: none (this IS the synthesis pass; debt drained to 0 through batch #87).
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2020-10-24→11-09, link-building outreach tutorial + full LinkedIn Unlocked course launch-through-COMPLETES + competitive-keyword content tutorial, cont. 66)
+
+Stage B ingest batch, 8 videos → L2, all @neilpatel solo (no other speakers; fully Neil-attributed).
+Dispatched under the roster autopilot — all 8 source pages written directly, sequentially, one after
+another (collapsed-nesting rule; no per-video subagents). Ledger rows set to L2 with domains/notes;
+`wiki/sources/youtube-index.md` updated in date order (693→701, footer bumped); `index.md` source
+count and header bumped to match.
+
+**Coverage**: [[wiki/sources/2020-10-24-yt-jPtLDr3MBd8]] (link-building outreach via Ubersuggest
+Backlinks report; usability-over-link-count judgment; "editorial staff = skip" reachability
+heuristic) opens the batch, followed by the complete six-lesson **LinkedIn Unlocked** course launched
+and finished within this batch: [[wiki/sources/2020-10-26-yt-d_7GbF-12CI]] (Module 1 Lesson 1, course
+launch + platform-scale stats + the ~1%-of-users-share-content framing), [[wiki/sources/2020-10-29-yt-TJnmoiL4_h8]]
+(Module 1 Lesson 2, profile-optimization checklist + a new volunteering-with-wife → organic-business
+anecdote), [[wiki/sources/2020-10-31-yt-fuPxKEp9xKE]] (Module 1 Lesson 3, B2B vs B2C + a five-stage
+B2B sales-cycle framework with per-stage rep/prospect goals), [[wiki/sources/2020-11-02-yt-a3MLOWzC9yk]]
+(Module 2 Lesson 1, strategic-alliances framework, reinforcing the existing Brazil/India
+international-expansion-via-alliances origin story), [[wiki/sources/2020-11-05-yt-5N4x7g2x2g4]]
+(Module 2 Lesson 2, Calendly outreach-lift figure, Groups 80/20 content-mix rule, LinkedIn Ads format
+survey), and [[wiki/sources/2020-11-07-yt-hGr4GMT62D4]] (Module 2 Lesson 3, **COMPLETES the course**;
+an 8-12-day webinar countdown-sequencing framework claiming the countdown alone drives ~half of
+webinar sales ★; a flagged caption-garble on LinkedIn's founding year, corrected on the source page,
+not carried forward). Batch closes with [[wiki/sources/2020-11-09-yt-p1te4WYipVk]] (a solo SEO
+tutorial: "what is"/"how" informational articles ranking competitive head terms, with a Nextiva
+conversion-mechanics case study).
+
+No captions issues, no rate-limiting (8/8 fetched clean on the first attempt). Ledger open long-form
+after batch: **@neilpatel P2:525 P3:21**, **@MarketingSchoolPod P2:731 P3:28** (unchanged, not this
+batch's channel). Ingest batches since last synthesis: 1 (checkpoint at 10).
+
+Synthesis notes: the full **LinkedIn Unlocked** course (6 lessons) is a landmark-scale, genuinely new
+addition to the **social-media** domain — no prior dedicated LinkedIn playbook existed in the corpus
+at this depth. Candidates for the next synthesis pass: the five-stage B2B sales-cycle framework
+(agency-entrepreneurship/social-media crossover) ★; the webinar 8-12-day countdown-drives-half-of-
+sales sequencing framework (a new email-marketing/analytics-cro-adjacent claim) ★; the Groups 80/20
+content-mix rule; the volunteering-with-wife → organic-business biography anecdote. Reinforcement-
+only, not new: the Brazil/India alliance-based international-expansion model (already recorded).
