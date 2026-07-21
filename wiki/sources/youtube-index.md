@@ -1047,6 +1047,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2023-02-04 — [3 Easy Ways to Boost Conversions (exit pop-ups; social-proof 400% stat; countdown timers; Brailsford marginal-gains analogy)](2023-02-04-yt-4EmDUxOT6c8.md) — analytics-cro
 - 2023-02-06 — [This Helped Me Get More Traffic Right Away (Instagram Stories traffic hack; 6 content types; UGC)](2023-02-06-yt-jpa-ZNFo4gQ.md) — social-media, content-marketing
 - 2023-02-09 — [This Low Effort Social Strategy Brings in a Ton of ROI (carousel ads; engagement-rate stat bank; platform-retention mechanism)](2023-02-09-yt-dKn45bP4eZg.md) — social-media, paid-ads
+- 2023-02-11 — [Avoid This Email Marketing Strategy At All Costs (list scrubbing; deliverability-taint mechanism; ConvertKit; QuickSprout origin story)](2023-02-11-yt-GAwYtycQYoM.md) — email-marketing, analytics-cro
+- 2023-02-13 — [A Simple Way to Boost Your Amazon SEO (A10 algorithm; sales velocity + keyword mastery; listing-optimization checklist)](2023-02-13-yt-J2RqIpeo6vc.md) — seo
+- 2023-02-16 — [How to Use Customer Surveys to Boost Your Conversions (Forrester CX stat; sample-size guidance; SurveyMonkey/Hotjar; upsell framework)](2023-02-16-yt-4bXDMgc4O_w.md) — analytics-cro, content-marketing
+- 2023-02-18 — [My Favorite Customer Service Tip (casual tone thesis; Nextiva live-chat stat; Crazy Egg; tutorial-video stat)](2023-02-18-yt--mrmzlZcfmE.md) — content-marketing, social-media, email-marketing
+- 2023-02-20 — [How to Optimize TikTok for SEO (TikTok revenue stat; Gen-Z search-behavior stat; hashtag-as-keyword strategy)](2023-02-20-yt-OsBevfjL_7I.md) — seo, social-media
+- 2023-02-23 — [What I Wish I Knew When I Started My Blog (TAM-based niche selection; multi-channel distribution; consistency origin story)](2023-02-23-yt-2L4Jh0Ra7Rk.md) — content-marketing, seo
+- 2023-02-25 — [My Ultimate (Quick) Traffic Hack (year-in-title-tag freshness tactic; 5-6% traffic lift)](2023-02-25-yt-icTly7cEVPA.md) — seo
+- 2023-02-27 — [7 Tools to Write Content Faster (AnswerThePublic, Ubersuggest AI writer, VistaCreate, Grammarly, Lumen5, Portent, Hemingway App)](2023-02-27-yt-b2RLM1QqdC0.md) — content-marketing, seo
 
 ---
-_1034 videos ingested (L2) so far._
+_1042 videos ingested (L2) so far._

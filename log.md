@@ -6125,3 +6125,35 @@ new, quotable illustrative story. Everything else (subject-line tips, segmentati
 stats, the 7-favorite-SEO-strategies roundup, Instagram Stories traffic hack) repeats
 territory already well covered in seo/email-marketing/social-media — cross-link only,
 no promotion needed.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2023-02-11→02-27 solo tactical era, cont. 100)
+
+Ingested 8 @neilpatel solo tactical videos, 2023-02-11 to 2023-02-27: email
+list-scrubbing/deliverability (yt-GAwYtycQYoM), Amazon SEO via the A10 algorithm
+(yt-J2RqIpeo6vc), customer-survey CRO framework (yt-4bXDMgc4O_w), customer-service
+tone-of-voice tip (yt--mrmzlZcfmE), TikTok SEO (yt-OsBevfjL_7I), a "what I wish I
+knew" blogging retrospective (yt-2L4Jh0Ra7Rk), the year-in-title-tag freshness hack
+(yt-icTly7cEVPA), and a 7-tool content-production roundup (yt-b2RLM1QqdC0). All 8
+had captions, no dupes, no skips. Ledger: 8 rows → L2. youtube-index.md +8 (now
+1042). Synthesis debt: 4 ingest batches since synthesis pass 13 (checkpoint at 10).
+
+Synthesis notes: (1) An explicit, ranked TAM-based niche-selection framework
+(marketing > paid advertising > SEO > conversion-rate optimization, with a "best man
+speeches"-style micro-niche as the negative example; yt-2L4Jh0Ra7Rk) is a nameable
+strategic doctrine not previously stated this explicitly — a beliefs.md candidate.
+(2) The email-deliverability "taint" mechanism (unengaged subscribers degrading
+inbox placement for engaged ones, via inbox-provider spam algorithms) paired with the
+QuickSprout 28,000-subscriber/20%→10% open-rate origin anecdote (yt-GAwYtycQYoM) adds
+biographical texture and a citable tactical mechanism. (3) The Amazon SEO / A10
+algorithm walkthrough (yt-J2RqIpeo6vc) is the first detailed Amazon-marketplace-SEO
+treatment in the corpus — a new seo/ sub-topic candidate (Amazon SEO has not
+previously had its own page). (4) A named third-party anecdote — "my buddy Yaniv,"
+Nextiva co-founder, self-reporting live chat drives ~33% of Nextiva's sales
+(yt--mrmzlZcfmE) — is a new named-entity mention (Nextiva/Yaniv), worth a
+wiki/entities/ context stub if it recurs. (5) An explicit content-simplicity
+philosophy ("write for a kindergartner," anti-Ivy-League-vocabulary stance, paired
+with the Hemingway App; yt-b2RLM1QqdC0) reinforces and sharpens existing voice.md
+material on plain-language communication. Everything else (customer-survey sample
+size guidance, TikTok SEO steps, year-in-title-tag hack, tool roundup) is solid
+tactical detail but repeats territory already well covered in analytics-cro/seo/
+content-marketing — cross-link only, no promotion needed.
