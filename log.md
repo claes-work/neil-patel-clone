@@ -3817,3 +3817,20 @@ in `pipeline/synthesis-state.md`; index.md counts and the Entities/Topics/Person
 No pending checkpoints remain (caught up through batch #77).
 
 Synthesis notes: none (this IS the synthesis pass; debt drained to 0 through batch #77).
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2020-03-14→04-02 solo tactical era: little-traffic lead-gen / stopped-link-building brand-building case / 8-things-remove-from-website / how-Google-makes-money explainer / 4-design-tweaks-for-SEO / SEO-without-coding tools / rank-smaller-sites-fast diversity-update + exact-match-domain studies / choose-a-great-business-name taxonomy, cont. 56)
+
+Eight solo Neil-fronted videos, all L2, no captions issues, no rate-limiting. Mix of
+tactical SEO (lead gen, site hygiene, design/mobile-first, no-code technical SEO,
+small-site ranking tactics) plus two adjacent-domain explainers: a Google
+ad-business-model breakdown (paid-ads) and a business-naming/branding guide
+(content-marketing/agency-entrepreneurship) — both general-knowledge education rather
+than first-person tactical playbooks, still Neil-voiced throughout.
+
+Synthesis notes: nothing landmark enough for inline L3 promotion. Candidate material for
+the next synthesis pass: the exact-match/misspelled/near-me domain case studies
+(Gaps.com) as a reusable "small-site ranking" tactic bundle; the recurring
+Ubersuggest-as-link-magnet + two-studies-97k-backlinks figures (consistent with prior
+self-reported figures, no new numbers); the naming-taxonomy video is a standalone
+branding-fundamentals piece with no direct SEO tie-in — flag for content-marketing hub
+if a "branding" sub-section is ever warranted. No contradictions found vs existing wiki.
