@@ -874,6 +874,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2021-12-02 — [One e-Commerce Hack That Will Increase Your Sales (sponsored by PayPal; Pay in 4 BNPL pitch; affordability-as-conversion-ceiling framing)](2021-12-02-yt-lBY2MYcNyHE.md) — paid-ads, analytics-cro
 - 2021-12-04 — [How to Reverse-Engineer The Strategy of The Most Successful Competitors in Digital Marketing (cross-channel competitor-research tool roster: SpyFu, BigSpy, Not Just Analytics, Sociality.io) ★](2021-12-04-yt-YIxUedvNi1g.md) ★ — seo, paid-ads, social-media, content-marketing
 - 2021-12-06 — [Auditing Your Website's SEO For Rankings (BEYOND Just Technical Fixes) (page-two/three keyword audit; subheading-craft extension; branded-image backlink tactic; Twitter-search outreach script)](2021-12-06-yt-j2U3gXLi4eE.md) — seo, content-marketing
+- 2021-12-09 — [One FREE Tool to STEAL Your Competitor's Best Keywords (Ubersuggest traffic-analyzer keyword-gap workflow; quick-win keyword thresholds; niche-authority-beats-Wikipedia doctrine)](2021-12-09-yt-fvn0A9Zjiow.md) — seo, content-marketing
+- 2021-12-11 — [How to Climb Google's Rankings From Pages #2 to Page #1 (optimize-vs-create decision rule; CTR-over-backlinks reranking claim via ClickFlow A/B title testing)](2021-12-11-yt-VBSkT08tRqU.md) — seo
+- 2021-12-13 — [Finding The Easiest Opportunities for Link Building In Less Than 3 Minutes (Ubersuggest backlink-opportunities multi-competitor-linker workflow)](2021-12-13-yt-ztYTLwVihS0.md) — seo
+- 2021-12-18 — [The BEST Marketing Strategy is Often The SIMPLEST - Here's Why (one-channel-at-a-time sequencing; offer/checkout validation before scaling; paid-ads-first for new sites)](2021-12-18-yt-eiMYkbudKu8.md) — content-marketing, paid-ads, analytics-cro
+- 2021-12-20 — [Is Digital Marketing Going to Be Saturated in 2023? [title mismatch, spoken=2022] (saturation stats; 25x content-refresh-over-new-writing ratio; Tom Brady/FTX + Kylie/Beats influencer examples; iOS-privacy omnichannel case) ★](2021-12-20-yt-IzG8hxj5xpQ.md) ★ — content-marketing, social-media, analytics-cro
+- 2021-12-23 — [A Minimalist's Approach to SEO: The Only 3 Things You Should do Every Week To Get Traffic (weekly SEO triage: refresh/consolidate/delete, competitive gap analysis, content clusters)](2021-12-23-yt-MN-g7XXUskc.md) — seo, content-marketing
+- 2021-12-27 — [Why You Should Stop Studying Digital Marketing (What To Do Instead While Getting 10x The Results) (TAM-sizing heuristic; reverse-engineer-competitors MVP campaign playbook; mom-teacher learning quote)](2021-12-27-yt-_2BIMXX7lbQ.md) — agency-entrepreneurship, content-marketing, paid-ads
 
 ---
-_861 videos ingested (L2) so far._
+_868 videos ingested (L2) so far._

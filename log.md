@@ -5099,3 +5099,40 @@ synthesis pass; the "Google trusts brands"/rule-of-seven SEO-ranking rationale a
 6-7-person content-refresh team headcount are new agency-operations detail for
 beliefs.md/biography.md. Everything else this batch reinforces existing doctrine (2
 batches since last synthesis pass 11; checkpoint at 10 — not due).
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2021-12-09→12-27, cont. 87)
+
+Dispatched under the roster autopilot (single agent, sequential file writes; no
+per-video sub-agents). 8 selected, 7 ok / 1 no-captions (yt-yw-Pk1lgsvE, marked L1), no
+rate-limiting, all solo Neil-fronted, no duplicates. Content: a competitor-keyword-theft
+Ubersuggest tutorial with concrete quick-win keyword thresholds (≥200-1,000+
+searches/month, difficulty <40-50) restating the niche-authority-beats-Wikipedia
+doctrine; a page-2-to-page-1 video giving an explicit optimize-vs-create decision rule
+plus a CTR-over-backlinks reranking claim (ClickFlow title-tag A/B testing); a
+3-minute Ubersuggest Backlink-Opportunities tutorial (multi-competitor-linker
+targeting); a single-channel-focus video prescribing "one experiment at a time, then
+scale, then add the next," with offer/checkout validation framed as prerequisite to
+scaling spend, and paid ads recommended over SEO as the first channel for brand-new
+sites (SEO needs ~6 months to show traction); a title-mismatched "2023" predictions
+video (spoken content is 2022) covering saturation stats (~1B blogs, the recurring
+auto-insurance oversupply example), a disclosed content-refresh ratio (~1 post/week new
+writing vs. 100+ articles/month updated — ~25x), four influencer-marketing case studies
+(Nike/Jordan, Kylie Cosmetics, Apple/Beats-Dre, and — dated three years before its 2022
+collapse and Neil's own 2024 FTX clawback suit — Tom Brady's FTX sponsorship alongside
+LeBron/Tonal) ★, upsells/downsells for LTV, and the iOS-privacy-change omnichannel
+cautionary case; a minimalist weekly-SEO-routine video (GSC near-miss-keyword refresh,
+delete-underperforming-content-despite-backlinks stance, article consolidation to stop
+"conflicting signals," Ubersuggest competing-domains gap analysis, domain-filtered
+content-cluster targeting); and a stop-studying-start-doing video with an explicit TAM
+sizing heuristic (1% of $100B > 100% of $1B), a reverse-engineer-competitors-then-MVP
+playbook (Ubersuggest + Facebook Ad Library), and a mom-was-a-teacher learning quote
+reinforcing the existing immigrant-mother biography line (no new bio fact).
+
+Synthesis notes: the Tom Brady/FTX 2021 influencer example is dated color worth a
+flag-as-aged-poorly callout if promoted, not a doctrine to carry forward; the
+25x-content-refresh ratio is a stable recurring self-report (consistent with the
+existing 2019-era 4-posts/90-updates figure) rather than new; the CTR-over-backlinks
+reranking claim and the optimize-vs-create decision rule are the two most citable new
+SEO-tactical items for the next seo/ synthesis pass. Everything else this batch
+reinforces existing doctrine. 2 ingest batches since synthesis pass 11; checkpoint at
+10 — not due.
