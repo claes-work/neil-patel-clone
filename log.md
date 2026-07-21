@@ -3540,3 +3540,83 @@ new-store e-commerce playbook (ZWYdJ3VBScY — niche + USP + Shopify + one-chann
 shipping-raises-AOV and post-purchase-bump mechanics reinforce the existing funnel/LTV doctrine).
 Synthesis debt now 6/10 (checkpoint at 10). Next iteration: Stage B (continue draining @neilpatel P2
 long-form, oldest-first from 2020-01).
+
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2019-12-23→2020-01-12 solo tactical: 5-side-hustles / dead-page-revival / digital-marketing-2020 / newbies-brand-guide / content-marketing-2020 / beginners-content-guide / instant-content-ideas / 238%-traffic-growth era, cont. 52)
+
+Ingested 8 P2 @neilpatel long-form videos (all Neil-fronted solo, no Eric-Siu attribution gating) to L2,
+2019-12-23→2020-01-12 (the turn-of-the-year trend/brand cluster, batch #74). All had captions; 0 skipped,
+0 no-captions, 0 duplicates, 0 rate-limits/errors. Pages written: The 5 BEST Digital Marketing Side Hustles
+$20 to $195 Per Hour (62Ua_FdZgxc); 4 Simple Hacks to Bring Dead Pages Back to Life With Massive SEO Gains
+(Q0H_-2d2-KY); How Digital Marketing Will Change in 2020 (5Vbd5Y8XVfg); A Detailed, Newbie's Guide to
+Building Your Brand in 2020 (ycD-6vLYASA); Content Marketing is Changing - This is Where it is Heading in
+2020 (RKnryDGr2DM); The Beginner's Guide to Content Marketing in 2020 (3pVQm18SQok); How to Instantly Find
+Dozens of Content Ideas That Your Audience Will LOVE (Cz1PIlVRaVY); Copy the 5 Winning Strategies Behind My
+238% Traffic Growth in 2019 (idpg3IyTU10). youtube-index footer 581 -> 589; index.md count bumped.
+
+Data-integrity flags: THREE more title/date mismatches from Neil's title A/B habit — 5Vbd5Y8XVfg,
+RKnryDGr2DM and 3pVQm18SQok all carry "2023" in the live title while published Dec 2019 / Jan 2020 and
+spoken entirely about 2020; flagged on each page, all claims dated to publication. CONTRADICTION
+(no-click statistic): RKnryDGr2DM (2020-01-04) attributes "roughly 50% of searches result in no click" to
+SEARCH ENGINE LAND, while 5Vbd5Y8XVfg five days earlier attributes "49%" to JUMPSHOT — same underlying
+study, loose sourcing; flagged on the page. CONTESTED STAT: the Comscore "over 50% of searches will be
+voice" prediction recurs in three of the eight videos — recorded as spoken, flagged as a period prediction
+that did not materialize. CAPTION GARBLES corrected on-page: Google's "Blur" update = BERT (RKnryDGr2DM);
+"atris SEMrush mos" = Ahrefs/SEMrush/Moz, "Optimizes of the world" = Optimizely, "a free toll called
+subscribers" = Subscribers.com (ycD-6vLYASA); "thirteen x more likely to see a positive ROY" = HubSpot's
+13x positive ROI (3pVQm18SQok); "my addings in Neil Patel digital" = my ad agency, Neil Patel Digital.
+ATTRIBUTION UNCERTAIN: idpg3IyTU10 names his second-ever website "ACS… my original marketing ad agency"
+with no expansion of the acronym — flagged, not treated as an established bio fact. COMMERCIAL DISCLOSURE:
+Ubersuggest/Hello Bar/Quick Sprout (his own properties) are recommended throughout without disclosure, and
+Cz1PIlVRaVY is effectively a full Ubersuggest product tutorial; every page closes on a pitch for his own
+agency (styled "Neil Patel Digital" in this era, later NP Digital). Self-reported and unverifiable figures
+kept as claims, not facts: 238% traffic growth, US under 25% of traffic, Pinterest 413k/mo on an unnamed
+health site, ~6-7k visitors per push, carousel ~50% share-to-like rate, student Gerard's 931 visitors /
+12 sales. TIMELINE NOTE: 3pVQm18SQok recommends AnswerThePublic as a third-party PAID tool — this predates
+his 2022 acquisition of it, so it is not self-promotion.
+
+Synthesis notes: genuinely-new-for-persona threads for the next synthesis pass (debt 6 -> 7): (1) ★ "BRAND
+IS THE BEST MOAT" AS AN EXPLICIT THESIS — ycD-6vLYASA (2020-01-02) opens with it cold: features, products,
+services and marketing are all copyable, brand is not. He then operationalizes it (depth-first community
+answering, the podcast tour, co-publishing, the rule of seven, a free tool) and closes calling personal
+brand "the best moat in the future." This is a stance, not a tactic; belongs in beliefs.md and
+agency-entrepreneurship/, and it retro-explains the "Who is Neil Patel?" brand-query stunt already in the
+corpus. (2) ★ THE CONTENT OPERATION, QUANTIFIED — idpg3IyTU10 (2020-01-12) + 3pVQm18SQok (2020-01-06):
+he writes 4 blog posts a month (5 in a five-week month) himself, a TEAM OF THREE updates 90 articles a
+month (~30 each), and he publishes 12+ videos a month — with the flat verdict that "updating old content is
+providing me more traffic gains than writing new content," his single biggest 2019 gain. Sharper and better
+dated than the existing 90-updates-a-month mentions; candidates for content-strategy and
+agency-entrepreneurship/. (3) ★ THE INTERNATIONAL-EXPANSION ORIGIN STORY — idpg3IyTU10: an unnamed FEMALE
+FRIEND WHO WORKS AT GOOGLE told him "the majority of the people who use Google don't search in English,"
+which started the translation program — Brazil first, then Spanish for all of LatAm, then German/French/
+Italian "so many languages I don't even count anymore" — and he now says THE US IS UNDER 25% OF HIS
+TRAFFIC, explicitly crediting the geography move rather than better marketing/product/content for beating
+competitors. The corpus already has "Brazil first"; the causal origin, the ordering and the <25% figure are
+new. (4) ★ "TOOLS IS A NEW FORM OF CONTENT MARKETING" — idpg3IyTU10 + ycD-6vLYASA: Ubersuggest is the
+NUMBER-ONE TRAFFIC SECTION of neilpatel.com, launching it produced a jump in brand queries, and the
+democratized version is a $10 CodeCanyon tool rebranded onto your own site (which he says he did on Quick
+Sprout and on his early agency site). Elevates a scattered tactic into a stated doctrine — "the most viral
+and the easiest traffic you'll get is from a tool." (5) ★ USER-FIRST AS THE GATE ON LAND-AND-EXPAND —
+idpg3IyTU10: "if it makes sense for a searcher but not a user, do not do it, it's all about putting the
+user first." A crisp formulation of the optimize-for-people-not-platforms principle flagged last batch, now
+applied as an operational constraint on his own signature tactic. (6) ★ E-A-T SELF-DISQUALIFICATION
+RESTATED WITH A BIO ANCHOR — RKnryDGr2DM (2020-01-04): "What do I know about 401(k)s and retirement? Heck,
+I'm 34 years old" — a SECOND in-corpus age statement (after 2019-12-12) corroborating the 1985 birth year,
+plus the health/finance self-exclusion now stated as personal limit rather than policy praise. (7) ★
+THREE-SIGNAL CONTENT VALIDATION — Cz1PIlVRaVY (2020-01-09): an idea only qualifies at thousands of social
+shares AND 100+ estimated visits AND 5+ backlinks, because "social shares people can manipulate" — a
+falsifiable rule, sharper than the existing skyscraper/content-ideas guidance, and paired with reading
+competitors' top-pages for DUDS as well as winners. (8) ★ HIGH-CPC OVER HIGH-VOLUME — 3pVQm18SQok: chase
+keywords by commercial value, not popularity, because high-CPC terms convert better; complements the
+comparison-keyword intent taxonomy flagged last batch. (9) BRAND-BUILDING MECHANICS worth a topic page:
+the 3-people/3-topics podcast-pitch test (learn which topic resonates before you burn 20 podcasters),
+interviewing guests on questions they have NOT already answered, and co-publishing as an authority-and-
+workload trade — with the biographical detail that SUJAN PATEL IS HIS COUSIN (co-author of The Advanced
+Guide to SEO), alongside Aaron Agius and Larry Kim/WordStream collaborations. Mostly-restatements folded in
+(not new debt): the pillar-page/content-cluster model via Moz's Beginner's Guide, structured markup →
+snippets → voice, the Medic/E-A-T checklist (bio on every page, guest posts, social links), the dead-page
+internal-linking and 301-consolidation hacks (a fuller version of the existing content-pruning thread), the
+rule of seven with push/email/chatbot channels, and the side-hustle rate card (62Ua_FdZgxc — a market-rates
+list rather than doctrine, though the "traffic only gets more expensive" premise reinforces his CRO stance).
+Synthesis debt now 7/10 (checkpoint at 10). Next iteration: Stage B (continue draining @neilpatel P2
+long-form, oldest-first from 2020-01-14).
