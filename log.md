@@ -5792,4 +5792,64 @@ party ("my friend Brian Dean") worth checking against wiki/entities/ if he appea
 again. (6) "Free Resources to Learn Instagram Marketing" (fkqCz12pGpI) is a pure
 third-party resource list — no persona-training material.
 
-7 ingest batches accumulated since synthesis pass 12 (checkpoint at 10) — not yet due.
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2022-10-17→11-03, solo tactical era, cont. 103)
+
+Batch of 8 @neilpatel long-form videos, 2022-10-17 through 2022-11-03 (all captions ok,
+no skips). Ledger rows set to L2; youtube-index.md + index.md counts bumped to 994.
+
+Titles: "The Dirty Little Secret About Social Media Marketing" (E-ntbP8cplk), "Google's
+Helpful Content Update" (Llm-LXlH0JM), "You May Not Want Google to Rank Your Site in
+All Countries" (KQkcaSZA9os), "How Google Wants You to Create Meta Descriptions"
+(9LMc75qLKXc), "5 Quick Ways to Improve Your SEO Rankings" (rKgHxZRLXg4), "7 Tips For
+Selecting a Performance Marketing Agency" (gztsYn8S0wM), "This is What Will Happen with
+Instagram, Facebook and Tiktok Whether You Like it Or Not" (JsaGGtzj-Yc), "What
+Google's Quick Read Test Tells Us About the Future of SEO" (DmdkfMVLrVs).
+
+Synthesis notes: (1) ★ "5 Quick Ways to Improve Your SEO Rankings" (rKgHxZRLXg4,
+2022-10-27) is the densest source in this batch: the Search-Console "almost ranking"
+tactic (filter Average Position 11-20, reinforce those exact terms in title/meta/body),
+the Ubersuggest AI-writer workflow (Lab section: keyword → title/meta/heading
+suggestions → draft, explicitly framed as a head-start not a publish-ready output), and
+a long CTR title-tag stat list (questions +14.1%, 15-40 chars +8.6%, exact-query-in-URL
+up to +45%, power words +13.9%, emotion +7.3%, meta-description-present +5.8%, year in
+title +4.9%, curiosity-gap +5.9%, education-style +10.4%) — worth checking against
+wiki/topics/seo/ for existing CTR-stat coverage before promoting; some figures likely
+overlap/need reconciling against the meta-description-only CTR set below. (2) "How
+Google Wants You to Create Meta Descriptions" (9LMc75qLKXc, 2022-10-24) gives a
+narrower, Ubersuggest-sourced meta-description CTR set (119-135 chars +3.4%, exact-
+query-match +5.7%, power words +2.18%, emotion +2-3%, any-description-present +5.8%) —
+the +5.8% "having any meta description" figure matches exactly between this source and
+(1), suggesting they're the same underlying dataset sliced two ways; flag for
+cross-linking rather than double-counting at the next synthesis pass. (3) "7 Tips For
+Selecting a Performance Marketing Agency" (gztsYn8S0wM, 2022-10-29) reinforces the
+existing "vet the people, not the agency's brand name" stance already in
+persona/system-prompt.md v13 (synthesis pass 12) with a fresh, more vivid framing
+("if you hire my agency because of me, that's a big mistake") and a more specific award
+citation ("Agency of the Year by Media Post," vs. the unnamed "Agency of the Year"
+self-description repeated verbatim in two other videos in this batch — Llm-LXlH0JM and
+KQkcaSZA9os) — candidate for a citation add to the existing belief entry, not a new one.
+(4) "You May Not Want Google to Rank Your Site in All Countries" (KQkcaSZA9os,
+2022-10-22) introduces an international-SEO sub-topic not yet confirmed present in
+wiki/topics/seo/ — hreflang tooling (Aleyda Solis's tool named), region-specific link
+building, the Nike brand-query-vs-generic-term ranking-signal example, and an 82%-of-
+traffic-from-outside-the-US self-stat — worth a dedicated check at the next synthesis
+pass. (5) "What Google's Quick Read Test Tells Us About the Future of SEO"
+(DmdkfMVLrVs, 2022-11-03) states "SEO isn't about word count" backed by a
+Ubersuggest stat (41.9% of 562 informational-query first-page results exceed 2,000
+words, presented as *not* proof that length itself ranks) — flag for a check against
+any existing long-form-content-ranks-better claim in wiki/topics/seo/; not asserted as
+a contradiction here since the existing page content wasn't reviewed as part of this
+ingest. (6) "The Dirty Little Secret About Social Media Marketing" (E-ntbP8cplk,
+2022-10-17) and "This is What Will Happen with Instagram, Facebook and Tiktok..."
+(JsaGGtzj-Yc, 2022-10-31) both restate the corpus's recurring experimentation-over-
+formula stance with new illustrative examples (Khaby Lame; Instagram/TikTok/BeReal
+feature-copying) — JsaGGtzj-Yc's LinkedIn talent-poaching tactic ("ask if they know
+someone else" outperforming a direct pitch) is the one genuinely new tactical detail,
+worth a short addition to wiki/topics/agency-entrepreneurship/ if not already covered.
+(7) "Google's Helpful Content Update" (Llm-LXlH0JM, 2022-10-20) paraphrases Google's
+own helpful-content guidance plus a "secret sauce"/personal-experience differentiation
+tactic and an annual content-refresh cadence — likely reinforces existing E-E-A-T /
+content-freshness coverage; no clearly new fact beyond the "Agency of the Year"
+self-description already covered in note (3).
+
+8 ingest batches accumulated since synthesis pass 12 (checkpoint at 10) — not yet due.

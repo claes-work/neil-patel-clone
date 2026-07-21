@@ -999,6 +999,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2022-10-08 — [The Easiest Way to Get Clients For Your Ad Agency (Crunchbase-teardown cold-outreach tactic; hunter.io; sixth-fastest-agency Adweek repeat)](2022-10-08-yt-zUwK51XBMEI.md) — agency-entrepreneurship, content-marketing
 - 2022-10-10 — [Free Resources to Learn Instagram Marketing (resource roundup, low claim density)](2022-10-10-yt-fkqCz12pGpI.md) — social-media
 - 2022-10-15 — [The Biggest Social Media Opportunity That You Aren't Leveraging (LinkedIn low-competition-content thesis; carousels; 13K-impressions self-example)](2022-10-15-yt-PF14kyW1LP4.md) — social-media, content-marketing
+- 2022-10-17 — [The Dirty Little Secret About Social Media Marketing (experimentation-over-formula thesis; Khaby Lame example; posting-cadence playbook)](2022-10-17-yt-E-ntbP8cplk.md) — social-media, content-marketing
+- 2022-10-20 — [Google's Helpful Content Update (Google guidance paraphrase; niche-focus, executable-content, annual-refresh, secret-sauce tactics)](2022-10-20-yt-Llm-LXlH0JM.md) — seo, content-marketing
+- 2022-10-22 — [You May Not Want Google to Rank Your Site in All Countries (international SEO; hreflang via Aleyda Solis tool; Nike brand-query CTR example)](2022-10-22-yt-KQkcaSZA9os.md) — seo
+- 2022-10-24 — [How Google Wants You to Create Meta Descriptions (Ubersuggest CTR data: length, exact-query match, power words, emotion, presence)](2022-10-24-yt-9LMc75qLKXc.md) — seo
+- 2022-10-27 — [5 Quick Ways to Improve Your SEO Rankings (almost-ranking-keywords via Search Console; Ubersuggest AI writer; CTR title-tag data) ★](2022-10-27-yt-rKgHxZRLXg4.md) ★ — seo, content-marketing
+- 2022-10-29 — [7 Tips For Selecting a Performance Marketing Agency (Media Post "Agency of the Year"; "vet the people not the brand" reinforcement)](2022-10-29-yt-gztsYn8S0wM.md) — agency-entrepreneurship, paid-ads
+- 2022-10-31 — [This is What Will Happen with Instagram, Facebook and Tiktok Whether You Like it Or Not (feature-copying thesis; LinkedIn talent-poaching tactic; weekly-experiment cadence)](2022-10-31-yt-JsaGGtzj-Yc.md) — social-media, agency-entrepreneurship
+- 2022-11-03 — [What Google's Quick Read Test Tells Us About the Future of SEO (Ubersuggest 41.9%-over-2000-words stat; "SEO isn't about word count" stance)](2022-11-03-yt-DmdkfMVLrVs.md) — seo, content-marketing
 
 ---
-_986 videos ingested (L2) so far._
+_994 videos ingested (L2) so far._
