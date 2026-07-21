@@ -936,6 +936,48 @@ YouTube-ranking mechanism.
   content doctrine with a specific ratio via Search Console workflow: roughly 21 updates to old
   content for every 1 new article ([[2020-12-19-yt-l8JUF0bNIo4]]).
 
+## 2021-05 → 2021-11 solo-era SEO — RankBrain named, the SEO-vs-SEO-company ROI case, and the "page one ranking potential" tool feature (@neilpatel P2, synthesis pass 11)
+
+The mid-to-late-2021 run is mostly tactical reinforcement of the established Ubersuggest-centric
+playbook, with a few concrete first-party figures and named-mechanism citations worth folding in.
+
+- **Own-site SEO-vs-SEO-company keyword-ROI case study (2021-07-05).** A concrete, quantified
+  extension of the existing keyword-ROI material: his own "SEO" page (~110K searches/mo) converts
+  roughly 1 customer/yr, versus his "SEO company" page (~18K searches/mo) converting roughly 6
+  customers/yr — a ~6x ROI gap despite the lower-volume keyword, reinforcing "optimize for revenue,
+  not traffic/volume" ([[2021-07-05-yt-5lEWjtwKlBQ]]).
+- **RankBrain named explicitly as the intent-over-keyword-matching mechanism (2021-08-14).** First
+  explicit citation of Google's **RankBrain** update in this run, illustrated with the "apple"
+  (computer vs. fruit) disambiguation example — a named technical anchor for the existing
+  intent-over-keyword-stuffing belief ([[2021-08-14-yt-oWtCsU3tb24]]).
+- **Wikipedia named as the broad-authority-dominance example; Moz's "Beginner's Guide to SEO" named
+  as the topic-cluster structural model (2021-08-19).** Two new named citations: Wikipedia as the
+  site that out-ranks nearly every niche regardless of topical focus (his answer to "is SEO too
+  saturated to start now"), and Moz's Beginner's Guide praised by name as a model of topic-cluster
+  content structuring — the first time a competitor resource is cited approvingly as a structural
+  example rather than only as a guest-posting/link target ([[2021-08-19-yt-MoF_eXTIpgc]]).
+- **The Ubersuggest "page one ranking potential" tool feature (2021-11-01).** A new named-feature
+  disclosure: enter a URL and Ubersuggest scores which keywords the site could realistically rank
+  for given its current on-page SEO, backlink profile, and site history — paired with a "content
+  over active link building" argument for budget/time-constrained sites and a repeated
+  never-pay-for-links stance ([[2021-11-01-yt-QnBHcjQOIBM]]).
+  > "It's not just about backlinks... did it give me the solution to my search query or my problem
+  > as quick as possible in the most efficient way? If it did, you're happy." —
+  > [[2021-11-01-yt-QnBHcjQOIBM]]
+- **Data-driven, stat-heavy long-form content generates ~3x more backlinks — tied explicitly to
+  E-A-T (2021-11-20).** A first-party neilpatel.com disclosure: long-form content containing
+  stats/data earns roughly 3x the backlinks of content without data, though data-heavy content
+  doesn't necessarily capture high search *volume* (simple-query content does that instead) — the
+  two content types serve different goals (links vs. volume). Explicitly connects data-driven
+  content to Google's E-A-T framework, with a self-deprecating example of a topic he'd refuse to
+  write on (cancer, as a non-doctor). Cross-link
+  [[../content-marketing/content-marketing|content-marketing]] ([[2021-11-20-yt-1odgi9VSx7Q]]).
+- **"SEO is many small things done consistently" — a recurring framing, not a new claim (2021-05).**
+  Neil's own 4-task daily SEO routine (rank check, keyword research, site audit, GSC review) recurs
+  as a framing across three sources in one batch — noted here as a consolidated cross-reference, not
+  three separate findings ([[2021-05-27-yt-CcvVgMUzjiI]], [[2021-05-29-yt-84JZvEaj8As]],
+  [[2021-05-31-yt-ljFUHMCvhAE]]).
+
 ## Signature framing: "get loved by Google"
 
 Neil's recurring sign-off phrase, worth capturing verbatim as voice:
@@ -1045,3 +1087,10 @@ many small things well, for the user, and rankings follow.
 - [[2021-03-27-yt-P54LGZFLiqI]] — Same-weekday/region-filtered GA comparison method
 - [[2021-04-01-yt-JlxTM_DKILs]] — CodeCanyon cheap-tool link-magnet sourcing
 - [[2021-04-17-yt-3nykPLWfPu4]] — ★ First-24-hours-promotion-drives-YouTube-ranking mechanism
+
+### 2021-07 → 2021-11 solo-era SEO (@neilpatel P2, synthesis pass 11)
+- [[2021-07-05-yt-5lEWjtwKlBQ]] — Own-site SEO-vs-SEO-company keyword-ROI case study (~6x gap)
+- [[2021-08-14-yt-oWtCsU3tb24]] — RankBrain named explicitly (intent over keyword-matching)
+- [[2021-08-19-yt-MoF_eXTIpgc]] — Wikipedia authority example; Moz Beginner's Guide topic-cluster model
+- [[2021-11-01-yt-QnBHcjQOIBM]] — ★ Ubersuggest "page one ranking potential" tool feature
+- [[2021-11-20-yt-1odgi9VSx7Q]] — Data-driven content ~3x backlinks, tied to E-A-T

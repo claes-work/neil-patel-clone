@@ -266,6 +266,26 @@ paid works because of the funnel behind the ad, not the ad craft (dated; self-re
   to a sales page — full course detail on [[../social-media/social-media|social-media]]
   ([[2021-01-09-yt-NWMkd58lxSQ]]).
 
+## 2021-07 → 2021-10 solo-era paid tactics (@neilpatel P2, synthesis pass 11)
+
+- **The toothbrush-parenting anecdote + India SMS-cost-inversion/Jio case study (2021-07-26).** A
+  humanizing personal aside (a toothbrush-in-mouth trick shaving 20-30 minutes off his daughter's
+  morning routine) alongside a genuine paid-channel data point: India SMS costs run *higher* for his
+  company than US SMS costs despite Indian customers' lower willingness/ability to pay — attributed
+  to immature market economics. Cites **Jio** (the Indian telecom) as an admired extreme example of
+  his own free-tool strategy — giving away phone service to drive mass adoption, amplified by
+  celebrity endorsement (Amitabh Bachchan) ([[2021-07-26-yt-Tbja-0mTkjw]]).
+- **Non-Google/Facebook paid-platform ROI ranking + a new avoided-ad-spend figure (2021-07-31).** A
+  concrete ranking of secondary paid platforms by ROI: **Taboola/Outbrain > Snap > TikTok > Pinterest
+  > LinkedIn**. Also gives a new figure for the free-tool-as-avoided-ad-spend doctrine: **$1.5-2M/month**
+  in ad spend he estimates the free Ubersuggest funnel saves him ([[2021-07-31-yt-O6-PxcW1dZ4]]).
+- **Mobile-commerce share + the sign-in-with-Google reversal, again (2021-10-23).** Cites mobile sales
+  projected at **73%** of total 2021 US ecommerce; retells the sign-in-with-Google conversion-reversal
+  case study (see [[../analytics-cro/analytics-cro|analytics-cro]]) as a paid-checkout-option example,
+  plus a budget-pacing principle for large advertisers: avoid concentrating spend at quarter
+  boundaries to preserve "firepower" and avoid the performance cost of repeatedly pausing/restarting
+  campaigns ([[2021-10-23-yt-mCdpocxd7Ks]]).
+
 ## Key source pages
 - [[2018-12-22-yt-7V3HMRJ8U40]] — SEO vs paid: do both (omni-channel; "if paid is profitable, SEO is").
 - [[2019-02-09-yt-jmRunRQU1wc]] — Funnels as ad costs rise; 2008-recession ad-durability datapoint.
@@ -303,3 +323,8 @@ paid works because of the funnel behind the ad, not the ad craft (dated; self-re
 - [[2021-02-13-yt-AxTrGSdZC2E]] — SaaS pricing-page A/B results + Spiralize competitor recommendation
 - [[2021-02-27-yt-4imowpDWrDg]] — Messenger decline → push-notification pivot ⚠️ dated
 - [[2021-05-06-yt-1Zr35pNe9-0]] — MobileMonkey Messenger endorsement (⚠️ vs 2021-02-27 decline note)
+
+### 2021-07 → 2021-10 solo-era paid tactics (@neilpatel P2, synthesis pass 11)
+- [[2021-07-26-yt-Tbja-0mTkjw]] — Toothbrush-parenting anecdote; India SMS-cost/Jio case study.
+- [[2021-07-31-yt-O6-PxcW1dZ4]] — Non-Google/FB platform ROI ranking; $1.5-2M/mo avoided ad-spend figure.
+- [[2021-10-23-yt-mCdpocxd7Ks]] — 73% mobile-commerce share; sign-in-with-Google reversal; budget pacing.

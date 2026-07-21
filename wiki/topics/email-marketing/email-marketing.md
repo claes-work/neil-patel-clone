@@ -224,6 +224,17 @@ within six weeks, replacing prior fragmentary email tactics with a structured pl
   a four-stage, 3-days-per-stage webinar email sequence (invite → replay offer → offer → countdown)
   as the recommended B2B/B2C nurture flow ([[2021-02-06-yt--dosxMP3lhE]]).
 
+## 2021-08 solo-era email tactics (@neilpatel P2, synthesis pass 11)
+
+- **Frank Kern credited by name for "the money's in the list" (2021-08-02).** Neil says his
+  email-marketing philosophy was shaped by **Frank Kern**'s list-as-ATM framing — the first explicit
+  named-peer credit for this belief (compare the existing, unattributed "digital ATM machine" image
+  in [[../../persona/voice.md|voice.md]], credited there to John Reese) ([[2021-08-02-yt-X7SY-8_o07U]]).
+- **A tighter give/sell ratio than the standard 80/20 — "90-95% educate, 5-10% sell" (2021-08-12).**
+  A first-person figure sharper than the general 80/20 rule already documented, and close to (but
+  distinct from) the 98/2 ratio logged from the 2021-02-01 Email Marketing Unlocked lesson
+  ([[2021-08-12-yt-0QN3KeAtuD8]]).
+
 ## Key source pages
 - [[2019-01-19-yt-QJUIk3qhQ-w]] — First-hour email + push blast (Hello Bar + Subscribers) to spike virality.
 - [[2019-02-14-yt-gCJgHbjXWec]] — 7 free social tools; ManyChat 60%+ open/30–50% CTR beats email (dated).
@@ -249,3 +260,7 @@ within six weeks, replacing prior fragmentary email tactics with a structured pl
 - [[2021-02-01-yt-nhfs2dyx9Cg]] — ★ Email Marketing Unlocked L4 (98/2 ratio; plain-text preference)
 - [[2021-02-04-yt-LqFX-81m2Qk]] — Email Marketing Unlocked L5 (4-non-opens rule; Gmail-ads retargeting)
 - [[2021-02-06-yt--dosxMP3lhE]] — ★ Email Marketing Unlocked L6, COMPLETES (760% segmentation stat)
+
+### 2021-08 solo-era email tactics (@neilpatel P2, synthesis pass 11)
+- [[2021-08-02-yt-X7SY-8_o07U]] — Frank Kern credited for "the money's in the list."
+- [[2021-08-12-yt-0QN3KeAtuD8]] — Tighter 90-95%/5-10% educate-vs-sell ratio.

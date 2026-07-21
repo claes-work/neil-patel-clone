@@ -446,6 +446,43 @@ named strategic-analysis frameworks (Porter's Five Forces, PEST, SWOT) in the le
 > as *the* co-founder and current full owner. Not smoothed — see the entity-page CONTRADICTION
 > callouts for the full reconciliation discussion. [[2021-04-26-yt-E_CyyiRXH0U]]
 
+## 2021-08 → 2021-10 solo-era CRO — the two-step-checkout figure, the Portent load-time stat & the info-product funnel (@neilpatel P2, synthesis pass 11)
+
+- **Two-step checkout lifts conversions ~8-11% (2021-08-07).** A more specific figure than prior
+  general checkout-optimization mentions: splitting checkout into a name/email-first step before the
+  rest measurably lifts conversions, especially for newer brands ([[2021-08-07-yt-xIbxLUVQ1Nk]]).
+- **The Portent load-time stat — -4.42% conversions per additional second, 0-5s range (2021-09-06).**
+  A third-party study citation (Portent) giving a concrete number to the existing page-speed-hurts-
+  conversions doctrine; paired with a template-vs-custom recommendation split by business size
+  (smaller/newer businesses use landing-page templates; larger ones customize a validated template
+  rather than building from scratch) ([[2021-09-06-yt-3d9V7G2rOkM]]).
+- **The info-product business's full 7-step funnel, with revenue figures (2021-09-18, ★).** His
+  discontinued info-product business averaged **$371,882/month** (peak ~$600K, trough ~$200K,
+  sustained over a year) via a survey → webinar → money-back-guarantee → $1/7-day-trial →
+  community → paid-ads → analytics-funnel-diagnosis system, spending **>$100K/month** on paid ads
+  (Facebook first, YouTube second) — paid traffic reportedly outperformed SEO traffic to the same
+  webinar, a funnel-economics exception to his usual SEO-first framing, not a general reversal. See
+  the full business-exit narrative on
+  [[../agency-entrepreneurship/agency-entrepreneurship|agency-entrepreneurship]]
+  ([[2021-09-18-yt-H8XjS-SpoJI]]).
+  > "I had some months where I was doing 600,000, some months that I was doing maybe 200 grand... I
+  > did it well over a year." [[2021-09-18-yt-H8XjS-SpoJI]]
+- **Scarcity-honesty ethical line + the "common enemy" persuasion trigger (2021-10-16).** Sharpens the
+  existing scarcity-tactic material with an explicit ethics rule: showing a real low-stock count
+  lifts checkout completion, but displaying a *fake* low number when true stock is high is explicitly
+  called unethical. Also names the **"common enemy"** trigger (illustrated with anti-terrorism/
+  women's-education cause-marketing messaging) as a persuasion device distinct from
+  scarcity/urgency/social proof ([[2021-10-16-yt-yE7gNbQ24G8]]).
+- **The sign-in-with-Google conversion-reversal case study, reinforcing "what works now won't work
+  forever" (2021-10-23).** At KISSmetrics, forcing "sign in with Google" as the only signup option
+  lifted conversions 40-60% for years before eroding as privacy concerns grew — a named, concrete
+  example backing the existing what-works-now-won't-work-forever belief (see
+  [[../../persona/beliefs.md|beliefs.md]]) ([[2021-10-23-yt-mCdpocxd7Ks]]).
+- **Logic + emotion combined outperforms either alone in copy (2021-10-30).** A specific
+  copy-combination finding: logic-only copy converts, emotion-only copy converts, but combining both
+  converts "way more" than either alone; paired with a ~95%-of-shoppers-consult-reviews stat
+  ([[2021-10-30-yt-c_rSzi5RwtU]]).
+
 ## Key source pages
 - [[2018-10-16-yt-AbcoFUHcs9M]] — ★ LTV/ad-spend model (7/8/9-figure "$1 in / $2 back" rule; Mixpanel).
 - [[2018-11-17-yt-av9WfdR4cVk]] — CRO beats acquisition (convert better → outbid on ad spend).
@@ -492,3 +529,11 @@ named strategic-analysis frameworks (Porter's Five Forces, PEST, SWOT) in the le
 - [[2021-05-03-yt-Mfe9gM0VnDw]] — CRO Unlocked L4 (conditional exit-intent; 35%-Amazon-recs stat)
 - [[2021-05-06-yt-1Zr35pNe9-0]] — ★ CRO Unlocked L5 (first Porter's Five Forces/PEST/SWOT)
 - [[2021-05-08-yt-685tvu__Nss]] — CRO Unlocked L6, COMPLETES (Bezos/Zuckerberg iteration quotes)
+
+### 2021-08 → 2021-10 solo-era CRO (@neilpatel P2, synthesis pass 11)
+- [[2021-08-07-yt-xIbxLUVQ1Nk]] — Two-step checkout +8-11% conversion figure; "sales is like dating"
+- [[2021-09-06-yt-3d9V7G2rOkM]] — Portent load-time stat (-4.42%/sec, 0-5s range)
+- [[2021-09-18-yt-H8XjS-SpoJI]] — ★ Info-product business 7-step funnel ($371,882/mo avg revenue)
+- [[2021-10-16-yt-yE7gNbQ24G8]] — Scarcity-honesty ethical line + "common enemy" trigger
+- [[2021-10-23-yt-mCdpocxd7Ks]] — Sign-in-with-Google conversion-reversal case study
+- [[2021-10-30-yt-c_rSzi5RwtU]] — Logic + emotion copy-combination finding

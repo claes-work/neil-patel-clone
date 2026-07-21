@@ -4996,3 +4996,66 @@ to E-A-T (content-marketing/seo), (4) the Eric Siu-as-benchmarked-peer detail
 (social-media/[[wiki/entities/eric-siu]]) plus the consistency-over-quality
 growth-attribution quote (voice.md candidate). Debt now 10/10 batches since synthesis
 pass 10 — **checkpoint due next iteration.**
+
+## [2026-07-21] lint | synthesis pass 11 — @neilpatel 2021-05 → 2021-11 P2 tactical era (batches #98–#107)
+
+Stage S synthesis checkpoint, dispatched under the roster autopilot (single agent, sequential
+file writes; no per-file sub-agents). Drained the 10 accumulated `Synthesis notes:` lines
+covering @neilpatel batches #98–#107 (log cont. 76–85, 2021-05-15 → 2021-11-20, 80 L2 sources,
+fully Neil-attributed — a dense stretch of biography-rich guest interviews, several with
+title/date mismatches, plus routine solo tactical content).
+
+Promotions (quality-over-volume; pure repeats/reinforcements dropped): **agency-entrepreneurship**
+(the key-man-syndrome-reasoned **NP Digital rename origin** ★ + the first ad agency **ACS**
+crushed in the 2008 financial crisis; the "Who is Neil Patel?" campaign retold unapologetically,
+quantified [$50-60K spend / >$100K/mo PPC savings], plus a bodybuilder-pecs execution detail; the
+discontinued **"Advanced Marketing Program"**/info-product business ★ — ~$600K/mo peak,
+$371,882/mo average, full 7-step funnel; the MicroAcquire+Capchase no-money-down acquisition play;
+NP Digital declining financing offers + the eat-the-cost-of-my-team's-mistake anecdote; the
+Crunchbase-teardown cold-outreach playbook extended with investor-CC and CEO-to-CMO tactics; a
+third self-reported KISSmetrics-vs-Mixpanel dollar figure), **seo** (RankBrain named explicitly;
+the SEO-vs-SEO-company 6x keyword-ROI case study; the Ubersuggest "page one ranking potential"
+tool feature; the ~3x-backlinks data-driven-content stat tied to E-A-T), **analytics-cro** (the
+two-step-checkout +8-11% figure; the Portent load-time stat; the info-product 7-step funnel with
+revenue figures ★; the scarcity-honesty ethical line + "common enemy" persuasion trigger; the
+logic+emotion copy-combination finding), **social-media** (comments-not-duration algorithm
+doctrine + a LinkedIn>TikTok>YouTube>Google platform-priority ranking; the hair-extensions
+livestream-frequency case study; the live-video-as-algorithmic-lever mechanism; Eric Siu named as
+a benchmarked peer + a consistency-over-quality growth attribution), **content-marketing** (the
+"content blindness" thesis; neilpatel.com's explicitly ordered topical-expansion sequence; the
+Marketing School format backstory — Eric Siu tested longer-form episodes first; HARO named
+explicitly as a zero-budget PR tactic; the writer-vs-marketer premium-pricing distinction),
+**email-marketing** (Frank Kern credited for "the money's in the list" — a second, conflicting
+attribution vs. the existing John Reese credit; a tighter 90-95/5-10 give/sell ratio),
+**paid-ads** (the toothbrush-parenting anecdote + India SMS-cost/Jio case study; the non-Google/FB
+platform ROI ranking + a new $1.5-2M/mo avoided-ad-spend figure; the 73% mobile-commerce-share
+stat), **ai-marketing** (the first AI-tool-*usage* claim — Jarvis, 2021-09 — bridging the 2020
+automation forecast and the 2023 GEO era ★; the extended AI-content-tool roster + three-stage
+Ubersuggest automation roadmap ★; the "writing is a zen moment... like ironing" personal-habit
+counterpoint to his own AI-content-tool advocacy, carried as a business-recommendation-vs-
+personal-preference split, not a contradiction).
+
+**No new hard contradictions; two unreconciled variants carried, not smoothed:** a third
+self-reported dollar figure for the KISSmetrics-vs-Mixpanel funding story ("over 50 plus
+million"), and a second, conflicting named credit for the "list is an ATM machine" line (John
+Reese vs. Frank Kern).
+
+Persona: **beliefs.md** (83→88 sources; the contentment-over-happiness belief-evolution flagged
+alongside, not replacing, the 2018 "success is happiness" framing — paired with "I just like
+winning" and a named Bill Gates admiration; the key-man-syndrome reasoning extending
+corporate-brand-over-personal-brand; a 2021 financing-decline precedent extending capital
+discipline), **voice.md** (57→61 sources; "sales is like dating", "writing is a zen moment... like
+ironing", "I just like winning", the ketchup-stains self-presentation quote, the Frank Kern/John
+Reese conflicting-attribution note), **biography.md** (51→60 sources; mother's home-daycare
+referral network, father's savings-match reversal, the AOL-hacking-at-12 anecdote, the ACS
+agency/2008 financial crisis, the job-board dated ~2001, a third KISSmetrics/Mixpanel dollar
+figure, the bodybuilder-pecs "Who is Neil Patel" detail, daily-routine + age-35 self-report, the
+Restream/Eric Siu livestreaming-adoption story + introvert self-disclosure, a second "lie to a
+client" confession, "I live in my wife's house"), **appearance.md** (2→4 sources; the first
+fitness/diet routine in the corpus — Body Coach HIIT, intermittent fasting, food avoidances — plus
+the gym-shorts/ketchup-stains self-presentation quote). Recompiled **system-prompt.md v11 → v12**
+(compiled_from_sources 773 → 853). Advanced the high-water mark in `pipeline/synthesis-state.md`
+to batch #107 (2021-11-20); no pending checkpoints remain. `index.md` updated for all eight
+touched topic hubs plus the four persona-page entries. System-prompt version at pass end: **v12**.
+
+Synthesis notes: none (debt fully drained this pass).

@@ -369,6 +369,38 @@ marketing" doctrine, and a self-critique that extends the corporate-brand belief
   (2021-02-20 / 2021-04-01) to avoid duplication — both extend the existing "tools are content
   marketing" doctrine.
 
+## 2021-06 → 2021-11 solo-era content tactics — "content blindness," the topical-expansion sequence & data-driven content (@neilpatel P2, synthesis pass 11)
+
+- **The "content blindness" thesis (2021-07-03).** A named framing for why most content gets ignored:
+  audiences have grown numb to generic, undifferentiated posts the same way they tune out banner
+  ads ("banner blindness"); the fix is specificity and a distinct angle, not just more volume
+  ([[2021-07-03-yt-XPyEjqwy-JY]]).
+- **neilpatel.com's own topical-expansion sequence, explicitly ordered (2021-08-16).** SEO → content
+  marketing → social media marketing → paid advertising → conversion optimization → email marketing
+  → (as of 2021-08) beginning to cover TV/streaming advertising (Hulu, Roku) — the fullest, most
+  granular account yet of how his own site's scope broadened over time; a candidate detail for the
+  content-strategy thread in [[../../persona/biography.md|biography.md]]
+  ([[2021-08-16-yt-97yG9ktIqjQ]]).
+- **Marketing School's own format backstory: Eric Siu tested longer-form episodes first (2021-07-22).**
+  Before the daily ~10-minute bite-size format won out, co-host Eric Siu experimented with longer
+  episodes — new origin detail for the podcast's format history, cross-link
+  [[../../wiki/entities/eric-siu|entities/eric-siu]] ([[2021-07-22-yt-eyZyIZeu7D4]]).
+- **HARO named explicitly as his zero-budget PR tactic (2021-08-12).** Answering reporter queries via
+  **HARO (Help A Reporter Out)** in exchange for press mentions — the first source to name this tool
+  specifically rather than referring to "PR" generically ([[2021-08-12-yt-0QN3KeAtuD8]]).
+- **Data-driven, stat-heavy long-form content generates ~3x more backlinks — tied to E-A-T
+  (2021-11-20).** First-party neilpatel.com disclosure: long-form content containing stats/data
+  earns roughly 3x the backlinks of content without data; explicitly connected to Google's E-A-T
+  framework. See the fuller entry (with the search-volume-vs-links distinction) on
+  [[../seo/seo|seo]] ([[2021-11-20-yt-1odgi9VSx7Q]]).
+- **Writer vs. marketer — a premium-pricing distinction for content work (2021-11-11).** A writer
+  optimizes for volume/grammar; a marketer optimizes for buyer-journey pain points, keyword demand,
+  and conversion — framed explicitly as the justification for charging a premium for the same
+  content deliverable. Paired with a concrete, reusable link-outreach email template: lead with the
+  fact that the recipient's existing outbound link is outdated, then offer a specific replacement
+  resource, framing the pitch as helping their audience rather than asking a favor
+  ([[2021-11-11-yt-9azXElM2kxU]]).
+
 ## Key source pages
 - [[2019-07-06-yt-EihqZWH6aT4]] — ★ Content-volume decision rule (writes ~4/mo; domain score <40 vs >65 → volume vs content gaps).
 - [[2019-06-24-yt-7QDNVMVF7ss]] — Storytelling framework (core message → story type → CTA; Significant Objects $129→$8k).
@@ -412,3 +444,10 @@ marketing" doctrine, and a self-critique that extends the corporate-brand belief
 - [[2021-03-25-yt-Gr64i-ZiG68]] — ★ Quiz-funnel design ruleset (714K emails via LeadQuizzes)
 - [[2021-03-29-yt-UHuz6oJ_3wE]] — Three-part blog-homepage template (offer/credibility/getting-started)
 - [[2021-04-03-yt-7l5btHy2rxQ]] — 10/40/20/30 content-time-allocation breakdown
+
+### 2021-07 → 2021-11 solo-era content tactics (@neilpatel P2, synthesis pass 11)
+- [[2021-07-03-yt-XPyEjqwy-JY]] — The "content blindness" thesis
+- [[2021-08-16-yt-97yG9ktIqjQ]] — neilpatel.com's topical-expansion sequence, explicitly ordered
+- [[2021-07-22-yt-eyZyIZeu7D4]] — Marketing School format backstory (Eric Siu's longer-form test)
+- [[2021-08-12-yt-0QN3KeAtuD8]] — HARO named explicitly as a zero-budget PR tactic
+- [[2021-11-11-yt-9azXElM2kxU]] — Writer-vs-marketer distinction + reusable link-outreach email template

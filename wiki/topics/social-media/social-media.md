@@ -515,6 +515,45 @@ LinkedIn and Facebook playbooks at this depth.
   > like him because I'm not him, I try to do what's me." — [[2021-04-05-yt-kBUJ1lPUi8E]]
   Cross-link [[../../../persona/voice.md|persona/voice.md]].
 
+## 2021-06 → 2021-11 solo-era social tactics — live-video doctrine, the hair-extensions case study & platform-priority rankings (@neilpatel P2, synthesis pass 11)
+
+- **Comments (not duration) as the primary algorithm signal + a LinkedIn > TikTok > YouTube > Google
+  platform-priority ranking (2021-06-17).** From a wide-ranging cold-outreach interview: names
+  **comments** as the signal most platform algorithms optimize around (duration follows as a
+  downstream effect); ranks where he'd currently invest attention/content as **LinkedIn first, TikTok
+  second, YouTube third**, with Google further down the list — a dated, notable platform-priority
+  statement. See the fuller success/contentment-philosophy material from the same source in
+  [[../../persona/beliefs.md|beliefs.md]] and [[../../persona/biography.md|biography.md]]
+  ([[2021-06-17-yt-UlmlzJTBL8M]]).
+- **The hair-extensions livestream-frequency case study (2021-07-12).** An unnamed hair-extensions
+  ecommerce client generated "five figures in revenue" per Facebook livestream at a once-a-month
+  cadence; after Neil advised increasing frequency to 3x/week, per-video revenue dropped but total
+  monthly revenue approached six figures — a concrete case for his live-video-over-recorded doctrine
+  ([[2021-07-12-yt-BKR7wlTg8gk]]).
+- **Live video as an algorithmic-reach lever, explained mechanistically (2021-07-12).** Social
+  platforms increasingly optimize their algorithms to behave like live television — pushing live
+  content beyond a poster's own network to compete with TV for attention and keep viewers on-platform
+  longer — so live drives outsized reach versus recorded video, and multi-platform live-streaming
+  (via Restream) costs almost no extra effort for meaningfully more reach. Recommends niching agency
+  services into livestreaming-as-a-service specifically, citing it as less competitive than SEO/PPC
+  ([[2021-07-12-yt-BKR7wlTg8gk]]).
+- **Explicit politics/religion-avoidance stance + a small/local-outlet PR strategy (2021-07-29).** See
+  the fuller entry (with the realtor case study) on
+  [[../agency-entrepreneurship/agency-entrepreneurship|agency-entrepreneurship]]
+  ([[2021-07-29-yt-FbBVrn_zaUk]]).
+- **Runs a MobileMonkey Instagram/Facebook DM autoresponder on his own @neilpatel account (2021-08-28).**
+  A first-person usage detail: DMing his own account triggers an auto-response pitching NP Digital,
+  with keyword-triggered auto-replies off his posts ([[2021-08-28-yt-mcIyvkwYPB8]]).
+- **Eric Siu named as a benchmarked peer + a consistency-over-quality growth attribution (2021-11-18).**
+  Names **Eric Siu** (alongside Backlinko and Ahrefs) as a peer marketer he benchmarks via Social
+  Blade — reinforcing [[../../wiki/entities/eric-siu|entities/eric-siu]] as a recurring named
+  collaborator — with a humility framing ("just because I'm in marketing... it doesn't mean that I
+  know everything"). Self-attributes his own social-media growth not to "the best content" but to
+  **consistency**, enabled by scheduling tools like Later ([[2021-11-18-yt-U8Ze50i1jro]]).
+  > "One of the keys to my growth on social media isn't that I post the best content, I try, but
+  > sometimes content is hit or miss... But by being consistent, I've been able to build up followers
+  > over time." — [[2021-11-18-yt-U8Ze50i1jro]]
+
 ## Key source pages
 - [[2018-10-04-yt-5dyn03RSWVA]] — Post to Facebook natively (schedulers cut reach 2–3×); monthly reporting.
 - [[2018-12-08-yt-dDDpdAnb_Es]] — Instagram weak for B2B; pick channels that fit; don't chase Insta-famous.
@@ -581,3 +620,9 @@ LinkedIn and Facebook playbooks at this depth.
 - [[2021-02-22-yt-ahPVHMHyhqE]] — Instagram engagement-rate-over-followers doctrine; live-video tactic
 - [[2021-02-27-yt-4imowpDWrDg]] — Messenger-marketing decline → push-notification pivot ⚠️ dated
 - [[2021-04-05-yt-kBUJ1lPUi8E]] — Gary Vaynerchuk style-contrast ("I try to do what's me")
+
+### 2021-06 → 2021-11 solo-era social tactics (@neilpatel P2, synthesis pass 11)
+- [[2021-06-17-yt-UlmlzJTBL8M]] — Comments-not-duration algorithm doctrine; LinkedIn>TikTok>YouTube>Google ranking.
+- [[2021-07-12-yt-BKR7wlTg8gk]] — Hair-extensions livestream case study; live-video-as-algorithmic-lever doctrine.
+- [[2021-08-28-yt-mcIyvkwYPB8]] — MobileMonkey autoresponder run on his own @neilpatel account.
+- [[2021-11-18-yt-U8Ze50i1jro]] — Eric Siu benchmarked peer; consistency-over-quality growth attribution.

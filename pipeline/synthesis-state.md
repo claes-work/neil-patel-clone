@@ -6,13 +6,59 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **@neilpatel 2020-10 → 2021-05 P2 tactical era complete — all 773 L2 sources, ingest batches #1–#97 (2016-11 → 2021-05)**, via synthesis pass 10 (2026-07-21). Pass 10 folded the @neilpatel 2020-10-24 → 2021-05-13 solo run (batches #88–#97 / log cont. 66–75 — LinkedIn Unlocked, Facebook Unlocked, Local SEO Unlocked, Email Marketing Unlocked, and CRO Unlocked all launch and complete, plus Growth Hacking Unlocked launches, 10 `Synthesis notes:` lines of debt) into the topic hubs + persona. The next pass starts from the debt accumulated after batch #97 (i.e. the next @neilpatel P2 ingest or the next @MarketingSchoolPod P2 run).
+Synthesized through: **@neilpatel 2021-05 → 2021-11 P2 tactical era complete — all 853 L2 sources, ingest batches #1–#107 (2016-11 → 2021-11)**, via synthesis pass 11 (2026-07-21). Pass 11 folded the @neilpatel 2021-05-15 → 2021-11-20 solo run (batches #98–#107 / log cont. 76–85 — a dense biography-rich guest-interview stretch plus routine solo tactical content, 10 `Synthesis notes:` lines of debt) into the 8 topic hubs + all 4 persona files. The next pass starts from the debt accumulated after batch #107 (i.e. the next @neilpatel P2 ingest or the next @MarketingSchoolPod P2 run).
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
-_(none — caught up through batch #97; @neilpatel 2020-10→2021-05 P2 tactical era fully synthesized)_
+_(none — caught up through batch #107; @neilpatel 2021-05→2021-11 P2 tactical era fully synthesized)_
 
 ## Done checkpoints
+- [x] 2026-07-21 — **synthesis pass 11** — @neilpatel 2021-05 → 2021-11 P2 tactical era complete (853
+  L2 sources total, batches #98–#107 / log cont. 76–85, 2021-05-15→2021-11-20 solo run; fully
+  Neil-attributed — a dense stretch of biography-rich guest interviews, several with title/date
+  mismatches, plus routine solo tactical content). Drained the 10 accumulated `Synthesis notes:`
+  lines. Promotions (quality-over-volume; pure repeats/reinforcements dropped): **agency-
+  entrepreneurship** (the key-man-syndrome-reasoned NP Digital rename origin ★ + ACS agency/2008
+  crisis; the "Who is Neil Patel?" campaign retold unapologetically, quantified, + bodybuilder-pecs
+  execution detail; the discontinued **Advanced Marketing Program**/info-product business ★, ~$600K/
+  mo peak / $371,882/mo average, full 7-step funnel; MicroAcquire+Capchase no-money-down acquisition
+  play; NP Digital declined financing offers + eat-the-cost-of-my-team's-mistake anecdote; the
+  Crunchbase-teardown cold-outreach playbook extended (investor-CC, CEO-to-CMO); a third KISSmetrics-
+  vs-Mixpanel dollar-figure variant), **seo** (RankBrain named explicitly; the SEO-vs-SEO-company 6x
+  ROI case study; the Ubersuggest "page one ranking potential" tool feature; the ~3x-backlinks
+  data-driven-content stat tied to E-A-T), **analytics-cro** (the two-step-checkout +8-11% figure;
+  the Portent load-time stat; the info-product 7-step funnel with revenue figures ★; the scarcity-
+  honesty ethical line + "common enemy" trigger; the logic+emotion copy-combination finding),
+  **social-media** (comments-not-duration algorithm doctrine + LinkedIn>TikTok>YouTube>Google
+  platform-priority ranking; the hair-extensions livestream-frequency case study; live-video-as-
+  algorithmic-lever doctrine; Eric-Siu-as-benchmarked-peer + consistency-over-quality growth
+  attribution), **content-marketing** (the "content blindness" thesis; neilpatel.com's explicitly
+  ordered topical-expansion sequence; the Marketing School format backstory; HARO named explicitly;
+  the writer-vs-marketer premium-pricing distinction), **email-marketing** (Frank Kern credited for
+  "the money's in the list" — a second, conflicting attribution vs. the existing John Reese credit;
+  a tighter 90-95/5-10 give/sell ratio), **paid-ads** (the toothbrush-parenting anecdote + India
+  SMS-cost/Jio case; the non-Google/FB platform ROI ranking + $1.5-2M/mo avoided-ad-spend figure;
+  73% mobile-commerce share), **ai-marketing** (the first AI-tool-*usage* claim — Jarvis — bridging
+  the 2020 forecast and the 2023 GEO era ★; the extended AI-content-tool roster + three-stage
+  Ubersuggest automation roadmap ★; the "writing is a zen moment, like ironing" personal-habit
+  counterpoint to his own AI advocacy). Persona: **beliefs.md** (83→88 sources; the contentment-
+  over-happiness belief-evolution flagged alongside the 2018 "success is happiness" framing, paired
+  with "I just like winning" and the Bill Gates admiration; the key-man-syndrome reasoning extending
+  corporate-brand-over-personal-brand; a 2021 financing-decline precedent extending capital
+  discipline), **voice.md** (57→61 sources; "sales is like dating," "writing is a zen moment... like
+  ironing," "I just like winning," the ketchup-stains self-presentation quote, the Frank Kern/John
+  Reese conflicting-attribution note), **biography.md** (51→60 sources; mother's home-daycare
+  referral network, father's savings-match reversal, AOL-hacking-at-12, the ACS agency/2008
+  financial crisis, the job-board dated ~2001, a third KISSmetrics/Mixpanel dollar figure, the
+  bodybuilder-pecs "Who is Neil Patel" detail, daily-routine + age-35 self-report, the Restream/Eric
+  Siu livestreaming-adoption story + introvert self-disclosure, a second "lie to a client"
+  confession, "I live in my wife's house"), **appearance.md** (2→4 sources; the first fitness/diet
+  routine in the corpus — Body Coach HIIT, intermittent fasting, food avoidances — plus the
+  gym-shorts/ketchup-stains self-presentation quote). Recompiled **system-prompt.md v11 → v12**
+  (compiled_from_sources 773 → 853). **No new hard contradictions; two unreconciled variants
+  carried:** a third self-reported KISSmetrics-vs-Mixpanel dollar figure ("over 50 plus million"),
+  and a second, conflicting named credit for the "list is an ATM machine" line (John Reese vs. Frank
+  Kern). System-prompt version at pass end: **v12**.
 - [x] 2026-07-21 — **synthesis pass 10** — @neilpatel 2020-10 → 2021-05 P2 tactical era complete (773
   L2 sources total, batches #88–#97 / log cont. 66–75, 2020-10-24→2021-05-13 solo run; fully
   Neil-attributed). Drained the 10 accumulated `Synthesis notes:` lines. Five named courses launch

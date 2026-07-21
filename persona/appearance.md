@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-20
-sources: 2
+updated: 2026-07-21
+sources: 4
 ---
 
 # Appearance
@@ -36,6 +36,20 @@ mark every entry's evidence type.
   own evidence that dressing up pays. ([[2018-10-20-yt-BAqKCaJ0vRU]])
   > Note the belief-shift: dress-doesn't-matter → dress-for-success (it measurably helps) →
   > chooses-comfort-anyway. Consistent with his money-is-hollow minimalism in [[beliefs]].
+
+## Fitness & diet routine (self-narrated, 2021)
+
+- **HIIT + intermittent fasting, with specific food avoidances (self-narrated, ~2018, published
+  2021-06-24).** 🗣️ The first source in the corpus with this level of fitness/diet granularity: does
+  ~15-minute HIIT workouts via the "Body Coach" (Joe Wicks) YouTube channel, roughly 5 days/week;
+  practices intermittent fasting with an 11am–6pm eating window; avoids fried food, samosas,
+  mayonnaise, and cheese; favors vegetables and a low-carb diet. ([[2021-06-24-yt-Kcn9M_pqyMQ]])
+
+- **Self-presentation vs. flashy-influencer imagery (self-narrated, 2021-06-17).** 🗣️ Explicitly
+  contrasts his own low-key look against wealthy-lifestyle influencer imagery — consistent with the
+  anti-flashy minimalism already documented above: "I'm not that guy wearing a suit... on a stroll
+  down Rodeo Drive. I'm that guy wearing gym shorts and a white t-shirt that has ketchup stains on it
+  because of my child." ([[2021-06-17-yt-UlmlzJTBL8M]])
 
 ## Personal color / lifestyle notes (self-narrated, context)
 

@@ -235,6 +235,38 @@ node where the arc actually *begins* as a product ambition rather than an ad-tec
   > transcript explicitly says **2020** ("in 2020, that is my goal") — the **2020** content date is
   > authoritative; the "2023" is a title garble ([[2019-07-27-yt-jLHAu_wjG-w]]).
 
+## 2021 — the earliest AI-content-*tool-usage* claims (bridging the 2020 vision and the 2023 GEO era) (synthesis pass 11)
+
+The 2020 vision above was a forecast about automation in the abstract; 2021 is where Neil starts
+naming specific GPT-3-era AI writing/content tools he (or Ubersuggest) actually uses — the first
+concrete tool-usage data points in the AI-marketing timeline, years before the 2023-11 GEO seed.
+
+- **First AI-content-tool usage claim: Jarvis, as a partial drafting aid (2021-09-16, ★).** Neil says
+  he uses the AI writing tool **Jarvis** for partial drafting/outlining — framed explicitly as a
+  time-saver, not a ghostwriter: "it's not perfect... it won't write your whole blog post for you,"
+  estimating it saves "maybe 30 minutes to an hour." The earliest dated AI-tool-*usage* claim in the
+  wiki (prior AI-marketing entries were 2018/2020 forecasts, not usage) ([[2021-09-16-yt-uEXzdo8aV8k]]).
+- **Ubersuggest's own team begins building AI-SEO automation (2021-10-09).** Discloses that
+  Ubersuggest is actively developing automated technical-SEO (JavaScript-injected on-page fixes) and
+  automated ML-driven link-building outreach — a concrete product-roadmap datapoint continuing the
+  2020 "automate SEO" vision above. Personal-habit counterpoint in the same source: despite endorsing
+  AI tools for others, he writes all of his own content manually because it is a **"zen moment,"**
+  comparing it explicitly to ironing clothes — names Morphio.ai, MarketBrew, Jarvis.ai, and
+  Clearscope by name ([[2021-10-09-yt-aB16TtWHv9Q]]).
+  > "It's not perfect. It won't write your whole blog post for you, but it can roughly save you maybe,
+  > 30 minutes to hour, depending on how prolific of a blogger you are." — [[2021-09-16-yt-uEXzdo8aV8k]]
+- **Extended AI-content-tool roster + a three-stage Ubersuggest automation roadmap (2021-11-15, ★).**
+  Names a fuller tool roster — frase.io, Clearscope, surfer.seo (research/keyword tools) plus
+  Jarvis.ai, Outranking.io, Copy.ai, and Copysmith (drafting tools) — and discloses Ubersuggest's
+  stated long-term roadmap: **on-page SEO automation (already in beta) → content creation → link
+  building.** Recommends adopters start with content-automation tools, scale content volume with the
+  time saved, then adopt Ubersuggest's own project-flow automation
+  ([[2021-11-15-yt-c4w9GaabAV4]]).
+  > ⚠️ Nuance (not a contradiction, carried): the AI-automation-evangelism stance across this run sits
+  > alongside the "writes all content manually, it's a zen moment" personal habit logged 2021-10-09
+  > above — a business-recommendation-vs-personal-preference split, not a reversal. See also
+  > [[../../persona/voice.md|voice.md]] for the "ironing is a zen moment" quote.
+
 ## The GEO/AEO era — a dated origin-to-2026 timeline (from the Marketing School podcast)
 
 Neil's "Search Everywhere Optimization" (2025) did not arrive fully formed. The
@@ -367,6 +399,9 @@ Consistent through-line: AI augments the marketer rather than fully replacing th
 - [[2018-03-15-yt-0AYG4XlP1uk]] — ★ 2018 AI-in-marketing forecast (IoT programmatic; privacy-law constraint) — belief-evolution vs 2025–26.
 - [[2018-11-20-yt-K7LmWEPII7g]] — ★ "AI won't matter on landing pages, VR will" (2018) — now-falsified belief-evolution datapoint.
 - [[2019-07-27-yt-jLHAu_wjG-w]] — ★ 2020 vision: "automate SEO with ML/AI" (JS snippet edits tags, reads Search Console, auto-outreach) — the datable seed of the AI-marketing arc (title garble: "2023" ≠ transcript "2020").
+- [[2021-09-16-yt-uEXzdo8aV8k]] — ★ First AI-tool-usage claim: Jarvis as a partial drafting aid.
+- [[2021-10-09-yt-aB16TtWHv9Q]] — Ubersuggest AI-SEO automation begins; "ironing is a zen moment" manual-writing habit.
+- [[2021-11-15-yt-c4w9GaabAV4]] — ★ Extended AI-content-tool roster; three-stage Ubersuggest automation roadmap.
 
 ### Marketing School podcast (co-hosted; Neil-attributed) — the GEO/AEO evolution
 - [[2023-11-27-yt-EUVspvV6_UQ]] — Will SEO go extinct: "SEO evolves, doesn't die" (GEO seed).

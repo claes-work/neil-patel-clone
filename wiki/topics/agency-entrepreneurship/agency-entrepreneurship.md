@@ -536,6 +536,20 @@ hiring/culture, and fundraising. Dated seeds; several carry an explicit through-
 - [[2021-05-10-yt-gaOXEceU6Ic]] — ★ Growth Hacking Unlocked L1 (launch; learn-from-other-founders doctrine; Bill Gates case).
 - [[2021-05-13-yt-Ol2kGMDvX4o]] — ★ Growth Hacking Unlocked L2 (KISSmetrics $16.4M/7-rounds; True Ventures anecdote).
 
+### 2021-06 → 2021-11 solo-era operating principles (@neilpatel P2, synthesis pass 11)
+- [[2021-07-17-yt-xCiwfnFR8os]] — ★ NP Digital rename reasoned out (key-man syndrome); ACS agency/2008 crisis.
+- [[2021-07-24-yt-SiPvYXsiA_s]] — "Who is Neil Patel?" retold unapologetically, quantified ($50-60K spend).
+- [[2021-07-29-yt-FbBVrn_zaUk]] — Politics/religion-avoidance stance; realtor case study; small-outlet PR tactic.
+- [[2021-08-02-yt-X7SY-8_o07U]] — KISSmetrics-vs-Mixpanel second dollar-figure variant; Frank Kern credit.
+- [[2021-08-07-yt-xIbxLUVQ1Nk]] — "Sales is like dating" staged-courtship metaphor.
+- [[2021-08-21-yt-_OkIEULWAQI]] — Advanced Marketing Program peak revenue (~$600K/mo); MicroAcquire/Capchase.
+- [[2021-08-26-yt-zthU8pc3o0Q]] — NP Digital declined financing offers; Buffett letter; Zestimate case.
+- [[2021-09-18-yt-H8XjS-SpoJI]] — ★ Info-product business exit ($371,882/mo avg revenue).
+- [[2021-10-04-yt-ADr1NSFYTis]] — Who-is-Neil-Patel campaign bodybuilder-pecs execution detail.
+- [[2021-10-14-yt-Xz_W96Zmz3s]] — CEO-to-CMO cold-outreach + investor-CC extensions to the agency playbook.
+- [[2021-09-23-yt-FFWg6Dzw--g]] — 40%+ of NP Digital clients are ecommerce.
+- [[2021-11-06-yt-MjMeQitV1lw]] — NP Digital TV-ad channel-mix disclosure.
+
 ## 2018-H2 → 2019 solo-era operating principles (@neilpatel P2)
 
 The late-2018/2019 run adds the **clearest early statement of the free-product-as-acquisition thesis**
@@ -769,3 +783,88 @@ Unlocked**.
   companies at **6-10x annual revenue** while the business was only breakeven on profit, attributing
   the multiple entirely to recurring-revenue predictability and private-equity leverage economics (no
   company named) ([[2021-02-27-yt-4imowpDWrDg]]).
+
+## 2021-06 → 2021-11 solo-era operating principles — personal-brand-as-liability reasoned out, the info-product exit & the CEO-to-CMO cold-outreach extension (@neilpatel P2, synthesis pass 11)
+
+This run adds the fullest reasoned statement yet of why he renamed his own agency away from his name,
+a concrete named-figure exit from a discontinued info-product business, and two extensions of the
+agency-acquisition cold-outreach playbook.
+
+- **Personal-brand-as-liability, fully reasoned — the NP Digital rename origin (2021-07-17, ★).** The
+  UK "Gary Das" podcast interview gives the explicit, reasoned argument behind renaming **Neil Patel
+  Digital → NP Digital**: personal-name brands (Tony Robbins, LeBron James, Ronaldo) are capped below
+  corporate brands (Apple/Google/Amazon) and carry **"key man syndrome"** — the brand's value doesn't
+  survive intact if something happens to the person — even though sales reps still field "I want to
+  hire Neil" requests. New biographical detail in the same source: his **first ad agency, ACS**, was
+  "crushed" in the **2008 financial crisis** (it served the mortgage industry); neilpatel.com began as
+  a pure passion blog with no business intent, and the agency idea was **Mike Kamo's**, who argued
+  Neil's loyal blog audience (400-500K visitors/mo) already wanted to pay Neil specifically (cross-link
+  [[../../wiki/entities/mike-kamo|entities/mike-kamo]]). Also gives a quantified **ad-spend-return-by-
+  business-maturity** framework: 6-figure businesses target ~$1→$10 immediate return and spend
+  conservatively; 7-figure businesses accept ~$1→$3; 8-figure businesses accept breakeven with upsells
+  added after; 9-figure businesses will spend $3 to make $1 upfront because deep upsell/downsell
+  funnels recover it later ([[2021-07-17-yt-xCiwfnFR8os]]).
+  > "I am stuck in that boat, my brand is nowhere near the size of Ronaldo, Jordan, LeBron James...
+  > if I recommended people to go with a brand, I would tell them, don't build a personal brand,
+  > people don't want to buy personal brands. Then you have this key man syndrome in which, if
+  > something happens to you, the business goes away." — [[2021-07-17-yt-xCiwfnFR8os]]
+- **The "Who is Neil Patel?" campaign retold without the apology, quantified (2021-07-24).** Recasts
+  the 2018-05-29 apology-framed campaign story with hard numbers: ~$50-60K spend over a few months,
+  credited with saving **>$100K/month** in PPC spend via branded-search-driven organic rank gains for
+  "online marketing"/"digital marketing." Notably **unapologetic** in tone here — a divergence from
+  the 2018 apology framing flagged as a tone shift, not a factual contradiction (both tellings are
+  self-reported and are kept side by side, not reconciled) ([[2021-07-24-yt-SiPvYXsiA_s]]). A second
+  execution detail surfaces two months later: a bodybuilder influencer (~300 lb bench press) had "Neil
+  Patel" written on his pecs and flexed them to make the name visibly "dance" on Instagram
+  ([[2021-10-04-yt-ADr1NSFYTis]]).
+- **Explicit politics/religion-avoidance stance + a named-anonymous cautionary case (2021-07-29).** A
+  realtor friend in Nevada allegedly lost **>$100,000 in commissions** after clients learned her
+  political affiliation — Neil's concrete illustration for keeping politics/religion out of business
+  social media. Paired with an earned-media/PR tactic: prioritize smaller/local publications over
+  major outlets (Forbes, Inc., HuffPost) because major-outlet mentions are rarely seen without
+  homepage placement, while smaller sites showcase contributions prominently
+  ([[2021-07-29-yt-FbBVrn_zaUk]]).
+- **The "Advanced Marketing Program" peak revenue + the MicroAcquire/Capchase no-money-down tool-
+  acquisition play (2021-08-21).** A discontinued course, the **"Advanced Marketing Program,"**
+  generated **~$600,000/month at its peak**, self-reported. Separately, names **MicroAcquire** (buying
+  small software/tools cheaply) combined with **Capchase** financing (no-money-down, paid off from the
+  acquired tool's own cash flow) as his favorite passive-income strategy
+  ([[2021-08-21-yt-_OkIEULWAQI]]).
+- **NP Digital has declined financing offers; the eat-the-cost-of-my-team's-mistake anecdote
+  (2021-08-26).** States NP Digital has turned down multiple financing/acquisition/investment offers
+  over the preceding "six months, a year," citing a preference for long-term decision-making over
+  investors' shorter horizons — extends the existing no-VC-capital/long-term-over-capital belief
+  thread. Personal anecdote: he covered the cost, out of his and his team's own time, of an
+  underpriced SMB client sold by a rep at "a few hundred dollars a month" — "if one of my team members
+  messes up, that's on me." Also cites a **Warren Buffett** letter to CEOs warning against short-term
+  gains that cost customers long-term, and uses Zillow's **Zestimate** as a "build a better mousetrap"
+  case study alongside his own free-Ubersuggest example ([[2021-08-26-yt-zthU8pc3o0Q]]).
+- **The discontinued info-product business, named with revenue figures (2021-09-18, ★).** Self-reports
+  average revenue of **$371,882/month** (peak ~$600K, trough ~$200K, sustained over a year) from an
+  info-product business he later exited to "build a bigger business" rather than keep running a
+  lifestyle business — a concrete, named exit extending the existing team>founder/scale-orientation
+  belief thread. The full 7-step funnel mechanics (survey → webinar → guarantee → $1 trial →
+  community → paid ads → analytics diagnosis) are recorded on
+  [[../analytics-cro/analytics-cro|analytics-cro]] ([[2021-09-18-yt-H8XjS-SpoJI]]).
+  > "The reason I stopped doing this is I wanted to build a bigger business." — [[2021-09-18-yt-H8XjS-SpoJI]]
+- **The Crunchbase → teardown → CEO cold-outreach agency-acquisition playbook, extended (2021-10-14).**
+  Two new concrete tactics on top of the existing framework (synthesis pass 7): (1) **CC the
+  company's investors** (identified via Crunchbase board/investor data) on the teardown email, with an
+  A/B variant of emailing the investor alone and asking them to forward it; (2) for enterprise targets,
+  **cold-email the CEO directly and ask them to forward it to their CMO** (self-reported ~20-30%
+  response rate). Names **hunter.io** as the email-discovery tool, and gives a targeting range:
+  prefer companies that raised **$2M-$10M** over larger raises ($50M+), since bigger raises already
+  have marketing departments ([[2021-10-14-yt-Xz_W96Zmz3s]]).
+- **KISSmetrics-vs-Mixpanel, a second dollar-figure variant (2021-08-02).** KISSmetrics raised
+  ~$16M at its peak and had 2-3x Mixpanel's traffic, but Mixpanel out-executed on sales and eventually
+  raised "over 50 plus million dollars" — a same-story variant of the existing $16.4M/"$100M copycat"
+  figures (synthesis passes 3, 10); not reconciled, recorded as an additional self-reported number for
+  the same underlying story. Same source credits **Frank Kern** with "the money's in the list"
+  (see [[../email-marketing/email-marketing|email-marketing]]) ([[2021-08-02-yt-X7SY-8_o07U]]).
+- **"Sales is like dating" — a staged-courtship funnel metaphor (2021-08-07).** A single ask converts
+  poorly; staged trust-building converts well — a new voice/rhetoric metaphor for the existing
+  funnel-not-single-ask doctrine ([[2021-08-07-yt-xIbxLUVQ1Nk]]).
+- **Client-mix and channel-mix disclosures (2021-09).** Over **40% of NP Digital's clients** are in
+  ecommerce ([[2021-09-23-yt-FFWg6Dzw--g]]); NP Digital runs **television ad campaigns** as a reach/
+  brand-awareness channel within an omnichannel strategy, "not because television is amazing"
+  ([[2021-11-06-yt-MjMeQitV1lw]]).

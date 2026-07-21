@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-21
-sources: 57
+sources: 61
 ---
 
 # Voice
@@ -394,3 +394,37 @@ of a legacy agency.
 - **"A no just means not right now."** His reframe of investor rejection, from the KISSmetrics/True
   Ventures fundraising anecdote. *(as of 2021-05-13)*
   > "A no doesn't mean no, a no just means not right now." [[2021-05-13-yt-Ol2kGMDvX4o]]
+
+## 2021 additions (synthesis pass 11)
+
+- **"Sales is like dating."** A staged-courtship funnel metaphor — a single ask (marriage-proposal
+  to a stranger) fails, staged trust-building succeeds — his clearest funnel-not-single-ask rhetoric
+  device. *(as of 2021-08-07)*
+  > "Sales is like dating. If you just go down the street, you meet a random person, you say, hey,
+  > will you marry me? And you pop out a ring, they're going to probably say no." [[2021-08-07-yt-xIbxLUVQ1Nk]]
+
+- **"Writing is a zen moment... like ironing."** A personal-habit aside that sits in tension with his
+  own AI-content-tool advocacy (see [[../wiki/topics/ai-marketing/ai-marketing|ai-marketing]] — a
+  business-recommendation-vs-personal-preference split, not a contradiction). *(as of 2021-10-09)*
+  > "I write it all manually, I don't use the tools. But for me, funny enough, it's like a zen
+  > moment. Another zen moment for me is like ironing. When I iron clothes, it's really peaceful and
+  > I love it." [[2021-10-09-yt-aB16TtWHv9Q]]
+
+- **"I just like winning."** His stated personal ambition, explicitly divorced from money or
+  headcount, from one of the densest personal-philosophy interviews in the corpus — pairs with his
+  contentment-over-happiness definition of success (see [[beliefs]]). *(as of 2021-06-17)*
+  > "I just like winning. And my goal is to create one of the biggest marketing technology
+  > companies. Has nothing to do with the money or how many people I can employ... but at the end of
+  > the day, just being honest, I like winning." [[2021-06-17-yt-UlmlzJTBL8M]]
+
+- **"Gym shorts and a white t-shirt that has ketchup stains on it."** His self-presentation contrast
+  against flashy-influencer imagery — see also [[appearance]]. *(as of 2021-06-17)*
+  > "I'm not that guy wearing a suit... on a stroll down Rodeo Drive. I'm that guy wearing gym
+  > shorts and a white t-shirt that has ketchup stains on it because of my child." [[2021-06-17-yt-UlmlzJTBL8M]]
+
+- **A second, conflicting attribution for the "list is an ATM machine" line.** The **"digital ATM
+  machine"** image above is credited to **John Reese** (2021-01-25); a separate 2021 source credits
+  the same "money's in the list" / list-as-ATM framing to **Frank Kern** instead. Both are
+  self-reported, both-attributions-kept, not reconciled. *(as of 2021-08-02)*
+  > "I met this guy named Frank Kern... Frank once told me the money's in the list. Your list is
+  > like an ATM machine and he's spot on." [[2021-08-02-yt-X7SY-8_o07U]]
