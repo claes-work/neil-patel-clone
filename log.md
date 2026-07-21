@@ -3473,3 +3473,70 @@ emerging-platform / be-early-but-not-all-in threads, e.g. his Instagram-timing s
 comparison (iN8zqppelP4 — reinforces his WordPress-plus-plugins preference, no new doctrine).
 Synthesis debt now 5/10 (checkpoint at 10). Next iteration: Stage B (continue draining @neilpatel P2 long-form,
 oldest-first from 2019-12-04).
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2019-12-05→12-21 solo tactical: seo-changes-2020 / build-pages-that-rank-1 / stop-paying-for-seo-tools / e-a-t-algorithm / blog-traffic-growth-2020 / 7-favorite-free-seo-tools / new-ecommerce-strategy / keap-sales-machine era, cont. 51)
+
+Ingested 8 P2 @neilpatel long-form videos (all Neil-fronted solo, no Eric-Siu attribution gating) to L2,
+2019-12-05→2019-12-21 (cont. of the 2019 solo-tactical era, batch #73). All had captions; 0 skipped,
+0 no-captions, 0 duplicates, 0 rate-limits/errors. Pages written: What are the MAJOR changes in SEO for
+2020? (TSJEQFtbOLA); How To Build Pages That Rank #1 On Google Consistently (LEUb_wTHv4I); STOP Paying for
+SEO Tools - The Only 4 Tools You Need (5h4Wyi3jZzs); How to Optimize For Google's E-A-T Algorithm
+(vvKpzFtH7OQ); How to Optimize Your Blog to Get Explosive Traffic Growth in 2020 (792f2y2Pn74); My 7
+Favorite Free SEO Tools (4M1Z5_-lJ5w); How to Create a Marketing Strategy For a New eCommerce Website
+(ZWYdJ3VBScY); One Tool To Make Your Website a Sales and Marketing Machine (qUtZS7rKbnE).
+youtube-index footer 573 → 581; index.md count bumped.
+
+Data-integrity flags: TWO more title/date mismatches from Neil's title A/B habit — TSJEQFtbOLA is titled
+"...for 2023" and 792f2y2Pn74 "...in 2023", but both were published in December 2019 and spoken entirely
+about 2020; flagged on both pages, all claims dated to publication. CONTRADICTION (SEO tenure): 4M1Z5_-lJ5w
+(2019-12-16) opens with "over the last sixteen years of being a SEO" while LEUb_wTHv4I (2019-12-07) says
+"I've been a SEO for over 10 years" — compatible but inconsistent framing; tenure treated as approximate and
+self-reported. CONTESTED STAT: both 792f2y2Pn74 and 4M1Z5_-lJ5w assert "over 50% of searches are now voice
+search" (attributed to Comscore) — this is the well-known misreading of a Comscore *prediction* for 2020,
+recorded as spoken and flagged. COMMERCIAL DISCLOSURE: qUtZS7rKbnE is effectively a partner/promo review of
+Keap Pro ("my friends at Keap," trained by them, offers setup help) with no explicit sponsorship disclosure
+in the captions — page marked as promotional, not independent evaluation; 5h4Wyi3jZzs and 4M1Z5_-lJ5w both
+present Ubersuggest/Hello Bar/Subscribers (Neil's own products) inside "free tools" lists, incl. the
+self-reported "80%+ of Moz/SEMrush/Ahrefs features" claim. Second-hand unnamed anecdotes in ZWYdJ3VBScY
+(a friend's high-heel-insole store at "six figures a month in profit"; a buddy's HDMI-cable free-shipping
+test) marked unverifiable. Caption garbles corrected on-page ("Jump Shot"=Jumpshot, "MiniChat"=ManyChat,
+"unautomate"=automate, "propositions"=prepositions, "down sales"=downsells).
+
+Synthesis notes: genuinely-new-for-persona threads for the next synthesis pass (debt 5 → 6): (1) ★ THE
+ZERO-CLICK DOCTRINE — TSJEQFtbOLA (2019-12-05) + 792f2y2Pn74 (2019-12-14): his fullest statement of the
+"Google is not evil" position — half of searches end in no click, organic visits are falling (Merkle -6% YoY,
+mobile growth 13%→5%), and he argues this is FINE because better UX grows the searcher pool, more people come
+online, and the traffic Google absorbs was never going to convert — so your remaining traffic should show
+HIGHER conversion rates. Paired with the counterintuitive proof point that adding FAQ schema to neilpatel.com
+(answering the question inside the SERP) *improved* both his rankings and his clicks. This is a stance, not a
+tactic, and no topic hub carries it yet; L3-candidate for seo/. (2) ★ "OPTIMIZE FOR PEOPLE, NOT FOR THE
+PLATFORM" AS AN EXPLICIT PRINCIPLE — vvKpzFtH7OQ (2019-12-12) + 792f2y2Pn74: "with the specific purpose in
+mind of helping other people, not Google, not Facebook, not Instagram" — the platforms optimize for their end
+users, so aligning with the user costs you short-run rankings and social reach and wins long-run. Stated twice
+in ten days as a first principle; belongs in beliefs.md, not just a topic page. (3) ★ E-A-T / MEDIC
+COMPLIANCE CHECKLIST — vvKpzFtH7OQ: truthful author bios everywhere, niche guest posts, podcast appearances
+(noting Google now crawls podcasts), external reviews/testimonials, and outbound citation of trusted sources
+as a trust signal — with the striking self-application that he disqualifies HIMSELF from medical and
+retirement content and calls the policy "the right thing to do." L3-candidate for seo/ (authority & trust).
+(4) ★ FRANK KERN SEQUENCING PRINCIPLE + REPEAT-VS-NEW SEGMENTATION — qUtZS7rKbnE (2019-12-21): a rare NAMED
+outside influence — "it's not about having the best copy, because we're not all amazing copywriters; it's
+having great sequences so you're sending people the right emails at the right time" — plus the rule that a
+five-time repeat visitor gets selling emails while a one-time visitor who hasn't returned in 30 days gets
+trust-building education. Candidates for email-marketing/ and an entities page for Frank Kern. (5) ★ NP
+DIGITAL SMS SALES MOTION — qUtZS7rKbnE: the verbatim opener script his team runs (first name + question mark
+→ "Who's this?" → team intro + form reference + call ask), stage-specific reminder texts before calls and
+after unclosed pitches, self-serve calendar booking, and the explicit rationale (raise closing ratio and
+prospects-per-rep WITHOUT hiring). First-party operational detail about how his agency actually sells;
+candidate for agency-entrepreneurship/. (6) ★ COMPARISON KEYWORDS = PURCHASE ALREADY DECIDED — 4M1Z5_-lJ5w
+(2019-12-16): "Mailchimp versus ConvertKit" means the buyer has committed and is only choosing a vendor, which
+he names his single favorite Ubersuggest feature; a sharper intent taxonomy than the generic long-tail advice
+already on the hubs. (7) BIO: vvKpzFtH7OQ has Neil stating he is 34 on 2019-12-12 — independent in-corpus
+corroboration of the 1985 birth year in SUBJECT.md (self-reported). Mostly-restatements folded in (not new
+debt): the 8-factor on-page checklist (LEUb_wTHv4I — question titles, short titles, meta descriptions,
+snippets, ~1% density, keyword-in-URL, parent-topic clusters, intent-gated long-form; reinforces existing
+on-page and land-and-expand threads); the free-tool round-ups (5h4Wyi3jZzs, 4M1Z5_-lJ5w — Search Console
+decay-and-refresh, MozBar, Panguin, structured data, Ubersuggest site audit, all already covered); the
+new-store e-commerce playbook (ZWYdJ3VBScY — niche + USP + Shopify + one-channel + AOV levers; the free-
+shipping-raises-AOV and post-purchase-bump mechanics reinforce the existing funnel/LTV doctrine).
+Synthesis debt now 6/10 (checkpoint at 10). Next iteration: Stage B (continue draining @neilpatel P2
+long-form, oldest-first from 2020-01).
