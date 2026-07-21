@@ -818,6 +818,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2021-07-26 — [Effective Growth Hacking Tips to Increase Your Traffic (toothbrush-parenting growth-hacking anecdote; Ubersuggest free email-marketing economics; India SMS cost inversion + Jio case study) ★](2021-07-26-yt-Tbja-0mTkjw.md) ★ — agency-entrepreneurship, paid-ads
 - 2021-07-29 — [Social Media Marketing Tips For Every Brand (And What You Should Avoid at All Costs) (politics-avoidance stance with realtor case study; small/local-outlet-over-Forbes earned-media strategy; Facebook Live commerce case study) ★](2021-07-29-yt-FbBVrn_zaUk.md) ★ — social-media, agency-entrepreneurship
 - 2021-07-31 — [The Best Social Media Platforms For Advertising | Choosing the Right Ad Platform For Your Brand (Taboola/Snap/TikTok/Pinterest/LinkedIn ROI ranking; free-tool avoided-spend figure $1.5-2M/mo; branded-search 180K/mo reinforced)](2021-07-31-yt-O6-PxcW1dZ4.md) — paid-ads, seo
+- 2021-08-02 — [What Would Neil Patel Do If He Owned Your Website (And You Should Start Doing Too) (six-question framework; KISSmetrics-vs-Mixpanel sales story; Frank Kern "money's in the list" credit)](2021-08-02-yt-X7SY-8_o07U.md) — agency-entrepreneurship, analytics-cro, email-marketing, seo
+- 2021-08-05 — [10 EASY SEO IDEAS That Will BLOW UP Your Traffic in 2023 [title mismatch, content=2021] (about.com page-pruning case study; AMP regional-effectiveness data)](2021-08-05-yt-9r2pdM5pVJc.md) — seo, content-marketing
+- 2021-08-07 — [When You Have Thousands of Website Visitors but Can't Sell More Than $100/Month (sales-is-like-dating analogy; two-step checkout +8-11% figure)](2021-08-07-yt-xIbxLUVQ1Nk.md) — analytics-cro, seo, agency-entrepreneurship
+- 2021-08-09 — [Sometimes the Best SEO Strategy Is To ABANDON Some Keywords (intent-over-traffic doctrine; competitor paid-ad keyword signal method)](2021-08-09-yt-ywIKQLRsdGw.md) — seo, agency-entrepreneurship
+- 2021-08-12 — [The Most Effective Ways to Market Your Business With No Budget (HARO named explicitly; Tai Lopez named-peer credit; 90/95% give ratio)](2021-08-12-yt-0QN3KeAtuD8.md) — content-marketing, social-media, email-marketing, agency-entrepreneurship
+- 2021-08-14 — [NOT Every Keyword is Worth Pursuing in SEO (Here's Why) (RankBrain named explicitly as the intent-detection mechanism)](2021-08-14-yt-oWtCsU3tb24.md) — seo
+- 2021-08-16 — [If You Have ZERO Website Visitors, Do THIS First | Optimizing a New Website For Organic Traffic (neilpatel.com's ordered topical-expansion narrative: SEO→content→social→paid→CRO→email→TV ads)](2021-08-16-yt-97yG9ktIqjQ.md) — seo, content-marketing
+- 2021-08-19 — [Is It Too Late to Start Doing SEO in 2023? (You May Not Like The Answer) [title mismatch, content=2021] (Wikipedia broad-authority example; Moz Beginner's Guide topic-cluster model)](2021-08-19-yt-MoF_eXTIpgc.md) — seo, content-marketing
 
 ---
-_805 videos ingested (L2) so far._
+_813 videos ingested (L2) so far._

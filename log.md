@@ -4815,3 +4815,37 @@ Facebook paid-platform ROI ranking (Taboola/Outbrain > Snap > TikTok > Pinterest
 LinkedIn) + a new $1.5-2M/mo avoided-ad-spend figure for the free-tool doctrine
 (O6-PxcW1dZ4 — paid-ads). None promoted inline; debt now 4/10 batches since synthesis
 pass 10.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2021-08-02→08-19, solo tactical era, cont. 80)
+8 P2 long-form videos, all Neil-attributed solo tactical/educational content (his
+standard "5 minutes a day" format) — no guests, no attribution-gating needed. Domains
+touched: seo, content-marketing, analytics-cro, agency-entrepreneurship, email-
+marketing, social-media. Two title/date mismatches (both say "2023," both actually
+published/dated 2021-08 — same pattern as several earlier sources this run: 9r2pdM5pVJc,
+MoF_eXTIpgc). No captions issues, no dupes, no rate-limiting (8/8 fetched clean on the
+first attempt).
+
+Synthesis notes: mostly period-tactical reinforcement of the established Ubersuggest-
+centric SEO/CRO/content playbook, plus several smaller new details worth folding in at
+the next pass — (1) the **KISSmetrics-vs-Mixpanel sales story**: Kissmetrics raised ~$16M
+and had 2-3x Mixpanel's traffic at peak, but Mixpanel out-executed on sales and
+eventually raised "over 50 plus million"; a same-story variant of the existing
+$16.4M/"$100M copycat" bio figures — reconcile the two dollar amounts at synthesis
+(X7SY-8_o07U — agency-entrepreneurship, biography), (2) first explicit credit to
+**Frank Kern** for the "money's in the list" / list-as-ATM-machine line (X7SY-8_o07U —
+email-marketing), (3) a new voice metaphor, "sales is like dating" (staged courtship
+funnel analogy) (xIbxLUVQ1Nk — voice, agency-entrepreneurship), (4) a specific two-step-
+checkout conversion figure (+8-11%) (xIbxLUVQ1Nk — analytics-cro), (5) **HARO** named
+explicitly as his zero-budget PR tactic, and **Tai Lopez** named explicitly as an early
+livestreaming adopter — a second named-peer credit in the corpus after Gary Vaynerchuk
+(0QN3KeAtuD8 — content-marketing, social-media), (6) a tighter personal give/sell ratio
+("90-95% educate, 5-10% sell") than the general 80/20 rule (0QN3KeAtuD8 —
+email-marketing), (7) first explicit **RankBrain** citation as the mechanism behind
+intent-based ranking (oWtCsU3tb24 — seo), (8) an explicitly ordered narrative of
+neilpatel.com's own topical-expansion sequence (SEO → content marketing → social media
+→ paid ads → CRO → email → now TV/streaming ads) — a candidate detail for the content-
+strategy thread in biography.md/content-marketing.md (97yG9ktIqjQ — content-marketing,
+biography), (9) Wikipedia named explicitly as the broad-authority-dominance example, and
+Moz's "Beginner's Guide to SEO" named explicitly as the topic-cluster structural model
+(MoF_eXTIpgc — seo, content-marketing). None promoted inline; debt now 5/10 batches
+since synthesis pass 10.
