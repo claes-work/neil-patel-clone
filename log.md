@@ -3387,3 +3387,41 @@ thesis + update-90-old-posts + video-ranks-24-48h (o_S2uyuLiFw); international-e
 brand-as-quality-signal / rule-of-seven (2dZo6XtGtVY — overlaps prior Google-employee-advice + Brazil-first threads).
 Synthesis debt now 3/10 (checkpoint at 10). Next iteration: Stage B (continue draining @neilpatel P2 long-form,
 oldest-first from 2019-11-14).
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2019-10-26→11-11 solo tactical: one-page-SEO / 7-advanced-link-building / 9-Chrome-extensions / social-organic-reach-drop / keywords-for-free / stop-overthinking-5x-faster / 7-skills-marketers-must-master / 9-SEO-metrics-new-site era, cont. 49)
+
+Ingested 8 P2 @neilpatel long-form videos (all Neil-fronted solo, no attribution gating) to L2,
+2019-10-26→2019-11-11 (cont. of the 2019 solo-tactical era, batch #71). All had captions; 0 skipped,
+0 no-captions, 0 duplicates, 0 rate-limits/errors. Pages written: How to do SEO on a One Page Website
+(Is0y5KPTP_I); 7 Advanced Link Building Tactics That Skyrocket Rankings (huslO12gw3U) ★; 9 Amazing Google Chrome
+Extensions That'll Improve Your Traffic (wePnT4uSNYA) ★; This Social Network's Organic Reach Will Drop Dramatically
+(rdTamh3QiIA); How to Find Hundreds of Thousands of SEO Keywords For Free (0HRCWqFUlOY); How to Stop Overthinking
+Your Marketing And Do The Work 5x Faster (o2fUCKgi25k); 7 Skills Every Marketer Must Master (kolM9NuXXeo) ★;
+9 SEO Metrics You Need to Measure When Launching a New Website (l3T0Hw4A-QQ). youtube-index footer 557 → 565;
+index.md count bumped.
+Data-integrity flags: rdTamh3QiIA — the YouTube title says "in 2023" but the video is published 2019-11-02 and the
+transcript predicts the collapse for 2020 ("in 2020…"); title/content mismatch (Neil's recurring title A/B-testing
+habit, same pattern as o_S2uyuLiFw last batch) flagged with a CONTRADICTION callout on the source page. o2fUCKgi25k —
+caption garble "CovertKit" corrected to "ConvertKit" (verified against context). All named metrics/tools kept verbatim
+otherwise. All 8 videos are solo-Neil → full persona data, no Eric-Siu attribution gating needed.
+
+Synthesis notes: genuinely-new-for-persona threads for the next synthesis pass (debt 3 → 4): (1) ★ ADVANCED LINK
+BUILDING PLAYBOOK — huslO12gw3U (2019-10-28): seven concrete link-earning plays not previously captured as a set —
+industry surveys, virtual summits, detailed case-study "ego-bait," interactive maps framed as "the new infographics"
+(credited to Glen Allsopp), Brian Dean's Moving Man Method, podcast guest tours, and reclaiming unlinked brand
+mentions; strong L3-candidate for seo/ (link-building) — extends the existing infographic-backlink thread with named
+third-party tactics (attribute Allsopp/Dean, not Neil). (2) ★ CHROME-EXTENSION TOOL STACK — wePnT4uSNYA (2019-10-31):
+Neil's named browser-tool stack with workflows (SEOquake, MozBar, BuzzStream BuzzMarker, TubeBuddy, Buffer, Grammarly
+[called his overall favorite, uses the free version], BuzzSumo, Save to Pocket, Check My Links for broken-link
+building); a tooling-stack angle not yet on a topic hub — candidate for a seo/ or agency-entrepreneurship tools page.
+(3) ★ "7 SKILLS" + SEO-AS-RECESSION-HEDGE — kolM9NuXXeo (2019-11-09): the argument that SEO is a downturn hedge
+because "Google didn't have a down/recession year," plus the Hex Ties zero-to-millions Instagram case and
+Taboola/Nathan-Latka name-drops; reinforces his diversify-channels + own-your-traffic thesis, L3-candidate for
+beliefs. Mostly-restatements folded in (not new debt): one-page-SEO "land and expand" via GSC (Is0y5KPTP_I — recurring
+land-and-expand thread); Instagram organic-reach FB-2014 analogy + 6-point recovery (rdTamh3QiIA — overlaps prior
+IG-worth-it / organic-decline threads); free Ubersuggest keyword-research workflow (0HRCWqFUlOY — standard
+head-then-long-tail playbook); productivity/leverage playbook — 80/20, outsource, batch, repurpose (o2fUCKgi25k —
+recurring Pareto/leverage points); SEO-metric thresholds bounce ≤50% / pages-session 2-5 + Walmart per-second-
+conversion stat (l3T0Hw4A-QQ — concrete numbers reinforcing his user-metrics/leaky-bucket thesis).
+Synthesis debt now 4/10 (checkpoint at 10). Next iteration: Stage B (continue draining @neilpatel P2 long-form,
+oldest-first from 2019-11-14).
