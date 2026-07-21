@@ -2,7 +2,7 @@
 type: hub
 domain: email-marketing
 created: 2026-07-14
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 # Email Marketing — hub
@@ -173,6 +173,16 @@ won't buy on the first visit and email beats remarketing for winning non-buyers 
   browser-push subscribers (no email needed) and pull them back to finish checkout / send cart
   reminders — push as a companion channel to the e-commerce email stack, not a replacement
   ([[2019-06-29-yt-_6e3WTYucP0]], [[2019-09-09-yt-DjJDO0QNxpE]]).
+
+## 2019-12 sequencing & segmentation (@neilpatel P2, synthesis pass 8)
+
+- **The Frank Kern sequencing principle (2019-12-21, ★).** A rare NAMED outside influence: "it's not
+  about having the best copy, because we're not all amazing copywriters; it's having great sequences
+  so you're sending people the right emails at the right time" (attributed to marketer **Frank Kern**,
+  not Neil's own coinage) ([[2019-12-21-yt-qUtZS7rKbnE]]).
+- **Repeat-vs-new segmentation rule (2019-12-21).** A five-time repeat visitor gets sales-oriented
+  emails; a one-time visitor who hasn't returned in 30 days gets trust-building/educational content
+  instead — an explicit lifecycle-stage segmentation rule ([[2019-12-21-yt-qUtZS7rKbnE]]).
 
 ## Key source pages
 - [[2019-01-19-yt-QJUIk3qhQ-w]] — First-hour email + push blast (Hello Bar + Subscribers) to spike virality.

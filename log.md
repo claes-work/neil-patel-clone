@@ -3762,3 +3762,58 @@ source, not corrected. Synthesis notes: rank-#1-competitive-keywords-youtube's v
 formula and channel-focus lesson are the one durable, synthesis-worthy addition (★);
 everything else is repeat-pattern reinforcement. Synthesis debt now 10/10 (checkpoint
 reached) — next iteration should run Stage S before further ingest.
+
+## [2026-07-21] lint | synthesis pass 8 — @neilpatel 2019-09→2020-03 P2 solo tactical era (batches #69–#77)
+
+Ran the Stage S synthesis checkpoint (its 8th pass) — dispatched under the roster autopilot, so all
+source pages / topic edits / persona edits were written directly by one agent, sequentially, per the
+collapsed-nesting rule (no per-video or per-file subagents). Drained the **9 accumulated `Synthesis
+notes:` lines** (log cont. 47–55, @neilpatel 2019-09-16 → 2020-03-12 solo run, plus the batch #68
+leftover already partially folded by the prior Stage-P persona pass) into the 8 `wiki/topics/` hubs +
+`persona/`, taking the corpus high-water mark to **613 L2 sources, ingest batches #1–#77**. Fully
+Neil-attributed (solo era, no gating). Quality-over-volume — mostly-restatement material already
+flagged per-batch was dropped (stays L2 as source pages); batch #76 contributed no new debt.
+
+**Topic promotions** (new dated 2019-10→2020-03 sections, ★ = high-value): **seo** — **infographic-
+backlink hack** (47 infographics → 2.5M visitors/41,142 backlinks/3,741 domains) ★; **"optimize-over-
+create" SEO formula** (477,000 ranked keywords) ★; **advanced link-building playbook** (7 named plays:
+surveys, virtual summits, ego-bait, interactive maps, Moving Man Method, podcast tours, unlinked-mention
+reclaiming) ★; named Chrome-extension tool stack; **"keywords that never sell"** negative-keyword
+taxonomy ★; comparison-keywords-as-purchase-decided; **the zero-click doctrine** ("Google is not evil")
+★; **E-A-T/Medic compliance checklist** with self-disqualification ★; **"optimize for people, not the
+platform"** as an explicit first principle ★; **the domain-authority debunk** (his own Ubersuggest
+"domain score" included) ★; high-CPC-over-volume keyword selection; YouTube channel-growth formula.
+**content-marketing** — **headline-writing formula** ★; **the content operation, quantified** (4 posts/mo
++ team-of-3 updates 90/mo + 12+ videos/mo) ★; **"tools are a new form of content marketing"** doctrine ★;
+three-signal content validation ★; KISSmetrics-to-1M-via-unpaid-guest-posting ★; speak-don't-type habit
++ writer-hiring protocol. **agency-entrepreneurship** — **the Ubersuggest bet, costed** (>$3M spent, not
+recouped, with a uniquely self-undercutting don't-copy-me caveat) ★; **product-brand > personal-brand,
+mechanism named** ★; **"brand is the best moat"** explicit thesis ★; **the international-expansion origin
+story** (an unnamed Google-employee friend, Brazil first, US now <25% of traffic) ★; the NP Digital SMS
+sales motion + Frank Kern sequencing name-drop; 5-step affiliate-product-selection framework; Sujan-Patel-
+is-his-cousin + brand-building mechanics (new entity page). **analytics-cro** — retargeting logic↔emotion
+flip; a hard 2–3-opt-in ceiling; his own anti-dashboard operating cadence (rankings checked weekly).
+**social-media** — Facebook pages→private-groups + Messenger-bot doctrine ⚠️ (dated, later-reversed
+boosterism); YouTube-SEO as an "alternative search engine"; YouTube channel-growth formula (cross-linked
+from seo). **email-marketing** — the Frank Kern sequencing principle; repeat-vs-new-visitor segmentation.
+**paid-ads** — retargeting flip (cross-linked from analytics-cro, not duplicated).
+
+**Persona:** **beliefs** 68→76 (product-brand>personal-brand mechanism extending the corporate-brand
+belief; "optimize for people not the platform" + Bezos "obsess about users" provenance extending
+put-the-user-first; the zero-click/"Google is not evil" stance; the domain-authority/vanity-metric
+debunk; endorsing-Google-against-own-client-interests; the Ubersuggest-bet-costed + don't-copy-me
+caveat). **voice** 50→53 ("I prefer it over writing. It's much quicker and it's much more efficient.",
+"when it's not converting into revenue, STOP doing that.", "focus on execution and stop wasting your
+time continually looking at reports."). **biography** 44→47 (the international-expansion origin story
+folded into the 2018 globalization entry; KISSmetrics-1M-via-guest-posting added to the 2008 entry;
+speaking-fee $25k–$50k/talk; Sujan-Patel-is-cousin). New entity page:
+[[wiki/entities/sujan-patel|Sujan Patel]] (Neil's cousin, *Advanced Guide to SEO* co-author). Recompiled
+**system-prompt.md v8 → v9** (compiled_from_sources 541 → 613); prompt body woven additively per the
+usual rule (older changelog blocks kept).
+
+No new contradictions beyond the per-source QA flags already on individual source pages (title/content
+date-mismatch artifacts, attribution-uncertain third-party name spellings). Advanced the high-water mark
+in `pipeline/synthesis-state.md`; index.md counts and the Entities/Topics/Persona sections updated.
+No pending checkpoints remain (caught up through batch #77).
+
+Synthesis notes: none (this IS the synthesis pass; debt drained to 0 through batch #77).

@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-20
-sources: 50
+updated: 2026-07-21
+sources: 53
 ---
 
 # Voice
@@ -139,6 +139,27 @@ cranking the knob.
 > "scale is what tends to break marketing and you can't just scale up and you can't just spend you got to slowly ease into it." [[2023-11-14-yt-vZZXyXnXiGE]]
 > "you can't just turn on the knob or crank up the knob and just be like cool I've went from spending... $100 a day to like a million dollars a day it just doesn't work that way." [[2023-11-14-yt-vZZXyXnXiGE]]
 Gloss: pairs with his "slow, steady, profitable in any economy" spend doctrine (see [[beliefs]]).
+
+**"I prefer it over writing. It's much quicker and it's much more efficient."** — on dictating
+instead of typing.
+> "125 to 150 words per minute, that's how fast I talk, versus how fast I could type... I prefer it
+> over writing. It's much quicker and it's much more efficient." [[2020-01-30-yt-YRZlBjsY_nc]]
+Gloss: a rare first-person working-habit disclosure; he uses Rev.com or Google Docs voice-typing
+rather than writing his own copy by hand.
+
+**"when it's not converting into revenue, STOP doing that"** — his revenue-first epistemic rule,
+unusually self-undercutting for a marketing educator.
+> "when you're getting all this SEO advice that people are giving you and you're implementing but
+> it's not converting into revenue, STOP doing that." [[2020-01-25-yt-W00hLr627K0]]
+Gloss: short, blunt, and aimed as much at his own advice as anyone else's — a rare in-character
+hedge against his own tactical volume.
+
+**"focus on execution and stop wasting your time continually looking at reports"** — his
+anti-dashboard operating discipline.
+> "I check my rankings once a week... focus on execution and stop wasting your time continually
+> looking at reports." [[2020-01-27-yt-_yXNA4wWS6M]]
+Gloss: dates his own once-a-week rank-checking cadence against the checklist-driven "no morning
+routine" productivity ethic above.
 
 ## Marketing School–era coinages (2024–2026)
 

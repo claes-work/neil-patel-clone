@@ -2,7 +2,7 @@
 type: hub
 domain: paid-ads
 created: 2026-07-14
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 # Paid Ads — hub
@@ -211,6 +211,14 @@ paid works because of the funnel behind the ad, not the ad craft (dated; self-re
   front) ad-spend tiering** he relays here is the same LTV model already documented in
   [[wiki/topics/analytics-cro|analytics-cro]] ([[2018-10-16-yt-AbcoFUHcs9M]]) — cross-linked, not duplicated.
   > "The secret to making paid advertising work isn't how you optimize the paid ad campaigns, it's your funnel." — [[2019-08-03-yt-5qFWeF8gGTM]]
+
+## 2019-11 retargeting mechanic (@neilpatel P2, synthesis pass 8)
+
+- **Retargeting logic↔emotion flip (2019-11-23).** His "highest-ROI" Facebook retargeting play:
+  remarket checkout-abandoners with an ad that flips the persuasion mode the original landing page
+  already used and that failed to convert them — emotion-led creative if the page argued on logic,
+  logic-led if it argued on emotion ([[2019-11-23-yt-7tACyXcjZF4]]). Full entry on
+  [[wiki/topics/analytics-cro|analytics-cro]] (this is a cross-link, not a duplicate).
 
 ## Key source pages
 - [[2018-12-22-yt-7V3HMRJ8U40]] — SEO vs paid: do both (omni-channel; "if paid is profitable, SEO is").

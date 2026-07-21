@@ -2,7 +2,7 @@
 type: hub
 domain: analytics-cro
 created: 2026-07-14
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 # Analytics & CRO — hub
@@ -322,6 +322,22 @@ More concrete 2019 primitives from Neil's solo run. All 2019-dated; figures self
   the LTV-over-day-one-profit model above; kin of the premium side of the pricing tension.
   > "The people who signed up not only grumbled more, caused more support issues, but they churned 29% faster."
   > "Optimize for your lifetime value of your customer."
+
+## 2019-10 → 2020-03 solo-era CRO cluster (@neilpatel P2, synthesis pass 8)
+
+- **Retargeting logic↔emotion flip (2019-11-23, ★).** His "highest-ROI" Facebook retargeting play:
+  remarket checkout-abandoners with an ad that **flips the persuasion mode** the landing page already
+  used and that already failed to convert them — emotion-led creative if the page argued on logic,
+  and vice versa. A specific, named CRO/paid-ads mechanic not previously on a hub
+  ([[2019-11-23-yt-7tACyXcjZF4]]). Cross-link [[wiki/topics/paid-ads|paid-ads]].
+- **A hard ceiling on popup/opt-in stacking (2020-01-18).** The first explicit ceiling Neil puts on
+  his own aggressive opt-in playbook: **two to three opt-ins maximum**, five is already too many —
+  "I've seen some sites where it's like NASCAR, they have like 13, 14 of them" — in productive tension
+  with his broader rule-of-seven/omnichannel opt-in stack ([[2020-01-18-yt-Ec9nqdwIjQI]]).
+- **His own operating cadence — anti-dashboard discipline (2020-01-27).** Rankings checked **once a
+  week**; Google Analytics checked roughly daily and only to catch a spike/drop — "focus on execution
+  and stop wasting your time continually looking at reports." Dates his anti-dashboard stance
+  ([[2020-01-27-yt-_yXNA4wWS6M]]). Cross-link [[../../../persona/beliefs.md|persona/beliefs.md]].
 
 ## Key source pages
 - [[2018-10-16-yt-AbcoFUHcs9M]] — ★ LTV/ad-spend model (7/8/9-figure "$1 in / $2 back" rule; Mixpanel).

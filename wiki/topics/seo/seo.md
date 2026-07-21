@@ -2,7 +2,7 @@
 type: hub
 domain: seo
 created: 2026-07-14
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 # SEO — hub
@@ -720,6 +720,98 @@ tactics above into repeatable "rank without link building" plays. New/sharper it
     as well as Google).
     > "Unlike Google, on Bing, we found that exact match domains perform even better than they
     > do on Google."
+
+## 2019-10 → 2020-03 solo-era SEO — link-building depth, the zero-click stance & trust signals (@neilpatel P2, synthesis pass 8)
+
+The autumn-2019/winter-2020 run adds a fully-specified link-building method with concrete proof
+metrics, an "optimize over create" formula credited with 477,000 ranked keywords, a first
+explicit stance on zero-click search, an E-A-T/Medic compliance checklist (including
+self-disqualification), and a debunking of domain-authority-style vanity metrics — his own
+product's included.
+
+- **The infographic-backlink hack — 47 infographics, 41,142 backlinks (2019-10-14, ★).** A
+  fully-specified link-earning method with Kissmetrics proof metrics: **47 infographics over
+  ~2 years → 2,512,596 visitors / 41,142 backlinks / 3,741 unique linking domains** (self-reported;
+  Kissmetrics later 301-redirected into neilpatel.com). Workflow: **Ubersuggest → Content Ideas**
+  report to find data-heavy posts worth visualizing → rebuild them as infographics (**Canva** or
+  **Infogram**, always citing the data source) → email the *original* post's existing linkers with
+  the infographic (not a cold link-beg) → embed a **WordPress embed-code plugin** so other sites can
+  passively re-embed it, generating further backlinks automatically ([[2019-10-14-yt-_Jc6UQNRCv8]]).
+  Extends the Skyscraper/content-gap link-building thread with a named, numbers-first tactic.
+- **Advanced SEO "optimize-over-create" formula — 477,000 keywords (2019-10-21, ★).** An
+  end-to-end repeatable framework Neil credits with ranking **477,000 keywords / 2.2M unique
+  visits per month** (self-reported): prioritize **revenue-generating pages** with conversion
+  tracking in place → mine **Google Search Console** for high-impression, sub-5%-CTR keywords
+  sitting in **positions 7–10** (citing a **ClickFlow 5-million-title-tag study** on CTR-by-position)
+  → fold those keywords into title tags, meta descriptions and body copy with CTR "click-hack"
+  language → expand with **Ubersuggest** long-tail, high-CPC variants → force a re-index → interlink
+  the cluster. Crystallized in the signature contrast: **"1 new article a week vs. ~90 posts
+  adjusted a month"** ([[2019-10-21-yt-rJtW05sxLuQ]]) — consolidate with the existing
+  rank-OLD-content / land-and-expand doctrine above; this is the fullest, most quantified version.
+- **Advanced link-building playbook — seven named plays (2019-10-28, ★).** Seven concrete
+  link-earning tactics not previously captured as a set: **industry surveys**, **virtual summits**,
+  detailed **case-study "ego-bait"**, **interactive maps framed as "the new infographics"**
+  (credited to **Glen Allsopp**), **Brian Dean's Moving Man Method** (find dead/broken resources and
+  offer your live page as the replacement, attribution: Brian Dean not Neil), **podcast guest tours**,
+  and **reclaiming unlinked brand mentions** ([[2019-10-28-yt-huslO12gw3U]]).
+- **Named browser-tool stack (2019-10-31).** His working SEO toolkit, with roles: **SEOquake**,
+  **MozBar**, **BuzzStream BuzzMarker**, **TubeBuddy**, **Buffer**, **Grammarly** (called his overall
+  favorite tool, uses the free tier), **BuzzSumo**, **Save to Pocket**, and **Check My Links** for
+  broken-link building ([[2019-10-31-yt-wePnT4uSNYA]]).
+- **"Keywords that never sell" — a negative-keyword taxonomy (2019-11-18, ★).** Inverts his usual
+  "chase these keywords" advice into a **what-to-avoid** framework: seven keyword classes to skip —
+  generic terms, industry jargon, "free"/wrong-intent terms, out-of-context ambiguous terms,
+  unrelated informational queries, over-competitive terms (including high-buyer-intent commercial
+  ones out of reach for a small site), and over-reliance on ultra-long-tail phrases — with the
+  prescription to target **3–4-word phrases** as the sweet spot ([[2019-11-18-yt-L5kro6xW8eU]]).
+- **Comparison keywords = purchase already decided (2019-12-16).** "Mailchimp versus ConvertKit"-type
+  queries signal the buyer has already committed to the category and is only choosing a vendor —
+  named as his single favorite Ubersuggest-report insight; a sharper intent taxonomy than the
+  existing generic long-tail guidance ([[2019-12-16-yt-4M1Z5_-lJ5w]]).
+- **The zero-click doctrine — "Google is not evil" (2019-12-05 & 2019-12-14, ★).** His fullest
+  statement on zero-click search: roughly half of searches end without a click, and organic visits
+  are falling (he cites **Merkle: −6% YoY**; mobile search growth slowing 13%→5%) — but he argues
+  this is **fine**, because better UX grows the total searcher pool, brings more people online, and
+  the traffic Google keeps in-SERP was **never going to convert** for you anyway; the traffic you do
+  get should show a **higher** conversion rate. Proof point: adding **FAQ schema** to neilpatel.com
+  (answering the question directly in the SERP) *improved* both rankings and clicks, not just
+  impressions ([[2019-12-05-yt-TSJEQFtbOLA]], [[2019-12-14-yt-792f2y2Pn74]]). A stance, not a tactic —
+  cross-link [[../../../persona/beliefs.md|persona/beliefs.md]].
+  > ⚠️ Sourcing note: the "~50% no-click" stat is attributed to **Search Engine Land** in the
+  > 2020-01-04 telling and to **Jumpshot** five days earlier in the 2019-12-30 telling — same
+  > underlying study, loosely sourced; not corrected, just flagged.
+- **E-A-T / Medic compliance checklist, with self-disqualification (2019-12-12, ★).** His practical
+  E-A-T checklist: truthful author bios site-wide, niche guest posts, podcast appearances (noting
+  "Google now crawls podcasts"), external reviews/testimonials, and outbound citation of trusted
+  sources as a trust signal. Notably self-applies the policy: he says he **disqualifies himself**
+  from writing medical and retirement-planning content because he lacks the expertise, calling it
+  "the right thing to do" ([[2019-12-12-yt-vvKpzFtH7OQ]]). Restated with a bio anchor on 2020-01-04:
+  "What do I know about 401(k)s and retirement? Heck, I'm 34 years old" ([[2020-01-04-yt-RKnryDGr2DM]])
+  — also a second in-corpus age self-statement corroborating the 1985 birth year in SUBJECT.md.
+- **"Optimize for people, not for the platform" as an explicit first principle (2019-12-12 &
+  2019-12-14, ★).** Stated twice in ten days: "with the specific purpose in mind of helping other
+  people, not Google, not Facebook, not Instagram" — platforms optimize for their own end users, so
+  aligning with the *user* costs short-run rankings/reach but wins long-run
+  ([[2019-12-12-yt-vvKpzFtH7OQ]], [[2019-12-14-yt-792f2y2Pn74]]). Cross-link
+  [[../../../persona/beliefs.md|persona/beliefs.md]] — a first-principles stance, not a tactic.
+- **The domain-authority debunk (2020-01-27, ★).** "I've outranked sites that have domain authorities
+  of 80 and 90 with a site that only has a domain authority of 40 or 50," plus "Google doesn't use
+  domain authority, domain score, or any of these other metrics" — explicitly noting DA is **Moz's**
+  coinage and that **Ubersuggest's own "domain score" is the same kind of proxy metric**, i.e. he
+  debunks his own product's number too. Illustrated with Forbes/HuffPost guest-post content losing
+  to a good mom-and-pop article ([[2020-01-27-yt-_yXNA4wWS6M]]). Extends the existing
+  distrust-platform-numbers belief to third-party (and his own) SEO tools.
+- **High-CPC over high-volume keyword selection (2020-01-06).** Chase keywords by **commercial
+  value** (CPC), not by search-volume popularity, because high-CPC terms convert better — a
+  reinforcement/sharpening of the existing intent-over-volume thesis
+  ([[2020-01-06-yt-3pVQm18SQok]]).
+- **YouTube channel-growth formula (2020-03-12, ★).** An explicit, reusable channel-growth
+  framework: **niche-focus beats topical breadth**; structure every video **hook → CTA → content →
+  CTA**; and treat the **first-24-hours view/engagement velocity** as the algorithmic signal that
+  decides whether a video gets pushed further (mirrors the first-24-hour thesis already established
+  for blog posts/Facebook). Candidate for a future content-strategy hub; cross-link
+  [[wiki/topics/content-marketing|content-marketing]] and
+  [[wiki/topics/social-media|social-media]] ([[2020-03-12-yt-oc1KaNa91uE]]).
 
 ## Signature framing: "get loved by Google"
 

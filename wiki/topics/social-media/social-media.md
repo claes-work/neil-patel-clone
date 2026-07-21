@@ -2,7 +2,7 @@
 type: hub
 domain: social-media
 created: 2026-07-14
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 # Social Media — hub
@@ -385,6 +385,25 @@ self-reported; date-flag before reuse.
   The omnichannel + re-share cadence is the demand-side rationale under his later repurposing
   engine [[2025-04-01-yt-E6ZSIZ89Ekg]] and the ~10–20%-reach reality behind the first-hour
   engagement lever [[2018-12-29-yt-TnQt_-uwR7g]].
+
+## 2019-10 → 2020 solo-era social tactics (@neilpatel P2, synthesis pass 8)
+
+- **Facebook-2019 doctrine — pages→private-groups + Messenger-bot numbers (2019-09-19, ★).**
+  Explicit shift from Facebook Pages to **private Groups** as the higher-engagement venue, anchored
+  to Facebook's self-reported **200M "meaningful group" members**; paired with Messenger-bot list
+  performance figures (**~88% open / ~56% CTR via MobileMonkey**) far above email benchmarks
+  ([[2019-09-19-yt-PiDctbBkE1U]]).
+  > ⚠️ Dated tactic — MobileMonkey/Messenger-bot boosterism is a 2019-era belief later reversed
+  > by platform policy changes; do not present as a current recommendation.
+- **YouTube SEO as an "alternative search engine" (2019-11-28).** A first-24-hour engagement push,
+  manual multi-language SRT subtitle uploads, and deliberately **saying the target keyword aloud**
+  (spoken-audio keyword density, a signal Neil believes YouTube's algorithm picks up) — framed
+  against his self-reported 100K–200K/month YouTube traffic ([[2019-11-28-yt-SESao9ByF2U]]).
+  Extends his own-media-playbook thread; cross-link [[wiki/topics/content-marketing|content-marketing]].
+- **YouTube channel-growth formula (2020-03-12).** Niche-focus over topical breadth; every video
+  structured hook → CTA → content → CTA; first-24-hour view/engagement velocity as the ranking
+  signal. Full detail on [[wiki/topics/seo|seo]] (2019-10→2020-03 section)
+  ([[2020-03-12-yt-oc1KaNa91uE]]).
 
 ## Key source pages
 - [[2018-10-04-yt-5dyn03RSWVA]] — Post to Facebook natively (schedulers cut reach 2–3×); monthly reporting.

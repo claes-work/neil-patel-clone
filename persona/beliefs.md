@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-20
-sources: 68
+updated: 2026-07-21
+sources: 76
 ---
 
 # Beliefs
@@ -390,6 +390,13 @@ grew even after Steve Jobs"). *(as of 2019-01-28, self-reported)* [[2019-01-28-y
 > money is in products, not personal brands" tension flagged in
 > [[../wiki/topics/agency-entrepreneurship|agency-entrepreneurship]]. Nearly five years, one evolving line.
 
+> Mechanism, dated 2020-01-20: "it's not because of an algorithm update here or there, it's because
+> I've really focused on building a brand, not just my personal brand, but a PRODUCT brand" — he
+> credits Ubersuggest with generating the brand-query volume that carries neilpatel.com through
+> Google updates. [[2020-01-20-yt-gZvXcLJiYR0]] A precursor statement of the same instinct, framed
+> as "brand is the best moat," opens a video 18 days earlier: features/products/services/marketing
+> tactics are all copyable, brand is not. *(2020-01-02)* [[2020-01-02-yt-ycD-6vLYASA]]
+
 ### Give-first to the extreme — refuses ads, sponsorships, and affiliate income (2018)
 The sharpest 2018 form of his generosity-first value: on his own channel he **deliberately does not
 monetize** — no ads or CTAs — and he **refuses paid sponsorships and affiliate commissions**,
@@ -438,6 +445,54 @@ can't save a bad product. *(as of 2019-06-13)* [[2019-06-13-yt-2jzzB_AeChA]]
 
 > verbatim: "Do you know who the best marketer is[?] The one who can spend the most money on
 > marketing." [[2019-06-13-yt-2jzzB_AeChA]]
+
+Restated twice six months later as an explicit first principle — "with the specific purpose in
+mind of helping other people, not Google, not Facebook, not Instagram" — because platforms
+optimize for *their* end users, so aligning with the user costs short-run rankings/reach but wins
+long-run. *(as of 2019-12-12, restated 2019-12-14)* [[2019-12-12-yt-vvKpzFtH7OQ]] ·
+[[2019-12-14-yt-792f2y2Pn74]] The same run applies it as an operational gate on his own signature
+land-and-expand SEO tactic: "if it makes sense for a searcher but not a user, do not do it, it's
+all about putting the user first." *(2020-01-12)* [[2020-01-12-yt-idpg3IyTU10]]
+
+> ⚠️ Provenance, not his own coinage: he attributes the underlying "obsess about users, not
+> competitors" principle to a **Jeff Bezos interview he watched**, having used the line unattributed
+> two weeks earlier. *(as of 2020-01-27)* [[2020-01-27-yt-_yXNA4wWS6M]]
+
+### "Google is not evil" — the zero-click search is fine (2019)
+His fullest stance on zero-click search: roughly half of searches end without a click and organic
+visits are falling (he cites Merkle's −6% YoY figure), but he argues this is **fine** — better UX
+grows the total searcher pool, brings more people online, and the traffic Google keeps in-SERP was
+never going to convert for the advertiser anyway, so the traffic you do get should show a *higher*
+conversion rate. Proof point: adding FAQ schema to neilpatel.com (answering the query directly in
+the SERP) improved both his rankings and his clicks, not just impressions. *(as of 2019-12-05,
+restated 2019-12-14, self-reported)* [[2019-12-05-yt-TSJEQFtbOLA]] · [[2019-12-14-yt-792f2y2Pn74]]
+
+### The domain-authority / vanity-metric debunk (2020)
+An anti-vanity-metric position extended to third-party **and his own** tools: "I've outranked
+sites that have domain authorities of 80 and 90 with a site that only has a domain authority of
+40 or 50," and "Google doesn't use domain authority, domain score, or any of these other
+metrics" — explicitly noting DA is Moz's coinage and that Ubersuggest's own "domain score" is the
+same kind of proxy metric. *(as of 2020-01-27, self-reported)* [[2020-01-27-yt-_yXNA4wWS6M]]
+Extends the existing distrust-platform-numbers belief to SEO tools generally, his own included.
+
+### Endorsing Google against his own client interests (2020)
+A values datapoint, not a tactic: he calls Google's E-A-T/Medic update "one of my favorite
+updates, EVEN THOUGH I have medical related companies that we do marketing for," reasoning that
+people should not read health information that can hurt them (citing anti-vaccine content as the
+example); on Google disintermediating travel sites, "it's their company, they should be able to
+do whatever they want," with a clean split of self-interest — "as a marketer, of course, I'd
+rather have people on my website." *(as of 2020-01-20)* [[2020-01-20-yt-gZvXcLJiYR0]]
+
+### The Ubersuggest bet, costed — and the don't-copy-me caveat (2020)
+The first source to put a **price** on the free-tool-as-acquisition doctrine: over **$3 million
+spent** on Ubersuggest, not yet recouped, servers alone over $1M/year, against ~3M visits/15M
+pageviews/740K uniques a month (self-reported). States the free-wins-eyeballs rule outright, but
+uniquely tells viewers **not to copy him**: "I wouldn't recommend doing what I did... start off
+small and get traction before you go all in. That's a big mistake that I made." *(as of
+2020-01-13, self-reported)* [[2020-01-13-yt-ZliTye4NEEg]] This is the missing dated mid-point
+between the 2018 free-product-as-acquisition-channel thesis and the 2026 "FREE is the real lever"
+position ([[../wiki/topics/agency-entrepreneurship|agency-entrepreneurship]]) — the don't-copy-me
+caveat is dropped in every later retelling; keep both halves intact when citing this.
 
 ## Opinions & positions (dated)
 

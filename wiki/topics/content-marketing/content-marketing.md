@@ -2,7 +2,7 @@
 type: hub
 domain: content-marketing
 created: 2026-07-14
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 # Content Marketing — hub
@@ -235,6 +235,54 @@ Genuinely-new 2019 specifics that sharpen the era's promotion-first / update-old
   social sites like Facebook hate that." ([[2019-06-15-yt-e5mE_C3Jikw]]). Cross-link:
   [[wiki/topics/social-media|social-media]]. The 2019 ancestor of his 2025 "test-on-X-then-repost"
   repurposing engine.
+
+## 2019-10 → 2020-03 solo-era content tactics (@neilpatel P2, synthesis pass 8)
+
+The headline-writing formula, an operations-quantified content cadence, and a "tools are content
+marketing" doctrine — the missing dated mid-point between the 2018 free-tool thesis and the 2026
+"FREE is the lever" position.
+
+- **A named headline-writing formula (2019-10-12, ★).** Neil calls it "a headline formula that's
+  worked really well for me": only **8 in 10 people read a headline but just 2 in 10 click** it, so
+  **write and A/B-test 5+ headline variants by CTR**; keep headlines **under ~50 characters**; use
+  **specific, granular numbers** (an exact "$3,452,928" beats "millions") because specificity signals
+  honesty; lean on rationale/action words (tips, reasons, lessons, tricks) and creative power
+  adjectives; leverage freshness + FOMO for urgency; and always **deliver on the promise** or erode
+  reader trust ([[2019-10-12-yt-JOkowdWfD98]]).
+- **The content operation, quantified (2020-01-06 & 2020-01-12, ★).** His most precise stated
+  cadence: he writes **4 blog posts a month himself** (5 in a five-week month), a **team of three**
+  updates **~90 old articles/month** (~30 each), and he publishes **12+ videos a month** — with the
+  flat verdict that "updating old content is providing me more traffic gains than writing new
+  content," his single biggest reported 2019 gain ([[2020-01-06-yt-3pVQm18SQok]],
+  [[2020-01-12-yt-idpg3IyTU10]]). Sharper and better-dated than the earlier ~90-updates/month
+  mentions; reconcile together, don't duplicate.
+- **"Tools are a new form of content marketing" (2020-01-02 & 2020-01-12, ★).** Ubersuggest is the
+  **#1 traffic section of neilpatel.com** and its launch produced a jump in brand-query volume; Neil
+  states the democratized version of the doctrine is buildable cheaply — a ~$10 CodeCanyon script
+  rebranded onto your own site, which he says he did on Quick Sprout and his early agency site
+  ([[2020-01-02-yt-ycD-6vLYASA]], [[2020-01-12-yt-idpg3IyTU10]]). > "The most viral and the easiest
+  traffic you'll get is from a tool." Cross-link [[wiki/topics/agency-entrepreneurship|agency-entrepreneurship]]
+  (the free-tool-as-acquisition-channel through-line).
+- **Three-signal content validation (2020-01-09, ★).** An idea only qualifies for a full write-up
+  once it clears **all three** bars: thousands of social shares **and** 100+ estimated visits **and**
+  5+ backlinks — "social shares people can manipulate," so shares alone don't validate. Paired with
+  reading competitors' *worst*-performing pages, not just their winners, to learn what to avoid
+  ([[2020-01-09-yt-Cz1PIlVRaVY]]).
+- **KISSmetrics' blog to 1M visitors/month on unpaid guest posting (2020-01-30, ★).** A concrete,
+  dated operating fact about one of his own companies: "we did this purely through guest posting and
+  we didn't pay authors to write for us" (a few were paid at the very start, then it went fully free),
+  with the recruiting hack of **poaching the guest authors already writing for competitors' blogs**
+  ([[2020-01-30-yt-YRZlBjsY_nc]]). Cross-link [[../../../persona/biography.md|persona/biography.md]].
+- **Speak-don't-type as a personal working habit, plus a writer-hiring protocol (2020-01-30).** Neil
+  states a flat preference for dictation over typing (**125–150 words/minute spoken** vs. typing,
+  via Rev.com or Google Docs voice-typing): "I prefer it over writing. It's much quicker and it's
+  much more efficient." His writer-hiring protocol: **collect samples → pay per word → set
+  minimums/maximums → outline before writing** (or outsource only the research/data for a piece he
+  writes himself) ([[2020-01-30-yt-YRZlBjsY_nc]]). Cross-link [[../../../persona/voice.md|persona/voice.md]].
+- **YouTube channel-growth formula (2020-03-12, ★).** Niche-focus over topical breadth; every video
+  structured **hook → CTA → content → CTA**; first-24-hour view/engagement velocity as the algorithmic
+  signal. Full detail on [[wiki/topics/seo|seo]] (2019-10→2020-03 section); noted here as a
+  content-strategy framework too ([[2020-03-12-yt-oc1KaNa91uE]]).
 
 ## Key source pages
 - [[2019-07-06-yt-EihqZWH6aT4]] — ★ Content-volume decision rule (writes ~4/mo; domain score <40 vs >65 → volume vs content gaps).
