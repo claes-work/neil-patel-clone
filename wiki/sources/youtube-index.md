@@ -762,6 +762,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2021-03-11 — [How to Find The Ideal Backlink (Ubersuggest exact-URL backlink prospecting; Hunter.io outreach; ~100-emails-to-3-6-links ratio)](2021-03-11-yt-p4LUA_cZh74.md) — seo
 - 2021-03-13 — [How to Write Blog Posts That Consistently Rank Well on Google (systematic 10-competitor/20-page content-gap workflow; 200-article outreach math)](2021-03-13-yt-CjzjUbA8nzA.md) — seo, content-marketing
 - 2021-03-15 — [How Many Anchor Text Rich Links Do You Really Need? (anchor-text-distribution analysis across competitor URLs for one keyword)](2021-03-15-yt-jYmBcEj9ygs.md) — seo
+- 2021-03-18 — [Do You Really Need High Domain Authority Links? (live multi-site Ubersuggest demo; reinforces the domain-authority-debunk belief)](2021-03-18-yt-HVkEcTRngsY.md) — seo
+- 2021-03-20 — [Here's What You Need to Outrank Your Competition (four-part competitor-outrank workflow; HubSpot ~14x brand-query gap example)](2021-03-20-yt-8WwVWGw8MqQ.md) — seo, analytics-cro
+- 2021-03-22 — [How to Monetize Your AMP Traffic (AMP sticky-bar CTA retrofit; +6% conversions)](2021-03-22-yt-JQzCms9skTU.md) — seo, analytics-cro
+- 2021-03-25 — [How I Collected 714,000 Emails Through A Simple Quiz (LeadQuizzes funnel design ruleset: question-count sweet spot, no-zero-option, last-step-only back-button removal)](2021-03-25-yt-Gr64i-ZiG68.md) — email-marketing, content-marketing, analytics-cro
+- 2021-03-27 — [How SEOs Should Use Google Analytics (report checklist; same-weekday/region-filtered comparison method; Crazy Egg cross-validation)](2021-03-27-yt-P54LGZFLiqI.md) — analytics-cro, seo
+- 2021-03-29 — [How to Create The Ideal Blog Homepage (three-part homepage template: above-fold offer / credibility / numbered getting-started pathway)](2021-03-29-yt-UHuz6oJ_3wE.md) — content-marketing, analytics-cro
+- 2021-04-01 — [How to Generate 355 Backlinks With 29 Dollars (cheap CodeCanyon tool-sourcing tactic; anti-link-buying disclaimer)](2021-04-01-yt-JlxTM_DKILs.md) — seo, content-marketing
+- 2021-04-03 — [How to Come Up With Content Ideas That Drive Traffic (keyword-gap ideation workflow; 10/40/20/30 content-time allocation)](2021-04-03-yt-7l5btHy2rxQ.md) — content-marketing, seo
 
 ---
-_749 videos ingested (L2) so far._
+_757 videos ingested (L2) so far._

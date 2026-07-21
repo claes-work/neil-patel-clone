@@ -4472,3 +4472,47 @@ technique, micro-commitments framework, "I love what I'm doing" quote) — recom
 promoting into persona/biography.md, beliefs.md, and voice.md next pass; the
 five-bucket site-audit framework and the 54%-conversion form-side test result; and the
 systematized 200→150-topic content-gap-analysis workflow.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2021-03-18→04-03 solo tactical era, cont. 73)
+
+Ingested 8 more @neilpatel P2 rows, dated 2021-03-18 through 2021-04-03. All eight are
+solo, Neil-fronted tactical tutorials — no promo trailers, no other-people-only
+content. Videos: a domain-authority debunk demo (live Ubersuggest backlink pulls
+across Petco/Amazon/Purina showing most page-one links are low/mid-DA, reinforcing
+the domain-authority-debunk belief already in beliefs.md); a four-part
+competitor-outrank workflow (domain+URL backlink comparison, content-quality
+comparison, UX audit, brand-query volume — illustrated with a HubSpot ~14x
+brand-query-gap estimate); an AMP-traffic monetization fix (sticky top/bottom-bar
+CTAs on AMP pages lifted conversions ~6%); a quiz-funnel list-building breakdown
+(714,000 emails via LeadQuizzes, with a tested design ruleset — 6-7 question sweet
+spot, no "zero-effort" answer option, back button removed only on the final
+pre-capture step, reason-for-asking trust copy — and an 80%+ completion-to-opt-in
+rate); a Google Analytics/Search Console report checklist for SEOs (conversions,
+same-weekday/region-filtered week-over-week comparison cross-validated against a
+second site, Search Console over Analytics for organic-specific trend, device split);
+a three-part blog-homepage template (above-fold direct offer, credibility/about
+section, numbered getting-started pathway, contrasted against a Legion Athletics
+example); a cheap-tool link-magnet sourcing tactic (buying sub-$29 calculator scripts
+from CodeCanyon rather than custom-building, with an explicit anti-link-buying
+disclaimer, and the Ubersuggest 17,671-referring-domain figure as the larger-scale
+version of the same doctrine); and a keyword-gap content-ideation workflow (Ubersuggest
+Similar Websites + Keyword Gaps, checking existing content before writing "new" posts,
+prioritizing gap keywords by estimated competitor traffic not just rank position) with
+a self-reported 10%/40%/20%/30% content-time allocation (advanced content / keyword-gap
+content / content refresh / promotion). All Neil-attributed, single-speaker solo
+videos; no guest/interviewer material to gate. No contradictions found vs. existing
+wiki. Ledger: 8 rows → L2. youtube-index.md: 749 → 757. Synthesis debt now 8 ingest
+batches since synthesis pass 9 (checkpoint at 10) — not yet due; next batch or the one
+after should trigger the Stage S checkpoint.
+
+Synthesis notes: genuinely new — the full quiz-funnel design ruleset (question-count
+sweet spot, no-zero-option principle, last-step-only back-button removal, reason-for-
+asking trust tactic) with the 714K-email/80%-completion figures; the three-part blog-
+homepage template (above-fold offer / credibility / numbered getting-started pathway)
+with the Legion Athletics comparison; the AMP sticky-bar monetization retrofit (+6%
+conversions); the same-weekday/region-filtered GA comparison method; the cheap-tool
+(CodeCanyon) link-magnet sourcing tactic as a concrete extension of the existing
+tools-are-content-marketing doctrine; and the 10/40/20/30 content-time-allocation
+breakdown as a more complete version of the existing content-operation-cadence
+material. The domain-authority-debunk and competitor-outrank-workflow videos are
+mostly reinforcement of already-promoted beliefs (not flagged as new).
