@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-21 (@neilpatel batch — 8 P2 long-form L2, 2021-06-03→2021-06-21, cont. 77: solo tactical run (GSC rank-maintenance workflow; Ubersuggest keywords-gap report; "sleeper content" tactic named; video-SEO GSC tracking) plus two guest interviews with title/date mismatches — one biography-rich (burned-CDs-at-15, age-35 self-report, daily routine ★) and one philosophy-rich (contentment-over-happiness success definition, "I just like winning," Bill Gates admiration ★) — and a Sujan Patel interview quantifying the brand-queries-drive-rankings mechanism; no new contradictions; 789 videos L2. Full change history: see log.md (append-only) and pipeline/synthesis-state.md for synthesis-pass detail; this header now tracks only the latest batch to avoid unbounded growth.)_
+_Last updated: 2026-07-21 (@neilpatel batch — 8 P2 long-form L2, 2021-06-24→2021-07-12, cont. 78: two India-focused guest interviews with title/date mismatches (~2018 content) reinforcing existing biography beats, three solo Ubersuggest tactical tutorials, a concrete own-site keyword-ROI case study ★, a landmark COVID-era origin-story interview (mom's home-daycare referral network, dad's savings-match reversal, Speech-101/Elpac-Electronics client origin, AOL-hacking-at-12) ★, and a Restream livestreaming interview with a client case study + introvert self-disclosure + Eric-Siu tool-adoption story ★; no new contradictions; 797 videos L2. Full change history: see log.md (append-only) and pipeline/synthesis-state.md for synthesis-pass detail; this header now tracks only the latest batch to avoid unbounded growth.)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life/career timeline (England → Orange County → Crazy Egg/KISSmetrics → NP Digital → Ubersuggest → Marketing School), registry/court-verified vs self-reported marked per claim.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe.
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 789 videos ingested (L2).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop) — 797 videos ingested (L2).
 
 ## Topics
 

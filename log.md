@@ -4748,3 +4748,43 @@ philosophy interview (contentment-over-happiness definition, "I just like winnin
 Gates admiration) as a candidate `persona/beliefs.md` addition — the densest
 philosophy-of-success material seen in several batches. None promoted inline; debt now
 2/10 batches since synthesis pass 10.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2021-06-24→07-12, two India-interview reposts with title/date mismatches (~2018 content) reinforcing existing bio beats + three solo Ubersuggest tutorials + a concrete own-site keyword-ROI case study + a landmark COVID-era origin-story interview + a Restream livestreaming interview, cont. 78)
+
+Two India-focused guest interviews (2021-06-24, 2021-06-26 — both title/date-mismatched,
+recorded ~2018 despite 2021 publish dates) largely reinforce already-documented beats
+(lost-$1M-before-21, black-hat-era regret, "picking up trash and cleaning restrooms"
+first-income quote, the already-promoted 10/40/20/30 content-time-allocation formula) but
+add new color: a goal→month→week→day→hour business-building cascade, daily fitness/diet
+specifics (Joe Wicks HIIT, intermittent fasting 11am–6pm, no fried food/samosas/mayo/
+cheese — new appearance.md-eligible material), a candid "biggest lie to a client"
+confession, and a 37M-views-without-going-viral consistency datapoint. Team-name spelling
+variance flagged (Nick Roshon vs. Nick Rashaun — likely the same VP of Sales/partner,
+needs reconciling). Three solo Ubersuggest tutorials (competitor-page cloning via Top
+Pages by Traffic, Backlink Opportunity report + Hunter.io outreach) are routine tactical
+reinforcement. One tactical video (2021-07-05) contributes a concrete, quantified own-site
+case study: an "SEO" page (110K searches/mo) generating ~1 customer/yr vs. an "SEO
+company" page (18K searches/mo) generating ~6 customers/yr — a 6x ROI gap extending the
+existing keyword-ROI material. The 2021-07-08 source is a **landmark-quality, densely
+biographical interview** (title/date-mismatched, actually ~2020 COVID-era) with FIVE new
+★ candidates: his mother's home-daycare informal-referral origin story, his father's
+savings-match reversal, the Speech-101/Elpac-Electronics client-origin story with dollar
+figures (extends the existing Elpac-Electronics bio beat), an AOL-hacking-at-12 childhood
+anecdote, and general COVID-market/agency-advice commentary. The 2021-07-12 source (a
+Restream-sponsored live Q&A) contributes FOUR more ★ candidates: a hair-extensions-client
+livestream-frequency case study, an introvert self-disclosure, a self-deprecating
+first-livestream story, and the Eric-Siu/Restream tool-adoption origin story (cross-links
+to the existing [[wiki/entities/eric-siu]] page). No new contradictions. Ledger: 8 rows
+→ L2. youtube-index.md: 789 → 797. Ingest batches since last synthesis (pass 10): 3/10.
+
+Synthesis notes: nine ★ candidates accumulated this batch — (1) mom's daycare-referral
+origin story + dad's savings-match reversal (biography.md), (2) Speech-101/Elpac client
+origin with dollar figures, reconciling into the existing Elpac beat (biography.md), (3)
+AOL-hacking-at-12 anecdote (biography.md), (4) daily fitness/diet routine — Joe Wicks
+HIIT, intermittent fasting, food avoidances (appearance.md, first fitness-routine detail
+of this granularity), (5) the "content blindness" thesis (content-marketing.md), (6) the
+own-site SEO-vs-SEO-company 6x customer-ROI case study (seo.md), (7) introvert
+self-disclosure + first-livestream Starbucks story (voice.md/biography.md), (8) the
+Eric-Siu/Restream tool-adoption story (biography.md, cross-link eric-siu entity), (9) the
+hair-extensions livestream-frequency case study (social-media.md). None promoted inline;
+debt now 3/10 batches since synthesis pass 10.
