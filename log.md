@@ -5237,3 +5237,44 @@ monitoring the growing backlog (Honda-Odyssey/grandmother anecdotes, boring-prod
 framework, NP-Digital sales-tool-ROI case study, 6-Stages framework, TikTok-delegation/
 5am-posting/QVC anecdotes, Instagram-partnership-growth framework) for the next
 checkpoint.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2022-02-26→03-14 solo tactical era, cont. 91)
+
+8/8 captions fetched successfully, no rate-limiting. All 8 videos OK (solo tactical
+long-form, no promo/joke/other-people-only videos to skip). Ledger rows set to L2 with
+domains/notes; rows inserted into wiki/sources/youtube-index.md in date order, footer
+bumped 892→900, index.md count bumped to match. Four videos in this batch carry a
+title/content date mismatch (title says "2023," spoken content and publish date say
+2022) — flagged inline on all four affected pages, same recurring pattern previously
+logged on other @neilpatel videos from this era.
+
+Synthesis notes: two strong L3 candidates this batch, both flagged ★. (1) "How LONG
+Did It Take to Get My First 10,000 Subscribers on YouTube?" is a concrete, dated
+first-person account of his own early channel growth — a failed paid-ads phase
+(970K views from ads, only 0.2% subscribe rate, ~$10Ks spent, views collapsing to
+near-zero once ads stopped, net ~1,500 subscribers) versus a daily-upload phase
+(8,500 subscribers in 4 months) — directly useful for persona/biography.md's
+content-strategy timeline (see [[wiki/sources/2022-03-05-yt-qkxmUPotRDE]]). (2) "How
+To Start A Digital Marketing Agency From Scratch" is a complete, teachable six-point
+framework (niche → client-acquisition → results/portfolio → process-documentation →
+self-management → hiring), in the same shape as the "6 Stages of Learning Digital
+Marketing" and "boring product" frameworks already sitting in the synthesis backlog
+from the prior two batches — a strong candidate for its own
+wiki/topics/agency-entrepreneurship/ page (see
+[[wiki/sources/2022-03-12-yt-qyF7Tfb3QRc]]). Also worth carrying forward: a concrete
+own-blog traffic figure (~2.2M/mo from Google alone) and a YouTube-traffic figure
+(150K referred visitors in 2021, ~12K/mo) that may be worth reconciling against other
+traffic self-reports already in the wiki at the next pass — flagged rather than
+silently reconciled, similar to the Ubersuggest-customer-percentage discrepancy noted
+two batches ago. Everything else (sales-funnel/order-bump CRO tactics, manual-research-
+to-Ubersuggest-switch anecdote, Clubhouse ROI framing, phone-only-marketing capability
+breakdown, Quora/Wikipedia/syndication traffic sources, WordPress speed/SEO plugin
+stack, social-media-manager career path) reinforces existing doctrine rather than
+adding new claims. 6 ingest batches since synthesis pass 11; checkpoint at 10 — not
+due. Persona last touched by synthesis pass 11 (6 batches ago) — not yet stale by the
+≥10-batch rule; no P1 rows are open to retrigger the drain-condition; continue
+monitoring the growing backlog (Honda-Odyssey/grandmother anecdotes, boring-product
+framework, NP-Digital sales-tool-ROI case study, 6-Stages framework,
+TikTok-delegation/5am-posting/QVC anecdotes, Instagram-partnership-growth framework,
+own-YouTube-growth-history, agency-from-scratch 6-point framework, blog/YouTube
+traffic-figure reconciliation) for the next checkpoint.
