@@ -4849,3 +4849,32 @@ biography), (9) Wikipedia named explicitly as the broad-authority-dominance exam
 Moz's "Beginner's Guide to SEO" named explicitly as the topic-cluster structural model
 (MoF_eXTIpgc — seo, content-marketing). None promoted inline; debt now 5/10 batches
 since synthesis pass 10.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2021-08-21→09-06, solo tactical era, cont. 81)
+8 P2 long-form videos, all Neil-attributed solo tactical/educational content (his
+standard "5 minutes a day" format) — no guests, no attribution-gating needed. Domains
+touched: seo, content-marketing, analytics-cro, agency-entrepreneurship, email-
+marketing, social-media. No title/date mismatches this batch. No captions issues, no
+dupes, no rate-limiting (8/8 fetched clean on the first attempt).
+
+Synthesis notes: mostly period-tactical reinforcement of the established Ubersuggest-
+centric SEO/CRO/content playbook, plus a few new details worth folding in at the next
+pass — (1) a concrete **"Advanced Marketing Program"** peak-revenue figure (~$600K/mo,
+now discontinued) plus the **MicroAcquire + Capchase** no-money-down tool-acquisition
+strategy Neil calls his favorite passive-income play (_OkIEULWAQI — agency-
+entrepreneurship), (2) NP Digital has declined multiple financing/investment offers
+over the past "six months, a year" citing long-term-over-capital philosophy, plus a
+new anecdote of Neil personally eating the cost of an underpriced SMB client sold by a
+rep, framed "if one of my team members messes up, that's on me" (zthU8pc3o0Q —
+agency-entrepreneurship, voice), (3) a Warren Buffett short-term-vs-long-term-gains
+letter citation and the Zillow **Zestimate** as a new "build a better mousetrap"
+example alongside the existing Ubersuggest self-example (zthU8pc3o0Q — agency-
+entrepreneurship), (4) first-person confirmation that Neil personally runs a
+MobileMonkey Instagram/Facebook DM autoresponder on his own @neilpatel account
+(mcIyvkwYPB8 — social-media), (5) a third-party **Portent study** stat — landing-page
+conversion rates drop an average of 4.42% per additional second of load time (0-5s
+range) — with a template-vs-custom recommendation split by business size (3d9V7G2rOkM
+— analytics-cro). The remaining four videos (7 SEO Secrets, lost-traffic recovery,
+content-marketing-trap, 10-niches listicle) were pure tactical reinforcement or
+listicle content with no new persona-level claims. None promoted inline; debt now
+6/10 batches since synthesis pass 10.

@@ -826,6 +826,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2021-08-14 — [NOT Every Keyword is Worth Pursuing in SEO (Here's Why) (RankBrain named explicitly as the intent-detection mechanism)](2021-08-14-yt-oWtCsU3tb24.md) — seo
 - 2021-08-16 — [If You Have ZERO Website Visitors, Do THIS First | Optimizing a New Website For Organic Traffic (neilpatel.com's ordered topical-expansion narrative: SEO→content→social→paid→CRO→email→TV ads)](2021-08-16-yt-97yG9ktIqjQ.md) — seo, content-marketing
 - 2021-08-19 — [Is It Too Late to Start Doing SEO in 2023? (You May Not Like The Answer) [title mismatch, content=2021] (Wikipedia broad-authority example; Moz Beginner's Guide topic-cluster model)](2021-08-19-yt-MoF_eXTIpgc.md) — seo, content-marketing
+- 2021-08-21 — [How I Earn Passive Income Every Day with SEO - And You Can Too (Advanced Marketing Program $600K/mo peak revenue; MicroAcquire/Capchase no-money-down acquisition strategy) ★](2021-08-21-yt-_OkIEULWAQI.md) ★ — agency-entrepreneurship, seo
+- 2021-08-23 — [7 SEO Secrets Every Successful Online Business Employs (topic clusters, internal linking, Skyscraper Technique, brand queries — reinforcing)](2021-08-23-yt-rP9uXmFYCXo.md) — seo
+- 2021-08-26 — [Advice Every Online Business Owner Should've Heard Before Starting SEO (declined-capital/long-term philosophy; Warren Buffett letter; Zillow Zestimate example; SMB client-loss-eaten anecdote) ★](2021-08-26-yt-zthU8pc3o0Q.md) ★ — seo, agency-entrepreneurship, analytics-cro
+- 2021-08-28 — [5 tools To Create a Profitable Online Business (Crazy Egg/Hello Bar/MailChimp/MobileMonkey/Ubersuggest stack; personal MobileMonkey Instagram-autoresponder usage)](2021-08-28-yt-mcIyvkwYPB8.md) — seo, analytics-cro, email-marketing, social-media
+- 2021-08-30 — [How To COMPLETELY RECOVER Your Lost SEO Traffic (traffic-recovery checklist; malware/spam-link disavow anecdote; About.com pruning case reused)](2021-08-30-yt-jS0neQUIbIw.md) — seo
+- 2021-09-02 — [The Content Marketing TRAP: Why Writing Content Can Drive ZERO Traffic (topic-cluster doctrine reinforced; conversion-over-traffic point)](2021-09-02-yt-a5PsN-Zuga8.md) — seo, content-marketing
+- 2021-09-04 — [10 Most Profitable SEO Niches to Start an Online Business (niche listicle: health/CBD, home-improvement, e-bikes, solar, furniture, wardrobe, board games, EV accessories, pet supplies)](2021-09-04-yt-9WNpEyNUIt4.md) — agency-entrepreneurship, content-marketing
+- 2021-09-06 — [Should You Design Your Landing Pages From Scratch or Use Templates? (Portent site-speed conversion study, 4.42%/sec 0-5s; template-vs-custom recommendation by business size)](2021-09-06-yt-3d9V7G2rOkM.md) — analytics-cro
 
 ---
-_813 videos ingested (L2) so far._
+_821 videos ingested (L2) so far._
