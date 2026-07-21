@@ -5136,3 +5136,35 @@ reranking claim and the optimize-vs-create decision rule are the two most citabl
 SEO-tactical items for the next seo/ synthesis pass. Everything else this batch
 reinforces existing doctrine. 2 ingest batches since synthesis pass 11; checkpoint at
 10 — not due.
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2021-12-30→2022-01-17, cont. 88)
+
+Stage B ingest batch, 8 videos → L2, all @neilpatel solo tactical content spanning
+2021-12-30 to 2022-01-17. Titles: "How to Get Your First 1,000 Visitors With SEO and
+Content Marketing" (2021-12-30); "20 Years Of Marketing - 7 Most Important Lessons
+Learned" ★ (2022-01-03); "This Works Better Than SEO... My BEST Traffic Source"
+(2022-01-06); "Marketing Color Psychology" (2022-01-08); "The Biggest Opportunity in
+Paid Social Media Ads Since The Death of Organic Reach" (2022-01-10); "7 Tips to Work
+10x Faster in SEO" (2022-01-13); "Why Your Content Gets ZERO Attention and Traffic"
+(2022-01-15); "The 6 Stages of Learning Digital Marketing" ★ (2022-01-17). 8/8 fetched
+cleanly on the first attempt, no rate-limiting, no no-captions/duplicates. Ledger rows
+set to L2 with domains/notes; rows inserted into wiki/sources/youtube-index.md in date
+order, footer bumped 868→876, index.md count bumped to match.
+
+Synthesis notes: the "20 Years Of Marketing" video names NP Digital CEO **Mike
+Gullickson** for the first time (prior roles at iCrossing, Covario, iProspect/Dentsu)
+— a new entity with no existing wiki/entities/ page, worth creating at the next
+synthesis pass. Same video's "over 500 employees" headcount marker slots consistently
+between the existing 2018 (150+) and 2022-08 (700+) points on the NP Digital headcount
+timeline in persona/biography.md — no contradiction, just another data point. The
+"6 Stages of Learning Digital Marketing" video is a fairly self-contained,
+teachable career-progression framework (Generalist → Successes/Failures → Niching
+Down → Portfolio → Scaling Up → Authority) distinct from his usual scaling advice —
+candidate for its own wiki/topics/agency-entrepreneurship/ page. Also worth a
+reconciliation note: the 2022-01-06 "Ubersuggest = 40%+ of NP Digital customers"
+figure is higher than the later 2022-08 "~30%" marker already in the wiki — different
+measurement windows likely, flagged rather than silently reconciled. Everything else
+(Ubersuggest tool tours, CRO/color tips, content-refresh ops split, personalization
+retargeting tactics) reinforces existing doctrine rather than adding new claims. 3
+ingest batches since synthesis pass 11; checkpoint at 10 — not due. Persona last
+touched by synthesis pass 11 (2 batches ago before this one, 3 now) — not stale yet.
