@@ -4079,3 +4079,57 @@ Eric Schmidt "tell them what they should be doing next" quote
 from [[wiki/sources/2020-08-17-yt-6qSVBtlBvzQ]] (5 days earlier) — no new promotion. No
 contradictions found vs. existing wiki. Ingest batches since last synthesis now at
 8/10 per the driver; continuing @neilpatel P2 next iteration.
+
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2020-09-12→10-01, Instagram Unlocked Module 2 COMPLETES + solo SEO/content tactical run, cont. 64)
+
+Batch of 8, all P2, all captions fetched successfully (no rate-limiting, no dup, no
+skips). First video is a standalone blog-post-structure tutorial
+([[wiki/sources/2020-09-12-yt-J-2_CrpDAOo]]: Ogilvy headline-economics quote, E-A-T-
+driven intro linking, the "book with chapters" subheading model). Then six videos
+complete the **Instagram Unlocked** course launched 2020-09-17
+([[wiki/sources/2020-09-17-yt-IJkYLI1oM4s]]): Module 1 Lessons 2-3 (bio-link-as-
+profit-center doctrine, Stories via Will Smith/Dhar Mann examples, hashtag caps,
+27-content-types survey with a Kayla Itsines case study —
+[[wiki/sources/2020-09-19-yt-YumNkjy9Skk]]) and Module 2 Lessons 1-3
+([[wiki/sources/2020-09-21-yt-hJ57exhHbMQ]]: algorithm/dwell-time model, an explicit
+Gary Vaynerchuk engagement-tactic attribution, "Instagram SEO" via Ubersuggest;
+[[wiki/sources/2020-09-24-yt-GfyMgrzP8kw]]: four growth hacks, a comment-reply habit
+dated to "13-ish years ago" (~2007) on his blog, influencer vetting criteria;
+[[wiki/sources/2020-09-26-yt-FNuwQcYkP-s]] — **Instagram Unlocked COMPLETES**, 6
+lessons across 2 modules/2 weeks — Kylie Cosmetics/Frank Body case studies, a
+platform-by-platform repurposing guide, and Neil's stated stance against buying
+established Instagram accounts). Closes with two solo SEO/content videos: a Search
+Console + Ubersuggest long-tail keyword-clustering/internal-linking tactic
+([[wiki/sources/2020-09-28-yt-64ZDgNFWdU4]]), and a live-Analytics demo of neilpatel.com
+showing roughly 100x more real-time traffic from organic Google search than social
+media, used to argue for search-intent-first content sequencing
+([[wiki/sources/2020-10-01-yt-s37Bemfuph8]]). All 8 videos solo Neil-fronted — no
+co-speakers, no attribution concerns (third parties named — Will Smith, Dhar Mann,
+Gary Vaynerchuk, Kylie Jenner, Frank Body, Kayla Itsines — are examples Neil discusses,
+not speakers).
+
+Ledger: 8 rows → L2 (`yt-J-2_CrpDAOo`, `yt-IJkYLI1oM4s`, `yt-YumNkjy9Skk`,
+`yt-hJ57exhHbMQ`, `yt-GfyMgrzP8kw`, `yt-FNuwQcYkP-s`, `yt-64ZDgNFWdU4`,
+`yt-s37Bemfuph8`). youtube-index.md footer 677→685; index.md count 677→685.
+
+Synthesis notes: (1) **Instagram Unlocked course completion** — a full-course boundary
+(6 lessons, 2020-09-17→09-26) — is a synthesis-checkpoint-relevant event per AGENTS.md,
+though the driver's batch-count checkpoint (now 9/10) will likely trip on the very
+next batch regardless; treat this as reinforcing that a checkpoint is imminent rather
+than triggering one immediately, consistent with how the eCommerce/Content Marketing
+Unlocked course completions were handled earlier in this run. (2) The dated
+comment-reply-habit detail ("started doing this with my blog over 13-ish years ago,"
+[[wiki/sources/2020-09-24-yt-GfyMgrzP8kw]], implying ~2007) is a new, concrete
+biographical anchor point — candidate for `persona/biography.md`'s early-blogging
+timeline, not yet promoted. (3) The Gary Vaynerchuk engagement-tactic attribution
+recurs twice in this batch ([[wiki/sources/2020-09-21-yt-hJ57exhHbMQ]] and
+[[wiki/sources/2020-09-24-yt-GfyMgrzP8kw]]) — worth checking at the next synthesis pass
+whether persona/beliefs.md already credits this influence, since it's now a repeated,
+explicit self-attribution. (4) The ~100x organic-vs-social live traffic-mix data point
+([[wiki/sources/2020-10-01-yt-s37Bemfuph8]]) is concrete supporting evidence for the
+existing SEO-over-social belief, not a new belief. No contradictions found vs.
+existing wiki. Ingest batches since last synthesis now at 9/10 per the driver;
+next iteration should run **Stage S (synthesis checkpoint)** — either the count trips
+to 10 on the next batch, or this is close enough to justify pulling the checkpoint
+forward given the Instagram Unlocked course-completion signal above.

@@ -690,6 +690,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2020-08-31 — [How to Create The Perfect Blog Layout (Hello Bar top bar; rotating sidebar CTAs; AudioEye accessibility; category dropdown CRO)](2020-08-31-yt-UBcNQwyjNuY.md) — analytics-cro, content-marketing
 - 2020-09-03 — [How to Rank For 1000s of Keywords Using Google Search Console (near-miss query mining; Request Indexing tactic)](2020-09-03-yt-W4mT6giCDp0.md) — seo, analytics-cro
 - 2020-09-10 — [The Best Traffic Hack (Works Even If You're a Complete Newbie) (tools-are-content doctrine reinforced; CodeCanyon white-label tool-buying tactic ★)](2020-09-10-yt-AN-nNFlhq04.md) ★ — content-marketing, seo
+- 2020-09-12 — [How To Create The Perfect Blog Post (headline craft — Ogilvy 80-cents quote; E-A-T-driven intro linking; skimmable structure)](2020-09-12-yt-J-2_CrpDAOo.md) — content-marketing, seo
+- 2020-09-17 — [Build Your Instagram Profile The Right Way - Module 1 - Lesson 2 - Instagram Unlocked (bio link as profit center; Stories via Will Smith/Dhar Mann examples; hashtag caps; content calendar)](2020-09-17-yt-IJkYLI1oM4s.md) — social-media
+- 2020-09-19 — [27 Content Types For Instagram - Module 1 - Lesson 3 - Instagram Unlocked (Stories/giveaways/tutorials/quotes/carousels survey; Kayla Itsines case study)](2020-09-19-yt-YumNkjy9Skk.md) — social-media
+- 2020-09-21 — [How To Market Your Instagram Content - Module 2 - Lesson 1 - Instagram Unlocked (algorithm/dwell-time model; Gary Vaynerchuk engagement-grind attribution; Instagram SEO via Ubersuggest)](2020-09-21-yt-hJ57exhHbMQ.md) — social-media, seo
+- 2020-09-24 — [How To Grow Your IG Followers Fast - Module 2 - Lesson 2 - Instagram Unlocked (4 growth hacks; comment-reply habit dated to ~2007 blog practice; influencer vetting; Instagram Ads budget floor)](2020-09-24-yt-GfyMgrzP8kw.md) — social-media, paid-ads
+- 2020-09-26 — [How Kylie Jenner Built Her Empire - Module 2 - Lesson 3 - Instagram Unlocked (COMPLETES the course; Kylie Cosmetics/Frank Body case studies; platform-repurposing guide; "I don't buy Instagram accounts" stance)](2020-09-26-yt-FNuwQcYkP-s.md) — social-media
+- 2020-09-28 — [A Quick Hack That'll Help You Rank For More Keywords (Search Console + Ubersuggest long-tail clustering/internal-linking tactic)](2020-09-28-yt-64ZDgNFWdU4.md) — seo
+- 2020-10-01 — [Why You Should Write Content For Google and Not Social Media (live Analytics demo: ~100x organic-vs-social traffic; search-intent-first content sequencing)](2020-10-01-yt-s37Bemfuph8.md) — seo, content-marketing
 
 ---
-_677 videos ingested (L2) so far._
+_685 videos ingested (L2) so far._
