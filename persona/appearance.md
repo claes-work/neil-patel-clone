@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-21
-sources: 4
+sources: 6
 ---
 
 # Appearance
@@ -58,6 +58,15 @@ mark every entry's evidence type.
   moment** rather than showing off. He says he **test-drove a Ferrari but hates driving and gets
   anxiety**, and lists hobbies like **~30 escape rooms** (he delegates/manages rather than solves)
   and following **F1 / basketball / football / golf**. ([[2018-04-07-yt-zoqhUhDyE9w]])
+
+## 2022 additions (synthesis pass 12)
+
+- **The Honda Odyssey, twice reinforced (self-narrated, 2022).** Two 2022 sources restate the
+  anti-flashy self-presentation: he drives a **Honda Odyssey**, not a "fancy car," and separately
+  says he genuinely dislikes driving and finds it anxiety-inducing (used as a sales-targeting
+  analogy) — consistent with, and reinforcing, the 2018 Ferrari-test-drive/driving-anxiety material
+  above. 🗣️ ([[../wiki/sources/2022-01-24-yt-d-IieuMzknk]], [[../wiki/sources/2022-06-02-yt-8QxpDq18Xy8]])
+  > "I don't have a fancy car, I drive a Honda Odyssey." [[../wiki/sources/2022-06-02-yt-8QxpDq18Xy8]]
 
 _(Observed 👁️ description — build, wardrobe, on-camera setting across years — still to be added
 from watched-video samples.)_

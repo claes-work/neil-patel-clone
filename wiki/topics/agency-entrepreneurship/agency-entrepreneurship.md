@@ -550,6 +550,15 @@ hiring/culture, and fundraising. Dated seeds; several carry an explicit through-
 - [[2021-09-23-yt-FFWg6Dzw--g]] — 40%+ of NP Digital clients are ecommerce.
 - [[2021-11-06-yt-MjMeQitV1lw]] — NP Digital TV-ad channel-mix disclosure.
 
+### 2021-11 → 2022-06 solo-era operating principles (@neilpatel P2, synthesis pass 12)
+- [[2022-01-03-yt-VS4ECrG_0uM]] — New entity Mike Gullickson (NP Digital CEO); hire-twice heuristic; 500+ employees.
+- [[2022-01-17-yt-nMzp1yfflco]] — ★ The 6 Stages of Learning Digital Marketing (career-progression framework).
+- [[2022-01-24-yt-d-IieuMzknk]] — NP Digital $5K/mo sales-tool ROI case ("4x more efficient").
+- [[2022-03-12-yt-qyF7Tfb3QRc]] — ★ How to Start a Digital Marketing Agency From Scratch (6-point framework).
+- [[2022-05-09-yt-9Gb8XCjNh-I]] — ★ "Vet the people, not the brand" hiring rule; $100M-raised goal-misalignment anecdote.
+- [[2022-05-23-yt-Us6-8JrIHtM]] — ★ RIYA Crunchbase-teardown case; ~$100M-raised cold-outreach ceiling.
+- [[2022-06-02-yt-8QxpDq18Xy8]] — Hire-twice heuristic restated; Honda Odyssey anti-flashy detail.
+
 ## 2018-H2 → 2019 solo-era operating principles (@neilpatel P2)
 
 The late-2018/2019 run adds the **clearest early statement of the free-product-as-acquisition thesis**
@@ -868,3 +877,87 @@ agency-acquisition cold-outreach playbook.
   ecommerce ([[2021-09-23-yt-FFWg6Dzw--g]]); NP Digital runs **television ad campaigns** as a reach/
   brand-awareness channel within an omnichannel strategy, "not because television is amazing"
   ([[2021-11-06-yt-MjMeQitV1lw]]).
+
+## 2021-11 → 2022-06 solo-era operating principles — the hiring-twice heuristic, two complete teachable frameworks & the RIYA cold-outreach case (@neilpatel P2, synthesis pass 12)
+
+This run adds two fully self-contained, teachable career/agency frameworks (in the same shape as
+prior L3-candidate frameworks), a recurring **"hire people who've done it at least twice"** heuristic
+that surfaces three separate times, a new named NP Digital executive, and a concrete extension of the
+Crunchbase cold-outreach playbook with its first explicit funding-size ceiling.
+
+- **New entity: NP Digital CEO Mike Gullickson (2022-01-03).** Names NP Digital's CEO as **Mike
+  Gullickson**, previously operations at iCrossing, then CEO of Covario (acquired by iProspect/
+  Dentsu), then president of iProspect, before joining NP Digital — see
+  [[../../wiki/entities/mike-gullickson|entities/mike-gullickson]]. Used as the illustration for a
+  hiring heuristic that recurs across this run: **"once could always be luck, twice means they're
+  usually good"** — hire people who have already solved the specific problem, not just once. Same
+  source reinforces the **"over 500 employees"** NP Digital headcount marker, consistent with the
+  broader headcount timeline in [[../../persona/biography|persona/biography]]
+  ([[2022-01-03-yt-VS4ECrG_0uM]]).
+- **The 6 Stages of Learning Digital Marketing — a complete career-progression framework (2022-01-17,
+  ★).** A self-contained, teachable six-stage model, meant to be worked in order: (1) **The
+  Generalist Learner** — sample every discipline; (2) **Successes And Failures** — test tactics on
+  real (often cheap/pro-bono) clients; (3) **Niching Down** — commit to one discipline + one client
+  type once relative strengths emerge (his own example: B2B, harder starting out, is now *easier*
+  for him than B2C after 20 years); (4) **The Portfolio** — document wins into a reusable playbook;
+  (5) **Scaling Up** — hire and automate (names UiPath for marketing-process automation); (6)
+  **Authority** — become a recognized voice via speaking/content volume/backlinks. Frames skipping
+  stages as the common mistake ([[2022-01-17-yt-nMzp1yfflco]]).
+  > "You don't need to do stage one and then jump to stage six... you want to do them in order, and
+  > if you do them in order you're going to be better off." [[2022-01-17-yt-nMzp1yfflco]]
+- **NP Digital's own $5K/month sales-efficiency tool ROI case (2022-01-24).** A first-person internal
+  example inside a sales-objection framework (targeting/trust problems, not price problems, stall
+  deals): NP Digital initially rejected a **$5,000/month ($60K/rep/year)** sales-efficiency tool as
+  too expensive, later adopted it after fixing upstream sales-process gaps, and reports it made reps
+  **"four times more efficient"** — cheaper than hiring four more people
+  ([[2022-01-24-yt-d-IieuMzknk]]).
+  > "I don't care how good your product is, I'm not ready for it." (re: the tool, before adoption)
+  > [[2022-01-24-yt-d-IieuMzknk]]
+- **How To Start A Digital Marketing Agency From Scratch — a complete six-point framework (2022-03-12,
+  ★).** Frames founding-with-capital (hire specialists, focus purely on your own strength — his own:
+  content/SEO/traffic) versus founding-without-capital (wear every hat). Six first-year focuses: (1)
+  pick **one niche** rather than staying generalist; (2) target clients **already spending on
+  paid ads** (checkable via SpyFu/Ubersuggest/Facebook Ad Library) for client acquisition; (3)
+  **deliver results** — services agencies grow primarily by word of mouth; (4) **document processes**
+  early, refining over time; (5) **self-management** — organization, deadlines, avoid
+  over-committing; (6) **hiring** — prioritize candidates with a proven multi-time track record over
+  first-timers. Cites eMarketer: 2021 worldwide digital ad spend grew 29.1% to $491B, framing the
+  market as large enough for new entrants ([[2022-03-12-yt-qyF7Tfb3QRc]]).
+  > "Do not over-commit. Do not over-promise. Deliver upon what you agreed upon. And ideally,
+  > deliver more than what you agreed upon." [[2022-03-12-yt-qyF7Tfb3QRc]]
+- **Agency-hiring: "vet the people, not the brand" + the $100M-raised goal-misalignment anecdote
+  (2022-05-09, ★).** His core buyer-side agency-vetting argument: the reputation of the agency's
+  named founder/leader (his own included) does not guarantee results — what matters is which
+  specific people are staffed on the account. Five vetting checks: vet the individual team; require
+  proven experience in the client's specific (especially regulated) vertical; require an upfront
+  detailed diagnostic before commitment; ensure goal alignment; ensure workable time-zone overlap. On
+  goal alignment, an illustrative anecdote: he **turned down a startup that had raised $100M**, had
+  almost no sales team, sold five/six-figure deals, and wanted to hit $20M revenue in six months —
+  he judged the goal didn't logically fit the resources ([[2022-05-09-yt-9Gb8XCjNh-I]]).
+  > "It's not about hiring Gary Vaynerchuk or Neil Patel, it's about who is working on your account."
+  > [[2022-05-09-yt-9Gb8XCjNh-I]]
+- **The RIYA Crunchbase-teardown cold-outreach case + a new funding-size ceiling (2022-05-23, ★).** A
+  new named instance of the existing Crunchbase → public-teardown → cold-outreach playbook (synthesis
+  passes 7, 10): a critique blog post about **RIYA** (a photo app) plus a direct outbound email to
+  its investors got Neil hired on the spot. Adds the playbook's first explicit funding-size ceiling:
+  works well under ~$10M raised, still works up to ~$30-40M, but **doesn't work well above ~$100M
+  raised** ([[2022-05-23-yt-Us6-8JrIHtM]]).
+  > "If someone raises over $100 million, chances are it's not going to work too well. When someone
+  > raises under $10 million... it works exceptionally well." [[2022-05-23-yt-Us6-8JrIHtM]]
+- **The hiring-twice heuristic, restated a third time, plus a Honda Odyssey anti-flashy detail
+  (2022-06-02).** Opens with an *American Gangster* line — "the loudest person in the room is the
+  weakest" — and recounts chasing visibly wealthy people at networking events early in his career,
+  concluding it mostly taught him to overspend on status objects. Restates the hiring heuristic a
+  third time this run: prefer candidates who've achieved the target outcome **at least twice**
+  ("you did it once, could have been luck. You did it twice, probably good at it."). New
+  self-presentation detail, consistent with existing anti-flashy material in
+  [[../../persona/appearance|persona/appearance]]: he drives a **Honda Odyssey**, not a "fancy car"
+  ([[2022-06-02-yt-8QxpDq18Xy8]]).
+  > "I started hiring people who had already done exactly what I was looking for, multiple times at
+  > least twice. Because I'm like, hey if you did it once, could have been luck. You did it twice,
+  > probably good at it." [[2022-06-02-yt-8QxpDq18Xy8]]
+- **The $500K TV-ad legitimacy case study + the ~140-pieces/month content cadence.** Both fuller
+  entries live on [[../paid-ads/paid-ads|paid-ads]] and [[../content-marketing/content-marketing|
+  content-marketing]] respectively, since their primary framing is channel-specific; cross-referenced
+  here as agency-scale/operating detail: $500K TV spend (2022-03-21, ~640 employees, Inc 500 #21) and
+  a fully quantified ~140-pieces/month cross-platform output cadence (2022-04-02) requiring a team.

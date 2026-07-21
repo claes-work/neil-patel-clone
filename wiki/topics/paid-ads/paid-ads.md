@@ -286,6 +286,37 @@ paid works because of the funnel behind the ad, not the ad craft (dated; self-re
   boundaries to preserve "firepower" and avoid the performance cost of repeatedly pausing/restarting
   campaigns ([[2021-10-23-yt-mCdpocxd7Ks]]).
 
+## 2021-11 → 2022-06 solo-era paid tactics — the cross-channel competitor-research tool roster & the $500K TV-ad legitimacy play (@neilpatel P2, synthesis pass 12)
+
+- **The fullest cross-channel competitor-research tool roster in the corpus (2021-12-04, ★).**
+  Organized by discipline: **social** — Social Blade (competitor posting-day/follower-growth
+  tracking), **Not Just Analytics** (Instagram post/Reels/IGTV/Stories engagement analysis,
+  paired with a caution to test underperforming competitor formats rather than copy them
+  outright), **Sociality.io** (cross-platform competitor data); **paid** — **SpyFu** and
+  **BigSpy** (both newly named), SEMrush, Ahrefs (caption-garbled as "Atrius"), Ubersuggest, and
+  the **Facebook Ad Library**, named explicitly as his personal favorite — his stated reasoning:
+  ads competitors pay for and still fail to get engagement on are a signal the same angle won't
+  work organically either; **content** — Clearscope, Frase.io, SurferSEO. Closes with a
+  differentiation tactic: use **Google Trends** to catch upward-trending keywords before
+  competitors do, arguing an early mover can outrank higher-authority sites on strong
+  user-experience metrics alone ([[2021-12-04-yt-YIxUedvNi1g]]).
+  > "If you see stuff isn't working for competitors and they're paying for it... the chances are
+  > if you use that organically, it's not going to work for you." [[2021-12-04-yt-YIxUedvNi1g]]
+- **The $500,000 TV-ad legitimacy case study (2022-03-21, ★).** A first-person account of a 2021
+  TV-ad experiment (CNBC/Bloomberg, targeting equity-compensated executives who watch
+  stock-ticker channels), run despite Neil's general distrust of unmeasurable TV spend — thesis:
+  advertiser flight to digital had underpriced TV inventory, and COVID kept his exact buyer
+  persona (Fortune 50/500 decision-makers) at home watching. A $100K test with no direct sales
+  led to $500K total spend. Outcome: weak direct ROI (minimal traffic/leads) but a meaningful
+  **legitimacy/perception effect** — large prospects who already knew NP Digital but assumed it
+  was small began including it in RFPs once they saw it advertising at that scale. Conclusion:
+  repeat as a one-off legitimacy play, not as a recurring channel. Self-reports NP Digital at
+  **~640 employees globally**, growing **"more than 50% a year,"** ranked **#21 on the Inc. 500**
+  fastest-growing list, and winner of **"Performance Marketing Agency of the Year"** (all
+  self-reported, no primary source cited) ([[2022-03-21-yt-qIGucc-ssjY]]).
+  > "TV ads doesn't really mean you're successful, it just means you spent money." ... "There
+  > wasn't a huge ROI, but it's good to just get you on the map." [[2022-03-21-yt-qIGucc-ssjY]]
+
 ## Key source pages
 - [[2018-12-22-yt-7V3HMRJ8U40]] — SEO vs paid: do both (omni-channel; "if paid is profitable, SEO is").
 - [[2019-02-09-yt-jmRunRQU1wc]] — Funnels as ad costs rise; 2008-recession ad-durability datapoint.
@@ -328,3 +359,7 @@ paid works because of the funnel behind the ad, not the ad craft (dated; self-re
 - [[2021-07-26-yt-Tbja-0mTkjw]] — Toothbrush-parenting anecdote; India SMS-cost/Jio case study.
 - [[2021-07-31-yt-O6-PxcW1dZ4]] — Non-Google/FB platform ROI ranking; $1.5-2M/mo avoided ad-spend figure.
 - [[2021-10-23-yt-mCdpocxd7Ks]] — 73% mobile-commerce share; sign-in-with-Google reversal; budget pacing.
+
+### 2021-11 → 2022-06 solo-era paid tactics (@neilpatel P2, synthesis pass 12)
+- [[2021-12-04-yt-YIxUedvNi1g]] — ★ Cross-channel competitor-research tool roster (Social Blade, SpyFu, BigSpy, FB Ad Library favorite, Google Trends timing).
+- [[2022-03-21-yt-qIGucc-ssjY]] — ★ $500K TV-ad legitimacy case study (640 employees, Inc 500 #21).

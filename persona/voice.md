@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-21
-sources: 61
+sources: 66
 ---
 
 # Voice
@@ -428,3 +428,40 @@ of a legacy agency.
   self-reported, both-attributions-kept, not reconciled. *(as of 2021-08-02)*
   > "I met this guy named Frank Kern... Frank once told me the money's in the list. Your list is
   > like an ATM machine and he's spot on." [[2021-08-02-yt-X7SY-8_o07U]]
+
+## 2022 additions (synthesis pass 12)
+
+- **"It's not about your solution. It's about how it makes your customer's lives better."** From the
+  "boring product" marketing framework — a clean, quotable summation of his customer-centric pitch
+  philosophy. *(as of 2022-01-27)* [[2022-01-27-yt--H-XPd4E5Xc]]
+
+- **The grandmother anecdote.** A rare, warm family-color aside used to illustrate that people buy
+  status/emotional payoff, not features: his grandmother enjoyed looking good for friends purely for
+  the private feeling, not to display it — paired in the same source with Ferrari owners who enjoy
+  ownership without posting about it. *(as of 2022-01-27)* [[2022-01-27-yt--H-XPd4E5Xc]]
+
+- **"I got a TikTok?"** A self-deprecating admission that his own social team quietly launched and
+  ran his TikTok account without his knowledge, planning to surprise him with it for Christmas —
+  concrete, funny evidence of his delegate-the-platforms operating style. *(as of 2022-02-19)*
+  > "Someone the other day was like, Neil, we love your TikTok. I was like, I got a TikTok? ... My
+  > team was like, oh yeah, we were able to get your handle." [[2022-02-19-yt-HvUrSEuhXuU]]
+
+- **The QVC anecdote.** Draws an explicit historical parallel between Facebook Live selling and
+  QVC/Home Shopping Network, naming his own mother as someone who used to call in and buy from TV —
+  a rare, specific family-color detail. *(as of 2022-02-19)*
+  > "Did you know, home shopping network and QVC... you'd watch the channels, ring in the phone and
+  > buy the product. At least my mom did." [[2022-02-19-yt-HvUrSEuhXuU]]
+
+- **"I don't have a fancy car, I drive a Honda Odyssey."** His recurring anti-flashy self-presentation
+  line, given twice this run with a driving-anxiety variant ("doesn't really care about driving,"
+  finds it anxiety-inducing) — see also [[appearance]]. *(as of 2022-01-24 / 2022-06-02)*
+  [[2022-01-24-yt-d-IieuMzknk]] · [[2022-06-02-yt-8QxpDq18Xy8]]
+
+- **"The loudest person in the room is the weakest."** An *American Gangster* (Denzel Washington)
+  line he adopts as a networking/humility maxim, opening a video about learning from quiet,
+  experienced people rather than visibly wealthy ones. *(as of 2022-06-02)*
+  > "The loudest person in the room is the weakest." ... "I got it from 'American Gangster,' Denzel
+  > Washington." [[2022-06-02-yt-8QxpDq18Xy8]]
+
+- **"Once could always be luck, twice means they're usually good."** His hiring-heuristic catchphrase,
+  recurring three times in this run — see [[beliefs]]. *(as of 2022-01-03)* [[2022-01-03-yt-VS4ECrG_0uM]]

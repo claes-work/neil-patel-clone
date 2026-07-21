@@ -6,13 +6,54 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **@neilpatel 2021-05 → 2021-11 P2 tactical era complete — all 853 L2 sources, ingest batches #1–#107 (2016-11 → 2021-11)**, via synthesis pass 11 (2026-07-21). Pass 11 folded the @neilpatel 2021-05-15 → 2021-11-20 solo run (batches #98–#107 / log cont. 76–85 — a dense biography-rich guest-interview stretch plus routine solo tactical content, 10 `Synthesis notes:` lines of debt) into the 8 topic hubs + all 4 persona files. The next pass starts from the debt accumulated after batch #107 (i.e. the next @neilpatel P2 ingest or the next @MarketingSchoolPod P2 run).
+Synthesized through: **@neilpatel 2021-11 → 2022-06 P2 tactical era complete — all 932 L2 sources, ingest batches #1–#117 (2016-11 → 2022-06)**, via synthesis pass 12 (2026-07-21). Pass 12 folded the @neilpatel 2021-11-22 → 2022-06-02 solo run (batches #108–#117 / log cont. 86–95 — solo tactical/case-study content, 10 `Synthesis notes:` lines of debt) into the 8 topic hubs + all 4 persona files + 1 new entity page (Mike Gullickson). The next pass starts from the debt accumulated after batch #117 (i.e. the next @neilpatel P2 ingest or the next @MarketingSchoolPod P2 run).
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
-_(none — caught up through batch #107; @neilpatel 2021-05→2021-11 P2 tactical era fully synthesized)_
+_(none — caught up through batch #117; @neilpatel 2021-11→2022-06 P2 tactical era fully synthesized)_
 
 ## Done checkpoints
+- [x] 2026-07-21 — **synthesis pass 12** — @neilpatel 2021-11 → 2022-06 P2 tactical era complete (932
+  L2 sources total, batches #108–#117 / log cont. 86–95, 2021-11-22→2022-06-02 solo run; fully
+  Neil-attributed solo tactical/case-study content). Drained the 10 accumulated `Synthesis notes:`
+  lines. Promotions (quality-over-volume; pure repeats/reinforcements dropped): **seo** ("Google
+  trusts brands" ranking rationale + 6-7-person content-refresh team; who-NOT-to-compete-with 3-tier
+  framework; CTR-over-backlinks reranking claim + optimize-vs-create decision rule; the fullest
+  competitor-research tool roster in the corpus ★), **paid-ads** (cross-channel competitor-research
+  tool roster ★ — SpyFu/BigSpy/Not Just Analytics/Sociality.io/Facebook Ad Library named favorite;
+  the $500,000 TV-ad legitimacy case study ★ — ~640 employees, Inc. 500 #21, weak ROI but
+  RFP-inclusion effect), **content-marketing** (~140-pieces/mo cross-platform content cadence ★ +
+  English-only/team-translation disclosure; the "boring product" 5-tip framework — narrative,
+  anchor-to-needs, visual, humor, status-elevation), **social-media** (Instagram 0→290K
+  partnership-growth framework ★ — ~8% cold-outreach hit-rate, staged peer→bigger-account→
+  reciprocal-shoutout sequence; TikTok-delegation surprise story + 0→30K-in-6mo growth; 5am-vs-6pm
+  posting-time data point + QVC/home-shopping analogy; YouTube first-24-hours virality mechanic +
+  yes/no-vs-open-ended comment self-correction), **ai-marketing** (a repeated, dated "saves ~half
+  the time... not perfect" AI-writing-tool self-assessment), **agency-entrepreneurship** (new entity
+  [[../wiki/entities/mike-gullickson|Mike Gullickson]], NP Digital CEO; the hiring-twice heuristic
+  "once could always be luck, twice means they're usually good," recurring 3x; two complete teachable
+  frameworks ★ — The 6 Stages of Learning Digital Marketing, How to Start a Digital Marketing Agency
+  From Scratch; NP Digital $5K/mo sales-tool ROI case; "vet the people, not the agency's brand name"
+  hiring stance + a $100M-raised goal-misalignment anecdote ★; the RIYA Crunchbase-teardown
+  cold-outreach case ★ + its new "doesn't work above ~$100M raised" funding ceiling). **New
+  CONTRADICTION flagged, not reconciled:** a 2022-04-21 self-report of an Obama-era "top 30
+  entrepreneurs under 30" nomination, differing from the "top-100" framing recorded elsewhere in the
+  corpus and in SUBJECT.md — both self-reported/unaudited, kept side by side
+  ([[../wiki/sources/2022-04-21-yt-pwDSUP6zGeQ]]). Also carried, not smoothed: an Ubersuggest
+  customer-share discrepancy ("40%+" vs. an existing "~30%" marker) and two further self-reported
+  traffic-figure variants (~2.2M/mo, ~2M/mo). Persona: **beliefs.md** (88→93 sources; the hiring-twice
+  heuristic, "vet the people not the brand" + goal-alignment discipline, the storytelling-is-practiced
+  method, the YouTube yes/no-vs-open-ended self-correction), **voice.md** (61→66 sources; "it's not
+  about your solution, it's about how it makes your customer's lives better," the grandmother
+  anecdote, "I got a TikTok?", the QVC anecdote, "I don't have a fancy car, I drive a Honda Odyssey,"
+  "the loudest person in the room is the weakest," "once could always be luck, twice means they're
+  usually good"), **biography.md** (60→70 sources; own-YouTube-channel growth history — failed
+  paid-ads phase vs. daily-upload-phase success — TikTok-delegation surprise story, "really only"
+  speaks English, John Reese early-20s-mentee detail + age-37 self-report, NP Digital 500+/640-
+  employee 2022 markers, Obama contradiction + traffic-figure reconciliation flags), **appearance.md**
+  (4→6 sources; the Honda Odyssey anti-flashy detail + driving-anxiety aside). Recompiled
+  **system-prompt.md v12 → v13** (compiled_from_sources 853 → 932). System-prompt version at pass
+  end: **v13**.
 - [x] 2026-07-21 — **synthesis pass 11** — @neilpatel 2021-05 → 2021-11 P2 tactical era complete (853
   L2 sources total, batches #98–#107 / log cont. 76–85, 2021-05-15→2021-11-20 solo run; fully
   Neil-attributed — a dense stretch of biography-rich guest interviews, several with title/date

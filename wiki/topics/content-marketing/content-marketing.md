@@ -401,6 +401,33 @@ marketing" doctrine, and a self-critique that extends the corporate-brand belief
   resource, framing the pitch as helping their audience rather than asking a favor
   ([[2021-11-11-yt-9azXElM2kxU]]).
 
+## 2021-11 → 2022-06 solo-era content tactics — the ~140-pieces/month cadence & the "boring product" 5-tip framework (@neilpatel P2, synthesis pass 12)
+
+- **A fully quantified ~140-pieces/month cross-platform content-output cadence (2022-04-02, ★).**
+  Self-reports his complete monthly output: ~12 YouTube videos, ~20 Instagram posts, ~20 TikTok
+  posts, ~30 Facebook posts, ~20 LinkedIn posts, ~8 Twitter posts, ~30 podcast episodes, plus blog
+  posts — roughly 140 pieces/month total, which he says would be "almost impossible" alone and
+  requires a team for ideation/structuring/research so he can draft blog posts (typically
+  Saturdays) "within a few hours." A biographical aside in the same source: he "really only" speaks
+  English — content in other languages is produced via his team's translation, not his own
+  multilingual ability (see [[../../persona/biography|persona/biography]])
+  ([[2022-04-02-yt-If2wziIAFzA]]).
+  > "If I had to do it alone, it would be almost impossible. I have a team to help me out." —
+  > [[2022-04-02-yt-If2wziIAFzA]]
+- **The "boring product" 5-tip marketing framework (2022-01-27).** Five tactics for marketing an
+  unremarkable product/service: (1) build a narrative around the problem that led to the solution —
+  audiences respond to story arcs, not features; (2) anchor the pitch to the customer's
+  problems/needs/emotional payoff, not the product itself; (3) make abstract products (e.g. online
+  courses) visual — show the unboxing/using/results experience; (4) use humor even in "boring"
+  categories, citing Old Spice's "man on a horse" and Dollar Shave Club's launch video as commodity
+  products (deodorant, razors) turned into standout brands via comedy; (5) sell the
+  status/emotional elevation a product provides — illustrated with a personal aside about his
+  **grandmother** enjoying looking good for friends purely for the private feeling, and Ferrari
+  owners he knows who enjoy ownership without posting about it publicly
+  ([[2022-01-27-yt--H-XPd4E5Xc]]).
+  > "It's not about your solution. It's about how it makes your customer's lives better." —
+  > [[2022-01-27-yt--H-XPd4E5Xc]]
+
 ## Key source pages
 - [[2019-07-06-yt-EihqZWH6aT4]] — ★ Content-volume decision rule (writes ~4/mo; domain score <40 vs >65 → volume vs content gaps).
 - [[2019-06-24-yt-7QDNVMVF7ss]] — Storytelling framework (core message → story type → CTA; Significant Objects $129→$8k).
@@ -451,3 +478,7 @@ marketing" doctrine, and a self-critique that extends the corporate-brand belief
 - [[2021-07-22-yt-eyZyIZeu7D4]] — Marketing School format backstory (Eric Siu's longer-form test)
 - [[2021-08-12-yt-0QN3KeAtuD8]] — HARO named explicitly as a zero-budget PR tactic
 - [[2021-11-11-yt-9azXElM2kxU]] — Writer-vs-marketer distinction + reusable link-outreach email template
+
+### 2021-11 → 2022-06 solo-era content tactics (@neilpatel P2, synthesis pass 12)
+- [[2022-01-27-yt--H-XPd4E5Xc]] — "Boring product" 5-tip framework (Old Spice, Dollar Shave Club, grandmother anecdote)
+- [[2022-04-02-yt-If2wziIAFzA]] — ★ ~140-pieces/mo cross-platform content cadence; English-only + team-translation disclosure

@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-21
-sources: 88
+sources: 93
 ---
 
 # Beliefs
@@ -850,3 +850,48 @@ of his own companies (including KISSmetrics): he dislikes day-to-day people-mana
 operations to co-founders. *(as of 2021-03-01, self-reported)* [[2021-03-01-yt-669n5497uAs]]
 > "I love what I'm doing. If you love what you're doing you shouldn't have to motivate yourself
 > because you won't see it as work, you'll see it as fun." [[2021-03-01-yt-669n5497uAs]]
+
+## 2022 additions (synthesis pass 12)
+
+### "Once could always be luck, twice means they're usually good" — hire proven-twice, not proven-once
+A hiring heuristic that recurs three separate times in this run (2022-01 through 2022-06), each time
+independently, suggesting it is a settled operating rule rather than a one-off line: prefer
+candidates/vendors who have already achieved the specific outcome he needs **at least twice**, since
+a single success could be luck. Illustrated first via NP Digital CEO Mike Gullickson's hiring (see
+[[../wiki/entities/mike-gullickson|entities/mike-gullickson]]), then restated as general doctrine.
+*(as of 2022-01-03 / 2022-06-02, self-reported)* [[2022-01-03-yt-VS4ECrG_0uM]] ·
+[[2022-06-02-yt-8QxpDq18Xy8]]
+> "Once could always be luck, twice means they're usually good." [[2022-01-03-yt-VS4ECrG_0uM]]
+> "I started hiring people who had already done exactly what I was looking for, multiple times at
+> least twice. Because I'm like, hey if you did it once, could have been luck. You did it twice,
+> probably good at it." [[2022-06-02-yt-8QxpDq18Xy8]]
+
+### Vet the people, not the agency's brand name
+His core buyer-side agency-vetting position, stated as an explicit rejection of his own reputation as
+a signal: hiring a famous agency name (his own included) guarantees nothing if junior/unqualified
+people are actually staffed on the account — what matters is the specific individuals' track record,
+not the founder's name. Paired with a goal-alignment discipline: he says he turned down a
+venture-backed prospect that had raised $100M and wanted 20x revenue growth in six months, because
+the ask didn't logically fit the resources — see the fuller case on
+[[../wiki/topics/agency-entrepreneurship/agency-entrepreneurship|agency-entrepreneurship]]. *(as of
+2022-05-09, self-reported)* [[2022-05-09-yt-9Gb8XCjNh-I]]
+> "It's not about hiring Gary Vaynerchuk or Neil Patel, it's about who is working on your account."
+> [[2022-05-09-yt-9Gb8XCjNh-I]]
+
+### Storytelling is a practiced skill, not a talent — rehearse true stories on friends and family
+Neil says he personally developed his storytelling ability (one of five skills he calls "hard to
+learn but pay off forever," alongside copywriting, analytics, funnels, and UX) by telling **true
+stories from his own past** to friends and family and observing which parts made people react, then
+learning to emphasize those parts — a rare, concrete account of a deliberate-practice method behind
+one of his own communication skills, rather than an innate trait. *(as of 2022-05-05, self-reported)*
+[[2022-05-05-yt-O02nlXSICxI]]
+> "Good stories have the ups, the downs, the scary moments, the happy moments. That's how you hook
+> people in... I'm talking about stuff you did in the past. Because you can see what parts of your
+> story cause people to engage and react." [[2022-05-05-yt-O02nlXSICxI]]
+
+### YouTube comment-engagement: an explicit "I used to do X, learned Y" self-correction
+A small but clean example of stated belief evolution: he used to ask **yes/no** questions on camera
+to prompt comments, but learned the YouTube algorithm rewards **substantive, multi-word** comment
+replies more than simple yes/no responses, so he switched to open-ended questions — see the fuller
+entry on [[../wiki/topics/social-media/social-media|social-media]]. *(as of 2022-04-30, self-reported)*
+[[2022-04-30-yt-kgk5OKV82YY]]

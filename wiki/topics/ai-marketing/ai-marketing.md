@@ -267,6 +267,17 @@ concrete tool-usage data points in the AI-marketing timeline, years before the 2
   > above — a business-recommendation-vs-personal-preference split, not a reversal. See also
   > [[../../persona/voice.md|voice.md]] for the "ironing is a zen moment" quote.
 
+## 2022-04 — a repeated, moderately-positioned AI-writing assessment (synthesis pass 12)
+
+- **"Saves around half the time... but it's not perfect" (2022-04-18).** Reviewing AI-assisted
+  outline/writing tools (Frase.io, SEOscout, Clearscope, Usetopic, Marketmuse), Neil gives a
+  consistent, dated self-assessment of the technology at this point: it meaningfully speeds up
+  content research and drafting but is not a finished-product replacement — the same
+  augment-not-replace positioning as the 2021 Jarvis assessment above, now applied to a wider
+  2022-era tool set. Also teases an upcoming free Ubersuggest AI-writing feature
+  ([[2022-04-18-yt--c_QnqiwM5g]]).
+  > "The AI is not perfect but it does save you around half the time." [[2022-04-18-yt--c_QnqiwM5g]]
+
 ## The GEO/AEO era — a dated origin-to-2026 timeline (from the Marketing School podcast)
 
 Neil's "Search Everywhere Optimization" (2025) did not arrive fully formed. The
@@ -402,6 +413,7 @@ Consistent through-line: AI augments the marketer rather than fully replacing th
 - [[2021-09-16-yt-uEXzdo8aV8k]] — ★ First AI-tool-usage claim: Jarvis as a partial drafting aid.
 - [[2021-10-09-yt-aB16TtWHv9Q]] — Ubersuggest AI-SEO automation begins; "ironing is a zen moment" manual-writing habit.
 - [[2021-11-15-yt-c4w9GaabAV4]] — ★ Extended AI-content-tool roster; three-stage Ubersuggest automation roadmap.
+- [[2022-04-18-yt--c_QnqiwM5g]] — "Saves ~half the time... not perfect" AI-writing-tool self-assessment (synthesis pass 12).
 
 ### Marketing School podcast (co-hosted; Neil-attributed) — the GEO/AEO evolution
 - [[2023-11-27-yt-EUVspvV6_UQ]] — Will SEO go extinct: "SEO evolves, doesn't die" (GEO seed).

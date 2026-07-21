@@ -5473,3 +5473,65 @@ checkpoint at 10 — DUE.** This was a single-iteration dispatched run (batch-on
 synthesis performed this session); the next loop iteration should run Stage S before
 any further ingest. Persona last touched by synthesis pass 11 (10 batches ago) — now
 stale by the ≥10-batch rule as well.
+
+## [2026-07-21] lint | synthesis pass 12 — @neilpatel 2021-11 → 2022-06 P2 tactical era (batches #108–#117)
+
+Ran the SYNTHESIS loop per `tools/SYNTHESIS.md` on the debt accumulated since pass 11: 10 ingest
+batches (log cont. 86–95, ingest batches #108–#117), the @neilpatel 2021-11-22 → 2022-06-02 solo
+tactical/case-study run, taking the corpus to 932 L2 sources total. Drained all 10 accumulated
+`Synthesis notes:` lines.
+
+Promotions (quality-over-volume; pure repeats/reinforcements dropped): **seo** ("Google trusts
+brands" ranking rationale + first-disclosed 6-7-person content-refresh team; who-NOT-to-compete-with
+3-tier framework; CTR-over-backlinks reranking claim + optimize-vs-create decision rule; the fullest
+competitor-research tool roster in the corpus ★); **paid-ads** (cross-channel competitor-research
+tool roster ★ — SpyFu, BigSpy, Not Just Analytics, Sociality.io, Facebook Ad Library named as his
+personal favorite; the $500,000 TV-ad legitimacy case study ★ — ~640 employees, Inc. 500 #21, weak
+direct ROI but an RFP-inclusion effect); **content-marketing** (a fully quantified ~140-pieces/month
+cross-platform content cadence ★ + an "I really only speak English" disclosure; the "boring product"
+5-tip framework — narrative, anchor-to-needs, visual, humor, status-elevation, citing Old Spice/
+Dollar Shave Club); **social-media** (the Instagram 0→290,000-follower partnership-growth framework
+★ — ~8% cold-outreach hit-rate, a staged peer→bigger-account→reciprocal-shoutout sequence; a
+TikTok-delegation surprise story ["I got a TikTok?"] plus a separate 0→30K-in-6-months TikTok growth
+account; a 5am-vs-6pm personal posting-time data point + a QVC/home-shopping-network Facebook-Live
+analogy; the YouTube first-24-hours virality mechanic + a yes/no-vs-open-ended-question
+comment-engagement self-correction); **ai-marketing** (a repeated, dated "saves around half the
+time... not perfect" AI-writing-tool self-assessment); **agency-entrepreneurship** (new entity
+[[wiki/entities/mike-gullickson]] — NP Digital CEO, prior roles at iCrossing/Covario/iProspect/Dentsu;
+the **hiring-twice heuristic** — "once could always be luck, twice means they're usually good" —
+recurring three separate times this run; two complete, teachable frameworks ★ — **The 6 Stages of
+Learning Digital Marketing** and **How to Start a Digital Marketing Agency From Scratch** (6 points);
+the NP Digital $5K/mo sales-tool ROI case ("4x more efficient"); **"vet the people, not the agency's
+brand name"** hiring stance + a $100M-raised goal-misalignment anecdote ★; the **RIYA** Crunchbase-
+teardown cold-outreach case ★ + its new "doesn't work above ~$100M raised" funding-size ceiling).
+
+**New CONTRADICTION flagged, not reconciled:** a 2022-04-21 source has Neil self-report an Obama-era
+nomination as "one of the top 30 entrepreneurs under the age of 30," differing from the "top-100"
+framing recorded elsewhere in the corpus and in SUBJECT.md — no primary document for either framing;
+both self-reported/unaudited, kept side by side, flagged on `persona/biography.md`
+([[wiki/sources/2022-04-21-yt-pwDSUP6zGeQ]]). Also carried, not smoothed: the Ubersuggest
+customer-share discrepancy ("40%+" self-reported one month before an existing "~30%" marker,
+different measurement windows likely) and two further self-reported traffic-figure variants
+(~2.2M/mo, ~2M/mo) alongside the existing neilpatel.com traffic-figure inconsistency.
+
+Persona: **beliefs.md** (88→93 sources; the hiring-twice heuristic, "vet the people not the brand" +
+goal-alignment discipline, the storytelling-is-a-practiced-skill method, the YouTube
+yes/no-vs-open-ended self-correction as a belief-evolution example), **voice.md** (61→66 sources;
+"it's not about your solution, it's about how it makes your customer's lives better," the grandmother
+anecdote, "I got a TikTok?", the QVC anecdote, "I don't have a fancy car, I drive a Honda Odyssey,"
+"the loudest person in the room is the weakest," "once could always be luck, twice means they're
+usually good"), **biography.md** (60→70 sources; his own YouTube channel's early growth history —a
+failed paid-ads phase [0.2% subscribe rate] vs. a daily-upload phase [8,500 subscribers/4mo] — the
+TikTok-delegation surprise story, "really only" speaks English, a John Reese early-20s-mentee detail
++ an age-37 self-report corroborating the ~1985 birth year, NP Digital 500+/640-employee 2022
+markers, the Obama contradiction and traffic-figure reconciliation flags), **appearance.md** (4→6
+sources; the Honda Odyssey anti-flashy detail + a driving-anxiety aside).
+
+Recompiled **system-prompt.md v12 → v13** (compiled_from_sources 853 → 932): wove in the hiring-twice
+heuristic, the vet-the-people-not-the-brand stance, the storytelling-practice method, the Honda
+Odyssey reinforcement, and "the loudest person in the room is the weakest" as a new signature line;
+kept the remaining tactical/framework material topic-hub-only per the changelog. `index.md` updated
+(topic-hub summaries, entity list, persona summaries, header). `pipeline/synthesis-state.md`
+high-water mark advanced to batch #117 / 932 L2 sources; no pending checkpoints remain.
+
+Synthesis notes: none (this is itself a synthesis pass).

@@ -554,6 +554,54 @@ LinkedIn and Facebook playbooks at this depth.
   > sometimes content is hit or miss... But by being consistent, I've been able to build up followers
   > over time." — [[2021-11-18-yt-U8Ze50i1jro]]
 
+## 2021-11 → 2022-06 solo-era social tactics — the Instagram partnership-growth framework, delegated-platform disclosures & the yes/no-vs-open-ended comment lesson (@neilpatel P2, synthesis pass 12)
+
+- **Instagram 0 → 290,000-follower growth framework, self-attributed almost entirely to
+  live-interview partnerships (2022-02-24, ★).** A first-person case study of growing his own
+  Instagram from near-zero to 290K followers over ~2 years (from 2019): after testing video,
+  carousels, images, Stories, and cross-promotion, he found **live-interview partnerships with
+  other creators** outperformed everything else and doubled down on them exclusively —
+  content-type/volume optimization is explicitly downplayed. Staged sequence: (1) at low follower
+  counts, do weekly live interviews with similarly-sized peers regardless of count (works from 500
+  to 50,000+); (2) as the audience grows, seek placement as a guest on larger adjacent-niche
+  accounts; (3) at higher counts, ask interview guests to reciprocate with a story shoutout. Gives a
+  personal outreach hit-rate of **~8%** (4 of every 50 people approached say yes), recommending
+  ~100 outreaches/week to compensate for a lower response rate than his own
+  ([[2022-02-24-yt-qistbQs-yyg]]).
+  > "For every 50 people that I hit up, four of them would say yes." ... "This stuff isn't going to
+  > get you to where you want because everyone else is doing that. But very few people are doing
+  > what I just talked about." [[2022-02-24-yt-qistbQs-yyg]]
+- **The delegated-platform operating pattern, twice disclosed.** His social team quietly launched
+  and ran his **TikTok** account without his knowledge, surprising him with it around a past
+  Christmas — "I got a TikTok?" (2022-02-19) — and he separately grew that same TikTok account from
+  **zero to 30,000+ followers in ~6 months**, faster than recent Instagram growth, via a
+  batch-record-and-test playbook (2-4 similar-sized creators for inspiration, go broad before
+  niching, 16-videos-per-sitting batches, 3-5 posts/day in month one)
+  ([[2022-02-19-yt-HvUrSEuhXuU]], [[2022-04-28-yt-HBB8gaAayfU]]).
+  > "Someone the other day was like, Neil, we love your TikTok. I was like, I got a TikTok? ... My
+  > team was like, oh yeah, we were able to get your handle... we were going to tell you and
+  > surprise you for Christmas." [[2022-02-19-yt-HvUrSEuhXuU]]
+- **A personal posting-time data point + the QVC/home-shopping analogy for live selling
+  (2022-02-19/21).** Gets poor Facebook engagement posting at 6pm but strong engagement at **5am
+  Pacific** — a concrete data-driven-scheduling example. Separately draws an explicit historical
+  parallel between Facebook Live selling and **QVC/Home Shopping Network**, naming his own mother as
+  someone who used to call in and buy from TV ([[2022-02-21-yt-HvOjcigOsQw]],
+  [[2022-02-19-yt-HvUrSEuhXuU]]).
+  > "If I post at 6:00 p.m., my engagement's going to suck. If I post at 5:00 a.m., Pacific Standard
+  > Time, I crush it." [[2022-02-21-yt-HvOjcigOsQw]]
+- **YouTube's first-24-hours virality mechanic, contrasted explicitly with slow-build SEO, plus a
+  yes/no-vs-open-ended self-correction on comment engagement (2022-04-30).** States that unlike
+  SEO/Google ranking (slow, cumulative, age-dependent), YouTube videos that perform well in the
+  first 24 hours (ideally the first hour) tend to keep performing for years — so a brand-new
+  channel can rank without account age, if pushed hard via social/email/push/chatbot immediately on
+  publish. Names **comments** (not likes/shares) as the strongest engagement signal, and discloses
+  an explicit belief-evolution arc: he used to ask **yes/no** questions on camera to prompt
+  comments, but learned the algorithm rewards **substantive, multi-word replies** more, so he
+  switched to open-ended questions — an "I used to do X, learned Y" self-correction, good voice
+  material showing evolution rather than static doctrine ([[2022-04-30-yt-kgk5OKV82YY]]).
+  > "What I found is when someone likes or share a video, it's not that powerful compared to them
+  > leaving a comment. You need to encourage comments." [[2022-04-30-yt-kgk5OKV82YY]]
+
 ## Key source pages
 - [[2018-10-04-yt-5dyn03RSWVA]] — Post to Facebook natively (schedulers cut reach 2–3×); monthly reporting.
 - [[2018-12-08-yt-dDDpdAnb_Es]] — Instagram weak for B2B; pick channels that fit; don't chase Insta-famous.
@@ -626,3 +674,10 @@ LinkedIn and Facebook playbooks at this depth.
 - [[2021-07-12-yt-BKR7wlTg8gk]] — Hair-extensions livestream case study; live-video-as-algorithmic-lever doctrine.
 - [[2021-08-28-yt-mcIyvkwYPB8]] — MobileMonkey autoresponder run on his own @neilpatel account.
 - [[2021-11-18-yt-U8Ze50i1jro]] — Eric Siu benchmarked peer; consistency-over-quality growth attribution.
+
+### 2021-11 → 2022-06 solo-era social tactics (@neilpatel P2, synthesis pass 12)
+- [[2022-02-19-yt-HvUrSEuhXuU]] — TikTok-delegation surprise anecdote; QVC/home-shopping analogy.
+- [[2022-02-21-yt-HvOjcigOsQw]] — 5am-vs-6pm personal posting-time data point.
+- [[2022-02-24-yt-qistbQs-yyg]] — ★ Instagram 0→290K partnership-growth framework (~8% outreach hit-rate).
+- [[2022-04-28-yt-HBB8gaAayfU]] — TikTok 0→30K-in-6mo growth (batch-record-and-test playbook).
+- [[2022-04-30-yt-kgk5OKV82YY]] — YouTube first-24-hours virality mechanic; yes/no-vs-open-ended comment self-correction.

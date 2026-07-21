@@ -978,6 +978,46 @@ playbook, with a few concrete first-party figures and named-mechanism citations 
   three separate findings ([[2021-05-27-yt-CcvVgMUzjiI]], [[2021-05-29-yt-84JZvEaj8As]],
   [[2021-05-31-yt-ljFUHMCvhAE]]).
 
+## 2021-11 → 2022-06 solo-era SEO — "Google trusts brands," CTR-over-backlinks reranking & the who-not-to-compete-with framework (@neilpatel P2, synthesis pass 12)
+
+- **"Google trusts brands" — the causal ranking rationale for the rule-of-seven, plus a
+  content-refresh team headcount (2021-11-29).** His own weekly SEO routine on an established site:
+  Ubersuggest competitive-domains checks, GSC declining-page audits, and — his stated single
+  biggest recurring time investment — email-list growth via lead magnets, justified by **"the rule
+  of seven"** (people need ~7 brand touches before converting/evangelizing). States explicitly that
+  built brands **rank higher because "Google trusts brands"** and wants to protect users from
+  unverified sources — the most direct statement yet of the SEO mechanism behind his broader
+  brand-is-the-moat belief (see [[../../persona/beliefs|persona/beliefs]]). First disclosure of a
+  **6-7-person content-refresh team** whose main job is pruning/updating old content for continued
+  relevance, not raw word count ([[2021-11-29-yt-ws26duw7mAw]]).
+  > "I found that if I build a brand... you rank higher when it comes to SEO because Google trusts
+  > brands. They don't want people to put up false information that can hurt others." —
+  > [[2021-11-29-yt-ws26duw7mAw]]
+- **"Who NOT to compete with" — a three-tier framework for disengaging from unwinnable SEO fights
+  (2021-11-22).** Names three competitor types to stop treating as SEO targets: huge indirect
+  competitors (Amazon, Wikipedia, even Google itself for "SEO"); sites that rank on age/backlink
+  volume alone without competing products (pursue affiliate deals with these instead of fighting
+  them); and sites with too-high domain authority to beat short-term. Pairs with an Ubersuggest
+  workflow (competitor top-pages → Keyword Ideas → Backlink Opportunities → Keywords Opportunity)
+  for finding winnable gaps instead ([[2021-11-22-yt-rSGFJQt1Lh8]]).
+- **CTR-over-backlinks reranking claim — click-through can move page 2 to page 1 "not through
+  backlinks" (2021-12-11).** States plainly that title-tag/meta-description CTR optimization (via
+  the tool ClickFlow) can outrank a backlink-building push, framing aggregate click preference as a
+  direct Google reranking signal independent of link counts — a sharper, more explicit
+  articulation than the existing CTR/pogo-sticking material. Paired with a concrete optimize-vs-
+  create decision rule: optimize an existing page only if the target keyword is topically close to
+  it; otherwise build a new page and internally link the old one to it
+  ([[2021-12-11-yt-VBSkT08tRqU]]).
+  > "Where's the best place to hide a dead body? On page two of Google, because that's where no one
+  > looks." ... "They're taking user signals into account." [[2021-12-11-yt-VBSkT08tRqU]]
+- **The fullest competitor-research tool roster in the corpus (2021-12-04, ★).** SEO-specific slice
+  of a cross-discipline tool roundup (full roster, including social/paid/content tools, on
+  [[../paid-ads/paid-ads|paid-ads]]): Ubersuggest for competitor keyword gaps, backlink-opportunity
+  outreach, and recurring competitor reports; **Google Trends** for catching upward-trending
+  keywords before competitors do, arguing an early mover can outrank higher-authority sites on
+  strong user-experience metrics (time on site, page speed, low back-button rate) alone
+  ([[2021-12-04-yt-YIxUedvNi1g]]).
+
 ## Signature framing: "get loved by Google"
 
 Neil's recurring sign-off phrase, worth capturing verbatim as voice:
@@ -1094,3 +1134,9 @@ many small things well, for the user, and rankings follow.
 - [[2021-08-19-yt-MoF_eXTIpgc]] — Wikipedia authority example; Moz Beginner's Guide topic-cluster model
 - [[2021-11-01-yt-QnBHcjQOIBM]] — ★ Ubersuggest "page one ranking potential" tool feature
 - [[2021-11-20-yt-1odgi9VSx7Q]] — Data-driven content ~3x backlinks, tied to E-A-T
+
+### 2021-11 → 2022-06 solo-era SEO (@neilpatel P2, synthesis pass 12)
+- [[2021-11-22-yt-rSGFJQt1Lh8]] — Who-NOT-to-compete-with 3-tier framework
+- [[2021-11-29-yt-ws26duw7mAw]] — "Google trusts brands" ranking rationale; 6-7-person content-refresh team
+- [[2021-12-04-yt-YIxUedvNi1g]] — ★ Competitor-research tool roster (Google Trends early-mover angle)
+- [[2021-12-11-yt-VBSkT08tRqU]] — CTR-over-backlinks reranking claim; optimize-vs-create decision rule
