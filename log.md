@@ -3425,3 +3425,51 @@ recurring Pareto/leverage points); SEO-metric thresholds bounce ≤50% / pages-s
 conversion stat (l3T0Hw4A-QQ — concrete numbers reinforcing his user-metrics/leaky-bucket thesis).
 Synthesis debt now 4/10 (checkpoint at 10). Next iteration: Stage B (continue draining @neilpatel P2 long-form,
 oldest-first from 2019-11-14).
+
+## [2026-07-21] ingest | yt batch (@neilpatel, 8) — P2 long-form (2019-11-16→12-02 solo tactical: mom-and-pop-local-SEO / keywords-that-never-sell / perfect-affiliate-product / facebook-ads-still-profit / oversaturated-social-no-ads / youtube-seo-alt-search-engine / tiktok-first-mover / wix-vs-wordpress-vs-squarespace era, cont. 50)
+
+Ingested 8 P2 @neilpatel long-form videos (all Neil-fronted solo, no attribution gating) to L2,
+2019-11-16→2019-12-02 (cont. of the 2019 solo-tactical era, batch #72). All had captions; 0 skipped,
+0 no-captions, 0 duplicates, 0 rate-limits/errors. Pages written: The Mom & Pop's Guide to Massive Organic
+Traffic Through SEO and Content Marketing (4FC2wfBvHAI); Types of Keywords That Never Sell (L5kro6xW8eU);
+How To Find the Perfect Affiliate Product to Sell (6zIU6TVxhDI); Will Small Businesses Still Profit From
+Facebook Ads in 2023? (7tACyXcjZF4); How to Do Marketing In Over Saturated Social Networks WITHOUT Paid Ads
+(jiFUlFJIJZo); SEO Beyond Google: YouTube SEO (SESao9ByF2U); The Social Network That Will Explode in 2023 -
+Should You Leverage It? (seBGD5K_o6c); Wix vs Wordpress vs Squarespace — Which One is The Best For SEO
+(iN8zqppelP4). youtube-index footer 565 → 573; index.md count bumped.
+Data-integrity flags: 7tACyXcjZF4 — YouTube title says "in 2023" but the video is published 2019-11-23 and the
+transcript is spoken entirely about 2020 ("still profit from Facebook ads in 2020"); title/content mismatch
+(Neil's recurring title A/B-testing habit) flagged with a CONTRADICTION callout, and the auto-caption CPC/CTR
+statistics are partly mangled (year labels dropped) + "ROY"=ROI garble — the exact per-quarter CPC figures are
+noted unreliable and paraphrased conservatively. seBGD5K_o6c — same 2023-title / 2020-spoken mismatch, subject
+network is TikTok, WSJ-attributed stats; CONTRADICTION callout on the page. iN8zqppelP4 — the SEO-study source
+Neil calls "8Tracks" is almost certainly a caption garble for Ahrefs (8Tracks is a music service, not an SEO
+tool) — flagged uncertain on the page; "storewatch.TXC"=robots.txt corrected. 6zIU6TVxhDI — the brand-over-money
+"longevity" philosophy is Neil's paraphrase of Warren Buffett (endorsed, not a verified quote). All 8 videos are
+solo-Neil → full persona data, no Eric-Siu attribution gating needed.
+
+Synthesis notes: genuinely-new-for-persona threads for the next synthesis pass (debt 4 → 5): (1) ★ "KEYWORDS THAT
+NEVER SELL" NEGATIVE-KEYWORD TAXONOMY — L5kro6xW8eU (2019-11-18): a structured 7-type list of keyword classes to
+AVOID (generic, industry jargon, "free"/wrong-intent, out-of-context ambiguous, unrelated informational,
+too-competitive incl. high buyer-intent commercial terms, and over-reliance on ultra-long-tail) with the
+prescription to target 3-4 word phrases — inverts his usual "chase these keywords" advice into a "don't chase
+these" framework; L3-candidate for seo/ (keyword-research), complements the existing land-and-expand thread.
+(2) ★ 5-STEP AFFILIATE-PRODUCT-SELECTION FRAMEWORK — 6zIU6TVxhDI (2019-11-21): survey audience for level/needs →
+brainstorm filter-free → find category top-sellers (Affilitizer + named retail/general/education networks) →
+vet for content-relevance + genuine help (Warren-Buffett brand-over-short-run-money) → blend contextually with
+tutorials/reviews/comparisons + CTA; a fuller affiliate-monetization playbook than the earlier affiliate-start
+video, L3-candidate for content-marketing/ or agency-entrepreneurship/ (monetization). (3) ★ RETARGETING
+LOGIC↔EMOTION FLIP — 7tACyXcjZF4 (2019-11-23): his "highest-ROI" Facebook play is to remarket checkout-abandoners
+with a video that FLIPS the persuasion mode that already failed (emotion if the landing page used logic, and vice
+versa); a specific, named CRO/paid-ads mechanic not yet on a topic hub, L3-candidate for paid-ads/ or
+analytics-cro/. (4) YOUTUBE-SEO AS "ALTERNATIVE SEARCH ENGINE" — SESao9ByF2U (2019-11-28): the first-24-hour
+push + manual multi-language SRT + say-the-keyword-aloud (spoken-audio keyword density) tactics, framed with the
+self-reported 100K-200K/mo YouTube traffic; extends his own-media-playbook thread, candidate for
+content-strategy/social-media. Mostly-restatements folded in (not new debt): mom-and-pop local-SEO (4FC2wfBvHAI —
+Google-My-Business + location/Schema pages, standard local-SEO playbook); oversaturated-social 9 tips
+(jiFUlFJIJZo — recurring engagement-over-reach / per-network-format / more-video threads, incl. the
+never-schedule-Facebook-via-3rd-party note); TikTok first-mover decision framework (seBGD5K_o6c — overlaps prior
+emerging-platform / be-early-but-not-all-in threads, e.g. his Instagram-timing story); Wix/WordPress/Squarespace
+comparison (iN8zqppelP4 — reinforces his WordPress-plus-plugins preference, no new doctrine).
+Synthesis debt now 5/10 (checkpoint at 10). Next iteration: Stage B (continue draining @neilpatel P2 long-form,
+oldest-first from 2019-12-04).
