@@ -7679,3 +7679,43 @@ persona summaries, header). `pipeline/synthesis-state.md` high-water mark advanc
 1,236 L2 sources; no pending checkpoints remain.
 
 Synthesis notes: none (this is itself a synthesis pass).
+
+## [2026-07-22] ingest | yt batch (@MarketingSchoolPod, 8) — rate-limit safety rail triggered, 0/8 (cont. 137)
+
+Batch #167 (dispatched via roster autopilot, single-writer sequential mode, batch size 8).
+Orientation: `ingest_batch.py status` showed synthesis debt 0/10 (pass 17 just completed, not
+due), persona not stale (0 batches since the pass-17 log entry, which itself refreshed
+beliefs/voice/biography — the ≥10-batch/new-topic-pages/P1-just-drained triggers all false), no
+TARGET channel at zero ledger rows, and one open P1 row: `yt-yB3zk2NPWCI` (2026-07-21,
+"What Part Of Your Company Should You Rebuild From Scratch With AI?", `fresh-upload` from the
+prior roster discovery-refresh commit). Per Stage B (P1 first), ran
+`ingest_batch.py prepare --channel @MarketingSchoolPod --n 8`, which pulled that P1 row plus 7
+oldest-open P2 rows continuing chronologically from cont. 136 (2024-06-11→06-18). Result: 0/8
+captions fetched — **all 8 landed in the driver's `error`/`retry` bucket, not `no-captions`**.
+Before accepting that, ran a direct diagnostic (`yt-dlp --skip-download --write-subs
+--write-auto-subs` on the P1 row and on 3 further probes: two more @MarketingSchoolPod rows from
+this batch, one @neilpatel P2 row from the open pool, and one unrelated, unrated control video
+`dQw4w9WgXcQ`): the P1/P2 probes across **both** target channels all fail identically —
+`ERROR: [youtube] <id>: Sign in to confirm you're not a bot. Use --cookies-from-browser or
+--cookies for the authentication` after a `Downloading android vr player API JSON` step, with no
+subtitle track ever reachable — while the unrelated control video fetched captions cleanly on the
+same host in the same session. This is a **new, harder failure mode**, not a recurrence of the
+softer cont. 115–126 PO-token gap (which manifested as a `no-captions` auto-mark with a
+"missing subtitles languages because a PO token was not provided" warning, and was reported
+resolved from cont. 127 onward): this is a hard per-request bot-check block specific to these two
+channels' videos (confirmed cross-channel), with real fetch errors and a non-empty `retry` list —
+exactly the case the **3-consecutive-failure rate-limit safety rail** is reserved for (cf. the
+cont. 115–126 entries' own distinction: that rail is "reserved for actual fetch errors/rate-limit
+signatures, not confirmed subtitle-unavailable responses"). Per the safety rail: stopped this
+iteration after diagnosing, did **no** ledger writes (the driver's `error` branch leaves rows open
+in `retry`, unlike its `no-captions` branch which auto-marks L1 — confirmed via `git status`:
+zero changes), wrote no source pages, and did not touch `youtube-index.md`/`index.md`. Ledger
+unchanged: @MarketingSchoolPod P1:1 P2:595 (both untouched, still open incl. the fresh-upload
+row), @neilpatel P2:29 P3:21 (untouched); shorts untouched (2691). **Flagging for the operator**:
+recommend investigating a PO-token provider plugin (e.g. `bgutil-ytdlp-pot-provider`) or
+`--cookies-from-browser` for this environment's yt-dlp before further autopilot dispatches burn
+batches here — the same remediation already flagged at cont. 115–126, now needed against a harder
+bot-check symptom rather than the earlier soft warning.
+
+Synthesis notes: none (nothing ingested this batch; 0 ingest batches accumulated since synthesis
+pass 17, checkpoint at 10).
