@@ -7269,3 +7269,32 @@ batch will keep re-triggering an equally empty synthesis checkpoint. Recommend p
 further autopilot dispatches to this clone until that fix lands.
 
 Synthesis notes: none (zero new L2 sources this checkpoint; nothing to promote).
+
+## [2026-07-22] ingest | yt batch (@MarketingSchoolPod, 8) — P2 long-form (2024-02-02→02-21, cont. 127, PO-token caption gap resolved)
+First batch since the PO-token yt-dlp caption gap noted in synthesis pass 16
+(pipeline/synthesis-state.md, batches #148-156, all 10 auto-marked no-captions). This
+batch's caption fetch succeeded 8/8 with no retries — the environment-wide gap appears
+resolved (or was transient); no operator PO-token-provider install was needed this run.
+Ingested 8 @MarketingSchoolPod episodes (2024-02-02 through 2024-02-21), all P2,
+co-hosted Neil Patel + Eric Siu, attribution-gated per SUBJECT.md rules. Notable finds:
+Neil's first quantified "how to rank on ChatGPT" framework (6 correlated factors);
+an AI-vs-human content-ranking survey (94.12% human-content win rate); Neil's full
+content-repurposing pipeline (X-first → shorts → blog → webinar); a durable "AI is
+overhyped short-term, underhyped long-term" quote; a platform-risk thesis (Meta/Reddit/
+X API changes); a Super Bowl ROI-vs-branding cost breakdown; and a self-reported NP
+Digital business-email-compromise fraud anecdote (cyber-insurance recovery). One
+attribution correction made during ingest: the 2024-02-08 episode's "Growth Everywhere/
+Leveling Up" podcast-founding origin story initially read as Neil's own on a naive
+transcript pass, but was corrected to Eric Siu (per [[wiki/entities/eric-siu]] and the
+media-inventory dossier, which confirm Leveling Up is Eric's show) and excluded from
+Neil's persona data — flagged as an attribution lesson for future @MarketingSchoolPod
+episodes with ambiguous undiarized speaker turns. Ledger: 8 rows L0→L2. youtube-index.md
++8 rows (footer 1156→1164), index.md count bumped to match.
+
+Synthesis notes: several ★-flagged synthesis candidates accumulated this batch — the
+ChatGPT-ranking-factors framework, the AI-vs-human content-ranking data, Neil's full
+content-repurposing pipeline, the "AI overhyped short/underhyped long" quote, the
+platform-risk thesis, the Super Bowl ROI-vs-branding breakdown, and the NP Digital
+fraud/cyber-insurance anecdote — all genuinely new, dated, quantified material worth
+promoting at the next synthesis checkpoint (1 batch since last checkpoint; 9 more until
+the ~10-batch threshold, unless a channel/era boundary is reached first).

@@ -1169,6 +1169,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2023-12-02 — [Critical Agency Acquisition Mistakes - Neil Patel (co-hosted w/ Eric; talent-retention, diligence checklist, kiss-a-lot-of-frogs)](2023-12-02-yt-uvmBxTp14bA.md) — agency-entrepreneurship
 - 2023-12-04 — [How Terrible Policies Will Kill Your Business (co-hosted w/ Eric; refund-policy brand-protection philosophy, Dollar Flight Club anecdote)](2023-12-04-yt-n8wqAkgblfg.md) — agency-entrepreneurship
 - 2023-12-07 — [Shoppers Expected to Spend the Same or More this Holiday Season (co-hosted w/ Eric; ★ Mexico M&A anecdote — 11x ask refused, "can't trade on potential")](2023-12-07-yt-0ZgeCeB9RFM.md) — agency-entrepreneurship, wealth
+- 2024-02-02 — [The End of Salespeople, How to Rank on ChatGPT, Netflix's Ad-Supported Program & More (co-hosted w/ Eric; ★ ChatGPT-ranking-factors framework, Amazon halo-effect experiment)](2024-02-02-yt-klg639rUvtQ.md) — ai-marketing, content-marketing, agency-entrepreneurship
+- 2024-02-05 — [Eightify Uses AI to Get 70M Users, LA Times Walkout, Google Web Stories, & More (co-hosted w/ Eric; ★ AI-vs-human content survey, ★ long-tail keyword revenue shift)](2024-02-05-yt-kCkQqr--xVw.md) — seo, content-marketing, ai-marketing, agency-entrepreneurship
+- 2024-02-06 — [How Eric Got 2.1M Views, Our Content Creation Framework & More (co-hosted w/ Eric; ★ Neil's content repurposing pipeline, hook-testing method)](2024-02-06-yt-keerUl1DOFU.md) — content-marketing, social-media, agency-entrepreneurship
+- 2024-02-08 — [Marketing Hack to Get Big Customers, Social Media Democracy, Sam Sulek's Million Views & More (co-hosted w/ Eric; podcast whale-hunting tactic, 94.29% content-decay stat; Leveling Up origin story reattributed to Eric)](2024-02-08-yt-CWUu48ev2oc.md) — agency-entrepreneurship, content-marketing, social-media, seo
+- 2024-02-14 — [The Marketing Behind Sam Altman's Biggest Project, Jack Altman Raises $150M for Alt Capital, and More (co-hosted w/ Eric; ★ VC-fund "grind" framework, platform-risk thesis)](2024-02-14-yt-r8Zs6PJWM04.md) — wealth, agency-entrepreneurship, social-media
+- 2024-02-16 — [Neil Patel's Marketing Strategy Revealed, 30% of Zapier Employees Use AI Zaps for Work, and More (co-hosted w/ Eric; eavesdrop-marketing concept, 25 content-quality traits)](2024-02-16-yt-Ea1abSP6B_g.md) — content-marketing, agency-entrepreneurship
+- 2024-02-20 — [OpenAI Introduces Sora and It's Going to Shake Up the Marketing World (co-hosted w/ Eric; ★ "AI overhyped short-term/underhyped long-term" framing, ★ YouTube-as-search-engine thesis)](2024-02-20-yt-lqXo4FYaGBw.md) — ai-marketing, seo, wealth
+- 2024-02-21 — [Yeezy's $0 Super Bowl Ad, Super Bowl vs. MrBeast Ads, 2024 Election Deepfakes, and More (co-hosted w/ Eric; ★ Super Bowl ROI-vs-branding breakdown, ★ NP Digital security-fraud anecdote)](2024-02-21-yt-cWAtHfnkdWM.md) — paid-ads, social-media, agency-entrepreneurship
 
 ---
-_1156 videos ingested (L2) so far._
+_1164 videos ingested (L2) so far._
