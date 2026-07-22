@@ -7071,3 +7071,38 @@ evidence the videos lack captions.
 
 Synthesis notes: none (nothing ingested this batch). 6 ingest batches accumulated since
 synthesis pass 15 (checkpoint at 10).
+
+## [2026-07-22] ingest | yt batch (@MarketingSchoolPod, 8) — P2 long-form (2023-12-14→12-22, cont. 123)
+
+Batch #153 (dispatched via roster autopilot, single-writer sequential mode, batch size
+8). Stage B (open P2 long-form rows exist on both channels: @MarketingSchoolPod 707,
+@neilpatel 29; no open P1 on either; synthesis debt 6/10, not due; last Persona-touching
+log entry is synthesis pass 15, 6 batches ago, under the 10-batch staleness threshold, so
+persona is not stale; no TARGET channel has zero ledger rows). Continued
+@MarketingSchoolPod chronologically from cont. 122: 2023-12-14 "How Steven Bartlett Gets
+1M Views Per Video" Ep. 2633; 2023-12-15 "1 Thing Reddit Did to Get 200M visits/month"
+Ep. 2634; 2023-12-16 "It's changing..."; 2023-12-17 "How to Generate Ads Using AI" Ep.
+2636; 2023-12-18 "Avoid This Lead Generation Mistake" Ep. 2637; 2023-12-19 "Performance
+Marketing Is Not an Investment" Ep. 2638; 2023-12-21 "How to Get Massive LinkedIn Reach"
+Ep. 2640; 2023-12-22 "Gemini implications, Bard vs ChatGPT, SI AI Scandal" (AI Corner).
+Result: 0/8 captions fetched OK; all 8 auto-marked `no-captions` by the driver, none
+flagged `429`/left in `retry`. This is now the 10th consecutive batch (cont. 115 partial,
+116–123 fully empty except 115's 4/8) hitting the same environment-wide yt-dlp PO-token
+caption-fetch gap documented at cont. 115–119 (@neilpatel) and confirmed cross-channel at
+cont. 120–122 (@MarketingSchoolPod): no 429/rate-limit signature, `retry` empty, so per
+the existing ledger convention this is a legitimate no-captions outcome
+(driver-classified), not the 3-consecutive-failure rate-limit safety rail (reserved for
+actual fetch errors/rate-limit signatures, not confirmed subtitle-unavailable responses).
+No source pages written (0 OK, nothing to insert into youtube-index.md/index.md). Ledger
+updated by the driver's auto-mark (8× status=L1, notes="no-captions (no subtitles
+available)"). @MarketingSchoolPod P2 open 707→699; @neilpatel untouched this batch (29
+P2 open, unchanged); shorts untouched. **Flagging again for the operator**: this is now
+ten batches deep on the PO-token gap (cont. 115–123) across essentially the entire
+remaining long-form tail on both channels plus all 2688 open shorts — until
+`tools/ingest_batch.py`'s yt-dlp invocation gets a PO-token provider or
+cookies-from-browser, this gap will keep suppressing real ingest progress; strongly
+recommend an operator (non-autopilot) session investigate the yt-dlp PO-token fix before
+further autopilot dispatches burn batches on this channel/era.
+
+Synthesis notes: none (nothing ingested this batch). 7 ingest batches accumulated since
+synthesis pass 15 (checkpoint at 10).
