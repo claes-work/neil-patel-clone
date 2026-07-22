@@ -6405,3 +6405,50 @@ Ledger: open P2 long-form now @neilpatel 141 / @MarketingSchoolPod 731; ingested
 Ingest batches since last synthesis: 9 (checkpoint at 10). Next iteration: Stage S —
 one more @neilpatel P2 batch (or straight to synthesis, per the driver's checkpoint
 signal) will cross the 10-batch threshold.
+
+## [2026-07-22] ingest | yt batch (@neilpatel, 8) — P2 long-form (2023-06-05→06-22, solo tactical + co-hosted Eric Siu segments era, cont. 106)
+Batch #106 (8 ok / 0 skipped / 0 no-captions / 0 dup). @neilpatel P2 long-form,
+2023-06-05→2023-06-22: a Brazil-hosted interview mixing SEO-tool-stack tactics with the
+richest wealth/philanthropy disclosure since the 2023-05-25/27 batch (real-estate figures,
+COVID-era luxury-to-philanthropy pivot, childhood); a live WealthCon conference keynote
+("10 Marketing Hacks") — a dense, reusable content-marketing framework and follower-count
+disclosure; a "Leaders Lab" podcast interview that is the most detailed teenage-origin-story
+source yet (age 15.5 start, theme-park-restroom-cleaning to fund contractors, the
+power-supply-manufacturer client, the 2008-recession pivot into Crazy Egg, named co-founder
+Mike Kamo and CEO Mike Gullaksen, self-described "terrible leader"/artist-not-entrepreneur
+framing); a solo interview covering the EEAT framework and an explicit, dated reversal of an
+earlier "riches are in the niches" belief to "riches are in big markets"; and four short
+co-hosted daily segments with Eric Siu (Marketing-School-style format republished on the main
+channel, not just @MarketingSchoolPod) covering Khan Academy AI-coaching skepticism, Twitter's
+super-app strategy, Instagram's $660M verification-badge revenue, and Agora's newsletter
+funnel/TAM economics. No rate-limiting (8/8 fetched clean).
+Synthesis notes: (1) ★ [[wiki/sources/2023-06-10-yt-4bs4lxQsvGQ]] (WealthCon keynote) is a
+dense, self-contained 10-hack content-marketing/personal-brand framework (YouTube
+first-24-hours push, LinkedIn/TikTok comment-velocity virality, free-tool-as-growth-loop,
+gated-registration email capture, brand-search halo) — strong candidate for
+wiki/topics/content-marketing/ promotion; cross-reference against the overlapping but not
+identical hack lists in the 2023-05-11 and 2023-05-20 sources. (2) ★
+[[wiki/sources/2023-06-15-yt-rFkUARYJwXk]] is the most detailed teen-founder origin account
+in the corpus to date — specific early-client revenue figures, the Crazy Egg pivot mechanism,
+both co-founder/CEO names, and the artist/entrepreneur/leader-manager self-framing; strong
+candidate for persona/biography.md, cross-referenced against the fuller family/marriage
+account in 2023-05-25-yt-jNjE5CGiULs. (3) ★
+[[wiki/sources/2023-06-19-yt-Hlx9rxe7OH8]] contains a rare, explicitly self-flagged belief
+reversal ("riches are in the niches" → "riches are in big markets") — worth a dated
+belief-evolution entry (or `> ⚠️ CONTRADICTION:` callout if an earlier "niches" statement is
+found) in persona/beliefs.md; search the corpus at synthesis for the earlier position's date.
+(4) Minor self-reported age inconsistency: "37" on 2023-06-05 vs. "38 now" on both
+2023-06-15 and 2023-06-19 — flagged, not treated as a hard contradiction (SUBJECT.md's
+"April 24" birth date is itself low-confidence). (5) Confirms the Marketing-School co-hosted
+segment format (unmarked speaker turns, "[Neil]" outro tag) also appears natively on the
+@neilpatel channel, not only @MarketingSchoolPod — four of this batch's eight sources needed
+the same speaker-attribution treatment as the dedicated podcast channel; worth a note in
+SUBJECT.md's subject-specific rules if this recurs in future @neilpatel batches. (6) The
+AnswerThePublic acquisition is dated here as "last February" (i.e. Feb 2023) for $8.6M,
+refining SUBJECT.md's "acquired 2022" note — flag for synthesis to reconcile the exact
+acquisition date.
+
+Ledger: open P2 long-form now @neilpatel 133 / @MarketingSchoolPod 731; ingested L2=1089.
+Ingest batches since last synthesis: 10 (checkpoint at 10) — **CHECKPOINT REACHED**. Next
+iteration: Stage S — run a full synthesis pass (`python tools/synthesis_batch.py prepare`)
+before further ingest.

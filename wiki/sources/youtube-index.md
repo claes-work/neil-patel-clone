@@ -1094,6 +1094,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2023-05-27 — [Navigating Growth: Essential Tips for Expanding Your Small Business (★ Brazil interview w/ Thiago Nigro; NP Digital Brazil origin; ★ Mike Gullickson bio; failed cloud-computing venture)](2023-05-27-yt-luLpx7-Pdtg.md) — agency-entrepreneurship, seo
 - 2023-05-29 — [Alternative Marketing Methods Outperforming AI (Digital Social Hour pt.2; AI-5yr skepticism; celebrity-endorsement views; LinkedIn B2B stat; personal hires)](2023-05-29-yt-yD9STLejnbk.md) — ai-marketing, agency-entrepreneurship, content-marketing, social-media
 - 2023-06-01 — [How to start using TikTok Ads to supercharge your e-commerce business (Spark Ads; TikTok Pixel setup; mid-funnel/add-to-cart optimization)](2023-06-01-yt-f-XD7GB22to.md) — paid-ads, social-media
+- 2023-06-05 — [SEO Hacks You Need to Start Doing Today (Brazil interview; SEO tool stack; wealth/philanthropy disclosure; childhood)](2023-06-05-yt-Exw3t1MSHhE.md) — seo, agency-entrepreneurship, content-marketing
+- 2023-06-08 — [How Khan Academy's AI Shows How Businesses Will Level Up (co-hosted w/ Eric; AI-coaching garbage-in-garbage-out)](2023-06-08-yt-MkGAxfXnUlE.md) — ai-marketing, content-marketing
+- 2023-06-10 — [10 Marketing Hacks To Get More Traffic and Build Your Personal Brand (★ WealthCon keynote; 10-hack framework; follower counts)](2023-06-10-yt-4bs4lxQsvGQ.md) — content-marketing, social-media, seo
+- 2023-06-12 — [Twitter Doubles Down on Creators (co-hosted w/ Eric; super-app thesis; BBC/Musk commentary)](2023-06-12-yt-EKbUgfhEI5Q.md) — social-media
+- 2023-06-15 — [An Entrepreneurs Guide to Growing Your Startup (★ Leaders Lab; detailed teen-founder origin story; Crazy Egg pivot; artist/entrepreneur/leader framing)](2023-06-15-yt-rFkUARYJwXk.md) — agency-entrepreneurship
+- 2023-06-17 — [The Profitable Power of Verification: Instagram's $660M Gain through Blue Checkmarks (co-hosted w/ Eric; status-monetization lesson)](2023-06-17-yt-1IZ4xZMMalU.md) — social-media
+- 2023-06-19 — [Leveraging SEO in Your Personal Brand to Drive Business (★ EEAT framework; TAM/focus mistake belief-reversal; book recs)](2023-06-19-yt-Hlx9rxe7OH8.md) — seo, content-marketing, social-media, ai-marketing
+- 2023-06-22 — [What You Can Learn From The Best Newsletter Businesses (co-hosted w/ Eric; Agora tripwire-funnel economics)](2023-06-22-yt-uC4Z93lYqcQ.md) — email-marketing
 
 ---
-_1081 videos ingested (L2) so far._
+_1089 videos ingested (L2) so far._
