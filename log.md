@@ -7004,3 +7004,35 @@ unchanged); shorts untouched.
 
 Synthesis notes: none (nothing ingested this batch). 4 ingest batches accumulated since
 synthesis pass 15 (checkpoint at 10).
+
+## [2026-07-22] ingest | yt batch (@MarketingSchoolPod, 8) — P2 long-form (2023-11-24→12-04, cont. 121)
+
+Batch #151 (dispatched via roster autopilot, single-writer sequential mode, batch size
+8 per dispatch instructions). Stage B (open P2 long-form rows exist on both channels; no
+open P1 on either; synthesis debt 4/10, not due; persona not stale). Continued
+@MarketingSchoolPod from where cont. 120 left off (its 2023-11-16→11-23 window was
+already exhausted as no-captions). Result: 0/8 captions fetched OK; all 8 auto-marked
+`no-captions` by the driver, none flagged `429`/left in `retry`: 2023-11-24 "Amazon's
+$48 Billion Business You Never Knew Existed" Ep. 2613; 2023-11-26 "The 3 Sites That Rule
+the Affiliate Rankings" Ep. 2615; 2023-11-28 "Your Content Strategy Might Be Outdated"
+Ep. 2617; 2023-11-29 "Are Agencies Ripe For Rollups?" Ep. 2618; 2023-11-30 "5 Mistakes to
+Avoid When Buying Agencies" Ep. 2619; 2023-12-02 "The Secret Agenda of Billionaire
+Content Creators" Ep. 2621; 2023-12-03 "Exposing the Dark Side of Social Media Traffic"
+Ep. 2622; 2023-12-04 "5 New OpenAI Features That Will Disrupt Your Marketing" Ep. 2623.
+This continues the environment-wide yt-dlp PO-token caption-fetch gap first documented
+at cont. 115–119 (@neilpatel) and confirmed cross-channel at cont. 120
+(@MarketingSchoolPod): no 429/rate-limit signature, `retry` empty each time, so per the
+existing ledger convention this is a legitimate no-captions outcome (driver-classified),
+not the 3-consecutive-failure rate-limit safety rail. No source pages written (0 OK,
+nothing to insert into youtube-index.md/index.md). Ledger updated by the driver's
+auto-mark (8× status=L1, notes="no-captions (no subtitles available)").
+@MarketingSchoolPod P2 open 723→715; @neilpatel untouched this batch (50 open,
+unchanged); shorts untouched. **Flagging again for the operator**: this is now the 8th
+consecutive empty batch across both channels (cont. 115–121) purely on the PO-token gap
+— until `tools/ingest_batch.py`'s yt-dlp invocation gets a PO-token provider or
+cookies-from-browser, essentially all remaining auto-caption-only long-form (and the
+2688 open shorts) will misclassify as no-captions regardless of true availability; this
+is a tooling gap, not evidence the videos lack captions.
+
+Synthesis notes: none (nothing ingested this batch). 5 ingest batches accumulated since
+synthesis pass 15 (checkpoint at 10).
