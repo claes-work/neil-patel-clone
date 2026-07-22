@@ -7230,3 +7230,42 @@ synthesis pass 15 (checkpoint at 10) — **synthesis pass 16 is due next iterati
 mark stayed put at batch #147; the next synthesis pass will find no new L2 sources to
 promote — the driver/agent should confirm this at prepare-time rather than skip the
 checkpoint bookkeeping).
+
+## [2026-07-22] lint | synthesis pass 16 — no-op checkpoint (@neilpatel/@MarketingSchoolPod, batches #148–#156)
+
+Dispatched via roster autopilot. Orientation (`python tools/ingest_batch.py status`) showed
+`ingest batches since last synthesis: 10 (checkpoint at 10) <-- SYNTHESIS DUE`, so per the
+ingest-loop stage machine's first-matching-rule ("Synthesis checkpoint due" beats Stage
+B/A/C), this iteration ran Stage S instead of another ingest batch.
+
+Ran `python tools/synthesis_batch.py status` and `prepare`: the driver reported **zero
+pending checkpoints** ("synthesis is caught up") because `pipeline/synthesis-state.md`'s
+high-water mark already sits at batch #147 and nothing has advanced it — the mismatch with
+the ingest driver's debt counter is expected: `ingest_batch.py`'s counter is a naive
+batch-count nudge, not aware that a run can ingest zero sources. Cross-checked the debt
+directly against `log.md`: the 10 `Synthesis notes:` lines since pass 15 (cont. 117–126,
+batches #148–#156) all read "Synthesis notes: none (nothing ingested this batch)" — every
+batch in the window was 0/8 captions fetched, auto-marked `no-captions` by the driver, and
+root-caused at cont. 120/125/126 (direct `yt-dlp --list-subs` diagnostics) to an
+environment-wide **yt-dlp PO-token caption-fetch gap**, not a real absence of captions or
+rate-limiting. **Confirmed: zero new L2 sources since pass 15 (still 1,156 total, batch
+#147)** — there is nothing to promote into `wiki/topics/` or `persona/` this pass. No topic
+or persona file touched; `persona/system-prompt.md` left at v16 (compiled_from_sources
+1156, unchanged). `pipeline/synthesis-state.md` updated: high-water mark note records the
+no-op explicitly (mark stays at batch #147), and a `pass 16 (no-op checkpoint)` entry was
+added to Done checkpoints so the record is honest that a checkpoint fired with nothing to
+show for it, rather than silently skipping the bookkeeping.
+
+This log entry's purpose doubles as resetting `tools/ingest_batch.py`'s
+`batches_since_synthesis()` debt counter (any log line containing "synthesis" resets it),
+so the next ingest iterations won't re-flag `SYNTHESIS DUE` on a run that already has no
+material. **Operator flag (repeated from cont. 120–126, now elevated at the synthesis
+checkpoint level)**: until an operator session installs a PO-token provider plugin (e.g.
+`bgutil-ytdlp-pot-provider`) or configures `--cookies-from-browser` in
+`tools/ingest_batch.py`'s yt-dlp invocation, essentially all remaining ingest work on this
+clone (@neilpatel: 50 open, 29 P2/21 P3; @MarketingSchoolPod: 703 open, 675 P2/28 P3; 2,688
+open shorts) is expected to keep yielding zero new L2 sources per batch, and every 10th
+batch will keep re-triggering an equally empty synthesis checkpoint. Recommend pausing
+further autopilot dispatches to this clone until that fix lands.
+
+Synthesis notes: none (zero new L2 sources this checkpoint; nothing to promote).

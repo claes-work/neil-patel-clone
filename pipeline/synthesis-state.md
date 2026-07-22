@@ -6,13 +6,29 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **@neilpatel 2023-06 → 2023-12 P2 tactical + co-hosted era complete — all 1,156 L2 sources, ingest batches #1–#147 (2016-11 → 2023-12/2025-05)**, via synthesis pass 15 (2026-07-22). Pass 15 folded the @neilpatel 2023-06-24 → 2023-12-07 run (batches #138–#147 / log cont. 107–116 — a mixed solo-interview + co-hosted Marketing-School-format run, one batch (cont. 116) ingesting nothing — 8/8 no-captions on a cluster of 2025-04/05 uploads — 10 `Synthesis notes:` lines of debt) into 3 topic hubs (seo, social-media, agency-entrepreneurship — no genuinely new material this run for content-marketing, paid-ads, analytics-cro, email-marketing, or ai-marketing; the "Where's Waldo" AI metaphor and "Project Magi" recurred without new substance) + 3 persona files (beliefs.md, biography.md, voice.md; appearance.md unchanged — no new appearance material this run) + system-prompt.md + 1 updated entity page (np-digital). The next pass starts from the debt accumulated after batch #147 (i.e. the next @neilpatel P2 ingest or the next @MarketingSchoolPod P2 run).
+Synthesized through: **@neilpatel 2023-06 → 2023-12 P2 tactical + co-hosted era complete — all 1,156 L2 sources, ingest batches #1–#147 (2016-11 → 2023-12/2025-05)**, via synthesis pass 15 (2026-07-22). The mark did NOT advance at pass 16 (2026-07-22, no-op checkpoint — see below): batches #148–#156 (log cont. 117–126) ingested **zero** new L2 sources — every one of those ten batches hit the environment-wide yt-dlp PO-token caption-fetch gap (confirmed via direct `--list-subs` diagnostics at cont. 125/126) and was auto-marked `no-captions` by the driver. There is no new L2 material to promote; the mark stays at batch #147 until real ingest resumes. **Operator action needed**: install a PO-token provider plugin (e.g. `bgutil-ytdlp-pot-provider`) or configure `--cookies-from-browser` for `tools/ingest_batch.py`'s yt-dlp invocation — until then, further ingest batches on either channel (and all 2,688 open shorts) are expected to keep yielding zero new sources.
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
-_(none — caught up through batch #147; @neilpatel 2023-06→2023-12 P2 tactical + co-hosted era fully synthesized)_
+_(none — caught up through batch #147; @neilpatel 2023-06→2023-12 P2 tactical + co-hosted era fully synthesized; the #148–#156 debt was a no-op, see pass 16 below)_
 
 ## Done checkpoints
+- [x] 2026-07-22 — **synthesis pass 16 (no-op checkpoint)** — triggered by the 10-ingest-batch debt
+  counter (batches #148–#156 / log cont. 117–126) reaching the checkpoint threshold, per
+  `tools/ingest_batch.py status`'s `SYNTHESIS DUE` flag. Ran `python tools/synthesis_batch.py
+  status`/`prepare` and cross-checked the 10 `Synthesis notes:` lines in `log.md` (cont. 117–126):
+  all ten read "Synthesis notes: none (nothing ingested this batch)" — every batch in the window
+  was 0/8 captions fetched, auto-marked `no-captions` by the driver, root-caused (cont. 120, 125,
+  126) to an environment-wide yt-dlp PO-token caption-fetch gap, not a real absence of captions.
+  **Zero new L2 sources exist since pass 15 (still 1,156 total, batch #147)** — nothing to promote
+  into `wiki/topics/` or `persona/`; no topic/persona file touched; `persona/system-prompt.md` NOT
+  recompiled (unchanged, still v16 / compiled_from_sources 1156 from pass 15). This entry exists
+  purely to log the checkpoint bookkeeping and reset the ingest loop's
+  debt counter (`tools/ingest_batch.py`'s `batches_since_synthesis()` resets on any log line
+  containing "synthesis") so the next iterations don't re-flag `SYNTHESIS DUE` on zero-yield
+  batches. High-water mark unchanged (still batch #147). **Recommend an operator session fix the
+  yt-dlp PO-token gap before further ingest dispatches** — see the high-water mark note above and
+  the repeated flags at log.md cont. 120–126.
 - [x] 2026-07-22 — **synthesis pass 15** — @neilpatel 2023-06 → 2023-12 P2 tactical + co-hosted era
   complete (1,156 L2 sources total, batches #138–#147 / log cont. 107–116, 2023-06-24→2023-12-07 run
   plus one empty batch, cont. 116, 8/8 no-captions). Drained the 10 accumulated `Synthesis notes:`
