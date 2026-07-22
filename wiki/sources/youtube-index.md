@@ -1118,6 +1118,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2023-07-27 — [Breaking Down Content Creation For A New Website (solo adclients.com host; mini-niche strategy; WordPress-ranking myth debunked)](2023-07-27-yt-mI6oxV52OR0.md) — seo, content-marketing, ai-marketing
 - 2023-07-29 — [How Inbound Marketing Is Rapidly Changing (co-hosted w/ Eric; ★ Nike/Disney/Timberland omnichannel + Ryan Reynolds/MNTN cases)](2023-07-29-yt-lNZlBUbAl-Q.md) — content-marketing, social-media, ai-marketing
 - 2023-07-31 — [How to replace your paid ads with SEO (solo ADCON 2023 backstage; ★ "22 years" SEO-tenure anchor; Backlink Opportunity workflow)](2023-07-31-yt-iFynPlXb7k8.md) — seo, paid-ads
+- 2023-08-03 — [The Old School Approach to SEO That Still Works Today (solo SaaS SEO Show interview; SGE take; ★ family-over-money anecdote)](2023-08-03-yt-vadEuiHzKu0.md) — seo, content-marketing, email-marketing, ai-marketing
+- 2023-08-05 — [2023 Ad Quality Score: Is It Still a Decisive Factor? (co-hosted w/ Eric; funnel optimization beyond ad copy)](2023-08-05-yt-QqFwwIDR0Po.md) — paid-ads, analytics-cro
+- 2023-08-07 — [Boosting Conversions with Email Marketing (solo interview; omnichannel vs multichannel; email open-rate tactics; ★ TAM/focus lessons)](2023-08-07-yt-Fpg1edx5qEY.md) — content-marketing, email-marketing, social-media, agency-entrepreneurship
+- 2023-08-10 — [Meme-Driven Growth Strategies (co-hosted w/ Eric; memes as top-of-funnel follower growth)](2023-08-10-yt-Tg4Q7Rc45kU.md) — social-media, content-marketing
+- 2023-08-12 — [How To Become a New York Times Best Seller (solo multi-host interview; ★ Hustle/NYT-list-gaming candor; paid-vs-free speaking ROI pivot)](2023-08-12-yt-GS07GGY1sEw.md) — agency-entrepreneurship, content-marketing
+- 2023-08-14 — [Insider starts to experiment with AI (co-hosted w/ Eric; AI headcount efficiency; Ubersuggest AWS-to-GCP talks)](2023-08-14-yt-S1fxWbVm3zA.md) — ai-marketing, content-strategy, agency-entrepreneurship
+- 2023-08-17 — [SEO Techniques to Boost Organic Traffic (solo multi-host interview; ★ money-page freshness; free-tool/buy/domain-acquisition strategies)](2023-08-17-yt-VGyCeKbI9P0.md) — seo, content-marketing, agency-entrepreneurship
+- 2023-08-19 — [Reaction to LinkedIn's Latest Features (co-hosted w/ Eric; collab-tags & recruiting features)](2023-08-19-yt-lCwd8melkAE.md) — social-media, agency-entrepreneurship
 
 ---
-_1105 videos ingested (L2) so far._
+_1113 videos ingested (L2) so far._

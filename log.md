@@ -6615,3 +6615,44 @@ operational detail + white-hat engagement-pod counterpart (topics/social-media o
 tactics note, extending the existing 2023-07-08 flag), (4) the Nike/Disney/Timberland +
 Ryan-Reynolds/MNTN case examples (beliefs.md, supporting existing omnichannel/differentiation
 entries), (5) the "22 years" SEO-tenure biographical anchor (biography.md).
+
+## [2026-07-22] ingest | yt batch (@neilpatel, 8) — P2 long-form (2023-08-03→08-19, solo interviews + co-hosted Eric Siu segments era, cont. 109)
+Batch #109 (dispatched via roster autopilot, single-writer sequential mode). 8/8 videos ok
+(no rate-limiting, no no-captions, no dup). Mix of solo guest interviews (SaaS SEO Show w/ George
+Chasiotis; an unnamed multi-host podcast w/ Ringba-affiliated hosts, likely one recording session
+split across two clips) and co-hosted Marketing-School-style @neilpatel segments w/ Eric Siu
+(quality score, memes, AI/Insider, LinkedIn features) — attribution split per AGENTS.md rule 6,
+only Neil-attributed material summarized into Key claims/quotes.
+- 2023-08-03 yt-vadEuiHzKu0 — SaaS SEO Show interview: SGE/AI no-major-impact-yet take, 90/95-5
+  budget-allocation rule for AI-search experimentation, $30B AdSense economic argument, ★
+  family-over-money anecdote (declined paid call to be with kids).
+- 2023-08-05 yt-QqFwwIDR0Po — quality score + full-funnel optimization (landing page/checkout/
+  follow-up), Amazon repeat-purchase model.
+- 2023-08-07 yt-Fpg1edx5qEY — personal branding (3-5yr consistency), traffic-quality over volume,
+  ★ omnichannel-vs-multichannel definition, email open-rate tactics (HubSpot text-vs-HTML data),
+  ★ focus/TAM career lessons.
+- 2023-08-10 yt-Tg4Q7Rc45kU — meme marketing as top-of-funnel follower growth, industry-relevance
+  constraint.
+- 2023-08-12 yt-GS07GGY1sEw — ★ candid Hustle/NYT-bestseller-list-gaming mechanics disclosure
+  (Result Source, corporate bulk orders), would-have-self-published admission, ★ paid-vs-free
+  speaking ROI pivot ("fishing with dynamite").
+- 2023-08-14 yt-S1fxWbVm3zA — AI headcount-efficiency predictions (analytics/creative team
+  shrinkage), bootstrapping-with-less-capital prediction, Ubersuggest AWS-to-Google-Cloud
+  migration talks disclosure.
+- 2023-08-17 yt-VGyCeKbI9P0 — ★ quarterly money-page-freshness rule, live "auto insurance" SERP-
+  competition illustration, ★ three-part growth-strategy list (free tools / buy-and-monetize
+  underutilized traffic incl. AnswerThePublic $8.6M / buy a defunct competitor's domain incl.
+  KISSmetrics ~$500K), global-expansion detail (6→16-20 countries).
+- 2023-08-19 yt-lCwd8melkAE — LinkedIn collab-tagging reach multiplier (Instagram Reels parallel,
+  Eric Siu Reel 207K-impression example), recruiting-intent feature take.
+
+Ledger: all 8 → L2. youtube-index.md footer 1105 → 1113; index.md count bumped to match.
+Ingest batches since last synthesis (pass 14, 2026-07-22): now 3/10 — not yet due.
+
+Synthesis notes: several ★-flagged items worth folding at the next synthesis pass —
+family-over-money values statement (beliefs.md), omnichannel-vs-multichannel definition +
+focus/TAM career lessons (topics/content-marketing, topics/agency-entrepreneurship,
+beliefs.md), the Hustle/NYT-bestseller-list-gaming candor + paid-vs-free-speaking pivot
+(biography.md, beliefs.md), and the three-part growth-strategy list + quarterly money-page rule
+(topics/seo, topics/agency-entrepreneurship). No contradictions found; AnswerThePublic $8.6M
+figure corroborates SUBJECT.md's existing "(acquired 2022)" note rather than conflicting with it.
