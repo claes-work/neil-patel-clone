@@ -6967,3 +6967,40 @@ notes="no-captions (no subtitles available)").
 
 Synthesis notes: none (nothing ingested this batch). 3 ingest batches accumulated since
 synthesis pass 15 (checkpoint at 10).
+
+## [2026-07-22] ingest | yt batch (@MarketingSchoolPod, 8) — P2 long-form (2023-11-16→11-23, channel switch, cont. 120)
+
+Batch #150 (dispatched via roster autopilot, single-writer sequential mode). Stage B
+(open P2 long-form rows exist on both channels; first-matching-rule doesn't dictate
+channel). Switched off @neilpatel for this batch: its remaining 50 open rows are
+concentrated in the 2025-12→2026-07 tail already shown no-captions-affected for five
+straight batches (cont. 115–119); continuing there risked a sixth empty batch on the
+same known-bad window. @MarketingSchoolPod's oldest open P2 rows (2023-11-16 onward)
+had never been attempted, so tried there instead. Result: 0/8 captions fetched OK; all
+8 auto-marked `no-captions` by the driver (2023-11-16 GameStop/FaZe Clan Ep., 2023-11-17
+LinkedIn-visits Ep. 2609, 2023-11-18 tough-economy advice Ep., 2023-11-19 AI-SEO-trends
+Ep., 2023-11-20 Sam Altman ouster Ep., 2023-11-21 LinkedIn-hack Ep., 2023-11-22
+YouTube-marketing Ep., 2023-11-23 social-media-growth Ep. 2612).
+
+Diagnostic follow-up (manual `yt-dlp --write-auto-subs` on yt-pTqnoB3kK2o, a
+never-before-attempted 2023 video on a channel the PO-token issue had not previously
+touched): same failure signature as the @neilpatel tail — `WARNING: There are missing
+subtitles languages because a PO token was not provided` then `There are no subtitles
+for the requested languages`. This confirms the PO-token limitation is an
+**environment-wide yt-dlp capability gap** (missing proof-of-origin token for YouTube's
+auto-caption endpoint), not a per-video or per-channel condition — it now reproduces on
+a totally fresh channel/date-range that had never hit it before. No 429/rate-limit
+errors either time, `retry` empty, so per the existing ledger convention (cont.
+115–119) this still auto-marks as legitimate no-captions rather than tripping the
+3-consecutive-failure safety rail. **Flagging for the next iteration/operator**: until
+a PO-token provider (or cookies-from-browser) is wired into the yt-dlp invocation in
+`tools/ingest_batch.py`, essentially ALL auto-caption-only videos across BOTH channels
+may misclassify as no-captions regardless of true availability — this is a tooling gap,
+not evidence the underlying videos lack captions. No source pages written (0 OK,
+nothing to insert into youtube-index.md/index.md). Ledger updated by the driver's
+auto-mark (8× status=L1, notes="no-captions (no subtitles available)"). @MarketingSchoolPod
+P2 open 731→723 (accounting for these 8); @neilpatel untouched this batch (50 open,
+unchanged); shorts untouched.
+
+Synthesis notes: none (nothing ingested this batch). 4 ingest batches accumulated since
+synthesis pass 15 (checkpoint at 10).
