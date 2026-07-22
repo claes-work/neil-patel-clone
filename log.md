@@ -7719,3 +7719,38 @@ bot-check symptom rather than the earlier soft warning.
 
 Synthesis notes: none (nothing ingested this batch; 0 ingest batches accumulated since synthesis
 pass 17, checkpoint at 10).
+
+## [2026-07-22] ingest | yt batch (@MarketingSchoolPod, 8) — rate-limit safety rail triggered again, 0/8 (cont. 138)
+
+Batch #168 (dispatched via roster autopilot, single-writer sequential mode, batch size 8).
+Orientation unchanged from cont. 137: `ingest_batch.py status` shows synthesis debt 1/10 (pass 17
+not due), persona not stale (system-prompt.md v17 just recompiled the same day, folding beliefs/
+voice/biography through batch #166 — the ≥10-batch/new-topic-pages/P1-just-drained triggers all
+false), no TARGET channel at zero ledger rows, and the same one open P1 row (`yt-yB3zk2NPWCI`,
+2026-07-21, "What Part Of Your Company Should You Rebuild From Scratch With AI?", still the
+fresh-upload from the roster discovery-refresh). Per Stage B (P1 first), ran
+`ingest_batch.py prepare --channel @MarketingSchoolPod --n 8` again — same 8 rows selected (the P1
+row + 7 oldest-open P2 rows, 2024-06-11→06-18, cont. 136 continuation), same result: **0/8, all 8
+in the driver's `error`/`retry` bucket**. Ran a fresh direct diagnostic rather than assuming
+yesterday's finding still holds: manual `yt-dlp --skip-download --write-subs --write-auto-subs` on
+the P1 row succeeded ONCE (captions fetched cleanly, en + en-orig), but re-running the identical
+command via the same Python `subprocess.run` pattern the driver uses failed immediately with
+`ERROR: [youtube] <id>: Sign in to confirm you're not a bot. Use --cookies-from-browser or
+--cookies for the authentication` after a `Downloading android vr player API JSON` step — and two
+further probes against the next two P2 rows in the batch failed identically. So the block is
+intermittent/session-based (one bare-shell call slipped through) but fails on ≥3 consecutive
+attempts through the driver's own invocation path, i.e. exactly the **3-consecutive-failure
+rate-limit safety rail** case. Deleted the one stray `.vtt`/`.txt` pair the successful manual probe
+left behind in `raw/youtube/marketingschoolpod/` before re-running the batch, so no orphaned raw
+file is left un-ledgered. Per the safety rail: stopped after diagnosing, did **no** ledger writes,
+wrote no source pages, did not touch `youtube-index.md`/`index.md` (confirmed via `git status`:
+clean before this log entry). Ledger unchanged: @MarketingSchoolPod P1:1 P2:595 P3:28 (all still
+open, incl. the fresh-upload row), @neilpatel P2:29 P3:21 (untouched); shorts untouched (2691).
+**Flagging for the operator again**: this is the second consecutive dispatch to hit the same
+sign-in/bot-check wall on these two channels (cont. 137 and now cont. 138) — the PO-token-provider
+or `--cookies-from-browser` remediation flagged at cont. 137 has not yet landed in this
+environment; recommend applying it before burning further autopilot batches here.
+
+Synthesis notes: none (nothing ingested this batch; the driver's debt counter is mechanical —
+counts any `ingest |` log heading since the last synthesis entry regardless of content — so this
+entry advances it to 2/10, still well under the checkpoint).
