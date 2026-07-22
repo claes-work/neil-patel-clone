@@ -7138,3 +7138,46 @@ PO-token gap before further autopilot runs are scheduled here.
 
 Synthesis notes: none (nothing ingested this batch). 8 ingest batches accumulated since
 synthesis pass 15 (checkpoint at 10, 2 more until due).
+
+## [2026-07-22] ingest | yt batch (@MarketingSchoolPod, 8) — P2 long-form (2024-01-08→01-22, cont. 125)
+
+Batch #155 (dispatched via roster autopilot, single-writer sequential mode, batch size
+8). Stage B (open P2 long-form rows exist on both channels: @MarketingSchoolPod 691,
+@neilpatel 29; no open P1 on either; synthesis debt 8/10, not due; last Persona-touching
+log entry is synthesis pass 15, 8 batches ago, still under the 10-batch staleness
+threshold, so persona is not stale; no TARGET channel has zero ledger rows). Continued
+@MarketingSchoolPod from where cont. 124 left off: 2024-01-08 "Secret Marketing
+Statistics To Arm You for 2024 (Millions of..."; 2024-01-09 "What Ranking #1 on Google
+REALLY Means (The Unseen Benefits..."; 2024-01-10 "2023 Year In Review: AI Doubled Our
+Leads?!"; 2024-01-12 "AI Sucks at Paid Ads. Do This Instead"; 2024-01-17 "Are Newsletter
+Businesses Dying?"; 2024-01-18 "4 Unusual Marketing Tactics for 2024"; 2024-01-19 "How
+Neil Got Elon Musk to Retweet Him"; 2024-01-22 "What You Should Post to Dominate Social
+Media". Result: 0/8 captions fetched OK; all 8 auto-marked `no-captions` by the driver,
+none flagged `429`/left in `retry`. Before accepting the auto-mark this iteration ran a
+direct diagnostic (`yt-dlp --list-subs` on yt-ixT7Cu85UWc) rather than just trusting the
+pattern: yt-dlp itself emits `WARNING: [youtube] ixT7Cu85UWc: There are missing
+subtitles languages because a PO token was not provided. Automatic captions for 1
+languages are missing.` — this **confirms in this session**, not just by pattern-match
+against prior batches, that the systemic PO-token caption-fetch gap first documented at
+cont. 115–119 and reiterated through cont. 124 is still live and unresolved; no PO-token
+provider plugin or `--cookies-from-browser` is configured in this environment
+(`pip`/`yt_dlp` module unavailable to inspect/install a fix from inside this session —
+this needs an operator with package-install access, not an autopilot dispatch). Per the
+existing ledger convention (no 429/rate-limit signature, `retry` empty) this is a
+legitimate driver-classified no-captions outcome, not the 3-consecutive-failure
+rate-limit safety rail, so this iteration proceeded to bookkeeping rather than stopping.
+No source pages written (0 OK, nothing to insert into youtube-index.md/index.md).
+Ledger updated by the driver's auto-mark (8× status=L1, notes="no-captions (no
+subtitles available)"). @MarketingSchoolPod P2 open 691→683 (711 total incl. P3);
+@neilpatel untouched this batch (29 P2 open, unchanged); shorts untouched (2688).
+**Reiterating the operator flag, now with a confirmed root cause**: twelve
+consecutive/near-consecutive no-captions-heavy batches (cont. 115–125) across both
+channels' entire remaining long-form tail plus all 2688 open shorts are a yt-dlp
+PO-token provider gap, not absent captions — fixing it (install a PO-token provider
+plugin, e.g. `bgutil-ytdlp-pot-provider`, or switch to `--cookies-from-browser`) should
+unblock the great majority of remaining ingest work in one move; strongly recommend
+pausing further autopilot dispatches to this repo until an operator session applies
+that fix, to stop burning batches on misclassified no-captions rows.
+
+Synthesis notes: none (nothing ingested this batch). 9 ingest batches accumulated since
+synthesis pass 15 (checkpoint at 10, 1 more until due).
