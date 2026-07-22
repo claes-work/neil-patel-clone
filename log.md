@@ -7432,3 +7432,72 @@ figure that itself repeats across three episodes in this batch (04-03, 04-11, an
 referenced again 04-08) — synthesize as one consolidated, cross-episode-confirmed
 data point. 5 batches since last checkpoint (pass 16); 5 more until the ~10-batch
 threshold, unless a channel/era boundary is reached first.
+
+## [2026-07-22] ingest | yt batch (@MarketingSchoolPod, 8) — P2 long-form (2024-04-16→04-26, cont. 132)
+
+Batch #157 (dispatched via roster autopilot; per this dispatch's brief, written directly —
+single agent, one transcript after another, no per-video subagents — collapsing the
+STANDALONE-mode spawn pattern for the nested-dispatch case). Orientation: no open P1 on
+either channel; open P2 long-form rows exist (@MarketingSchoolPod 663, @neilpatel 29);
+synthesis debt 5/10 (not due); last Persona-touching log entry is synthesis pass 16
+(2026-07-22, a no-op checkpoint), 5 batches ago, under the 10-batch staleness threshold,
+so persona is not stale; no TARGET channel has zero ledger rows → Stage B, P2, continuing
+@MarketingSchoolPod chronologically from cont. 131. All 8/8 captions fetched successfully
+(no rate-limiting; the PO-token caption-fetch gap resolved at cont. 127 remains resolved).
+Ingested 2024-04-16 "Should you optimize for Reddit and Quora for higher SEO rankings?";
+2024-04-17 "Is Trump Media (DJT) a scam or a genius marketing move?"; 2024-04-18 "Chase
+Bank enters the advertising game, Top SEO sites post-AI Google update, & more"; 2024-04-22
+"Experiments we are running and Tools we are using"; 2024-04-23 "What big brands sell,
+Mcdonald's Netherlands billboards..."; 2024-04-24 "Long-form content boosts SEO?, The
+return of SEO A/B testing, $7.6B revenue from the eclipse, & more"; 2024-04-25 "WooCommerce
+SEO woes, Creator-led demand gen, Top 100 B2B brands up by 10% vs. last year"; 2024-04-26
+"The Rock SAVES the WWE, Trump Media shares surge, MKHB destroys AI company, and more".
+Neil-attributed highlights: the AnswerThePublic acquisition economics disclosed in
+first-person detail (~$8.6M paid, seller-claimed ~$130K/month revenue vs. NP Digital's
+own post-acquisition estimate of ~$800K real annual profit, ~10x-profit entry multiple,
+turned around in ~2.5 months); two declined "follow me around" videographer arrangements
+(Collision Toronto; a hired videographer "Noah") tied explicitly to a stated privacy
+preference, contrasted with Gary Vaynerchuk's broad-audience approach; a detailed
+private-equity dinner anecdote (Michael Delaney, Court Square Capital, on NP Digital's
+past decision not to sell) plus a candid "I would have sold high and bought back" hindsight
+reflection, alongside a wealth-adviser/diversification pushback belief; NP Digital's
+India-market footprint quantified (~200 India-based employees, named enterprise clients
+incl. Amazon India, Tata/Jaguar, PwC, ESPN India, Apollo Health, Zee TV/Sony); a returned
+Apple Vision Pro (too heavy/headache-inducing) and a distinct Model 3 head-up-display
+gripe; the "giving away something for free" belief validated by a live Twitter
+engagement A/B (31K vs. 3.9K views); a 500-words/day writing habit with a named
+accountability partner (Morning Brew's Alex Lieberman) plus a detailed blog-publishing
+workflow; a programmatic-CRO AI-prompt technique (59% CTA-click lift); a sports-sponsorship
+ROI-skepticism data point from NP Digital's own brand-recall studies (~2-3% incremental
+revenue vs. spend); an explicit link-sharing expectation-level management system
+(attributed to Dharmesh Shah/Lenny's Podcast as the inspiration); a platform-to-creator
+strategic-shift belief in NP Digital's organic strategy; a "buy from burnt-out founders
+during downturns" M&A philosophy with a named in-progress deal (Levi's/Domino's/Grand
+Hyatt/Canon-serving target) and financing-structure detail (SBA/seller-financing/equity
+rollover); a preferred international cross-sell acquisition profile (small regional
+agency, one enterprise client, expand service range + geography); the Crazy Egg ARR
+timeline ($1M ARR in ~2 years, first $10K MRR in ~1 month) and an organic-vs-inorganic
+blended-growth-reporting explainer; and a feng-shui-influenced real-estate belief with a
+concrete declined house-flip anecdote ($1-1.5M estimated profit forgone). A Bain & Company
+M&A-returns study was cited with an internal figure inconsistency (112%/130%/57%,
+preserved as-is rather than resolved). Ledger: 8 rows L0→L2 (yt-6H80MjGSQ4E, yt-AvN0h1ewZV0,
+yt-xs6gsJwtOW0, yt-TeBXJEN74tk, yt-RTA5lNPuje4, yt-tMEBrjM7RqE, yt-0Ixdi2BtvnM,
+yt-7AZvYAPdCOs). youtube-index.md +8 rows (footer 1196→1204), index.md count bumped to
+match. @MarketingSchoolPod P2 open 663→655; @neilpatel untouched this batch (29 P2 open,
+unchanged); shorts untouched (2688).
+
+Synthesis notes: several high-priority (★) candidates this batch — the AnswerThePublic
+acquisition-economics disclosure (reconcile figures/date with SUBJECT.md's existing
+"acquired 2022" note), the privacy-vs-personal-brand anecdotes (Noah, Collision Toronto),
+the Michael Delaney/Court Square PE anecdote plus the sell-high/buy-back hindsight
+reflection and diversification pushback, the NP Digital India headcount/client-roster
+data, the "giving away something free" belief, the 500-words/day + Alex Lieberman
+accountability habit, the sports-sponsorship ROI-skepticism figure, the link-sharing
+expectation-level system, the platform-to-creator strategic-shift belief, the
+burnt-out-founder M&A philosophy + named deal, the international cross-sell acquisition
+model, the Crazy Egg ARR timeline, and the feng-shui/house-flip anecdote — this batch is
+unusually dense with dated, first-person, quotable persona material (the M&A/roll-up
+philosophy in particular now spans four consecutive episodes, 04-17→04-26, and should be
+consolidated into one coherent topic-page section rather than four separate entries). 6
+batches since last checkpoint (pass 16); 4 more until the ~10-batch threshold, unless a
+channel/era boundary is reached first.
