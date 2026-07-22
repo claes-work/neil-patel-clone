@@ -6527,3 +6527,47 @@ changelog. `index.md` updated (topic-hub summaries, entity list, persona summari
 checkpoints remain.
 
 Synthesis notes: none (this is itself a synthesis pass).
+
+## [2026-07-22] ingest | yt batch (@neilpatel, 8) — P2 long-form (2023-06-24→07-13, solo tactical + co-hosted Eric Siu segments era, cont. 107)
+
+Ran the INGEST loop per `tools/INGEST.md`: `ingest_batch.py prepare --channel @neilpatel --n 8`
+selected the next 8 oldest-first open P2 rows (2023-06-24 → 2023-07-13). All 8 fetched captions
+cleanly (0 failures, no rate-limiting). Mixed era: two solo interviews with the recurring
+"Productive Insights" podcast host, one solo Brazil-hosted interview, one solo founder-podcast
+interview (founderos.com host), and four co-hosted Marketing-School-format segments with Eric Siu
+republished on the main channel (continuing the attribution-gated pattern first flagged in pass
+14's notes) — spent extra care on per-turn speaker attribution for the unmarked co-hosted
+transcripts; only Neil-attributed material written into Key claims/quotes.
+
+Notable findings (★ = flagged for the next synthesis pass): (1) a landmark family/wealth
+disclosure — Neil discloses placing business shares into an irrevocable trust for his two children
+(ages one and three), now expecting each to inherit nine figures, self-flagged as his single
+biggest life mistake ★ ([[wiki/sources/2023-06-24-yt-0nwnNDiY-vo]]); (2) a dense five-factor Google
+ranking framework (brand, content, backlinks, code, time) plus per-platform (TikTok/YouTube/
+Facebook/LinkedIn) first-hours growth tactics, backed by proprietary-data claims (900M+ domains,
+900 Facebook pages analyzed) and three client case studies — Empiricus, Rico XP, Adobe ★
+([[wiki/sources/2023-06-29-yt-0CJw3DjnuW8]]); (3) new wealth-philosophy texture — a Beverly Hills
+house the Patels are considering selling after barely using it, plus a self-reported diminishing-
+returns arc on luxury purchases (Patek Philippe watches, Maybach cars) ★
+([[wiki/sources/2023-07-06-yt-GWJLlsDb7r4]]); (4) an explicitly self-labeled "black hatty" LinkedIn
+comment-seeding tactic (buying verified accounts via playerup.com), disclosed but disclaimed as not
+used by NP Digital itself, alongside a gray-area GDPR-flagged identity-resolution tool
+(retention.com) ★ ([[wiki/sources/2023-07-08-yt-JcjY_7p9PQc]]); (5) granular NP Digital
+international-expansion detail — 74% YoY international revenue growth in a weak economy, a named
+region list (Australia/UK/Brazil/India/Canada plus 8 newly-added regions), a Germany-division
+closure, and an intentional profit-vs-cashflow reinvestment tradeoff per auditor guidance ★
+([[wiki/sources/2023-07-13-yt-sdBe5ajaDhI]]). Three sources were reinforcement-only (hiring/
+promotion-signal doctrine, post-Great-Reset capital discipline, BuzzFeed/Vice TAM thesis) — no new
+belief, cited but not flagged for promotion.
+
+Ledger: open P2 long-form now @neilpatel 125 / @MarketingSchoolPod 731 (unchanged); ingested
+L2=1097. Ingest batches since last synthesis: 1 (checkpoint at 10) — not yet due; next iteration
+continues @neilpatel P2 ingest (cont. 108) unless a channel/era boundary or the 10-batch checkpoint
+is reached first.
+
+Synthesis notes: five ★-flagged items awaiting the next synthesis pass — (1) the trust/inheritance
+family disclosure (biography.md), (2) the five-factor SEO ranking framework + platform growth
+tactics + 3 client case studies (topics/seo, topics/social-media, entities/np-digital), (3) the
+Beverly Hills house + luxury-purchase diminishing-returns wealth material (beliefs.md/
+biography.md), (4) the self-flagged black-hat/gray-area tactics (topics/seo or a dedicated
+tactics note), (5) the NP Digital international-expansion detail (entities/np-digital).

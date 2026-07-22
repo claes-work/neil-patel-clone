@@ -1102,6 +1102,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2023-06-17 — [The Profitable Power of Verification: Instagram's $660M Gain through Blue Checkmarks (co-hosted w/ Eric; status-monetization lesson)](2023-06-17-yt-1IZ4xZMMalU.md) — social-media
 - 2023-06-19 — [Leveraging SEO in Your Personal Brand to Drive Business (★ EEAT framework; TAM/focus mistake belief-reversal; book recs)](2023-06-19-yt-Hlx9rxe7OH8.md) — seo, content-marketing, social-media, ai-marketing
 - 2023-06-22 — [What You Can Learn From The Best Newsletter Businesses (co-hosted w/ Eric; Agora tripwire-funnel economics)](2023-06-22-yt-uC4Z93lYqcQ.md) — email-marketing
+- 2023-06-24 — [Smart Philanthropy for Business Owners (★ Productive Insights; trust-for-kids mistake disclosure; teen-founder origin)](2023-06-24-yt-0nwnNDiY-vo.md) — agency-entrepreneurship
+- 2023-06-26 — [How to Build An Organization of Top Performing Marketers (co-hosted w/ Eric; hiring/promotion-signal framework)](2023-06-26-yt-Z4mnr8BITMk.md) — agency-entrepreneurship
+- 2023-06-29 — [Simple Tips to Combine Your SEO and Social Media Strategies (★ Brazil interview; 5 Google ranking factors; platform growth hacks; Empiricus/Rico XP/Adobe case studies)](2023-06-29-yt-0CJw3DjnuW8.md) — seo, social-media, content-marketing
+- 2023-07-01 — [Marketing in the Post-Great Reset Era: Thriving Amidst Change and Uncertainty (co-hosted w/ Eric; capital-discipline/scrappiness)](2023-07-01-yt-aLp_2J0pjXQ.md) — agency-entrepreneurship
+- 2023-07-06 — [Mistakes to Avoid When Launching Your Product (★ founderos.com host; newsletter growth; Beverly Hills house + Patek/Maybach wealth disclosure)](2023-07-06-yt-GWJLlsDb7r4.md) — content-marketing, email-marketing, agency-entrepreneurship
+- 2023-07-08 — [7 Powerful Growth Hacks: Catapult Your Business to 10x Growth! (★ co-hosted w/ Eric; self-flagged black-hat LinkedIn tactic; ChatGPT+Riverside workflow)](2023-07-08-yt-JcjY_7p9PQc.md) — content-marketing, paid-ads, social-media, email-marketing
+- 2023-07-10 — [What BuzzFeed and Vice's Declines Tells You About Media Businesses (co-hosted w/ Eric; media-monetization/TAM thesis)](2023-07-10-yt-OtQazCjTIRA.md) — content-marketing, agency-entrepreneurship
+- 2023-07-13 — [Hacks To Grow Your Business When Sales Drop (★ Productive Insights; NP Digital intl expansion detail, 74% YoY, region list, profit-reinvestment)](2023-07-13-yt-sdBe5ajaDhI.md) — agency-entrepreneurship
 
 ---
-_1089 videos ingested (L2) so far._
+_1097 videos ingested (L2) so far._
