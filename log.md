@@ -6840,3 +6840,27 @@ philosophy and agency-diligence checklist are solid but refine already-known
 agency-entrepreneurship positions rather than introduce new named frameworks — not
 flagged ★. 9 ingest batches accumulated since synthesis pass 14 (checkpoint at 10) —
 synthesis pass 15 now due next iteration.
+
+## [2026-07-22] ingest | yt batch (@neilpatel, 8) — P2 long-form (2025-04-08→05-27, cont. 116)
+
+Batch #146. 0/8 captions fetched OK; all 8 auto-marked `no-captions` by the driver:
+2025-04-08 "12 Billionaire Habits that Make it Impossible to Fail"; 2025-04-15 "How to
+Build a $10M/Year Personal Brand (In Just 30 Days)"; 2025-04-22 "If I Wanted to Become a
+Millionaire in 2025, I'd Build These"; 2025-05-06 "What Nobody Tells You About Making
+Money After $10K"; 2025-05-13 "How to Use ChatGPT to Blow Up Your Business in 2025";
+2025-05-16 "2025 Social Media Trends You NEED to Know Right Now"; 2025-05-20 "The Only
+Facebook Ads Tutorial You Need for 2025"; 2025-05-27 "7 AI Business Ideas That Will Make
+You a Millionaire in 2025". A manual `yt-dlp` probe of the first video confirmed a
+genuine "no subtitles for the requested languages" result, preceded by a "missing
+subtitles languages because a PO token was not provided" warning — the same PO-token
+caption-fetch limitation already seen intermittently in recent batches (e.g. cont. 115
+/ batch #145, 4/8 no-captions on 2024–2025-dated videos), just unusually total this run
+since all 8 rows happened to land in the same 2025-04→05 window. No 429/rate-limit
+errors were reported and `retry` was empty, so this is a legitimate no-captions outcome
+per the existing ledger convention, not the 3-consecutive-failure rate-limit safety
+rail. No source pages written (0 OK, nothing to insert into youtube-index.md/index.md).
+Ledger updated by the driver's auto-mark (8× status=L1, notes="no-captions (no
+subtitles available)").
+
+Synthesis notes: none (nothing ingested this batch). 10 ingest batches now accumulated
+since synthesis pass 14 (checkpoint at 10) — synthesis pass 15 is due next iteration.
