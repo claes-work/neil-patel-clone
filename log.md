@@ -7826,3 +7826,41 @@ without it is pure cost with no wiki growth.
 Synthesis notes: none (nothing ingested this batch; the driver's debt counter is mechanical —
 counts any `ingest |` log heading since the last synthesis entry regardless of content — so this
 entry advances it to 4/10, still well under the checkpoint).
+
+## [2026-07-22] ingest | yt batch (@MarketingSchoolPod, 8) — rate-limit safety rail triggered a fifth time, 0/8 (cont. 141)
+
+Batch #171 (dispatched via roster autopilot, single-writer sequential mode, batch size 8, told to
+prefer the open fresh-upload P1 row first). Orientation: `ingest_batch.py status` showed
+@MarketingSchoolPod P1:1 P2:595 P3:28, @neilpatel P2:29 P3:21, shorts 2691 (all unchanged from cont.
+140), L2=1236 L3=0, synthesis debt 4/10 (pass 17 not due, checkpoint at 10). Stage selection: no
+`>>> CHECKPOINT` → Stage S not due; 4 batches since last synthesis/persona-touching entry (pass 17,
+this iteration) → Stage P not stale; both TARGET channels already have ledger rows → Stage A not
+applicable; @MarketingSchoolPod has an open P1 row (the fresh-upload `yt-yB3zk2NPWCI`) → **Stage B,
+P1 first**, matching the dispatch instruction.
+
+Ran `ingest_batch.py prepare --channel @MarketingSchoolPod --n 8` (selects the P1 row plus the 7
+oldest-open P2 rows, 2024-06-11→06-18, the same continuation window as cont. 136–140): 0/8, all 8
+landed in the `error`/retry bucket — including the P1 fresh-upload row. Ran a direct manual probe
+before accepting the result: `yt-dlp --skip-download --write-auto-sub` on `yt-yB3zk2NPWCI` fails
+immediately after `Downloading android vr player API JSON` with `ERROR: [youtube] yB3zk2NPWCI: Sign
+in to confirm you're not a bot. Use --cookies-from-browser or --cookies for the authentication` —
+byte-for-byte the same sign-in/bot-check wall documented at cont. 137–140, not a new or
+channel-specific fault. This is now the **fifth consecutive dispatch** (cont. 137, 138, 139, 140,
+141) to hit this exact block with zero cumulative ingest yield across all five. Per the safety rail:
+stopped after diagnosing, made **no** ledger writes (`git status` clean both before and after this
+iteration), wrote no source pages, did not touch `youtube-index.md`/`index.md`, left no orphaned raw
+files (the manual probe wrote only to `/tmp`, outside the repo, and was deleted). Ledger unchanged:
+@MarketingSchoolPod P1:1 P2:595 P3:28 (fresh-upload row still open), @neilpatel P2:29 P3:21
+(untouched); shorts untouched (2691); L2=1236 L3=0.
+
+**Flagging for the operator a fifth time**: five consecutive autopilot dispatches have now burned a
+batch each on the identical yt-dlp sign-in/bot-check wall (cont. 137–141) with zero cumulative
+ingest yield; the PO-token-provider (e.g. `bgutil-ytdlp-pot-provider`) or `--cookies-from-browser`
+remediation flagged since cont. 137 still has not landed in this environment. Recommend pausing
+further autopilot ingest dispatches to this clone until that remediation ships — repeated dispatch
+without it is pure cost with no wiki growth, and the environmental block shows no sign of being
+transient (identical failure signature across five separate sessions spanning the same day).
+
+Synthesis notes: none (nothing ingested this batch; the driver's debt counter is mechanical —
+counts any `ingest |` log heading since the last synthesis entry regardless of content — so this
+entry advances it to 5/10, still well under the checkpoint).
