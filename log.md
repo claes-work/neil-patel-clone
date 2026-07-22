@@ -7533,3 +7533,22 @@ confidence, not for promotion as-is: the mother/real-estate cap-rate anecdote an
 undiarized captions prevent certain attribution. 7 batches since last checkpoint
 (pass 16); checkpoint due next batch (threshold ~10, or sooner if a channel/era boundary
 is reached first).
+
+## [2026-07-22] ingest | yt batch (@MarketingSchoolPod, 8) — P2 long-form (2024-05-08→05-16, cont. 134)
+Ingested 8 videos (2024-05-08 through 2024-05-16, one gap-skip already reflected upstream
+in ledger dates) from @MarketingSchoolPod, all L2. Highlights: NP Digital's M&A
+due-diligence checklist and a refused-acquisition anecdote; a Neil-solo AOA coaching-call
+preview with the "writing is like casting a spell on your organization" memo-culture
+belief (Eight Sleep/Levels investments) and a concrete de-risked cold-outreach offer
+tactic; the *Hustle* book sales/regret retrospective and "book as tripwire" counterfactual;
+NP Digital's stated core values ("own it", "be improv and obsessed") plus an AI-agents
+headcount-reduction prediction; a self-reported personal-brand-revenue-percentage
+trajectory (~100% year 1 to ~10% capped) and the SEO long-game-but-diversify belief; and a
+Single Grain focus-history self-assessment plus NP Digital's centralized
+Neil+Mike-Kamo decision-making structure. 8 ingested, 0 skipped, 0 no-captions, 0 dup.
+Synthesis notes: several ★-flagged items this batch — the recurring Eight Sleep/Mato
+memo-culture story (told twice, 05-11 solo + 05-14 co-hosted) should be merged into one
+dated belief entry; the M&A due-diligence checklist, the personal-brand-revenue-percentage
+data, the NP Digital core values + centralized-decision-making structure, and the
+Hustle-book retrospective are strong persona/beliefs.md + biography.md candidates for the
+next synthesis pass.
