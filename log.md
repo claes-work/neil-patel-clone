@@ -7106,3 +7106,35 @@ further autopilot dispatches burn batches on this channel/era.
 
 Synthesis notes: none (nothing ingested this batch). 7 ingest batches accumulated since
 synthesis pass 15 (checkpoint at 10).
+
+## [2026-07-22] ingest | yt batch (@MarketingSchoolPod, 8) — P2 long-form (2023-12-25→2024-01-04, cont. 124)
+
+Batch #154 (dispatched via roster autopilot, single-writer sequential mode, batch size
+8). 0/8 captions fetched OK; all 8 auto-marked `no-captions` by the driver: 2023-12-25
+"Twitter First Approach, AI Assisted Content, LinkedIn Growth Strategy (Experiments Dec
+2023 Week 2)"; 2023-12-26 "You're Using the Wrong Social Network, Facebook Lead Ads,
+Google SEO Trend (Trends Dec 2023 Week 2)"; 2023-12-27 "The Truth about Long-form
+Articles, and De-anonymizing Web Traffic (Marketing 101 Dec 2023 Week 2)"; 2023-12-28
+"Dangers of AI, Best-kept SEO Secret, & The North Face's Genius Marketing (Reactions Dec
+2023 Week 2)"; 2023-12-29 "Will Google's SGE Ruin Traffic? and Elon Musk's AI Chatbot
+Grok (AI Corner Dec 2023 Week 3)"; 2024-01-02 "AirBnb and Olipop Ditching Paid Ads &
+Logan Paul's New Influencer Strategy (Trends Dec 2023 Week 3)"; 2024-01-03 "Wikipedia's
+SEO Strategy and 2024 Marketing Predictions (Marketing 101 Dec 2023 Week 3)"; 2024-01-04
+"Cutting Interest Rates in 2024 & The Risks of Becoming a Full-time Creator (Reactions
+Dec 2023 Week 3)". Driver reported no 429/rate-limit errors and `retry` was empty — this
+is the same PO-token caption-fetch gap already flagged as systemic in the immediately
+preceding entry (cont. 115–123, "ten batches deep"), not the 3-consecutive-failure
+rate-limit safety rail, so this iteration proceeded to bookkeeping rather than stopping.
+No source pages written (0 OK, nothing to insert into youtube-index.md/index.md).
+Ledger updated by the driver's auto-mark (8× status=L1, notes="no-captions (no
+subtitles available)"). @MarketingSchoolPod P2 open 699→691; @neilpatel untouched this
+batch (29 P2 open, unchanged); shorts untouched. **Reiterating the operator flag**: this
+is now eleven consecutive/near-consecutive no-captions-heavy batches (cont. 115–124)
+spanning virtually the entire remaining long-form tail on both channels plus all 2688
+open shorts. Until `tools/ingest_batch.py`'s yt-dlp invocation gets a PO-token provider
+or `--cookies-from-browser`, autopilot dispatches to this repo will keep burning batches
+without ingesting; recommend an operator (non-autopilot) session fix the yt-dlp
+PO-token gap before further autopilot runs are scheduled here.
+
+Synthesis notes: none (nothing ingested this batch). 8 ingest batches accumulated since
+synthesis pass 15 (checkpoint at 10, 2 more until due).
