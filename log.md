@@ -7364,3 +7364,45 @@ politics-in-marketing belief-evolution thread (now three sources deep across thi
 the immediately preceding recovered batch) — all genuinely new, dated material worth
 promoting at the next synthesis checkpoint (2 batches since last checkpoint; 8 more
 until the ~10-batch threshold, unless a channel/era boundary is reached first).
+
+## [2026-07-22] ingest | yt batch (@MarketingSchoolPod, 8) — P2 long-form (2024-03-21→04-02, cont. 130)
+Ingested 8 open P2 long-form rows from @MarketingSchoolPod, all captions fetched
+successfully (no rate-limiting; confirms the PO-token caption-fetch gap remains
+resolved since cont. 127). Neil-attributed highlights: a full $1M/$10M/$100M+/$1B+
+agency-revenue-tier framework (client mix, churn, growth channels, and moat structure
+by scale) built from a Neil tweet, with NP Digital's own referral mix (~66% of 2024-YTD
+revenue from client referrals/employee referrals/RFPs combined, a self-described
+reversal of his original paid-ads/SEO-first expectation) and a live 4-deal M&A pipeline
+disclosed by stage/date; a parallel $1M/$10M/$100M marketing-spend-philosophy-by-tier
+framework (immediate-ROI vs. break-even vs. LTV-driven spend, citing Amazon/Snowflake);
+an explicit "switching costs, not brand, are the agency moat" reframing; a rebuttal of
+Sam Altman's "AI will do 95% of agency work" claim, staking a dated 30-50%-over-10-years
+estimate instead, reasoned from AI producing "average, mediocre" rather than top-1%
+output and both hosts' competing biases; a "creative is the biggest paid-media leverage
+point, technology is commoditized" belief with a named internal creative-lead hire
+(Alex) illustrating the established hire-to-your-weaknesses management philosophy; a
+firm "handwritten notes over AI-automated gifting" belief with a "defeats the purpose"
+quote, plus reinforcing daughter (handwritten-note-loving)/son ("transactional") family
+texture; a dated regional marketing-spend-recovery snapshot across US/India/UK/Europe/
+LatAm/Asia from NP Digital's own client base; and a Flexport/Ryan-Peterson E-E-A-T case
+study paired with an explicit self-aware "we don't know anything about bridges"
+epistemic-humility caveat. Several segments (Zapier SEO case study, Gartner
+26%-search-drop debate, Whole Foods "Yellow Fever" brand-name segment, MrBeast
+storytelling-pivot commentary, influencer-income data) were fully undiarized joint
+commentary or Eric-led (confirmed via an explicit "I'm Chinese, everyone" self-ID on the
+Whole Foods segment) and are quarantined per SUBJECT.md's attribution rule. Ledger: 8
+rows L0→L2. youtube-index.md +8 rows (footer 1180→1188), index.md count bumped to
+match.
+
+Synthesis notes: high-priority (★) candidates this batch — the full agency-revenue-tier
+framework with NP Digital's referral-mix and M&A-pipeline data (deserves its own topic-
+page entry or a substantial expansion of existing agency-scaling material, cross-linked
+with the 2023-12-02 and 2024-03-05 agency-acquisition/RFP sources), the parallel
+marketing-spend-by-company-tier framework, the "switching costs are the moat"
+reframing, the "creative is the biggest leverage point" belief with the Alex hire, and
+the handwritten-notes-over-AI-gifting belief. Also worth reconciling (not new, but
+elaborates existing entries): the Sam-Altman-95%-rebuttal refines/dates the existing
+"5-year no-AI-replacement forecast" already in persona/beliefs.md (pass 14) — treat as
+an update, not a duplicate, at the next synthesis pass. 4 batches since last checkpoint
+(pass 16); 6 more until the ~10-batch threshold, unless a channel/era boundary is
+reached first.
