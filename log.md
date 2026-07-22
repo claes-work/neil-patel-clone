@@ -6571,3 +6571,47 @@ tactics + 3 client case studies (topics/seo, topics/social-media, entities/np-di
 Beverly Hills house + luxury-purchase diminishing-returns wealth material (beliefs.md/
 biography.md), (4) the self-flagged black-hat/gray-area tactics (topics/seo or a dedicated
 tactics note), (5) the NP Digital international-expansion detail (entities/np-digital).
+
+## [2026-07-22] ingest | yt batch (@neilpatel, 8) — P2 long-form (2023-07-15→07-31, cont. 108)
+
+Ran the INGEST loop per `tools/INGEST.md`: `ingest_batch.py prepare --channel @neilpatel --n 8`
+selected the next 8 oldest-first open P2 rows (2023-07-15 → 2023-07-31). All 8 fetched captions
+cleanly (0 failures, no rate-limiting). Mixed era: three co-hosted Marketing-School-format segments
+with Eric Siu republished on the main channel (AutoGPT, "older company = better marketing," LinkedIn
+playerup.com tactic follow-up, inbound-marketing shifts — attribution-gated per the
+[[SUBJECT.md]] rule, only Neil-attributed material written into Key claims/quotes), one solo
+product-promo (Ads Grader tool), one solo India-based podcast interview, and two solo consulting-
+style interviews backstage at "ADCON 2023" with the same unnamed "adclients.com" coaching-education
+host (continuous across [[2023-07-27-yt-mI6oxV52OR0]] and [[2023-07-31-yt-iFynPlXb7k8]]).
+
+Notable findings (★ = flagged for the next synthesis pass): (1) a specific early-Airbnb cold-call
+anecdote from the KISSmetrics-bootstrapping era — a ~$240,000 first-year SEO consulting contract,
+plus the observation that Airbnb's own growth was paid-and-brand-driven rather than SEO-driven ★
+([[wiki/sources/2023-07-20-yt-STtq2ggR900]]); (2) a CNN Brazil case study — roughly 1 billion
+additional organic page views driven over ~11-12 months — plus the Rule of Seven omnichannel
+framework and an ADCON-London analytics-adoption anecdote ★
+([[wiki/sources/2023-07-22-yt-yMQvSX-cqWc]]); (3) further operational detail on the previously
+self-flagged playerup.com LinkedIn engagement-buying tactic (price, connection-count threshold,
+refresh cadence) plus a newly-disclosed "white hat" engagement-pod counterpart — extends rather than
+duplicates the ★ already logged for [[2023-07-08-yt-JcjY_7p9PQc]]
+([[wiki/sources/2023-07-24-yt-pCiq3LFcIGE]]); (4) two new named case examples supporting the existing
+omnichannel/differentiation beliefs — Nike/Disney/Timberland omnichannel execution, and the Ryan
+Reynolds/MNTN equity-influencer model ★ ([[wiki/sources/2023-07-29-yt-lNZlBUbAl-Q]]); (5) a
+"22 years-ish" SEO-tenure self-report (dated 2023-07-31) corroborating the ~2001 SEO-career-start
+timeline already in `persona/biography.md` ★ ([[wiki/sources/2023-07-31-yt-iFynPlXb7k8]]). The
+remaining three sources (AutoGPT segment, Ads Grader promo, adclients.com content-strategy session)
+reinforce existing AI-optimism, paid-ads-ROI, and E-E-A-T/WordPress-myth beliefs already recorded —
+cited but not flagged for promotion.
+
+Ledger: open P2 long-form now @neilpatel 117 / @MarketingSchoolPod 731 (unchanged); ingested
+L2=1105. Ingest batches since last synthesis: 2 (checkpoint at 10) — not yet due; next iteration
+continues @neilpatel P2 ingest (cont. 109) unless a channel/era boundary or the 10-batch checkpoint
+is reached first.
+
+Synthesis notes: five ★-flagged items awaiting the next synthesis pass — (1) the early-Airbnb
+$240K-cold-call anecdote (biography.md), (2) the CNN Brazil 1B-page-view case study + Rule of Seven
+(topics/analytics-cro, topics/seo, entities/np-digital), (3) the playerup.com LinkedIn tactic
+operational detail + white-hat engagement-pod counterpart (topics/social-media or a dedicated
+tactics note, extending the existing 2023-07-08 flag), (4) the Nike/Disney/Timberland +
+Ryan-Reynolds/MNTN case examples (beliefs.md, supporting existing omnichannel/differentiation
+entries), (5) the "22 years" SEO-tenure biographical anchor (biography.md).

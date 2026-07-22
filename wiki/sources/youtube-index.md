@@ -1110,6 +1110,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2023-07-08 — [7 Powerful Growth Hacks: Catapult Your Business to 10x Growth! (★ co-hosted w/ Eric; self-flagged black-hat LinkedIn tactic; ChatGPT+Riverside workflow)](2023-07-08-yt-JcjY_7p9PQc.md) — content-marketing, paid-ads, social-media, email-marketing
 - 2023-07-10 — [What BuzzFeed and Vice's Declines Tells You About Media Businesses (co-hosted w/ Eric; media-monetization/TAM thesis)](2023-07-10-yt-OtQazCjTIRA.md) — content-marketing, agency-entrepreneurship
 - 2023-07-13 — [Hacks To Grow Your Business When Sales Drop (★ Productive Insights; NP Digital intl expansion detail, 74% YoY, region list, profit-reinvestment)](2023-07-13-yt-sdBe5ajaDhI.md) — agency-entrepreneurship
+- 2023-07-15 — [How AutoGPTs Will Change Business & Marketing (co-hosted w/ Eric; AutoGPT efficiency take; AI-sentiment-by-country stat)](2023-07-15-yt-SahCLwMcY4A.md) — ai-marketing, content-marketing
+- 2023-07-17 — [I Found the BEST Way to Run Google Ads in 2023: Here's How (solo; Ads Grader tool promo; wasted-ad-spend stats)](2023-07-17-yt-dhm72pygevI.md) — paid-ads
+- 2023-07-20 — [The Older Your Company The Better Your Marketing (co-hosted w/ Eric; ★ early-Airbnb cold-call/$240K contract anecdote)](2023-07-20-yt-STtq2ggR900.md) — agency-entrepreneurship, content-marketing
+- 2023-07-22 — [A Unique Perspective for Enhancing Your Analytics Strategy (solo India podcast; ★ CNN Brazil 1B-page-view case study; Rule of Seven; ADCON)](2023-07-22-yt-yMQvSX-cqWc.md) — analytics-cro, ai-marketing, content-marketing, seo
+- 2023-07-24 — [The Shady Hack People Are Using to Get Crazy LinkedIn Growth (co-hosted w/ Eric; playerup.com tactic detail cont.; engagement-pod white-hat alt)](2023-07-24-yt-pCiq3LFcIGE.md) — social-media, content-marketing
+- 2023-07-27 — [Breaking Down Content Creation For A New Website (solo adclients.com host; mini-niche strategy; WordPress-ranking myth debunked)](2023-07-27-yt-mI6oxV52OR0.md) — seo, content-marketing, ai-marketing
+- 2023-07-29 — [How Inbound Marketing Is Rapidly Changing (co-hosted w/ Eric; ★ Nike/Disney/Timberland omnichannel + Ryan Reynolds/MNTN cases)](2023-07-29-yt-lNZlBUbAl-Q.md) — content-marketing, social-media, ai-marketing
+- 2023-07-31 — [How to replace your paid ads with SEO (solo ADCON 2023 backstage; ★ "22 years" SEO-tenure anchor; Backlink Opportunity workflow)](2023-07-31-yt-iFynPlXb7k8.md) — seo, paid-ads
 
 ---
-_1097 videos ingested (L2) so far._
+_1105 videos ingested (L2) so far._
