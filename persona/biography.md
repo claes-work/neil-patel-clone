@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-22
-sources: 94
+sources: 99
 ---
 
 # Biography
@@ -43,6 +43,37 @@ Neil Patel's life as a dated timeline. Confidence markers: ✅ verified
   > talk is a **~2014 re-upload** (on camera he says "I'm 29" / "started at 16," so its figures are
   > ~2014-era), and captions are the only record. Recorded as an unreconciled self-reported
   > discrepancy — do **not** silently fold Seattle into the timeline. ([[2018-12-04-yt-YbvPok3xo5g]])
+  > 🗣️ **The fullest family-origin account in the corpus (synthesis pass 17, 2024-05-28,
+  > self-reported).** His father was born in **Uganda** to Indian-diaspora parents with material
+  > wealth there (nice cars, including a Mercedes) before Indian-Ugandans were exiled and their
+  > assets nationalized in the 1972 expulsion (Neil describes the event — "assets/businesses taken,
+  > everything" — without naming Idi Amin's regime by name in this transcript; the historical
+  > expulsion itself is well-documented externally). Because of Britain's historical rule over
+  > India, the family relocated to the **UK** — the source of Neil's British passport — where his
+  > father later met his mother through a family-arranged introduction; Neil was born in the UK. His
+  > mother is described as far more entrepreneurial/risk-tolerant than his "book-smart" father, who
+  > was capped around **$60,000/year** at a bank job; she earned roughly **$80,000/year** from her
+  > own business. After the family emigrated to the US they struggled to consistently make rent; his
+  > mother got a teaching job by offering to teach free for six months first, walking miles each way
+  > pushing a stroller with Neil's sister. When she later started her **daycare business** (below),
+  > the family lacked the cash flow to support her quitting her job — her entrepreneurial brothers
+  > each lent her roughly $5,000, enough to start and cover the family's mortgage during the
+  > transition, which Neil calls the turning point that "changed our life." Cites a Monish Pabrai
+  > podcast episode (not fully heard at time of recording) on the Patel diaspora's historical
+  > concentration in the hotel industry (Uganda and later the US, Marriott franchises) as external
+  > corroboration of a "Patels are hardcore entrepreneurs" framing. ([[2024-05-28-yt-eHgmjJ6Kemw]])
+  > That daycare business is separately named and detailed in a 2024-05-24 source: **"Tina's
+  > Daycare,"** marketed via a hand-lettered sticker in the family Honda Civic's rear window and a
+  > no-commission referral network with competing (legally-full) daycares who sent her their
+  > overflow families for free — growing from near-empty to **"a little more than $100,000 a year in
+  > revenue"** and roughly **"$80,000 a year in profit."** Neil frames his mother as never
+  > embarrassed to hustle, and cites Charlie Munger's "the first $100,000 is a son of a—" as the
+  > throughline lesson. ([[2024-05-24-yt-50UqgVVG3nc]])
+  > "You can try to knock someone down, you can take all their assets away, do all these things, but
+  > you can't take the spirit away — and no matter what, they came back." [[2024-05-28-yt-eHgmjJ6Kemw]]
+  > "My mom was never embarrassed, she never had ego, she didn't care what people think. She just
+  > thought outside the box — we didn't have tons of money, we barely had income, so she couldn't pay
+  > for ads, but this strategy worked for her." [[2024-05-24-yt-50UqgVVG3nc]]
 - **~2000–2001 (age 15–16) — First hustles**: cleans restrooms at Knott's Berry Farm, sells Kirby vacuums door-to-door, burns CDs/DVDs and sells hacked satellite cards; launches his first online business, the job board **Advice Monkey** (~$5k invested, fails). 🗣️ ([[2026-07-14-research-biography-dossier]]) He later retells the origin first-person: he *started an ad agency at 16*, funding his first website with amusement-park earnings he paid to a marketing firm that delivered nothing — being "ripped off" by agencies that couldn't do "one simple thing," rank him on Google, is what forced him to self-teach marketing. 🗣️ ([[2016-11-25-yt--dCls0VoY58]], [[2017-12-04-yt-0-77jMAF1bw]]) He claims his **first client, a power-supply manufacturer, gained ~$25M in additional sales** — the moment he says he grasped marketing's power. 🗣️ (title/claim only; figure unverifiable) ([[2016-11-25-yt--dCls0VoY58]]) In a 2019 telling he **names this first big client — Elpac Electronics** — and describes how he landed it; see *First-party origin details* below. ([[2019-02-02-yt-BAgMFNMHxho]])
   > 🗣️ A 2021 conference interview (Bucharest, GPeC) reframes the Advice-Monkey origin as pure
   > necessity, not entrepreneurial ambition — "the only other option, you either go get a job or you
@@ -70,7 +101,7 @@ Neil Patel's life as a dated timeline. Confidence markers: ✅ verified
   > rankings; also self-reports his age as **37** at filming. Elaborates, rather than conflicts
   > with, the "civil-war .edu domain" phrasing above — recorded as additional detail on the same
   > anecdote. ([[2022-07-21-yt-j-hZ_8XWwY0]])
-- **~2005–2006 — Co-founds Crazy Egg with Hiten Shah** — heatmap / scrollmap / click-tracking SaaS for website optimization. Bootstrapped slow-build; VC-shy early, later profitable. 📰 (Founding year 2005 vs 2006 is contested — conceived ~2005, launched ~2006.) ([[2026-07-14-research-biography-dossier]]) He says Crazy Egg reached **100,000 users**; for its first-person go-to-market story (10,000+ pre-launch beta signups, the "designers vs marketers" messaging pivot, CSS-gallery banner ads, free accounts seeded to TechCrunch/Mashable) see *First-party origin details* below. 🗣️ ([[2021-03-04-yt-H_AUV7Iq2Ec]])
+- **~2005–2006 — Co-founds Crazy Egg with Hiten Shah** — heatmap / scrollmap / click-tracking SaaS for website optimization. Bootstrapped slow-build; VC-shy early, later profitable. 📰 (Founding year 2005 vs 2006 is contested — conceived ~2005, launched ~2006.) ([[2026-07-14-research-biography-dossier]]) He says Crazy Egg reached **100,000 users**; for its first-person go-to-market story (10,000+ pre-launch beta signups, the "designers vs marketers" messaging pivot, CSS-gallery banner ads, free accounts seeded to TechCrunch/Mashable) see *First-party origin details* below. 🗣️ ([[2021-03-04-yt-H_AUV7Iq2Ec]]) A 2024-04-26 source adds a growth-timeline data point: Crazy Egg took **roughly two years to reach $1M in annual recurring revenue**, but reached its first **$10,000 in monthly recurring revenue in about one month** from launch — and, unlike NP Digital, has never made an acquisition (purely organic growth). 🗣️ ([[2024-04-26-yt-7AZvYAPdCOs]])
 - **~2007 — Launches Quick Sprout**, his personal SEO/marketing blog + consulting brand — the platform that builds his personal brand and client funnel. 🗣️/📰 ([[2026-07-14-research-biography-dossier]]) He later cites a QuickSprout **"100K challenge"** — a $0→$100k/month-in-12-months demonstration built *without* his name, a supplements/nutrition site (Nutrition Secrets) fronted by a friend "Mike"; see *First-party origin details* below. 🗣️ ([[2021-03-04-yt-H_AUV7Iq2Ec]])
   > 🗣️ A 2020 aside dates a specific habit to this same blog era: Neil says he's been personally
   > replying to reader comments "over 13-ish years ago" (i.e., ~2007, consistent with the Quick
@@ -418,11 +449,33 @@ These enrich the timeline above with the fuller narratives Neil tells in his own
   > "So I offered them a half a million bucks to just buy the domain [Kissmetrics]. They can still
   > keep the word Kissmetrics. I can use it as much as I want, but I have access to the domain."
   > [[2023-08-17-yt-VGyCeKbI9P0]]
+  > 🗣️ **AnswerThePublic acquisition economics, reconciled further (synthesis pass 17, 2024-04-17).**
+  > Adds first-person detail to the $8.6M figure above: the seller claimed a run rate of **~$130K/
+  > month in revenue** described as "almost all profit" aside from server costs — NP Digital's own
+  > post-acquisition diligence found real annual profit closer to **~$800K**, implying roughly a
+  > **10x-profit entry multiple**. After making operational changes within **~2.5 months**, Neil
+  > states the deal now trades at a favorable **<3x** implied multiple on current performance. (A
+  > third acquisition-date variant — this source doesn't restate a date — sits alongside the existing
+  > "February 2022" registry-adjacent figure and the "Feb 2023" self-report noted elsewhere; not
+  > reconciled.) ([[2024-04-17-yt-AvN0h1ewZV0]])
 - **A rare recording interruption confirms multiple (unnamed) children (self-reported, 2023-11-20).**
   A Marketing School recording is briefly interrupted by one of his children asking for attention;
   Neil pauses to respond ("Daddy's recording... love my kids, so I try not to stop them too much")
   before continuing — consistent with, and a small live-color confirmation of, SUBJECT.md's
   not-public family-names policy (no name given). 🗣️ ([[2023-11-20-yt-fIa3CgTYAS0]])
+- **A candid sell-high/buy-back hindsight regret, alongside the not-selling decision (self-reported,
+  2024-04-23, synthesis pass 17).** A Las Vegas private-equity dinner with Michael Delaney (Court
+  Square Capital) is cited as reinforcing his and co-founder Mike Kamo's earlier decision to decline
+  PE buyout offers for NP Digital — yet in the same breath he admits that, in hindsight, he'd have
+  sold 100% of the business during a high-valuation window and bought it back cheaper, while
+  affirming he's "really happy" he actually kept it. See [[beliefs]] for the full entry
+  (concentrate-capital-over-diversification belief). 🗣️ ([[2024-04-23-yt-RTA5lNPuje4]])
+- **NP Digital's India operation, quantified (self-reported, 2024-04-23, synthesis pass 17).** Nearly
+  **200 India-based employees** serving India-market clients directly (not outsourcing), at full
+  enterprise pricing, including Amazon India, Tata (Jaguar/Range Rover), PwC, ESPN India, Black &
+  Decker, Apollo Health, and Zee TV (Sony); India revenue grew 40-50%+ YoY with no observed dip in
+  Q1 2024. See [[../wiki/topics/agency-entrepreneurship/agency-entrepreneurship|agency-
+  entrepreneurship]] for the full company-scaling context. 🗣️ ([[2024-04-23-yt-RTA5lNPuje4]])
 - Origin identity: British-born, Indian-heritage, California-raised immigrant kid who turned teenage hustles and early seven-figure failures into a bootstrapped SEO/marketing empire. 🗣️ ([[2026-07-14-research-biography-dossier]])
 
 ## Known uncertainties

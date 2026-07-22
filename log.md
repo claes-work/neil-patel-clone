@@ -7619,3 +7619,63 @@ explicitly tied to the Bryan Johnson "Don't Die" thread). The $10K Barbie-themed
 `persona/voice.md` + biography candidates (family/spending anecdote, a distinctive named marketing
 concept). 9 batches since last checkpoint (pass 16); checkpoint due next iteration (10-batch
 threshold reached).
+
+## [2026-07-22] lint | synthesis pass 17 | @MarketingSchoolPod 2024-02 → 2024-06 co-hosted era (batches #157–#166)
+
+Dispatched via roster autopilot. Orientation showed the 10-batch checkpoint due (cont. 127–136,
+batches #157–#166, all 10 ingested successfully post the PO-token gap fix at cont. 127 — 0
+no-captions this window). Ran the SYNTHESIS loop per `tools/SYNTHESIS.md`: `synthesis_batch.py
+prepare` surfaced the 10 accumulated `Synthesis notes:` lines (a dense run, several ★-flagged items
+per batch). Promoted the genuinely-new findings into **agency-entrepreneurship** (the
+$1M/$10M/$100M+/$1B+ agency-revenue-tier framework with NP Digital's own ~66% referral/RFP mix +
+switching-costs-not-brand moat reframing; the content-to-M&A strategic-shift narrative + PE roll-up
+mechanics + "multiple arbitrage"; buying from "burnt out" founders during the downturn (SBA/
+seller-financing/equity-rollover structures) + the preferred international cross-sell acquisition
+profile; a landmark self-critical 2021 M&A post-mortem — "I trusted but didn't verify"; the
+memo-writing-as-organizational-forcing-function belief; the CMO-not-CEO structural account
+— "terrible manager, amazing individual contributor," the Frank Slootman citation, the 10-year
+"global ad agency" goal; NP Digital's India operation quantified (~200 employees, named enterprise
+clients); the Sam-Altman-95%-AI-rebuttal updating the existing 5-year no-AI-replacement forecast)
+and **ai-marketing** (the 2024-02 "how to rank on ChatGPT" 82-factor study restated with full
+correlation data, elaborating the existing 2024-01-05 82-factor origin entry; the
+68-site/94.12%/5.44x AI-vs-human content-ranking study anchoring the augment-not-replace stance
+two years before the 2026 GEO/AEO material; an AI-search-fragmentation prediction predating the
+2025 "Search Everywhere" thesis) plus **beliefs.md-only** (a concentrate-capital-over-
+diversification wealth belief paired with a candid sell-high/buy-back hindsight regret via the
+Michael Delaney/Court Square PE-dinner anecdote; an earlier-dated politics-in-marketing
+belief-evolution arc — three 2024-02/03 sources predating and building toward the existing
+2024-11-27 "keep politics out of marketing" belief, recorded neutrally per fidelity rule 7). Also
+updated **biography.md** (the fullest Patel-family origin story in the corpus — Uganda wealth →
+1972 exile → UK relocation (source of his British passport) → US immigration struggle, merged
+into one dated timeline entry with the existing "Tina's Daycare" mother-origin mention; the
+AnswerThePublic acquisition-economics reconciliation — seller-claimed ~$130K/mo, NP Digital's own
+~$800K-profit estimate, 10x entry multiple, <3x current; a Crazy Egg ARR timeline — $1M in ~2
+years, $10K MRR in ~1 month, purely organic) and **voice.md** (personality-test self-scores —
+99/100 detail-orientation vs. Eric's 6/100, low creativity, maxed toughness, told across three
+episodes and consolidated into one entry; a wife-elbowing-him-for-quizzing-store-owners curiosity
+anecdote; declined "follow me around" videographer arrangements contrasted with Gary Vaynerchuk; a
+feng-shui real-estate belief that cost a declined $1-1.5M house flip).
+
+**No new hard contradictions reconciled this pass** — a third, unreconciled AnswerThePublic
+acquisition-date/figure variant is recorded, not smoothed; the 11x-vs-8x M&A figure and the
+Seattle residency discrepancy remain carried forward from prior passes. **Excluded (attribution):**
+two @MarketingSchoolPod episodes this era (2024-05-18 "Bonus episode #3," 2024-05-25 "Future of
+Agencies with AI") are confirmed Eric-Siu-solo Agency Owners Association coaching-call previews
+with no Neil-attributed material — filed for ledger completeness only, per SUBJECT.md's
+attribution-gating rule; several undiarized rapid-alternation segments were held back from
+confident persona attribution pending clearer-attributed corroborating sources.
+
+Persona source counts: **beliefs.md** 115→129, **voice.md** 90→96, **biography.md** 94→99,
+**appearance.md** unchanged (7, no new appearance material this run). Recompiled
+**system-prompt.md v16 → v17** (compiled_from_sources 1,156 → 1,236): wove in the CMO-not-CEO
+structural account, the agency distressed-M&A doctrine extension (2021 post-mortem, burnt-out-
+founder acquisitions, international cross-sell), the agency-revenue-tier framework, the
+personality-test self-scores, and the Patel-family origin story; kept the AnswerThePublic
+reconciliation, the NP Digital India data, the Delaney PE-dinner/diversification material, the
+memo-culture belief, the Sam-Altman-AI-rebuttal, the ChatGPT-ranking/AI-vs-human-content studies,
+the politics-in-marketing belief-evolution arc, the Crazy Egg ARR timeline, and the voice/
+personality color items topic-hub-only per the changelog. `index.md` updated (topic-hub summaries,
+persona summaries, header). `pipeline/synthesis-state.md` high-water mark advanced to batch #166 /
+1,236 L2 sources; no pending checkpoints remain.
+
+Synthesis notes: none (this is itself a synthesis pass).

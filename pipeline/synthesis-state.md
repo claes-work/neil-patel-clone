@@ -6,13 +6,73 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **@neilpatel 2023-06 → 2023-12 P2 tactical + co-hosted era complete — all 1,156 L2 sources, ingest batches #1–#147 (2016-11 → 2023-12/2025-05)**, via synthesis pass 15 (2026-07-22). The mark did NOT advance at pass 16 (2026-07-22, no-op checkpoint — see below): batches #148–#156 (log cont. 117–126) ingested **zero** new L2 sources — every one of those ten batches hit the environment-wide yt-dlp PO-token caption-fetch gap (confirmed via direct `--list-subs` diagnostics at cont. 125/126) and was auto-marked `no-captions` by the driver. There is no new L2 material to promote; the mark stays at batch #147 until real ingest resumes. **Operator action needed**: install a PO-token provider plugin (e.g. `bgutil-ytdlp-pot-provider`) or configure `--cookies-from-browser` for `tools/ingest_batch.py`'s yt-dlp invocation — until then, further ingest batches on either channel (and all 2,688 open shorts) are expected to keep yielding zero new sources.
+Synthesized through: **@MarketingSchoolPod 2024-02 → 2024-06 co-hosted era complete — all 1,236 L2
+sources, ingest batches #157–#166 (log cont. 127–136)**, via synthesis pass 17 (2026-07-22). This is
+the run right after the environment-wide yt-dlp PO-token caption-fetch gap resolved at cont. 127 (pass
+16 at cont. 117–126 was a 10-batch no-op — see below). No further operator action needed on the
+PO-token gap; ingest can resume normally.
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
-_(none — caught up through batch #147; @neilpatel 2023-06→2023-12 P2 tactical + co-hosted era fully synthesized; the #148–#156 debt was a no-op, see pass 16 below)_
+_(none — caught up through batch #166; @MarketingSchoolPod 2024-02→2024-06 co-hosted era fully
+synthesized)_
 
 ## Done checkpoints
+- [x] 2026-07-22 — **synthesis pass 17** — @MarketingSchoolPod 2024-02 → 2024-06 co-hosted era
+  complete (1,236 L2 sources total, batches #157–#166 / log cont. 127–136, the first real-content run
+  after the PO-token caption gap resolved at cont. 127; all 10 batches ingested successfully, 0
+  no-captions). Drained the 10 accumulated `Synthesis notes:` lines (a dense run — several ★-flagged
+  items per batch). Promotions (quality-over-volume; pure repeats/reinforcements consolidated, not
+  re-added): **agency-entrepreneurship** (the **$1M/$10M/$100M+/$1B+ agency-revenue-tier framework**
+  with NP Digital's own ~66% referral/RFP revenue mix + switching-costs-not-brand moat reframing ★;
+  the **content-to-M&A strategic-shift narrative** + PE roll-up mechanics + "multiple arbitrage" ★;
+  **buying from "burnt out" founders** during the downturn, SBA/seller-financing/equity-rollover
+  structures, and the preferred international cross-sell acquisition profile ★; a landmark, self-
+  critical **2021 M&A post-mortem** — "I trusted but didn't verify" ★★; the **memo-writing-as-
+  organizational-forcing-function** belief ("casting a spell," Eight Sleep/Levels) ★; the **CMO-not-
+  CEO structural account** — "terrible manager, amazing individual contributor," Frank Slootman
+  citation, 10-year "global ad agency" goal ★; **NP Digital's India operation** quantified (~200
+  employees, named enterprise clients) ★; the **Sam-Altman-95%-AI-rebuttal** (updates, not
+  duplicates, the existing 5-year no-AI-replacement forecast) ★), **ai-marketing** (the **2024-02
+  "how to rank on ChatGPT" 82-factor study restated** with full correlation data — elaborates, not
+  duplicates, the existing 2024-01-05 82-factor origin entry ★; the **68-site/94.12%/5.44x AI-vs-
+  human content-ranking study**, anchoring the augment-not-replace stance two years before the 2026
+  GEO/AEO material ★; an **AI-search-fragmentation prediction** predating the 2025 "Search
+  Everywhere" thesis ★), **beliefs.md-only** (a **concentrate-capital-over-diversification** wealth
+  belief, paired with a candid sell-high/buy-back hindsight regret via the Michael Delaney/Court
+  Square PE-dinner anecdote ★; an **earlier-dated politics-in-marketing belief-evolution arc**
+  — three 2024-02/03 sources predating and building toward the existing 2024-11-27 "keep politics out
+  of marketing" belief, recorded neutrally per fidelity rule 7, not editorialized). **biography.md**
+  (the fullest **Patel-family origin story** in the corpus — Uganda wealth → 1972 exile → UK
+  relocation (source of his British passport) → US immigration struggle — merged into one dated
+  timeline entry with the existing "Tina's Daycare" mother-origin mention ★★; the **AnswerThePublic
+  acquisition-economics reconciliation** — seller-claimed ~$130K/mo, NP Digital's own ~$800K-profit
+  estimate, 10x entry multiple, <3x current ★; a **Crazy Egg ARR timeline** — $1M in ~2 years, $10K
+  MRR in ~1 month, purely organic). **voice.md** (personality-test self-scores — 99/100 detail-
+  orientation vs. Eric's 6/100, low creativity, maxed toughness — told across three episodes,
+  consolidated into one entry; a wife-elbowing-him-for-quizzing-store-owners curiosity anecdote;
+  declined "follow me around" videographer arrangements contrasted with Gary Vaynerchuk; a feng-shui
+  real-estate belief that cost a declined $1-1.5M house flip). **No new hard contradictions
+  reconciled this pass** — a third, unreconciled AnswerThePublic acquisition-date/figure variant is
+  recorded, not smoothed (this source doesn't restate a date, so it sits alongside, not instead of,
+  the existing three); the 11x-vs-8x M&A figure and the Seattle residency discrepancy remain carried
+  forward from prior passes. Excluded (attribution): two @MarketingSchoolPod episodes this era
+  (2024-05-18 "Bonus episode #3," 2024-05-25 "Future of Agencies with AI") are confirmed Eric-Siu-solo
+  Agency Owners Association coaching-call previews with no Neil-attributed material — filed for
+  ledger completeness only, per SUBJECT.md's attribution-gating rule; several undiarized rapid-
+  alternation segments (e.g. yt-xd985vduPEg's body beyond its opening) were held back from confident
+  persona attribution pending clearer-attributed corroborating sources. Persona: **beliefs.md**
+  (115→129 sources), **voice.md** (90→96 sources), **biography.md** (94→99 sources), **appearance.md**
+  unchanged (7 sources; no new appearance material this run). Recompiled **system-prompt.md v16 → v17**
+  (compiled_from_sources 1,156 → 1,236): wove in the CMO-not-CEO structural account, the agency
+  distressed-M&A doctrine extension (2021 post-mortem, burnt-out-founder acquisitions, international
+  cross-sell), the agency-revenue-tier framework, the personality-test self-scores, and the Patel-
+  family origin story; kept the AnswerThePublic reconciliation, the NP Digital India data, the
+  Delaney PE-dinner/diversification material, the memo-culture belief, the Sam-Altman-AI-rebuttal, the
+  ChatGPT-ranking/AI-vs-human-content studies, the politics-in-marketing belief-evolution arc, the
+  Crazy Egg ARR timeline, and the voice/personality color items topic-hub-only per the changelog.
+  `index.md` updated (persona summaries, header, `updated` dates). `pipeline/synthesis-state.md`
+  high-water mark advanced to batch #166 / 1,236 L2 sources; no pending checkpoints remain.
 - [x] 2026-07-22 — **synthesis pass 16 (no-op checkpoint)** — triggered by the 10-ingest-batch debt
   counter (batches #148–#156 / log cont. 117–126) reaching the checkpoint threshold, per
   `tools/ingest_batch.py status`'s `SYNTHESIS DUE` flag. Ran `python tools/synthesis_batch.py

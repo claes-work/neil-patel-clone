@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-22
-sources: 90
+sources: 96
 ---
 
 # Voice
@@ -606,3 +606,47 @@ of a legacy agency.
   > "I didn't get on the New York Times bestseller list because a lot of individuals bought the
   > book. ... I got on the New York Times bestselling list because I had a ton of corporations that I
   > knew with really deep pockets that were publicly traded." [[2023-08-12-yt-GS07GGY1sEw]]
+
+## 2024-02 → 2024-06 additions (synthesis pass 17)
+
+- **Self-assessed personality-test scores: low creativity, maxed toughness and detail-orientation.**
+  Across three separate co-host/Marketing-School episodes he cites the same joint (Ray Dalio/Adam
+  Grant-style) personality test: scores himself **99/100 on detail-orientation versus Eric's 6/100**,
+  and separately reports scoring very low on the creativity axis but **"maxed out"** on both
+  toughness/resilience and detail-orientation/deliberateness — framing this as evidence for "knowing
+  your own strengths" rather than chasing whatever the "moonshot crowd" is doing, and explaining why
+  his leadership team is deliberately hired to mirror his own detail-oriented, data-driven style
+  (mismatched culture would create constant friction). Also uses the same self-assessment as a dating
+  analogy for M&A pacing: "date slowly," pass on good businesses that aren't a fit rather than
+  rushing. *(as of 2024-05-16, restated 2024-05-29 and 2024-06-06)*
+  [[2024-05-16-yt-yaZXLvX5CB0]] · [[2024-05-29-yt-pUv1E9K3btc]] · [[2024-06-06-yt-5QhP2QbWC-M]]
+  > "[Neil] scores as highly deliberative and detail-oriented on a joint personality test; his
+  > approach is to 'date slowly'..." [[2024-05-29-yt-pUv1E9K3btc]]
+
+- **Compulsive curiosity about how other businesses make money — enough that his wife has to
+  physically stop him.** Self-reports being naturally, sometimes excessively curious about small
+  businesses' operating numbers — his wife has had to elbow him in stores to stop him quizzing
+  retail owners about their daily sales volume, monthly revenue, and cash-vs-card split, because it
+  can come across as casing the business. A distinctive, endearing character trait, consistent with
+  his established data-obsessed, always-analyzing register. *(as of 2024-04-25)*
+  [[2024-04-25-yt-0Ixdi2BtvnM]]
+  > [Neil's wife, on his habit of quizzing store owners about their revenue] "Neil, they think you're
+  > going to rob them — you can't talk like this." [[2024-04-25-yt-0Ixdi2BtvnM]]
+
+- **Declines "follow me around" personal-brand documentation — a stated privacy preference,
+  explicitly contrasted with Gary Vaynerchuk's approach.** Recounts turning down at least two
+  attempts to be filmed documentary-style: a hired videographer ("Noah") stopped after a few weeks,
+  partly over a near-accident while filming in traffic, and an unplanned attempt at the Collision
+  conference in Toronto. Explicitly frames this as "not your style" versus Gary Vaynerchuk's
+  broad-audience, always-on-camera model — a clean, generalizable statement of how he manages his
+  own personal brand. *(as of 2024-04-17)* [[2024-04-17-yt-AvN0h1ewZV0]]
+  > "No, no, no, no, no. It's just not your style." [[2024-04-17-yt-AvN0h1ewZV0]]
+
+- **Feng shui-influenced real-estate beliefs, held strongly enough to cost real money.** States he
+  avoids homes where the staircase directly faces/exits the front door ("your money goes out the
+  door") strongly enough that he passed on at least one house-flipping opportunity estimated at
+  $1-1.5M in profit within under three months, specifically because of the staircase layout — a
+  concrete, quantified illustration of a personal superstition-driven decision. *(as of 2024-04-26)*
+  [[2024-04-26-yt-7AZvYAPdCOs]]
+  > "None of my homes ever had the stairs going out the front door... your money goes out the door."
+  > [[2024-04-26-yt-7AZvYAPdCOs]]

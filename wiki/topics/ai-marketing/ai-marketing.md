@@ -2,7 +2,7 @@
 type: hub
 domain: ai-marketing
 created: 2026-07-14
-updated: 2026-07-20
+updated: 2026-07-22
 ---
 
 # AI Marketing — hub
@@ -298,11 +298,27 @@ his *evolving* position, not a single current stance.
   brand mentions drive LLM recommendations** — an "82 ranking factors" study ([[2024-01-05-yt-02aOEbWV98c]],
   2024-01-05, ★). This is the datable *origin* of what he later brands Search Everywhere
   Optimization (2025) — present it as the seed, not the current playbook.
+  > The same 82-factor study is restated a month later (2024-02-02, synthesis pass 17, ★) with its
+  > full methodology and correlation data: NP Digital ran **100+ product/service recommendation
+  > questions through ChatGPT**, had a statistician analyze the Q&A pairs across 82 candidate
+  > factors, and found **six with strong correlation** to being recommended — **relevancy (.91, the
+  > single strongest), brand mentions (.87), authority (.52), age (.46), recommendations (.28)**, and
+  > an overall composite score (0-1 scale). Frames these as compounding like SEO — not a next-day
+  > lever — as ChatGPT's index updates over time. [[2024-02-02-yt-klg639rUvtQ]]
 - **The financial-defense argument (2024-02-15, ★).** A distinct *economic* case that AI won't
   kill SEO: **Google is financially disincentivized to kill organic** because it earns tens of
   billions/yr from a partner/AdSense network that runs on organic traffic; plus Danny Sullivan's
   data that total search clicks keep growing even as Google's share falls ([[2024-02-15-yt-qH6IQ2bqavU]]).
   This is the money-motive complement to the later "old-school SEO is dead, not SEO" reframing.
+- **AI search will fragment away from a single winner-take-all engine (2024-02-27, ★, synthesis
+  pass 17).** A first-person complaint that Google ranks plagiarized/re-posted copies of his own
+  tweets over his original content, paired with a prediction that AI search (ChatGPT, Perplexity,
+  Gemini) will **fragment discovery across multiple engines** rather than converge on one
+  winner — an early, more specific precursor to the later "no single AI answer engine" thread this
+  page tracks. Same episode: states a personal policy of **avoiding political content** in his own
+  publishing after a political short drew only 1 view vs. thousands for non-political shorts
+  (algorithmic-suppression inference); see [[../../persona/beliefs|persona/beliefs]] for the
+  broader politics-in-marketing belief thread this feeds ([[2024-02-27-yt-NZN2QzrLSxg]]).
 - **"SEO isn't dead — old-school SEO is" + the zero-traffic stat (2024-03-01, ★).** A modern
   five-lever reframing anchored on his signature Ubersuggest finding that **~94.29% of pages get
   zero search traffic** ([[2024-03-01-yt-LZuR52_nNFA]]). The competitive frontier is being the
@@ -362,6 +378,27 @@ his *evolving* position, not a single current stance.
 
 Consistent through-line: AI augments the marketer rather than fully replacing them.
 
+- **"Don't publish pure-AI content" — a quantified 2024 anchor for the augment-not-replace stance
+  (2024-02-05, ★, synthesis pass 17).** An NP Digital survey of 1,511 marketers found >60% (640)
+  use pure AI content with no human edit, 282 combine AI+human; in **head-to-head testing across
+  68 websites, human-written content outranked AI-written content 94.12% of the time**, averaging
+  **283 monthly visitors vs. 52** for AI-written articles (~5.4x) — the earliest, most concretely
+  quantified data point behind everything the later GEO/AEO material argues about AI-content
+  quality. Same episode: ultra-long-tail keywords (7+ words) grew from 3.21% to 48.95% of NP
+  Digital's SEO revenue 2022→2023 while only 24.2% of traffic, reinforcing the long-tail-over-
+  volume SEO stance ([[2024-02-05-yt-kCkQqr--xVw]]).
+  > "94.12% of the time the human-written content... was ranking higher... the human written ones
+  > had 283 visitors per month, the AI written ones had 52 visitors per month."
+  > [[2024-02-05-yt-kCkQqr--xVw]]
+  > The same underlying study resurfaces, restated with more precision (68 websites / 744 articles
+  > tracked over 5 months), as a **5.44x human-vs-AI traffic gap by month 5** (52 vs. 283 visits/
+  > article) — attributed to Google's "helpful content" signal favoring perceived quality rather
+  > than an explicit AI penalty; recorded as the same recurring study, not an independent finding.
+  > `(attribution: uncertain — undiarized in this source, but consistent with Neil's established
+  > first-party SEO-experiment body of work)` [[2024-04-03-yt-e45mOeVJi_A]] A separate in-house
+  > study comparing AI vs. human Instagram images similarly found AI-generated posts get
+  > meaningfully lower engagement (41 vs. 66 average likes, 2.3 vs. 3.1 comments; `attribution:
+  > uncertain`) ([[2024-03-27-yt-tAFdFFbzJNI]]).
 - **AI + humans combined (2025-03-25):** AI (Adobe Firefly, ChatGPT, Gemini, native
   Facebook/Google ad AI) speeds content creation and data analysis but wins paired with
   people; its real value is freeing you for strategy and execution over mundane tasks.
@@ -476,8 +513,13 @@ Consistent through-line: AI augments the marketer rather than fully replacing th
 - [[2023-11-27-yt-EUVspvV6_UQ]] — Will SEO go extinct: "SEO evolves, doesn't die" (GEO seed).
 - [[2024-01-05-yt-02aOEbWV98c]] — Generative Engine Optimization named; 82-factors / brand-mentions finding.
 - [[2024-01-15-yt-VLckuzcfqFY]] — "[Competitor] vs [You]" pages; AI breaks the publisher model.
+- [[2024-02-02-yt-klg639rUvtQ]] — ★ 82-factor study restated with full methodology/correlation data (6 factors, .28-.91).
+- [[2024-02-05-yt-kCkQqr--xVw]] — ★ 68-site AI-vs-human ranking study (94.12% human win rate; 283 vs. 52 visits/mo).
 - [[2024-02-15-yt-qH6IQ2bqavU]] — Google is financially disincentivized to kill SEO (partner-network argument).
+- [[2024-02-27-yt-NZN2QzrLSxg]] — ★ AI-search-fragmentation prediction (ChatGPT/Perplexity/Gemini, not winner-take-all).
 - [[2024-03-01-yt-LZuR52_nNFA]] — "Old-school SEO is dead"; 94.29%-of-pages-get-zero-traffic.
+- [[2024-04-03-yt-e45mOeVJi_A]] — 5.44x human-vs-AI traffic-gap restatement (68 sites/744 articles).
+- [[2024-03-27-yt-tAFdFFbzJNI]] — ★ Sam-Altman-95%-rebuttal (30-50%/10yr); AI-vs-human Instagram engagement study.
 - [[2024-03-28-yt-gj7B9JnyJqM]] — GEO boosts affiliate over 10–20 yrs; transactional-keyword ad moat.
 - [[2024-09-30-yt-Gd0lZQTGpzI]] — AI ROI is "in the ugly, not the sexy" (data analysis, not content).
 - [[2024-12-27-yt-fPp_cl8hWX4]] — Search everywhere restated; AI in-platform auto-translation (global SEO).
