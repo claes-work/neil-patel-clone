@@ -6943,3 +6943,27 @@ status=L1, notes="no-captions (no subtitles available)").
 
 Synthesis notes: none (nothing ingested this batch). 2 ingest batches accumulated since
 synthesis pass 15 (checkpoint at 10).
+
+## [2026-07-22] ingest | yt batch (@neilpatel, 8) — P2 long-form (2025-10-22→12-17, cont. 119)
+
+Batch #149. 0/8 captions fetched OK; all 8 auto-marked `no-captions` by the driver:
+2025-10-22 "Google's AI Just Went Mainstream"; 2025-10-30 "AI-SEO Is Changing Everything
+in 2026"; 2025-11-05 "Predicting the 5 Top SEO Trends for 2026"; 2025-11-12 "Predicting
+the 7 Biggest Social Media Marketing Trends for 2026"; 2025-11-19 "This CMO Put Alexa In
+1,000 Hotel Rooms (Amazon's Hotel Experiment!)"; 2025-11-26 "The ChatGPT SEO Playbook for
+2026"; 2025-12-05 "Why YouTube Is the Best Place to Find Customers Right Now"; 2025-12-17
+"AI Marketing Isn't As Scary As You Think | The Marketer's Roundtable". This is the fifth
+consecutive batch (cont. 115–119) hitting the same PO-token caption-fetch limitation
+already documented at cont. 115–118: yt-dlp reports "missing subtitles languages because
+a PO token was not provided" then "There are no subtitles for the requested languages" —
+no 429/rate-limit errors, `retry` empty each time, so per the existing ledger convention
+this remains a legitimate no-captions outcome, not the 3-consecutive-failure rate-limit
+safety rail (that rail is for actual fetch failures/errors, not confirmed
+subtitle-unavailable responses). The @neilpatel channel's entire 2025-dated tail appears
+systematically affected; only 29 P2 + 21 P3 rows remain open on this channel, largely in
+this same affected window. No source pages written (0 OK, nothing to insert into
+youtube-index.md/index.md). Ledger updated by the driver's auto-mark (8× status=L1,
+notes="no-captions (no subtitles available)").
+
+Synthesis notes: none (nothing ingested this batch). 3 ingest batches accumulated since
+synthesis pass 15 (checkpoint at 10).
