@@ -1142,6 +1142,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2023-09-21 — [Do Offline Ads Work? (co-hosted w/ Eric; eBay/Meg Whitman billboard anecdote)](2023-09-21-yt-yUIZVV30M_c.md) — paid-ads
 - 2023-09-23 — [How to Make Your Content Stand Out When Everyone is Using AI (co-hosted w/ Eric; personal-experience-over-data thesis)](2023-09-23-yt-tuUxlDlLq9k.md) — content-marketing, ai-marketing
 - 2023-09-25 — [Should you take every press appearance - Neil Patel (co-hosted w/ Eric; reach-vetting method, saying-no philosophy)](2023-09-25-yt-VYAcmjhAcgU.md) — agency-entrepreneurship
+- 2023-09-28 — [How to Create the Perfect Omnichannel Marketing Strategy (solo live-event Q&A; omnichannel/CPA/upsell-downsell; ★ age-38 bio marker)](2023-09-28-yt-Kwt3u-5MkO4.md) — paid-ads, agency-entrepreneurship, seo
+- 2023-10-05 — [Is Rebranding A Good Idea? - Neil Patel (co-hosted w/ Eric; ★ NP Digital naming origin story)](2023-10-05-yt-FZNRproB8b0.md) — agency-entrepreneurship
+- 2023-10-07 — [How to Deal With Creator's Block - Neil Patel (co-hosted w/ Eric; peer-group ideation, employee-incentive brainstorming)](2023-10-07-yt-3SBS_fK1T1M.md) — content-marketing, social-media
+- 2023-10-09 — [Twitter's algo has been open-sourced (co-hosted w/ Eric; ★ Seattle follow-bot bio anecdote)](2023-10-09-yt-tWox_ogYpSE.md) — social-media, agency-entrepreneurship
+- 2023-10-12 — [Are blog posts the best SEO strategy today? (co-hosted w/ Eric; content-refresh vs. free-tools link strategy)](2023-10-12-yt-b8_eyYZF44k.md) — seo, content-marketing
+- 2023-10-14 — [ChatGPT gets banned - The 110M impression LinkedIn page (co-hosted w/ Eric; ★ wealth/investing philosophy + ★ remote-first policy; ChatGPT-Italy-ban)](2023-10-14-yt-o9qSf9wEuMo.md) — social-media, ai-marketing, agency-entrepreneurship
+- 2023-10-16 — [Marketing is Getting More Complex, But Paid Media is Getting EASIER. (co-hosted w/ Eric; paid-media-harder-not-easier take, creative-vs-automation)](2023-10-16-yt-pB0-UXV9oTE.md) — paid-ads, ai-marketing
 
 ---
-_1129 videos ingested (L2) so far._
+_1136 videos ingested (L2) so far._

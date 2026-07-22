@@ -6715,3 +6715,42 @@ existing "(acquired 2022)" note and is worth citing directly in `wiki/topics/seo
 `wiki/entities/answerthepublic` page at the next synthesis pass. Secondary: the reach-vetting method
 (per-episode reach, independent verification) and the "say no to protect focus" pattern reinforce
 existing beliefs.md material rather than adding new doctrine. No contradictions found.
+
+## [2026-07-22] ingest | yt batch (@neilpatel, 8) — P2 long-form (2023-09-28→10-16, live-event Q&A + co-hosted Eric Siu segments era, cont. 112)
+Batch: 7 ok, 0 skipped, 1 no-captions, 0 dup, 0 retry.
+- 2023-09-28 Kwt3u-5MkO4 — solo live-event fireside Q&A (unnamed interviewer); omnichannel/CPA/
+  upsell-downsell teaching; ★ age-38/22-years bio marker; "five years ago" NP Digital founding
+  approximation (looser than the registry-verified 2016-12-29 date already on record, not treated
+  as a contradiction — consistent with his usual casual rounding).
+- 2023-09-30 dN-5dikJxzU — no-captions, marked L1 (auto).
+- 2023-10-05 FZNRproB8b0 — co-hosted w/ Eric; rebranding take (Facebook→Meta critique); ★ NP Digital
+  naming origin story (patel.com/npdigital.com domain-acquisition delay).
+- 2023-10-07 3SBS_fK1T1M — co-hosted w/ Eric; creator's-block remedies (adjacent-creator research,
+  employee brainstorm incentives, peer chat groups/masterminds).
+- 2023-10-09 tWox_ogYpSE — co-hosted w/ Eric; Twitter algorithm open-sourcing reaction; ★ Seattle
+  follow/unfollow-bot biographical anecdote (mid-20s, ~mid-2010s).
+- 2023-10-12 b8_eyYZF44k — co-hosted w/ Eric; domain-authority-tiered SEO strategy (free-tools for
+  link-building vs. content-refresh-over-new-posts for established sites); Ubersuggest ~21K
+  referring-domains figure.
+- 2023-10-14 o9qSf9wEuMo — co-hosted w/ Eric, long-form; spectacle-vs-targeted content strategy;
+  ★ wealth/investing philosophy (VC/PE/hedge-fund allocation, "money working for you"); ★ explicit
+  remote-first company policy + hiring-type rationale; ChatGPT/Italy-ban regulatory take.
+- 2023-10-16 pB0-UXV9oTE — co-hosted w/ Eric; "paid media is NOT getting easier" rebuttal (iOS
+  privacy-driven data loss); AI-can't-replace-creative-strategy argument.
+
+Ledger: 7 rows → L2, 1 row → L1 (no-captions). youtube-index.md +7 (footer 1129→1136); index.md
+count bumped to match.
+Ingest batches since last synthesis (pass 14, 2026-07-22): now 6/10 — not yet due.
+
+Synthesis notes: three ★ L3 candidates — (1) the Kwt3u-5MkO4 age/tenure marker (38 years old,
+22-years-in-marketing, self-dated 2023-09-28) is a clean cross-check point for
+`persona/biography.md`'s birth-year note; (2) the o9qSf9wEuMo wealth-philosophy passage
+(VC/PE/hedge-fund allocation, bank lending against PE holdings, "money working for you") is new,
+concrete material for `persona/beliefs.md`'s wealth stance and hasn't appeared this explicitly
+before; (3) the same source's explicit remote-first policy statement + hiring-type rationale
+belongs in `persona/beliefs.md` (agency-entrepreneurship) alongside the existing management-style
+material. Secondary: the tWox_ogYpSE Seattle follow-bot anecdote adds mid-2010s texture to
+`persona/biography.md`'s early-career section; the FZNRproB8b0 NP Digital naming-origin story
+corroborates (does not contradict) the existing registry-verified founding date. No contradictions
+found; the Kwt3u-5MkO4 "five years ago" founding approximation is noted above as ordinary
+self-reported rounding, not flagged as a discrepancy.
