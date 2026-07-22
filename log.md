@@ -7582,3 +7582,40 @@ timeline. The 2021 M&A post-mortem and the India-acquisition-declined story are 
 `persona/beliefs.md` candidates (M&A due-diligence discipline, "purpose over money" belief,
 "trust but verify"). The India-offer episode should also be cross-checked against the
 existing M&A due-diligence-checklist belief from batch #134 for overlap/consolidation.
+
+## [2026-07-22] ingest | yt batch (@MarketingSchoolPod, 8) — P2 long-form (2024-05-31→06-10, cont. 136)
+
+Ingested 8 @MarketingSchoolPod long-form episodes (2024-05-31 through 2024-06-10), all L2. Fetched
+via `tools/ingest_batch.py prepare --channel @MarketingSchoolPod --n 8` (8/8 ok, no
+429/no-captions/unavailable/dup; no rate-limiting encountered). Wrote wiki/sources pages for
+yt-xd985vduPEg, yt-fm7xdNDjsYY, yt-FAF_H3uAyAE, yt-a-WUu0DmJVU, yt-5QhP2QbWC-M, yt-brUKULLK2MA,
+yt-suqs7LLKDi0, yt-pn3KJFpRJa8. youtube-index.md +8 rows (footer 1228→1236), index.md count bumped
+to match. @MarketingSchoolPod P2 open 603→595; @neilpatel untouched this batch (29 P2 open,
+unchanged); shorts untouched (2688). Attribution note: two episodes this batch (yt-fm7xdNDjsYY
+"Mastermind Dinners," yt-suqs7LLKDi0 "Outreach Secrets") are Eric Siu-solo Agency Owners
+Association coaching-call previews with attendee agency owners — no Neil-attributed material,
+filed for ledger completeness only per SUBJECT.md's attribution-gating rule. One episode
+(yt-xd985vduPEg) is undiarized rapid-alternation dialogue beyond its confidently-attributed opening
+segment — held back from firm persona attribution pending a clearer-attributed corroborating
+source.
+
+Synthesis notes: strong debt this batch — five ★-flagged candidates. The Bryan Johnson interview
+arc spans four consecutive episodes (06-03 intro/prep, 06-05 Gemini question-prep, 06-06 quote
+follow-up, 06-07 tie-back to the scarcity belief) and should be consolidated into one dated
+biography/beliefs entry once the full interview episode itself is ingested. The NP Digital
+traffic-vs-revenue strategy-shift belief (yt-a-WUu0DmJVU — traffic down ≥2x from peak, revenue up
+3-4x, via a deliberate pivot to ultra-long-tail Enterprise keywords) reinforces and should be
+cross-checked against the similar traffic-vs-revenue rebuttal belief already logged from batch #127
+(yt-9jzkcD1tsC0, 2024-05-27) for consolidation into a single dated topic-page section. The
+fundraising philosophy + KISSmetrics sign-in-with-Google conversion-rate story (yt-5QhP2QbWC-M) and
+the personality-test self-scores (creativity ~10/100, toughness/detail-orientation "maxed out") are
+strong `persona/beliefs.md` + `persona/voice.md` candidates, the latter cross-referencing the
+similar personality-test self-scores already logged from batch #135 (99/100 detail-orientation).
+The YPO-chapter political self-identification ("slightly on the right" in a majority-Democratic
+Beverly Hills chapter) and the Patek-Philippe-collector-friend scarcity anecdote (yt-brUKULLK2MA)
+are strong `persona/biography.md` + `persona/beliefs.md` candidates (scarcity/exclusivity belief,
+explicitly tied to the Bryan Johnson "Don't Die" thread). The $10K Barbie-themed birthday party and
+"eavesdrop marketing" concept (yt-pn3KJFpRJa8, credited to a friend "Walter") are good
+`persona/voice.md` + biography candidates (family/spending anecdote, a distinctive named marketing
+concept). 9 batches since last checkpoint (pass 16); checkpoint due next iteration (10-batch
+threshold reached).
