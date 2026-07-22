@@ -7793,3 +7793,36 @@ remediation ships, to avoid continuing to burn batches for no yield.
 Synthesis notes: none (nothing ingested this batch; the driver's debt counter is mechanical —
 counts any `ingest |` log heading since the last synthesis entry regardless of content — so this
 entry advances it to 3/10, still well under the checkpoint).
+
+## [2026-07-22] ingest | yt batch (@MarketingSchoolPod, 8) — rate-limit safety rail triggered a fourth time, 0/8 (cont. 140)
+
+Batch #170 (dispatched via roster autopilot, single-writer sequential mode, batch size 8, told to
+prefer the open fresh-upload P1 row first). Orientation unchanged from cont. 137–139:
+`ingest_batch.py status` shows synthesis debt 3/10 (pass 17 not due, checkpoint at 10), persona not
+stale (no ≥10-batch gap, no unreflected new topic pages, P1 not freshly drained — it's still the
+same single open row), no TARGET channel at zero ledger rows, and the same one open P1 row
+(`yt-yB3zk2NPWCI`, 2026-07-21, "What Part Of Your Company Should You Rebuild From Scratch With
+AI?", the fresh-upload from the roster discovery-refresh) still open on @MarketingSchoolPod. Per
+Stage B (P1 first), ran `ingest_batch.py prepare --channel @MarketingSchoolPod --n 8` (selects the
+P1 row plus the 7 oldest-open P2 rows, 2024-06-11→06-18, same continuation window as cont.
+136–139): 0/8, all 8 landed in the `error`/retry bucket — including the P1 fresh-upload row.
+Confirmed via a direct manual probe (`yt-dlp --skip-download --write-auto-sub` on
+`yt-yB3zk2NPWCI`): fails immediately after `Downloading android vr player API JSON` with
+`ERROR: [youtube] yB3zk2NPWCI: Sign in to confirm you're not a bot. Use --cookies-from-browser or
+--cookies for the authentication` — the identical sign-in/bot-check wall documented at cont.
+137–139, not a new or channel-specific fault. This is now the **fourth consecutive dispatch**
+(cont. 137, 138, 139, 140) to hit this exact block with zero net ingest progress. Per the safety
+rail: stopped after diagnosing, made **no** ledger writes (`git status` clean both before and after
+this iteration), wrote no source pages, did not touch `youtube-index.md`/`index.md`, left no
+orphaned raw files. Ledger unchanged: @MarketingSchoolPod P1:1 P2:595 P3:28 (fresh-upload row still
+open), @neilpatel P2:29 P3:21 (untouched); shorts untouched (2691); L2=1236 L3=0.
+**Flagging for the operator a fourth time**: four consecutive autopilot dispatches have now burned
+a batch each on the identical yt-dlp sign-in/bot-check wall (cont. 137–140) with zero cumulative
+ingest yield; the PO-token-provider (e.g. `bgutil-ytdlp-pot-provider`) or `--cookies-from-browser`
+remediation flagged since cont. 137 still has not landed in this environment. Recommend pausing
+further autopilot ingest dispatches to this clone until that remediation ships — repeated dispatch
+without it is pure cost with no wiki growth.
+
+Synthesis notes: none (nothing ingested this batch; the driver's debt counter is mechanical —
+counts any `ingest |` log heading since the last synthesis entry regardless of content — so this
+entry advances it to 4/10, still well under the checkpoint).
