@@ -6864,3 +6864,36 @@ subtitles available)").
 
 Synthesis notes: none (nothing ingested this batch). 10 ingest batches now accumulated
 since synthesis pass 14 (checkpoint at 10) — synthesis pass 15 is due next iteration.
+
+## [2026-07-22] lint | synthesis pass 15 — @neilpatel 2023-06 → 2023-12 P2 tactical + co-hosted era (batches #138–#147)
+
+Ran the SYNTHESIS loop per `tools/SYNTHESIS.md`: `synthesis_batch.py prepare` surfaced the 10
+accumulated `Synthesis notes:` lines from cont. 107–116 (batches #138–#147, 2023-06-24→2023-12-07,
+plus one empty batch — cont. 116, 8/8 no-captions on a 2025-04/05 cluster). Promoted the
+genuinely-new findings into **seo**, **social-media**, and **agency-entrepreneurship** (no
+genuinely new material this run for content-marketing, paid-ads, analytics-cro, email-marketing, or
+ai-marketing — the "Where's Waldo" AI metaphor and "Project Magi" prediction recurred without new
+substance) plus **beliefs.md**, **biography.md**, **voice.md** (appearance.md unchanged) and one
+entity page (**np-digital**). Highlights: the irrevocable-trust/inheritance disclosure ("biggest
+mistake of my life"); a going-private rationale ("I'm not a CEO, I would be a terrible CEO"); a
+wealth-as-investment philosophy + explicit remote-first policy; the Beverly Hills house / Patek
+Philippe / Maybach diminishing-returns disclosure; true-omnichannel-vs-multichannel (Nike/Disney/
+Timberland, Ryan Reynolds/MNTN); a refund-policy brand-protection value ("penny-wise,
+pound-foolish"); a first-person Mexico M&A anecdote ("you can't trade on potential") plus an
+agency-acquisition diligence checklist ("kiss a lot of frogs"); the NP Digital naming origin; the
+course-selling walk-away ($600K/mo peak, Mike Kamo free-call anecdote); the candid Hustle/NYT-
+bestseller-list mechanics (Result Source) + a paid-speaking-fee trajectory; the five-factor Google
+ranking framework + per-platform first-hours growth mechanics; a black-hat LinkedIn playerup.com
+disclosure + white-hat engagement-pod counterpart; a virtual-summit case study; the quarterly
+money-page rule + a three-part growth-strategy list; NP Digital's international-expansion detail
+(74% YoY growth, Germany-division closure); and the Threads-vs-Twitter 8.3x engagement experiment.
+New unreconciled variant flagged (not a hard contradiction): a third, different self-reported
+AnswerThePublic acquisition date ("February, 2022") alongside the registry date and the
+previously-flagged "Feb 2023" self-reports. Carried, not smoothed: the 11x-vs-8x Mexico-M&A figure
+variant and the Seattle residency discrepancy (given further texture via a follow/unfollow-bot
+anecdote). Recompiled `persona/system-prompt.md` **v15 → v16** (compiled_from_sources 1,089 →
+1,156). `index.md` updated (topic-hub summaries, entity list, persona summaries, header).
+`pipeline/synthesis-state.md` high-water mark advanced to batch #147 / 1,156 L2 sources; no pending
+checkpoints remain.
+
+Synthesis notes: none (this is itself a synthesis pass).

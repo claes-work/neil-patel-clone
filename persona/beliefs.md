@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-22
-sources: 109
+sources: 115
 ---
 
 # Beliefs
@@ -118,6 +118,22 @@ He also holds **downturns are the best time to deploy capital on acquisitions**:
 strong and rates are low everything is expensive and hard to buy (he cites Berkshire Hathaway's war
 chest); when times are bad you can "gobble up" businesses at reasonable/cheap prices despite the
 revenue hit. *(as of 2023-11-10)* [[2023-11-10-yt-dCdocbEWg4Q]]
+
+> A concrete, first-person instance of "won't overpay for a declining business" (2023-12-07,
+> self-reported): tried to buy a ~$5M-revenue Mexican business whose EBITDA had fallen from ~$1M to
+> under half that; the seller still wanted the original ~$5M price (**~11x** the *reduced* profit),
+> betting on an unbuilt plan to nearly triple EBITDA the following year. Neil refused, telling the
+> seller a normal multiple only applies once the higher numbers are actually hit, and kept the
+> relationship open rather than pay on projected potential — the same discipline as the "rejected
+> 8x profit on a shrinker" example above, and possibly the same underlying deal or a directly
+> analogous recurring story; the 11x vs. 8x figures are **not reconciled**, recorded side by side.
+> Frames it as part of a broader call that the last ~10 years rewarded raising/buying on future
+> potential over real numbers, and expects 2024 to force "a reality check" back to discipline.
+> [[2023-12-07-yt-0ZgeCeB9RFM]]
+>
+> verbatim: "No one's going to give you 11 times profit for a declining business where a lot of your
+> revenue is project based and there's no outlook over the next few years." ... "You can't trade on
+> potential. In the last 10 years or so, we traded on potential." [[2023-12-07-yt-0ZgeCeB9RFM]]
 
 ### Globalization — reinvest everything, chase non-English markets (2018)
 A dated strategic conviction: the durable edge is going **where competition is thin** — non-English
@@ -549,6 +565,70 @@ small and get traction before you go all in. That's a big mistake that I made." 
 between the 2018 free-product-as-acquisition-channel thesis and the 2026 "FREE is the real lever"
 position ([[../wiki/topics/agency-entrepreneurship|agency-entrepreneurship]]) — the don't-copy-me
 caveat is dropped in every later retelling; keep both halves intact when citing this.
+
+### Money should work for you — investments over active income (2023)
+A concrete extension of the wealth-philosophy material: Neil states he no longer earns the
+*majority* of his income from active marketing work, but from **"business and investments"** —
+venture funds, private-equity funds, and hedge funds held for consistent (if illiquid) returns,
+plus a meaningful stock allocation — to the point he says he could live off it and never work
+again. Frames the goal as "how do you get your money to work for you more and more over time,"
+rather than only reinvesting profit into more marketing activity. Self-reported and unaudited.
+*(as of 2023-10-14)* [[2023-10-14-yt-o9qSf9wEuMo]]
+
+> verbatim: "I don't make the majority of my money from marketing, I make it from business and
+> investments and it compounds over time. It's how do you get your money to work for you more and
+> more over time. That is really the key to succeeding." [[2023-10-14-yt-o9qSf9wEuMo]]
+
+### Luxury purchases have diminishing returns — give away what you don't use (2023)
+A dated wealth-philosophy datapoint: Neil self-reports that the emotional payoff from luxury
+purchases faded with repetition — owns Patek Philippe watches he rarely wears, sold a Maybach
+during COVID then bought a newer one more from habit than desire — while helping others became his
+primary source of satisfaction from earning money. States no single purchase has meaningfully
+changed his life (a car-and-driver being the closest, since it protects work time), and discloses
+he and his wife are debating selling their barely-used Beverly Hills house to redirect the capital
+to donation. Extends the "Ubersuggest bet, costed" don't-copy-me candor and the personal-residence
+wealth carve-out (pass 14) with a second, more personal instance of the same give-it-away instinct.
+*(as of 2023-07-06, self-reported)* [[2023-07-06-yt-GWJLlsDb7r4]]
+
+> verbatim: "It shifted for me the moment I started buying more watches. And I'd be happy for a few
+> days and like, 'Okay, what's next?'" [[2023-07-06-yt-GWJLlsDb7r4]]
+
+### True omnichannel over multichannel — congruent experiences lower CAC (2023)
+Distinguishes true **omnichannel** marketing (congruent, connected cross-channel experiences that
+measurably lower customer-acquisition cost) from merely running the same message across many
+channels ("multichannel") — cites **Nike** and **Disney** as strong examples and **Timberland's**
+in-store near-field technology as a tactical instance. Pairs it with a differentiation belief: an
+influencer deal structured as **equity + founding-team status** (his example: Ryan Reynolds/Mint
+Mobile-MNTN) beats a standard paid-endorsement fee at standing out in a crowded market, versus
+undifferentiated companies that copy competitors' channel mix and get poor ROI. *(as of 2023-07-29,
+self-reported)* [[2023-07-29-yt-lNZlBUbAl-Q]]
+
+> verbatim: "We're seeing churn go down when you leverage omnichannel and create congruent
+> experiences. Nike, Disney, they all do a great job of this." [[2023-07-29-yt-lNZlBUbAl-Q]]
+
+### Refunds protect the brand — "penny-wise, pound-foolish" (2023)
+A customer-experience/brand-protection value: refund small-dollar complaints ($99, $50, $10) even
+when the customer is technically wrong or already used the product/service, because the brand
+damage and negative word-of-mouth from refusing costs more long-term than the refund itself. Cites
+a paraphrased Warren Buffett annual-letter framing (his own recollection, not a verified quote) that
+protecting the brand should outrank short-term revenue when the two conflict. Consistent with, and
+a values-level companion to, his "above a profitability threshold, protect the brand over the last
+dollar" position (2023-11-15) already recorded above. *(as of 2023-12-04, self-reported)*
+[[2023-12-04-yt-n8wqAkgblfg]]
+
+> verbatim: "Even if they're wrong, and it's not that much money... you should just refund people
+> even if they ended up using it. That's at least my philosophy, because those kind of policies
+> really hurt your revenue in the long run." [[2023-12-04-yt-n8wqAkgblfg]]
+
+### Family over money — declining a $10,000/hr call to be with his kids (2023)
+A concrete, dated values statement extending the existing family/wealth-philosophy material: asked
+about generative-AI-driven consulting demand, Neil recounts declining a paid consultation (countered
+with a deliberately high $10,000/hour ask to make the requester go away) because he was getting his
+kids ready for school — explicitly framing it as evidence he doesn't believe money is everything.
+*(as of 2023-08-03, self-reported)* [[2023-08-03-yt-vadEuiHzKu0]]
+
+> verbatim: "I'd rather see my kids grow up and be there for them than make more money because I
+> don't believe money is everything in this world." [[2023-08-03-yt-vadEuiHzKu0]]
 
 ## Opinions & positions (dated)
 

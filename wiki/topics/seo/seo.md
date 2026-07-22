@@ -2,7 +2,7 @@
 type: hub
 domain: seo
 created: 2026-07-14
-updated: 2026-07-21
+updated: 2026-07-22
 ---
 
 # SEO — hub
@@ -1115,6 +1115,71 @@ playbook, with a few concrete first-party figures and named-mechanism citations 
   plain-language voice material with a sharper anti-Ivy-League-vocabulary framing paired with the
   Hemingway App as his stated editing tool ([[2023-02-27-yt-b2RLM1QqdC0]]).
 
+## 2023-06 → 2023-12 solo + co-hosted era SEO — the five-factor ranking framework & a black-hat LinkedIn disclosure (@neilpatel P2, synthesis pass 15)
+
+- **The five-factor Google ranking framework, from a 900M-domain analysis (2023-06-29, ★).** A
+  Brazil-hosted interview names five factors his team's proprietary analysis found most correlated
+  with rankings: (1) **brand popularity** (most of Google's top-10 most-searched queries are brand
+  names — "Nike" outranks "shoes"); (2) **content quality**, any format (text/video/audio); (3)
+  **backlinks**, framed as a "vote" (an election analogy); (4) **clean/fast site code** (a messy vs.
+  organized-kitchen analogy); (5) **time/consistency** — sustained years-long effort, likened to
+  long-term stock holding. States realistic SEO timelines: some traction within ~6 months, strong
+  results typically after **~2 years** of sustained work, against a backdrop of Google making "over
+  nine algorithm changes per day." Platform-specific first-hours growth tactics from the same source
+  are cross-linked on [[../social-media/social-media|social-media]]; the Empiricus/Rico XP/Adobe
+  client case studies are on [[../../wiki/entities/np-digital|entities/np-digital]]
+  ([[2023-06-29-yt-0CJw3DjnuW8]]).
+  > "A vote is a one website linking to another website. So the more websites linking to yours that
+  > are relevant and good, the higher you're going to end up ranking." [[2023-06-29-yt-0CJw3DjnuW8]]
+- **E-E-A-T, content freshness, and free-tool link building as "the three current SEO pillars"
+  (2023-07-22).** Reinforces (rather than replaces) the existing E-A-T material: names Experience,
+  Expertise, Authority, Trust explicitly as the standout requirement now that AI content tools are
+  ubiquitous, cites Wikipedia's continual-update habit as a freshness model, and repeats the
+  free-tool-driven link-building doctrine — cited alongside the CNN Brazil case study (see
+  [[../../wiki/entities/np-digital|entities/np-digital]]) as evidence the approach still works at
+  enterprise scale ([[2023-07-22-yt-yMQvSX-cqWc]]).
+- **A black-hat LinkedIn tactic, explicitly self-labeled and disclaimed (2023-07-08, extended
+  2023-07-24, ★).** In a co-hosted growth-hacks segment, Neil describes — while explicitly
+  disclaiming personal/agency use — buying **verified LinkedIn accounts with 500+ real connections**
+  (via playerup.com, ~20 at a time for $1,000-2,000, bulk discounts) to seed early comments on a
+  company's own posts for a virality boost; a follow-up episode adds that batches stay effective for
+  1-3 months and need refreshing after ~6 months, and that the tactic works best on corporate/
+  company-page posts. States neither he nor Eric Siu use or recommend it, and offers a **"white
+  hat" alternative he does participate in**: informal WhatsApp "engagement pod" groups of marketers
+  who alert each other to new posts for prompt, genuine engagement — framed as ethical because
+  members only engage with content they'd have liked anyway. General heuristic: "look at what people
+  are doing in a shady way and figure out how you legitimize it" — white-hat is short-term pain for
+  long-term gain, black-hat the reverse, "which we've learned the hard way." (A companion gray-area
+  tool, retention.com, was disclosed in the same 2023-07-08 segment but is **Eric Siu's material, not
+  Neil's** — see [[../../wiki/entities/eric-siu|entities/eric-siu]] for that detail; not promoted
+  here per the attribution rule.) ([[2023-07-08-yt-JcjY_7p9PQc]], [[2023-07-24-yt-pCiq3LFcIGE]])
+  > "This is a little black hatty. I wouldn't recommend it but I'll just tell you guys it because
+  > some people want to know this stuff. ... We don't do it ourselves." [[2023-07-08-yt-JcjY_7p9PQc]]
+  > "The white hat way is often the path that takes longer to do, but it's the short term pain that
+  > you take for long term gain. And then the black hat way is you get the short term gain, but you
+  > get the long term pain, right? And like we've learned that the hard way."
+  > [[2023-07-24-yt-pCiq3LFcIGE]]
+- **Quarterly money-page refreshes, and a three-part growth-strategy list beyond free tools
+  (2023-08-17, ★).** Asked for the single biggest SEO lever, Neil's two-part answer: (1) for most
+  sites, update **"money pages"** (highest-traffic, highest-converting pages) on a **quarterly**
+  basis — content freshness is why sites like Wikipedia dominate rankings, and stale content is the
+  most commonly neglected fix he sees at his own agency's clients; illustrates competition at scale
+  live with "auto insurance" (~301,000 monthly US searches vs. 1.18 billion results, only page 1
+  realistically captures traffic — "people hide dead bodies on page two... that's page three"). (2)
+  Beyond the existing free-tool-for-backlinks strategy, two further growth levers with concrete
+  dollar figures: buying underutilized traffic-heavy web properties (the AnswerThePublic acquisition,
+  **$8.6M**, February [2022]) and buying a defunct competitor's — or his own former startup's —
+  domain purely for residual traffic (a personal **~$500K offer** for the KISSmetrics domain after it
+  folded, purely for its ~1M+/month residual visits). States NP Digital is a "nine-plus figure
+  revenue a year" company where free tools historically drove **40%+ of leads**, though most new
+  business now (5+ years in) comes from word-of-mouth/referrals/RFPs. Full biographical detail
+  (including the KISSmetrics-domain figure) on [[../../persona/biography|persona/biography]]
+  ([[2023-08-17-yt-VGyCeKbI9P0]]).
+  > "People hide dead bodies on page two because no one clicks there. That's page three."
+  > [[2023-08-17-yt-VGyCeKbI9P0]]
+  > "The biggest thing that companies should be doing that they're not doing is updating their
+  > content on a quarterly basis for all their money pages." [[2023-08-17-yt-VGyCeKbI9P0]]
+
 ## Signature framing: "get loved by Google"
 
 Neil's recurring sign-off phrase, worth capturing verbatim as voice:
@@ -1252,3 +1317,10 @@ many small things well, for the user, and rankings follow.
 - [[2023-01-30-yt-KB5GQYUW6IU]] — "4,500 algorithm changes in 2020" stat; YoY Search Console refresh workflow.
 - [[2023-02-13-yt-J2RqIpeo6vc]] — Amazon SEO's "A10" algorithm named explicitly.
 - [[2023-02-27-yt-b2RLM1QqdC0]] — Content-simplicity philosophy sharpened (Hemingway App).
+
+### 2023-06 → 2023-12 solo + co-hosted era SEO (@neilpatel P2, synthesis pass 15)
+- [[2023-06-29-yt-0CJw3DjnuW8]] — ★ Five-factor Google ranking framework (900M-domain analysis); platform first-hours tactics; client case studies.
+- [[2023-07-08-yt-JcjY_7p9PQc]] — ★ Black-hat LinkedIn playerup.com tactic, self-disclaimed (Neil-attributed portion only).
+- [[2023-07-22-yt-yMQvSX-cqWc]] — E-E-A-T/freshness/free-tool three pillars reinforced; CNN Brazil case study cross-ref.
+- [[2023-07-24-yt-pCiq3LFcIGE]] — playerup.com operational detail extended; white-hat engagement-pod counterpart.
+- [[2023-08-17-yt-VGyCeKbI9P0]] — ★ Quarterly money-page-refresh rule; three-part growth-strategy list (AnswerThePublic $8.6M, KISSmetrics domain $500K offer).

@@ -2,7 +2,7 @@
 type: hub
 domain: agency-entrepreneurship
 created: 2026-07-14
-updated: 2026-07-21
+updated: 2026-07-22
 ---
 
 # Agency & Entrepreneurship — frameworks
@@ -740,6 +740,132 @@ hiring/culture, and fundraising. Dated seeds; several carry an explicit through-
   > "The riches are in the niches. That's so true, I mean, that's so false. It's like the opposite
   > of being true. The riches are in big massive markets." [[2023-06-19-yt-Hlx9rxe7OH8]]
 
+## 2023-06 → 2023-12 solo + co-hosted era operating principles — going-private reasoning, the course-selling walk-away, wealth-as-investment philosophy, remote-first policy & the Mexico M&A discipline (@neilpatel P2, synthesis pass 15)
+
+- **International expansion detail — 74% YoY growth, region list, Germany closure (2023-07-13, ★).**
+  See [[../../wiki/entities/np-digital|entities/np-digital]] for the full detail: the intentional
+  profit-vs-cashflow reinvestment tradeoff (per auditors RSM/BDO), the Germany-division closure, and
+  eight new regions added in ~5 months ([[2023-07-13-yt-sdBe5ajaDhI]]).
+- **The early-Airbnb $240K cold-call contract, and "longevity + brand beat marketing polish"
+  (2023-07-20).** Full entry lives on [[../../persona/biography|persona/biography]]; cross-referenced
+  here as an agency-economics thesis: for Fortune-1000/enterprise clients, brand built cumulatively
+  via word-of-mouth over 10+ years in business outperforms any specific paid/organic channel — "the
+  older your company, the better your marketing" ([[2023-07-20-yt-STtq2ggR900]]).
+- **Going-private rationale — "I would be a terrible CEO," patient capital only (2023-08-28, ★).**
+  States NP Digital continues to receive IPO/SPAC-style acquisition offers but rejects them to avoid
+  answering to shareholders over quarterly performance rather than doing what's best for clients and
+  the team; would accept outside capital only from patient, hands-off investors. Explicitly
+  disclaims being CEO ("I would be a terrible CEO... your job is to set the tone, set the direction")
+  and says he doesn't track day-to-day operations closely at ~750-800 employees, working 60-70
+  hours/week. States NP Digital's edge over larger holding-company competitors is avoiding internal
+  silo/earn-out revenue conflicts, being privately held with Neil as majority decision-maker
+  ([[2023-08-28-yt-oBqvBSCJJnA]]).
+  > "Who wants to answer to all those shareholders?... I just want to do what I feel is best for the
+  > business and the team feels is best for the business and best for our customers."
+  > [[2023-08-28-yt-oBqvBSCJJnA]]
+- **The "NP Digital" naming origin — a domain-acquisition delay (2023-10-05).** Full entry on
+  [[../../wiki/entities/np-digital|entities/np-digital]]: the agency was meant to launch as "Patel,"
+  then "NP Digital," but both domains were unavailable at founding; the shortened public name only
+  landed ~18 months after launch, once the npdigital.com owner finally sold — extends the existing
+  key-man-syndrome reasoning for avoiding a name built entirely around Neil personally
+  ([[2023-10-05-yt-FZNRproB8b0]]).
+- **Wealth-as-investment philosophy + NP Digital's explicit remote-first policy (2023-10-14, ★).**
+  States he no longer earns the majority of his income from active marketing work but from
+  "business and investments" — venture, private-equity, and hedge funds held for consistent
+  (if illiquid) returns, plus a stock allocation, to the point he says he could live off it and
+  never work again; frames the goal as "how do you get your money to work for you more and more over
+  time" — new, concrete texture on the existing wealth-philosophy material (self-reported,
+  unaudited). Separately confirms NP Digital is "committed to remote first" while keeping WeWork/
+  satellite offices where employees or specific enterprise clients want in-person presence; predicts
+  a hybrid model dominates industry-wide within 5-10 years and floats a theory that some large
+  companies use return-to-office mandates to induce voluntary attrition instead of paying severance
+  ([[2023-10-14-yt-o9qSf9wEuMo]]).
+  > "I don't make the majority of my money from marketing, I make it from business and investments
+  > and it compounds over time. It's how do you get your money to work for you more and more over
+  > time." [[2023-10-14-yt-o9qSf9wEuMo]]
+  > "We are committed to remote first... it really is based on two factors. One, it's what the
+  > employees want. Two, it's also what certain clients want." [[2023-10-14-yt-o9qSf9wEuMo]]
+- **"Education is a shortsighted revenue stream" + a $50K average speaking fee + Brazil/Web Summit
+  confirmed (2023-11-04, ★).** Argues knowledge products (courses, eBooks, paid speaking) are
+  commoditized and underpriced relative to selling the underlying outcome — the same buyers willing
+  to pay for a course could instead buy NP Digital's much higher-ticket services; credits giving his
+  own book away free (rather than charging) as part of what drove NP Digital's Inc. "21st
+  fastest-growing company" ranking. States his average paid-speaking fee is roughly **$50,000** but
+  says he increasingly skips paid speaking altogether, prioritizing "the right event" and closing
+  enterprise deals over the fee itself — an update on the $25-50K datapoint logged in
+  [[../../persona/biography|persona/biography]] (2019). Recorded from Brazil for Web Summit, with
+  meetings lined up with **Whirlpool, Nestle, Michelin**, and Brazil's largest insurance company —
+  corroborates the dedicated Brazil/Latin America divisions already logged on
+  [[../../wiki/entities/np-digital|entities/np-digital]] ([[2023-11-04-yt-lJ2raIPR_Z0]]).
+  > "I don't really care for the money from speaking. Closing one of these deals would make me way
+  > more money and profit over time than just charging 20, 30, 50, 100 grand, whatever it may be to
+  > speak... let's say my average is 50 grand." [[2023-11-04-yt-lJ2raIPR_Z0]]
+- **The course-selling walk-away — $600K/mo peak, the Mike Kamo free-call anecdote (2023-11-11,
+  ★).** Full entry on [[../../wiki/entities/np-digital|entities/np-digital]]: personal history behind
+  the freemium-to-services doctrine, discontinuing a $97-course-plus-free-call offer once co-founder
+  Mike Kamo showed the free call wasn't improving conversions ([[2023-11-11-yt-XQw0N4jMjoM]]).
+- **Agency-acquisition diligence checklist + the "people business" retention discipline
+  (2023-12-02, ★).** The #1 mistake acquiring an agency: not retaining founders/key staff for 1-2
+  years post-close — an agency is a people business, and losing the leader (and their "lieutenants")
+  destabilizes client relationships fast (an organ-transplant-rejection metaphor for merging two
+  organizations). Diligence checklist: churn by client count *and* revenue, segmented by industry;
+  services sold per client; staff tenure and churn; how leads are sourced (founder-dependent vs.
+  brand-driven — founder-dependent is riskier since the founder's incentive to stay drops after
+  close); require audited financials or independent review to catch fraud; evaluate multiple targets
+  before committing ("you got to kiss a lot of frogs"); and target agencies retaining customers **4+
+  years**, since 1-2-year retention is "a revolving door" ([[2023-12-02-yt-uvmBxTp14bA]]).
+  > "The agency's a people business. The people is really what matters. The people is what's driving
+  > the revenue, the people, it's what's reducing the churn." [[2023-12-02-yt-uvmBxTp14bA]]
+- **Refund-policy brand-protection philosophy — "penny-wise, pound-foolish" (2023-12-04, ★).**
+  Prompted by a co-host's own bad refund experience (a travel-deals subscription company), states his
+  general philosophy: refund small-dollar complaints ($99, $50, $10) even when the customer is
+  technically wrong or already used the product, because the brand damage/negative word-of-mouth
+  from refusing costs more than the refund — "penny-wise, pound-foolish." Cites a paraphrased Warren
+  Buffett annual-letter framing (his own recollection, not a verified quote) that protecting the
+  brand should outrank short-term revenue gains ([[2023-12-04-yt-n8wqAkgblfg]]).
+  > "Even if they're wrong, and it's not that much money... you should just refund people even if
+  > they ended up using it. That's at least my philosophy, because those kind of policies really
+  > hurt your revenue in the long run." [[2023-12-04-yt-n8wqAkgblfg]]
+- **The Mexico M&A anecdote — "you can't trade on potential" (2023-12-07, ★, cross-reference
+  flagged).** First-person M&A discipline story: tried to buy a ~$5M-revenue Mexican business whose
+  EBITDA had fallen from ~$1M to under half that; the owner still wanted the original ~$5M price
+  (~**11x** the *reduced* profit) based on an unbuilt plan to nearly triple EBITDA the following
+  year via new, unsold service lines. Neil refused, telling the seller a normal multiple only
+  applies once the higher numbers are actually achieved, and kept the relationship open rather than
+  pay on projected potential. Frames it as an instance of a broader discipline call: the last ~10
+  years rewarded raising/buying on future potential rather than actual numbers, and expects (welcomes,
+  even for himself) 2024 to be a "reality check" year as tech layoffs resume and higher-for-longer
+  rates force a return to discipline. **This 11x-Mexico anecdote closely parallels — and is likely
+  the earlier telling of, or a directly analogous recurring story to — the "rejected 8x profit on a
+  shrinking company" example in the 2026-07-20 M&A-discipline entry above** (the "beware key-man
+  risk / high margins signal an under-built team / won't overpay for a declining business" passage);
+  both share the exact shape (a shrinking/declining target, an inflated ask based on future
+  potential, a refusal pending real numbers) — recorded here as an unreconciled numeric variant
+  (11x vs. 8x) of what may be the same underlying deal or lesson, not smoothed into one figure
+  ([[2023-12-07-yt-0ZgeCeB9RFM]]).
+  > "No one's going to give you 11 times profit for a declining business where a lot of your revenue
+  > is project based and there's no outlook over the next few years." ... "You can't trade on
+  > potential. In the last 10 years or so, we traded on potential. We traded on future earnings,
+  > right?" [[2023-12-07-yt-0ZgeCeB9RFM]]
+- **The virtual-summit case study — 20,000-30,000 registrants, a 50-60% attendance rate, and an
+  enterprise speaker roster (2023-11-18, ★).** Eric interviews Neil about a virtual summit NP Digital
+  had just run: **20,000-30,000 registrants**, **50-60% attendance** (vs. typical webinar attendance
+  of ~25-30%) — a gap he attributes specifically to multi-day email (and selective SMS) reminders
+  sent only to already-registered attendees, not broader promotion (attendance was only ~32-33%
+  before adding the reminder cadence). Monetization isn't ticket sales — it's case studies/soft NP
+  Digital pitches woven into sessions, plus post-event lead capture (session slides + a "chat with
+  the team" link). Names 12-13 speakers from major corporations: CMOs of **Google Italy** and
+  **American Express**, a **Sony Music** streaming VP, **Coca-Cola's** digital-marketing lead,
+  **Marriott's** VP of loyalty, **BBVA**, **FedEx's** marketing director, **ESPN's** head of growth,
+  a senior **Unilever** brand director, and the former CEO of **Loro Piana**. Distribution playbook
+  for hosts without a large list: reciprocal cross-promotion partnerships with other summit
+  organizers, and supplying speakers ready-made copy/graphics to promote to their own audiences —
+  explicitly does not use Facebook ads to drive registrants. Overall verdict: "easy revenue... a good
+  business" but "not as good as a standalone business" — a profitable addition, not a business unto
+  itself ([[2023-11-18-yt-2r-lgMb2iIQ]]).
+  > "When we didn't do that, we were getting closer to somewhere around like 32, 33% showing up...
+  > the moment we started sending emails... it really boosts show up rates." [[2023-11-18-yt-2r-lgMb2iIQ]]
+
 ## Key source pages
 
 - [[2016-11-25-yt--dCls0VoY58]] — "Learn REAL Digital Marketing In Just 5 Minutes a Day":
@@ -876,6 +1002,21 @@ hiring/culture, and fundraising. Dated seeds; several carry an explicit through-
 - [[2023-06-10-yt-4bs4lxQsvGQ]] — ★ WealthCon 10-hack keynote; $515M acquisition offer disclosed.
 - [[2023-06-15-yt-rFkUARYJwXk]] — ★ Fullest teen-founder origin account (age 15.5, artist self-framing).
 - [[2023-06-19-yt-Hlx9rxe7OH8]] — ★ "Riches are in the niches" → "big massive markets" belief reversal.
+
+### 2023-06 → 2023-12 solo + co-hosted era operating principles (@neilpatel P2, synthesis pass 15)
+- [[2023-07-13-yt-sdBe5ajaDhI]] — ★ International expansion: 74% YoY growth, region list, Germany closure.
+- [[2023-07-20-yt-STtq2ggR900]] — Early-Airbnb $240K cold-call contract; longevity-beats-polish thesis.
+- [[2023-08-28-yt-oBqvBSCJJnA]] — ★ Going-private rationale; "I would be a terrible CEO."
+- [[2023-10-05-yt-FZNRproB8b0]] — NP Digital naming origin (domain-acquisition delay).
+- [[2023-10-14-yt-o9qSf9wEuMo]] — ★ Wealth-as-investment philosophy; explicit remote-first policy.
+- [[2023-11-04-yt-lJ2raIPR_Z0]] — ★ "Education is shortsighted" thesis; $50K speaking fee; Brazil/Web Summit confirmed.
+- [[2023-11-11-yt-XQw0N4jMjoM]] — ★ Course-selling walk-away ($600K/mo peak; Mike Kamo free-call anecdote).
+- [[2023-12-02-yt-uvmBxTp14bA]] — ★ Agency-acquisition diligence checklist; "people business" retention discipline.
+- [[2023-12-04-yt-n8wqAkgblfg]] — ★ Refund-policy philosophy ("penny-wise, pound-foolish").
+- [[2023-12-07-yt-0ZgeCeB9RFM]] — ★ Mexico M&A anecdote ("you can't trade on potential"); 11x-vs-8x cross-reference flagged.
+- [[2023-08-12-yt-GS07GGY1sEw]] — ★ Candid Hustle/NYT-bestseller mechanics (Result Source); paid-speaking fee trajectory → "fishing with dynamite."
+- [[2023-08-17-yt-VGyCeKbI9P0]] — ★ Quarterly money-page rule; three-part growth-strategy list (AnswerThePublic, KISSmetrics domain offer).
+- [[2023-11-18-yt-2r-lgMb2iIQ]] — ★ Virtual-summit case study (20-30K registrants, enterprise speaker roster).
 
 ## 2018-H2 → 2019 solo-era operating principles (@neilpatel P2)
 

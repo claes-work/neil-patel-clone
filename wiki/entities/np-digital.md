@@ -68,6 +68,19 @@ revenue**. 🗣️
 > registry-verified discrepancy, not smoothed over. 🗣️ vs ✅
 > ([[../sources/2023-03-27-yt-01qUWcCw1xw]], [[../sources/2023-03-30-yt-fslIfiEouqs]],
 > [[../sources/2023-05-22-yt-OfZ1WFGpMRs]])
+>
+> A **third, still-different** self-reported date surfaces later the same year: a 2023-09-18
+> interview states the deal closed **"February, 2022"** — matching the registry year but not its
+> month (2022-05-31), and contradicting the "Feb 2023" self-reports immediately above. The same
+> source adds figures not elsewhere in the corpus: at acquisition, AnswerThePublic accounted for
+> roughly **40% of NP Digital's consulting revenue** and had **~60% of Ubersuggest's traffic**
+> (compare the ~70-80%-of-traffic / under-5%-of-agency-revenue figures above — a variant, not
+> identical, traffic share) — monetized only via tool subscriptions, not services, which Neil gives
+> as the strategic rationale for the buy (marketing-software companies earn far less than
+> marketing-services companies). Recorded as a third unreconciled date variant, not smoothed into
+> either of the other two. 🗣️ ([[../sources/2023-09-18-yt-vM-r6rNRh4s]])
+> "February, 2022 we bought a tool called AnswerThePublic for 8.6 million bucks... it accounted for
+> roughly 40% of our consulting revenue at NP Digital." ([[../sources/2023-09-18-yt-vM-r6rNRh4s]])
 
 ## Financing history — declined VC, bank AR-financing instead (2023 self-report)
 
@@ -99,6 +112,88 @@ west... like it was in America" — after which Neil expanded, initially serving
 entering Brazil before winning Brazil-based clients directly. States the company's **first
 employee was hired ~April 2018** (officially in the US; the Brazil office itself was stood up
 earlier by a colleague named "Marine"). 🗣️ ([[../sources/2023-05-27-yt-luLpx7-Pdtg]])
+
+## International expansion — 74% YoY growth, region list, Germany closure (2023-07 self-report)
+
+A "Productive Insights" podcast return-guest interview discloses granular expansion detail not
+previously in the corpus: NP Digital's **international revenue grew ~74% year-over-year** despite
+a weak general economy — Neil frames expanding into new geographic markets as a near-free option
+in a downturn, since an established market can only get hurt by bad macro conditions while a
+brand-new market (starting from $0) can only improve. Regional footprint as of mid-2023: the five
+established non-US regions (**Australia, UK, Brazil, India, Canada**); a **Germany division
+closed** earlier in the year ("the Germany guy didn't work out... didn't want to do really any
+work," framed as a mutual, non-adversarial parting); **eight new regions added in ~5 months**
+(Italy, Spain, Singapore, Mexico, Colombia, Malaysia, Hong Kong, Japan); projecting **~23-25 total
+regions** by year-end at an estimated cost of several million dollars per region (original internal
+estimate ~$1M/region, since revised upward). States near-term company **profit is intentionally
+suppressed** — not from declining underlying profitability but because profit is being reinvested
+into the expansion on the advice of auditors **RSM and BDO** (tax/accounting-compliance reasons),
+producing "terrible cashflow" despite "great" underlying profit — a tradeoff he says he accepts for
+1-2 years. Reiterates the profit-over-revenue philosophy tied explicitly to his Gujarati upbringing
+("a business is someone that makes profit, not revenue. Revenue is an irrelevant number"). 🗣️
+([[../sources/2023-07-13-yt-sdBe5ajaDhI]])
+
+> "We still have great profit. We have terrible cashflow because we're taking all the profits and
+> reinvesting them for international expansion and growth which is going to make us suffer from an
+> income standpoint for the next two years which I'm okay with."
+> ([[../sources/2023-07-13-yt-sdBe5ajaDhI]])
+
+A later 2023 interview (recorded in Brazil for Web Summit) corroborates and extends the Brazil/LatAm
+footprint with named enterprise-client meetings: **Whirlpool, Nestle, Michelin, and Brazil's largest
+insurance company**, confirming NP Digital has "a whole Brazil and we even have a whole Latin
+America division" — consistent with, and more concretely client-specific than, the Hotmart/Andre
+Esteves Brazil-origin story already logged above. 🗣️ ([[../sources/2023-11-04-yt-lJ2raIPR_Z0]])
+
+## Client case studies (2023 self-reported)
+
+Three named client engagements disclosed in a single mid-2023 interview, alongside a fourth from a
+separate India-focused interview the same month:
+- **Empiricus** (Brazil) — reached **#1 in Brazil for "Bitcoin"** pre-COVID via SEO, driving large
+  email-list growth and downstream product revenue.
+- **Rico XP** (Brazil) — **2 million SEO-driven visits** over a two-year engagement.
+- **Adobe** — SEO traffic proved so much cheaper/higher-ROI than paid that Adobe's own paid
+  campaign budget scaled **4-5x** afterward; NP Digital won a **Search Marketing Award** for the
+  engagement.
+- **CNN Brazil** — drove roughly **1 billion additional organic page views over ~11-12 months**, a
+  "really hard milestone" the team achieved.
+🗣️ ([[../sources/2023-06-29-yt-0CJw3DjnuW8]], [[../sources/2023-07-22-yt-yMQvSX-cqWc]])
+
+Also confirms NP Digital has an **India office**, naming **Tata** as a client there. 🗣️
+([[../sources/2023-07-22-yt-yMQvSX-cqWc]])
+
+## The "NP Digital" naming origin — a domain-acquisition delay (2023-10 self-report)
+
+The fullest telling yet of the company-naming story: the agency was originally meant to launch as
+just **"Patel"** (patel.com was unavailable), then as **"NP Digital"** (npdigital.com was *also*
+unavailable at the time) — Neil made the domain owner an offer that wasn't accepted until **about a
+year and a half after the company had already launched** under "Neil Patel Digital," at which point
+the owner finally sold and the agency shortened its public name. Neil frames the shortening as
+partly driven by client anxiety about over-dependence on him personally ("what happens if Neil's
+not on my campaign?") — consistent with, and more concrete than, the existing key-man-syndrome
+reasoning already logged in [[../../persona/beliefs|persona/beliefs]]. Internally the team just
+calls it "NPD." 🗣️ ([[../sources/2023-10-05-yt-FZNRproB8b0]])
+
+> "Technically, the agency was supposed to be called Patel. I couldn't get patel.com. And then we
+> were trying to be NP Digital, and we couldn't get npdigital.com... he came back like a year and a
+> half later after we created the company, and then he accepted the offer, or else we would've been
+> NP Digital from day one." ([[../sources/2023-10-05-yt-FZNRproB8b0]])
+
+## Course-selling walk-away — $600K/mo peak, the Mike Kamo free-call anecdote (2023-11 self-report)
+
+Asked whether he'd sell courses today, Neil says no, and discloses his own pre-NP-Digital
+course-selling history: peak revenue around **$600K/month** at **50-80% margin** ("$3-500K/month
+easily sustainable") — objectively a very profitable business, but the *wrong* one relative to
+opportunity cost, since the same buyers willing to pay $9.97-$1,000 for a course could instead be
+sold NP Digital's $10M+/year enterprise services. Recounts discontinuing a **$97-course-plus-free-
+30-minute-call offer** after now-co-founder **Mike Kamo** (at the time his separate pre-NP-Digital
+ad-agency co-founder) pointed out only 17-20% of buyers redeemed the call — removing it changed
+nothing, confirming it was pure margin give-away. Conclusion: give courses away entirely for
+goodwill/content, monetize via a bigger vehicle instead — the personal-history grounding behind the
+freemium-to-services doctrine already logged in [[../../wiki/topics/agency-entrepreneurship/
+agency-entrepreneurship|agency-entrepreneurship]]. 🗣️ ([[../sources/2023-11-11-yt-XQw0N4jMjoM]])
+
+> "Why the heck would I sell a course for 9.97 when I can sell consulting services for $10 million a
+> year?" ([[../sources/2023-11-11-yt-XQw0N4jMjoM]])
 
 ## Headcount timeline (2023 self-reported markers)
 

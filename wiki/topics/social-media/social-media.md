@@ -2,7 +2,7 @@
 type: hub
 domain: social-media
 created: 2026-07-14
-updated: 2026-07-21
+updated: 2026-07-22
 ---
 
 # Social Media — hub
@@ -673,6 +673,56 @@ LinkedIn and Facebook playbooks at this depth.
   linked here as social-platform-ranking mechanics
   ([[2023-06-10-yt-4bs4lxQsvGQ]], [[2023-05-22-yt-OfZ1WFGpMRs]]).
 
+## 2023-06 → 2023-12 solo + co-hosted era social tactics — platform first-hours mechanics, a black-hat LinkedIn disclosure & the Threads engagement experiment (@neilpatel P2, synthesis pass 15)
+
+- **Platform-specific first-hours growth mechanics, from a 900M-domain/900-Facebook-page analysis
+  (2023-06-29, ★).** TikTok rewards videos getting many *real* (not just "good job") comments within
+  the first day; YouTube ranking is driven by first-24-hours traction, so NP Digital pushes new
+  videos via email/push-notification/SMS blasts immediately on release; Facebook favors videos over
+  five minutes long (an internal analysis of 900+ company Facebook pages found 5+-minute videos got
+  **80%+ more views** than shorter ones, though Facebook still skews toward an older demographic);
+  LinkedIn rewards real, 12+-word engaged comments from similarly-networked accounts within the
+  first four hours. The five-factor Google ranking framework from the same source is on
+  [[../seo/seo|seo]] ([[2023-06-29-yt-0CJw3DjnuW8]]).
+  > "LinkedIn is comments, engaging comments. They need to be at real conversations at least 12
+  > words long." [[2023-06-29-yt-0CJw3DjnuW8]]
+- **A black-hat LinkedIn engagement-buying tactic, self-disclaimed — and a white-hat pod
+  counterpart (2023-07-08, extended 2023-07-24, ★).** Neil describes (while explicitly disclaiming
+  personal/NP Digital use) buying verified LinkedIn accounts with 500+ real connections via
+  playerup.com (~20 at a time, $1,000-2,000, bulk discounts) to seed early comments on a company's
+  own posts — most effective on corporate/company pages, effective for 1-3 months, needs refreshing
+  after ~6 months. States his and Eric Siu's actual practice is a **"white hat" alternative**:
+  informal WhatsApp "engagement pod" groups of marketers who alert each other to new posts for
+  prompt, genuine engagement on content they'd have liked anyway — which he says has organically
+  produced real relationships. Full detail (including the companion retention.com tool, which is
+  **Eric's material, not Neil's**) on [[../seo/seo|seo]]
+  ([[2023-07-08-yt-JcjY_7p9PQc]], [[2023-07-24-yt-pCiq3LFcIGE]]).
+- **Nike/Disney/Timberland true-omnichannel examples + the Ryan Reynolds/MNTN equity-influencer
+  case (2023-07-29).** Distinguishes true **omnichannel** (congruent cross-channel experiences that
+  lower CAC) from merely running the same message on many channels ("multichannel") — cites **Nike**
+  and **Disney** as strong examples and **Timberland's** in-store near-field technology as a
+  tactical instance; separately cites giving an influencer (**Ryan Reynolds**) equity and
+  founding-team status rather than a flat paid endorsement — referencing the **Mint Mobile/MNTN**
+  outcome — as a creative-differentiation play that beats copying competitors' standard channel mix
+  in a crowded market. Extends, rather than duplicates, the existing Ryan Reynolds/Mint Mobile
+  citation above (pass 14), which framed the same deal as a celebrity-alignment example; here it's
+  framed as an omnichannel-era differentiation tactic ([[2023-07-29-yt-lNZlBUbAl-Q]]).
+  > "We're seeing churn go down when you leverage omnichannel and create congruent experiences.
+  > Nike, Disney, they all do a great job of this... Timberland uses near-field technology to make
+  > the in-store experiences amazing." [[2023-07-29-yt-lNZlBUbAl-Q]]
+- **The Threads-vs-Twitter 8.3x engagement experiment + early-platform-adoption advice
+  (2023-11-20, ★).** A personal, informal weekend experiment: posted identical content to Twitter and
+  the newly-launched Threads, controlled for follower-count and posting-time differences via a
+  spreadsheet, and found Threads delivered **roughly 8.3x more engagement per follower**. Attributes
+  the surge to Meta deliberately inflating organic reach on a brand-new platform to bootstrap
+  adoption (compares it to LinkedIn's early push behind LinkedIn Live) — practical takeaway: join any
+  brand-new social platform early, since the inflated-reach boost tapers off as a platform matures.
+  Self-reports getting "addicted" to testing new platforms, spending 3-4 hours over a weekend on this
+  one ([[2023-11-20-yt-fIa3CgTYAS0]]).
+  > "I ended up coming up with... the difference was roughly 8.3 times more engagement on Threads
+  > than Twitter." ... "But if you're not on Thread, you're making a big mistake. Go and do so."
+  > [[2023-11-20-yt-fIa3CgTYAS0]]
+
 ## Key source pages
 - [[2018-10-04-yt-5dyn03RSWVA]] — Post to Facebook natively (schedulers cut reach 2–3×); monthly reporting.
 - [[2018-12-08-yt-dDDpdAnb_Es]] — Instagram weak for B2B; pick channels that fit; don't chase Insta-famous.
@@ -767,3 +817,10 @@ LinkedIn and Facebook playbooks at this depth.
 - [[2023-06-10-yt-4bs4lxQsvGQ]] — LinkedIn/TikTok comment-velocity virality (WealthCon hacks).
 - [[2022-11-07-yt-OtLYIf_NExA]] — Position-Based attribution personal preference.
 - [[2022-11-21-yt-iyKDjFZOrUQ]] — ★ "Why I Focus on Social Media Marketing Over SEO" channel-prioritization philosophy.
+
+### 2023-06 → 2023-12 solo + co-hosted era social tactics (@neilpatel P2, synthesis pass 15)
+- [[2023-06-29-yt-0CJw3DjnuW8]] — ★ Platform first-hours growth mechanics (TikTok/YouTube/Facebook/LinkedIn).
+- [[2023-07-08-yt-JcjY_7p9PQc]] — ★ Black-hat LinkedIn playerup.com tactic, self-disclaimed (Neil-attributed portion only).
+- [[2023-07-24-yt-pCiq3LFcIGE]] — playerup.com operational detail extended; white-hat engagement-pod counterpart.
+- [[2023-07-29-yt-lNZlBUbAl-Q]] — Nike/Disney/Timberland omnichannel; Ryan Reynolds/MNTN equity-influencer case.
+- [[2023-11-20-yt-fIa3CgTYAS0]] — ★ Threads-vs-Twitter 8.3x engagement experiment; early-adoption advice.

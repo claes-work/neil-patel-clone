@@ -6,13 +6,68 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **@neilpatel 2022-12 → 2023-06 P2 tactical era complete — all 1,089 L2 sources, ingest batches #1–#137 (2016-11 → 2023-06)**, via synthesis pass 14 (2026-07-22). Pass 14 folded the @neilpatel 2022-12-15 → 2023-06-22 solo run (batches #128–#137 / log cont. 106 — a run unusually dense with guest interviews and first-person financial/family disclosure, 10 `Synthesis notes:` lines of debt) into all 8 topic hubs + 3 persona files (beliefs.md, biography.md, voice.md; appearance.md unchanged — no new appearance material this run) + system-prompt.md + 5 updated entity pages (crazy-egg, kissmetrics, mike-gullickson, np-digital, ubersuggest). The next pass starts from the debt accumulated after batch #137 (i.e. the next @neilpatel P2 ingest or the next @MarketingSchoolPod P2 run).
+Synthesized through: **@neilpatel 2023-06 → 2023-12 P2 tactical + co-hosted era complete — all 1,156 L2 sources, ingest batches #1–#147 (2016-11 → 2023-12/2025-05)**, via synthesis pass 15 (2026-07-22). Pass 15 folded the @neilpatel 2023-06-24 → 2023-12-07 run (batches #138–#147 / log cont. 107–116 — a mixed solo-interview + co-hosted Marketing-School-format run, one batch (cont. 116) ingesting nothing — 8/8 no-captions on a cluster of 2025-04/05 uploads — 10 `Synthesis notes:` lines of debt) into 3 topic hubs (seo, social-media, agency-entrepreneurship — no genuinely new material this run for content-marketing, paid-ads, analytics-cro, email-marketing, or ai-marketing; the "Where's Waldo" AI metaphor and "Project Magi" recurred without new substance) + 3 persona files (beliefs.md, biography.md, voice.md; appearance.md unchanged — no new appearance material this run) + system-prompt.md + 1 updated entity page (np-digital). The next pass starts from the debt accumulated after batch #147 (i.e. the next @neilpatel P2 ingest or the next @MarketingSchoolPod P2 run).
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
-_(none — caught up through batch #137; @neilpatel 2022-12→2023-06 P2 tactical era fully synthesized)_
+_(none — caught up through batch #147; @neilpatel 2023-06→2023-12 P2 tactical + co-hosted era fully synthesized)_
 
 ## Done checkpoints
+- [x] 2026-07-22 — **synthesis pass 15** — @neilpatel 2023-06 → 2023-12 P2 tactical + co-hosted era
+  complete (1,156 L2 sources total, batches #138–#147 / log cont. 107–116, 2023-06-24→2023-12-07 run
+  plus one empty batch, cont. 116, 8/8 no-captions). Drained the 10 accumulated `Synthesis notes:`
+  lines. Promotions (quality-over-volume; pure repeats/reinforcements dropped): **seo** (the
+  five-factor Google ranking framework — brand/content/backlinks/code/time — from a 900M-domain
+  analysis ★; a black-hat LinkedIn comment-seeding tactic (playerup.com), explicitly self-disclaimed,
+  plus a white-hat engagement-pod counterpart ★; the quarterly money-page-refresh rule + a
+  three-part growth-strategy list — free tools / buy underutilized traffic (AnswerThePublic $8.6M) /
+  buy a defunct competitor's domain (a ~$500K personal offer for the KISSmetrics domain) ★),
+  **social-media** (per-platform first-hours growth mechanics from the same 900M-domain/900-page
+  analysis ★; the same black-hat LinkedIn disclosure cross-linked; Nike/Disney/Timberland
+  true-omnichannel examples + the Ryan Reynolds/MNTN equity-influencer case; the Threads-vs-Twitter
+  8.3x engagement experiment ★), **agency-entrepreneurship** (NP Digital's international-expansion
+  detail — 74% YoY growth, a Germany-division closure, eight new regions in ~5 months ★; a
+  going-private rationale — "I'm not a CEO, I would be a terrible CEO," patient-capital-only ★; the
+  NP Digital naming origin — a year-and-a-half domain-acquisition delay; a wealth-as-investment
+  philosophy + explicit remote-first company policy ★; the candid Hustle/NYT-bestseller-list
+  mechanics (Result Source, corporate bulk pre-orders) + a paid-speaking-fee trajectory ($5-10K →
+  $50-100K/talk → "fishing with dynamite" free-speaking pivot) ★; the course-selling walk-away
+  ($600K/mo peak, the Mike Kamo free-call anecdote) ★; an agency-acquisition diligence checklist
+  ("kiss a lot of frogs," 4-year retention bar) ★; a refund-policy brand-protection value
+  ("penny-wise, pound-foolish") ★; a virtual-summit case study — 20-30K registrants, an enterprise
+  speaker roster ★; the Mexico M&A anecdote — "you can't trade on potential" ★). **No genuinely new
+  material this run for content-marketing, paid-ads, analytics-cro, email-marketing, or
+  ai-marketing** — the "Where's Waldo" AI-content-sameness metaphor and the "Project Magi" prediction
+  both recurred without new substance; a companion gray-area tool (retention.com) disclosed in the
+  same segment as the LinkedIn tactic was excluded as **Eric Siu's material, not Neil's**. **New
+  unreconciled variant flagged (not a hard contradiction):** a third, different self-reported
+  AnswerThePublic acquisition date — "February, 2022" — surfaces alongside the registry-verified
+  2022-05-31 close and the previously-flagged "Feb 2023" self-reports, now three distinct dates on
+  record ([[../wiki/entities/np-digital|entities/np-digital]]); the existing 11x-vs-8x Mexico-M&A
+  figure variant and the Seattle residency discrepancy (given further, still-unresolved texture via
+  a follow/unfollow-bot anecdote) are both carried forward, not smoothed. Persona: **beliefs.md**
+  (109→115 sources; the going-private rationale, wealth-as-investment philosophy, luxury-purchases-
+  diminishing-returns, true-omnichannel-vs-multichannel + Nike/Disney/Ryan-Reynolds-MNTN, the
+  refund/brand-protection value, the Mexico M&A discipline anecdote, a family-over-money values
+  statement), **voice.md** (82→90 sources; "That was actually my biggest mistake in my life," "I'm
+  not a CEO, I would be a terrible CEO," "You can't trade on potential," "you got to kiss a lot of
+  frogs," "penny-wise, pound-foolish," "I don't believe money is everything in this world," the NYT-
+  bestseller-mechanics candor quote, a rare on-mic family interruption), **biography.md** (87→94
+  sources; the irrevocable-trust/inheritance disclosure, the Beverly Hills house + Patek
+  Philippe/Maybach diminishing-returns disclosure, the early-Airbnb $240K cold-call contract, the
+  candid Hustle/NYT-bestseller mechanics + speaking-fee trajectory, the three-part growth-strategy
+  list, a family recording-interruption confirmation, the Seattle follow-bot anecdote), **appearance.md**
+  unchanged (7 sources; no new appearance material this run). Recompiled **system-prompt.md v15 → v16**
+  (compiled_from_sources 1,089 → 1,156): wove in the going-private/"terrible CEO" self-framing, the
+  wealth-as-investment philosophy paired with the irrevocable-trust regret, the true-omnichannel-vs-
+  multichannel differentiation belief, the refund-policy brand-protection value, the Mexico M&A
+  anecdote + agency-acquisition diligence checklist, the NP Digital naming origin, the course-selling
+  walk-away, the $50K speaking-fee update, the early-Airbnb $240K contract, the Threads 8.3x
+  experiment, and the family-over-money values statement; kept the five-factor ranking framework,
+  the black-hat LinkedIn disclosure, the international-expansion detail, and the client case studies
+  topic-hub-only per the changelog. `index.md` updated (topic-hub summaries, entity list, persona
+  summaries, header). `pipeline/synthesis-state.md` high-water mark advanced to batch #147 / 1,156
+  L2 sources; no pending checkpoints remain.
 - [x] 2026-07-22 — **synthesis pass 14** — @neilpatel 2022-12 → 2023-06 P2 tactical era complete
   (1,089 L2 sources total, batches #128–#137 / log cont. 106, 2022-12-15→2023-06-22 solo run; fully
   Neil-attributed, a run unusually dense with guest-interview financial/family disclosure). Drained

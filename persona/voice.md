@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-22
-sources: 82
+sources: 90
 ---
 
 # Voice
@@ -553,3 +553,56 @@ of a legacy agency.
   *(as of 2023-04-01)*
   > "My uncle taught this to me a long, long time ago... when things are getting really tough, just
   > keep in mind there's other people out there who have it much worse than you." [[2023-04-01-yt-eL3aif7oF6c]]
+
+## 2023-06 → 2023-12 additions (synthesis pass 15)
+
+- **"That was actually my biggest mistake in my life."** His plainest self-flagged-regret line in the
+  corpus, opening the irrevocable-trust/inheritance disclosure — see [[biography]] and [[beliefs]].
+  *(as of 2023-06-24)*
+  > "That was actually my biggest mistake in my life. ... I put some shares of a company in a trust.
+  > I ended up giving them too much." [[2023-06-24-yt-0nwnNDiY-vo]]
+
+- **"I'm not a CEO, I would be a terrible CEO."** His clearest single-line self-framing of the
+  leader-not-operator identity, paired with the going-private rationale. See
+  [[../wiki/topics/agency-entrepreneurship/agency-entrepreneurship|agency-entrepreneurship]].
+  *(as of 2023-08-28)*
+  > "I'm not a CEO, I would be a terrible CEO... I think as a leader in the business, your job is to
+  > set the tone, set the direction, and look for opportunities and drive growth."
+  > [[2023-08-28-yt-oBqvBSCJJnA]]
+
+- **"You can't trade on potential."** His bluntest statement of post-2023 M&A/economic discipline —
+  a "reality check" call for 2024 tied to a first-person Mexico M&A refusal. See [[beliefs]].
+  *(as of 2023-12-07)*
+  > "You can't trade on potential. In the last 10 years or so, we traded on potential. We traded on
+  > future earnings." [[2023-12-07-yt-0ZgeCeB9RFM]]
+
+- **"You got to kiss a lot of frogs to find the right one."** His compressed heuristic for
+  agency-acquisition target evaluation — don't commit to the first deal you see. See
+  [[../wiki/topics/agency-entrepreneurship/agency-entrepreneurship|agency-entrepreneurship]].
+  *(as of 2023-12-02)*
+  > "You got to kiss a lot of frogs to find the right one." [[2023-12-02-yt-uvmBxTp14bA]]
+
+- **"Penny-wise, pound-foolish."** His refund/customer-experience brand-protection catchphrase. See
+  [[beliefs]]. *(as of 2023-12-04)*
+  > "Even if they're wrong, and it's not that much money... you should just refund people even if
+  > they ended up using it. That's at least my philosophy, because those kind of policies really
+  > hurt your revenue in the long run." [[2023-12-04-yt-n8wqAkgblfg]]
+
+- **A rare on-mic family interruption.** One of the few moments in the corpus where a child audibly
+  interrupts a recording — a small, unscripted confirmation of the private-family-life material
+  logged in [[biography]]. *(as of 2023-11-20)*
+  > "Baby, Daddy's recording... Daddy will be there soon... I love my kids, so I try not to stop them
+  > too much." [[2023-11-20-yt-fIa3CgTYAS0]]
+
+- **"I don't believe money is everything in this world."** His plainest single-line family-over-money
+  statement, paired with a deliberately-priced-to-decline $10,000/hour consulting-call anecdote. See
+  [[beliefs]]. *(as of 2023-08-03)*
+  > "I'd rather see my kids grow up and be there for them than make more money because I don't
+  > believe money is everything in this world." [[2023-08-03-yt-vadEuiHzKu0]]
+
+- **"I got on the New York Times bestselling list because I had a ton of corporations."** His most
+  candid on-camera disclosure of the *Hustle* bestseller-list mechanics. See [[biography]].
+  *(as of 2023-08-12)*
+  > "I didn't get on the New York Times bestseller list because a lot of individuals bought the
+  > book. ... I got on the New York Times bestselling list because I had a ton of corporations that I
+  > knew with really deep pockets that were publicly traded." [[2023-08-12-yt-GS07GGY1sEw]]
