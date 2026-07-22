@@ -6656,3 +6656,25 @@ beliefs.md), the Hustle/NYT-bestseller-list-gaming candor + paid-vs-free-speakin
 (biography.md, beliefs.md), and the three-part growth-strategy list + quarterly money-page rule
 (topics/seo, topics/agency-entrepreneurship). No contradictions found; AnswerThePublic $8.6M
 figure corroborates SUBJECT.md's existing "(acquired 2022)" note rather than conflicting with it.
+
+## [2026-07-22] ingest | yt batch (@neilpatel, 8) — P2 long-form (2023-08-21→09-07, solo stage Q&A + Ringba-show interview + co-hosted Eric Siu segments era, cont. 110)
+Batch: 8 ok, 0 skipped, 0 no-captions, 0 dup, 0 retry.
+- 2023-08-21 mHGzDKPPrBQ — ★ stage Q&A fireside; personal-brand-vs-company-brand; "Where's Waldo" AI-sameness metaphor; E-E-A-T differentiation.
+- 2023-08-24 PQPQYSmuFv4 — co-hosted w/ Eric; 255M-email stats (44% open, 2.66% click); segmentation lift ~57-58%.
+- 2023-08-26 xC9f8LJjtV4 — co-hosted w/ Eric; live Google Bard CRO demo on singlegrain.com.
+- 2023-08-28 oBqvBSCJJnA — ★ solo interview (Seth Godin ep.200 / Derek Sivers ep.222 podcast); going-private rationale; "leader not CEO" self-framing; Google-wins-on-data-inputs forecast.
+- 2023-08-31 oKEXoc12Llg — Harrison/Adam Ringba-show continuation (same show as 2023-08-12/2023-08-17); Super Bowl-ad ROI skepticism; brand-recognition exercise (Ferrari/Amex/Adidas); land-and-expand detail.
+- 2023-09-02 96az7lgos18 — co-hosted (moderate-confidence Eric); views-vs-revenue vanity-metrics take; niche-content-converts-better argument.
+- 2023-09-04 hV56Y8lQPSY — co-hosted w/ Eric; newsletter-comeback follow-up to 2023-08-24; in-email-checkout tech detail.
+- 2023-09-07 hoDGpOTEloc — co-hosted w/ Eric; Project Magi (Google conversational/transactional search); CPC-to-CPA paid-ads forecast.
+
+Ledger: all 8 rows → L2. youtube-index.md +8 (footer 1113→1121); index.md count bumped to match.
+
+Synthesis notes: several ★-flagged L3 candidates this batch — (1) the "Where's Waldo" AI-content-sameness
+metaphor + E-E-A-T differentiation framing (2023-08-21, new turn of phrase not yet logged); (2) the
+going-private rationale ("who wants to answer to all those shareholders") + "leader not CEO" self-framing
+(2023-08-28), reinforcing but sharpening prior instances; (3) Project Magi / conversational-search POV
+(2023-09-07) as an SGE/AI-search era marker. Otherwise mostly reinforcement of already-logged positions
+(segmentation lift, free-tool strategy, land-and-expand, omnichannel-required thesis, Super Bowl-ROI
+skepticism). No contradictions found. Attribution note: 2023-09-02 co-host identity is moderate- rather
+than high-confidence (unnamed in transcript, inferred from format).

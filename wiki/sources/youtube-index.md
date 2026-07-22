@@ -1126,6 +1126,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2023-08-14 — [Insider starts to experiment with AI (co-hosted w/ Eric; AI headcount efficiency; Ubersuggest AWS-to-GCP talks)](2023-08-14-yt-S1fxWbVm3zA.md) — ai-marketing, content-strategy, agency-entrepreneurship
 - 2023-08-17 — [SEO Techniques to Boost Organic Traffic (solo multi-host interview; ★ money-page freshness; free-tool/buy/domain-acquisition strategies)](2023-08-17-yt-VGyCeKbI9P0.md) — seo, content-marketing, agency-entrepreneurship
 - 2023-08-19 — [Reaction to LinkedIn's Latest Features (co-hosted w/ Eric; collab-tags & recruiting features)](2023-08-19-yt-lCwd8melkAE.md) — social-media, agency-entrepreneurship
+- 2023-08-21 — [11 Strategies To Help You Creatively Grow Brand Awareness (★ stage Q&A fireside; personal-brand vs company-brand; Where's-Waldo AI-sameness metaphor)](2023-08-21-yt-mHGzDKPPrBQ.md) — content-marketing, social-media, ai-marketing, agency-entrepreneurship
+- 2023-08-24 — [The Biggest Lesson Neil Learned From Sending Out 255 Million Emails (co-hosted w/ Eric; segmentation lift ~57-58%)](2023-08-24-yt-PQPQYSmuFv4.md) — email-marketing, ai-marketing
+- 2023-08-26 — [How Google Bard Can Actually Do Marketing For You (co-hosted w/ Eric; live Bard CRO demo on singlegrain.com)](2023-08-26-yt-xC9f8LJjtV4.md) — ai-marketing, analytics-cro, content-marketing
+- 2023-08-28 — [Surprising AI Strategies You Haven't Considered Yet (★ solo interview; going-private rationale; leader-not-CEO framing)](2023-08-28-yt-oBqvBSCJJnA.md) — agency-entrepreneurship, ai-marketing, seo, content-marketing
+- 2023-08-31 — [The Best Way to Invest In Branding (Harrison/Adam Ringba-show cont.; Super Bowl ROI take; land-and-expand)](2023-08-31-yt-oKEXoc12Llg.md) — agency-entrepreneurship, content-marketing, analytics-cro
+- 2023-09-02 — [100 million views and $900 return! (co-hosted, moderate-conf Eric; views-vs-revenue, niche content)](2023-09-02-yt-96az7lgos18.md) — content-marketing, social-media, analytics-cro
+- 2023-09-04 — [Why newsletters are making a comeback (and why you should care) (co-hosted w/ Eric; in-email checkout follow-up)](2023-09-04-yt-hV56Y8lQPSY.md) — email-marketing, ai-marketing
+- 2023-09-07 — [Project Magi - Google's Making Big Changes to Search (co-hosted w/ Eric; CPC-to-CPA shift forecast)](2023-09-07-yt-hoDGpOTEloc.md) — seo, paid-ads, ai-marketing
 
 ---
-_1113 videos ingested (L2) so far._
+_1121 videos ingested (L2) so far._
