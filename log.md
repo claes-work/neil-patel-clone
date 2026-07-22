@@ -6897,3 +6897,26 @@ anecdote). Recompiled `persona/system-prompt.md` **v15 → v16** (compiled_from_
 checkpoints remain.
 
 Synthesis notes: none (this is itself a synthesis pass).
+
+## [2026-07-22] ingest | yt batch (@neilpatel, 8) — P2 long-form (2025-05-30→08-13, cont. 117)
+
+Batch #147. 0/8 captions fetched OK; all 8 auto-marked `no-captions` by the driver:
+2025-05-30 "I've Closed $100M+ in Sales, Here's How to Sell Anything to Anyone";
+2025-06-03 "8 Steps to Rank #1 on Google (2025 SEO Guide)"; 2025-06-06 "6 BRAND NEW
+Digital Marketing Trends for 2025"; 2025-07-09 "How To Train Google's AI to Send You
+Customers"; 2025-07-16 "What Top Google Ads Experts Do That Beginners Don't"; 2025-07-30
+"The New SEO Playbook (2026)"; 2025-08-06 "The Secret to Getting Your Emails Opened,
+Read, and Clicked"; 2025-08-13 "How to Rank in Google's AI-Driven Search (2025)". A
+manual `yt-dlp` probe of the first video (4iJT6vAyZoQ) reproduced the same "missing
+subtitles languages because a PO token was not provided" warning followed by "There are
+no subtitles for the requested languages" already documented at cont. 115/116 — this
+2025-dated stretch of the @neilpatel channel is systematically affected by the PO-token
+caption-fetch limitation, now confirmed across three consecutive batches (cont.
+115–117). No 429/rate-limit errors were reported and `retry` was empty, so per the
+existing ledger convention this is a legitimate no-captions outcome, not the
+3-consecutive-failure rate-limit safety rail. No source pages written (0 OK, nothing to
+insert into youtube-index.md/index.md). Ledger updated by the driver's auto-mark (8×
+status=L1, notes="no-captions (no subtitles available)").
+
+Synthesis notes: none (nothing ingested this batch). 1 ingest batch accumulated since
+synthesis pass 15 (checkpoint at 10).
