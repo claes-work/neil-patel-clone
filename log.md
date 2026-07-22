@@ -7406,3 +7406,29 @@ elaborates existing entries): the Sam-Altman-95%-rebuttal refines/dates the exis
 an update, not a duplicate, at the next synthesis pass. 4 batches since last checkpoint
 (pass 16); 6 more until the ~10-batch threshold, unless a channel/era boundary is
 reached first.
+
+## [2026-07-22] ingest | yt batch (@MarketingSchoolPod, 8) — P2 long-form (2024-04-03→04-12, cont. 131)
+8 videos ingested L2 (all captions fetched successfully, no rate-limiting): a run of
+co-hosted, fully undiarized episodes spanning 2024-04-03 to 2024-04-12. Ledger rows
+L0-discovered→L2 (yt-e45mOeVJi_A, yt-MSE-aTue8g0, yt-61PwdMT_7Oo, yt-DWqRkDaJHK4,
+yt-hUOCcV4Y8vE, yt-ZPb9YrEK8js, yt-3yNysnvkGFY, yt-BeMrVq5wvU8). youtube-index.md +8
+rows (footer 1188→1196), index.md count bumped to match.
+
+Synthesis notes: high-priority (★) candidates this batch — a first-party Google
+click-behavior study (organic/paid/no-click split, above-the-fold-video 61% CTR,
+map-pack 52% CTR, Google-Shopping-vs-Amazon-organic 3.3x, one-and-done satisfaction
+rate) worth a dedicated wiki/topics/seo/ or analytics-cro/ reference page; the
+AnswerThePublic acquisition-rationale quote (~15% of Google's daily searches are
+never-before-seen queries — "these guys just aren't doing a good job on the
+marketing, hence we bought it") which fills in the *why* behind the existing
+acquisition date/price in biography.md; the Forrester-vs-industry-awards RFP-revenue
+framing plus the minority-certification RFP experience (concrete agency-ops detail);
+the "aha to oh" 0→100K blog-milestone-then-stop growth strategy (early-career,
+dated); a family-dinner-phone-attention anecdote and a Tesla-purchase anecdote (both
+voice/biography texture); the "speaking fees are a funnel, not the business model"
+belief; and the "Google penalizes quality, not AI-authorship" stance, which sharpens
+(not duplicates) the recurring 68-site/744-article 5.44x AI-vs-human traffic-gap
+figure that itself repeats across three episodes in this batch (04-03, 04-11, and
+referenced again 04-08) — synthesize as one consolidated, cross-episode-confirmed
+data point. 5 batches since last checkpoint (pass 16); 5 more until the ~10-batch
+threshold, unless a channel/era boundary is reached first.

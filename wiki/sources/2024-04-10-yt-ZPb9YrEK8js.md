@@ -1,0 +1,36 @@
+---
+type: youtube-video
+source_date: 2024-04-10
+url: https://www.youtube.com/watch?v=ZPb9YrEK8js
+channel: "@MarketingSchoolPod"
+ingested: 2026-07-22
+tier: L2
+domains: [social-media, agency-entrepreneurship, content-marketing, paid-ads]
+tags: [mrbeast-dubbing-strategy, agency-awards-vs-forrester-roi, rfp-minority-certification-experience, negative-word-headline-ctr-study]
+attribution: co-hosted (Neil Patel + Eric Siu); fully undiarized captions. The Forrester/RFP revenue-attribution claims and minority-certification RFP experience are Neil-attributed by direct first-person agency/NP Digital ownership language; the MrBeast-dubbing strategy discussion and negative-word-CTR study reaction are joint/uncertain; the Gary Vaynerchuk podcast recap (LinkedIn/40-creatives-a-day answer) is a repeat/cross-reference of the same interview discussed in the 2024-04-09 episode
+---
+
+# Impact of dubbing on MrBeast's YT is crushing, Each negative keyword adds 2.3% CTR, and more
+
+## Summary
+Four segments. (1) A discussion of MrBeast's multi-language dubbing strategy — using recognizable character/celebrity voices per language (e.g. a Spider-Man-style voice for Brazilian Portuguese, a Naruto-character voice for Japanese) to multiply views beyond what plain-language dubbing would achieve; contrasted with their own lower-effort approach of having local-market team members transcribe/translate and repost English-language content under local accounts to build corporate (not just personal) brand internationally. A related aside recalls a past ad campaign using body-doubles/lookalikes in different regional markets, which reportedly underperformed relative to spend (~$300-400K on CNBC-style channels), though it did generate meaningful brand recognition and inbound contact from the target executive audience. (2) A debate on whether agency awards are worth pursuing: the stated position (Neil-attributed) is that industry awards are not judged especially valuable for revenue generation, but Forrester Wave-style analyst inclusion is — attributed to directly influencing large enterprise RFPs (cited: deals worth "$7 million/year," i.e. ~$28M over a 4-year client lifetime). A related RFP-process detail: participating in "minority-owned business" certification programs for RFPs (used when pitching e.g. Boeing) cost under $10K/year over ~2 years but reportedly produced zero attributable wins; RFP participation itself is costly (one unsuccessful RFP cited at ~$150K in internal time/cost). (3) A CTR-data segment: adding a "New York Times Bestseller" seal to a book's ad creative increased CTR by 19% (cited: Noah Kagan's "Million Dollar Weekend"); separately, each additional negative word in a headline (e.g. "wrong," "bad," "awful," "worst") was associated with a 2.3% CTR increase per word, while positive words ("love," "beautiful," "amazing") were associated with a 1% CTR *decrease* per word (cited: Rob Henderson). A caution is added that overly negative framing hurts close rates on live sales calls, where the hosts' own sales approach (informed by Gong call analysis) avoids "you're doing it wrong" framing in favor of opportunity/ROI-based language. (4) A recap of the same Gary Vaynerchuk interview referenced in the 2024-04-09 episode (LinkedIn + 40 ad-creatives/day answer for marketing a crowded-market software company; Gary's VaynerX → private-equity ambitions; a dedicated "relationship chief of staff" role on Gary's team for scouting emerging talent).
+
+## Key claims
+- **MrBeast reportedly dubs videos using recognizable character/celebrity voices per target language (e.g. Spider-Man-voice dubbing for Brazil, a Naruto-character voice for Japanese releases) to significantly multiply cross-language view counts**, a tactic described as underappreciated by most creators. `(third-party/observed industry claim, dated 2024-04-10)`
+- **Their own lower-cost localization approach: local-market team members transcribe/translate high-performing English content and repost it under local company (not personal) accounts, to build corporate brand internationally.** `(self-reported operational practice, dated 2024-04-10; attribution: uncertain — undiarized "we")`
+- **A prior regional-lookalike ad campaign (~$300-400K spend on CNBC-style channels) underperformed relative to cost but drove meaningful executive-audience brand recognition and inbound contact.** `(self-reported, dated 2024-04-10; attribution: Neil, by direct company-campaign ownership — "that commercial did not do that well for us")`
+- **Industry agency awards are not viewed as high-ROI for revenue; Forrester Wave-style analyst-report inclusion is, primarily via influence on large enterprise RFPs** — cited example: a $7M/year account representing ~$28M over a 4-year client lifetime. `(opinion, dated 2024-04-10; attribution: Neil, first-person — "what I found to be the most valuable to actually generate revenue is Forrester")` ★ agency-growth-playbook detail
+- **Pursuing minority-owned-business RFP certification cost under $10K/year over ~2 years with zero attributable wins; individual unsuccessful RFP responses can cost ~$150K in internal time.** `(self-reported, dated 2024-04-10; attribution: Neil, first-person — "we applied for the minority seal... we renewed it, no joke, we haven't got one deal from it")`
+- **Each additional negative word in an ad/content headline was associated with a 2.3% CTR increase, while each additional positive word was associated with a 1% CTR decrease** (cited: Rob Henderson); adding a "New York Times Bestseller" seal to a book ad increased CTR by 19% (cited: Noah Kagan). `(third-party studies, relayed; dated 2024-04-10)`
+- **Overly negative/confrontational framing ("you're doing it wrong") reportedly hurts close rates on live sales calls; their own sales approach favors opportunity/ROI framing instead, informed by Gong call-recording analysis.** `(self-reported, dated 2024-04-10; attribution: Neil, first-person agency-sales-process ownership)`
+
+## Notable verbatim quotes
+> What I found to be the most valuable to actually generate revenue is Forrester — you get in Forrester, they talk about you, you generate more revenue from that than anything else, from an RFP standpoint.
+
+> We applied for the minority seal... and we renewed it, no joke, we haven't got one deal from it.
+
+## Notes for later synthesis
+- **Genuinely new for the persona:** the Forrester-vs-awards RFP-revenue framing and the minority-certification RFP experience are concrete, quotable, first-person agency-operations detail — strong candidates for `wiki/topics/agency-entrepreneurship/` at synthesis. The negative-word-headline-CTR study and NYT-bestseller-seal CTR lift are durable reference data points for `wiki/topics/content-marketing/` / `wiki/topics/paid-ads/`.
+- The Gary Vaynerchuk interview material duplicates the 2024-04-09 episode's recap — treat as reinforcement, not new, at synthesis (same interview, same 40-creatives-a-day / VaynerX-PE claims).
+- The MrBeast-dubbing strategy and localization-workflow material is useful `wiki/topics/social-media/` color but third-party-observed, not original data.
+- No hard contradictions with existing wiki material identified.
