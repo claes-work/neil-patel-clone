@@ -7298,3 +7298,69 @@ platform-risk thesis, the Super Bowl ROI-vs-branding breakdown, and the NP Digit
 fraud/cyber-insurance anecdote — all genuinely new, dated, quantified material worth
 promoting at the next synthesis checkpoint (1 batch since last checkpoint; 9 more until
 the ~10-batch threshold, unless a channel/era boundary is reached first).
+
+## [2026-07-22] ingest | yt batch (@MarketingSchoolPod, 8) — P2 long-form (2024-02-23→03-07, cont. 128)
+Recovered/completed bookkeeping for a batch whose 8 source pages and ledger rows had
+already been written (status L2, notes "L2 ingested cont.128") but whose shared-file
+bookkeeping (youtube-index.md, index.md, this log entry, commit) had not been finished
+in a prior session — completed here before proceeding with the next batch, per the
+ledger-is-the-resume-point safety rail. Neil-attributed highlights: a founders-retreat
+recap (annual since ~2018) surfacing a rare admitted internal weakness — NP Digital/
+neilpatel.com under-serving the "middle 60%" of the funnel versus top/bottom — plus a
+staff-run, no-disclosed-budget procurement-negotiation tactic; a Google content-
+scraping/rich-snippet ranking complaint and an AI-search-fragmentation prediction
+(ChatGPT/Perplexity/Gemini vs. winner-take-all), alongside a stated avoid-politics
+content policy and a merit-only hiring statement; an intention-vs-attention search-ROI
+thesis with a first-business/job-board origin-story anecdote; a fully quantified NP
+Digital enterprise sales/RFP process (3-6 month close, $100K-200K per RFP pitch,
+6-8-figure target contracts) and a fast-lead-follow-up doctrine; an adopted-from-
+"Working Backwards" narrative-memo culture and an "extreme reference checking" hiring
+process (including a back-channel red-flag anecdote); and a dense, well-diarized
+episode covering a 4-step ChatGPT ICP-and-messaging prompt chain, an AI-voice-cloning
+technique (feed an LLM your best posts, "study my voice"), Neil's own M&A negotiation
+style (cold-calls founders directly, "get rid of the bankers"), and a "Zone of Genius"
+self-assessment (strong at networking/relationship-building and creating/marketing,
+weak at management — consistent with the CMO-not-CEO self-assessment surfaced in the
+following batch). Ledger: 8 rows already L2 (no change needed). youtube-index.md +8
+rows (footer 1164→1172), index.md count bumped to match.
+
+Synthesis notes: several ★-flagged candidates accumulated this batch — the middle-60%-
+funnel critique + procurement tactic, the Google content-scraping/AI-search-
+fragmentation material (reinforces/extends the existing "Where's Waldo" AI-search-
+visibility theme), the quantified NP Digital enterprise-sales/RFP framework, the
+Amazon-narrative-memo-culture + extreme-reference-checking hiring practices, and the
+ChatGPT ICP-prompt-chain/AI-voice-cloning techniques — all genuinely new, dated,
+often-quantified material worth promoting at the next synthesis checkpoint (1 batch
+since last checkpoint after this one; 9 more until the ~10-batch threshold, unless a
+channel/era boundary is reached first).
+
+## [2026-07-22] ingest | yt batch (@MarketingSchoolPod, 8) — P2 long-form (2024-03-11→03-20, cont. 129)
+Ingested 8 open P2 long-form rows from @MarketingSchoolPod, all captions fetched
+successfully (no rate-limiting). Neil-attributed highlights: the NP Digital X-first
+content-repurposing-to-webinar funnel with quantified signup/revenue lift (~4,164→
+~12,223 signups; ~$158K→~$460-464K revenue per webinar); an explicit CMO-not-CEO
+structural self-assessment ("terrible manager... amazing individual contributor," no
+direct reports, no work-life balance, a stated nine-figure-annual-contract 10-year
+goal); a $600 AI-flagged-false-positive dental-scan anecdote anchoring a recurring
+frugality throughline (also surfacing a Las Vegas nightclub bottle-service anecdote and
+current Beverly Hills/prior-Vegas residence detail); NP Digital's dedicated internal
+"AI working group" (4-6 staff) and an "attention over channel-type" media framework
+(Sam Altman/Aaron Levie/Charli D'Amelio/Kylie Jenner examples); a private-AI-data
+strategy statement ("we don't sell our data, we build automated products, not
+education businesses"); an unscripted family-interruption moment confirming at least a
+daughter and a son; and three separate, explicitly self-identified-as-Indian reactions
+to race-based marketing/politics (SEO-pronoun-ranking pushback, a client ad-pull-over-
+politics anecdote, and an Advil "Pain Equity" campaign critique) that should be
+reconciled into one belief-evolution entry at synthesis rather than logged three times.
+Ledger: 8 rows L0→L2. youtube-index.md +8 rows (footer 1172→1180), index.md count
+bumped to match.
+
+Synthesis notes: several ★-flagged candidates accumulated this batch — the quantified
+X-first content-repurposing-to-webinar funnel (reconcile with the 2024-02-08 batch's
+pipeline mention), the CMO-not-CEO/individual-contributor self-assessment, the
+frugality-anecdote throughline, the NP Digital AI working group + private-AI-data-
+strategy statement, the attention-over-channel-type media framework, and the race/
+politics-in-marketing belief-evolution thread (now three sources deep across this and
+the immediately preceding recovered batch) — all genuinely new, dated material worth
+promoting at the next synthesis checkpoint (2 batches since last checkpoint; 8 more
+until the ~10-batch threshold, unless a channel/era boundary is reached first).
