@@ -7501,3 +7501,35 @@ philosophy in particular now spans four consecutive episodes, 04-17→04-26, and
 consolidated into one coherent topic-page section rather than four separate entries). 6
 batches since last checkpoint (pass 16); 4 more until the ~10-batch threshold, unless a
 channel/era boundary is reached first.
+
+## [2026-07-22] ingest | yt batch (@MarketingSchoolPod, 8) — P2 long-form (2024-04-29→05-07, cont. 133)
+
+Ingested 8 @MarketingSchoolPod long-form episodes (2024-04-29→2024-05-07), all L2. Fetched
+via `tools/ingest_batch.py prepare --channel @MarketingSchoolPod --n 8` (8/8 ok, no
+429/no-captions/unavailable). Wrote wiki/sources pages for yt-c9a32cXzSNU, yt-RXSL82YTAqo,
+yt-mxzmnsRv0To, yt-IyICW_ATDaw, yt-gVTl5U-W1LI, yt-R9GfWvHCpbY, yt-J21h8xP0-Bo,
+yt-trS6b9kySUs. youtube-index.md +8 rows (footer 1204→1212), index.md count bumped to
+match. @MarketingSchoolPod P2 open 655→647; @neilpatel untouched this batch (29 P2 open,
+unchanged); shorts untouched (2688). Attribution note: one episode this batch
+(yt-R9GfWvHCpbY, the AOA coaching-call preview) is Eric Siu-only — no Neil-attributed
+material, flagged and excluded from persona eligibility per SUBJECT.md's
+attribution-gating rule. Two further episodes (yt-mxzmnsRv0To, yt-J21h8xP0-Bo) have
+largely uncertain per-line attribution due to undiarized rapid-alternation captions and
+are held back from persona promotion pending a clearer-attributed corroborating source.
+
+Synthesis notes: several high-priority (★) candidates — the "NP Digital is a love
+project, not built to make money" belief + the child-comparison quote (yt-c9a32cXzSNU),
+the "trained people to call him / never send me a voice note" communication-habit detail
+plus the Crazy Egg-vs-Hotjar copying history and the delegation/leadership belief
+(yt-IyICW_ATDaw), the YouTube Community-tab cross-promotion growth hack plus the
+long-form-over-shorts B2B belief (yt-gVTl5U-W1LI). Secondary: the NP Digital 2020-vs-2024
+search-behavior survey (garbled percentages in the transcript — needs reconciliation
+against the original data before any promotion), the Amazon Prime origin story
+(yt-trS6b9kySUs, cross-link with the Kindle/Oprah origin story from yt-gVTl5U-W1LI into
+one consolidated Amazon-origin-stories topic section), and the Mike Kamo CEO-transition
+history addition to the existing entity page. Two items flagged moderate/uncertain
+confidence, not for promotion as-is: the mother/real-estate cap-rate anecdote and the
+"tiny home" living detail (yt-trS6b9kySUs) — voice/pattern-consistent with Neil but
+undiarized captions prevent certain attribution. 7 batches since last checkpoint
+(pass 16); checkpoint due next batch (threshold ~10, or sooner if a channel/era boundary
+is reached first).
