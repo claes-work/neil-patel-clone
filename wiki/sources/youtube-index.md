@@ -1157,6 +1157,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2023-11-02 — [Why B2B Creators Are The Next Big Thing - Neil Patel (co-hosted w/ Eric; INBOUND conference, enterprise-sales-doesn't-work take)](2023-11-02-yt-OcrdH0N6uEA.md) — content-marketing, social-media, agency-entrepreneurship
 - 2023-11-04 — [Is Education a Good Revenue Stream? (co-hosted w/ Eric; ★ Brazil/Web Summit bio marker, ~$50K avg speaking fee)](2023-11-04-yt-lJ2raIPR_Z0.md) — agency-entrepreneurship, content-marketing
 - 2023-11-06 — [How Grimes Is Shaping The Future of AI Generated Content (co-hosted w/ Eric; celebrity brand-quality-control take)](2023-11-06-yt-91NqVXJZjyg.md) — ai-marketing, content-marketing
+- 2023-11-09 — [Netflix's Genius Instagram Strategy (co-hosted w/ Eric; multi-account cross-promotion, Instagram pods)](2023-11-09-yt-WYFRWWtkn5k.md) — social-media, content-marketing
+- 2023-11-11 — [Our Thoughts On Selling Courses In Today's World (co-hosted w/ Eric; ★ $600K/mo course-revenue history, Mike Kamo free-call anecdote)](2023-11-11-yt-XQw0N4jMjoM.md) — agency-entrepreneurship, content-marketing
+- 2023-11-13 — [How To Find The Best AI Marketers To Work With (co-hosted w/ Eric; LinkedIn sourcing, engineer-as-AI-marketer hires)](2023-11-13-yt-CKmWeGM-Ex8.md) — ai-marketing, agency-entrepreneurship
+- 2023-11-16 — [The Truth About Video Views on X (Twitter) (co-hosted w/ Eric; view-definition comparison, cross-posting-is-free thesis)](2023-11-16-yt-RoR_SCRJ5S4.md) — social-media, content-marketing
+- 2023-11-18 — [Are Virtual Summits Still Relevant? (Eric interviews Neil; ★ 20-30K registrant summit, 50-60% attendance, enterprise speaker roster)](2023-11-18-yt-2r-lgMb2iIQ.md) — content-marketing, agency-entrepreneurship, social-media
+- 2023-11-20 — [Threads Is Generating 8.3X More Engagement Than Twitter (co-hosted w/ Eric; ★ 8.3x engagement experiment, ★ family-interruption bio marker)](2023-11-20-yt-fIa3CgTYAS0.md) — social-media, content-marketing
+- 2023-11-23 — [How to spend on marketing the right way? (co-hosted w/ Eric; Q4-2023 downturn spend-discipline framework)](2023-11-23-yt-uJX1sgdE8cY.md) — paid-ads, agency-entrepreneurship
+- 2023-11-25 — [Behind the Scenes Business Trends We Are Seeing (co-hosted w/ Eric; ★ 24-hour timezone-shift hiring tactic, downturn-acquisition framework)](2023-11-25-yt-XMFTkzuzLVQ.md) — agency-entrepreneurship, wealth
 
 ---
-_1144 videos ingested (L2) so far._
+_1152 videos ingested (L2) so far._

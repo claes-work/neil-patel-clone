@@ -6787,3 +6787,28 @@ insurer; explicit confirmation of dedicated NP Digital Brazil and Latin America 
 belongs in `persona/biography.md`'s company-growth timeline; (2) the same source's ~$50K average
 speaking-fee figure and stated preference for closing deals over paid speaking is new, quotable
 material for `persona/beliefs.md`'s monetization-philosophy section. No contradictions found.
+## [2026-07-22] ingest | yt batch (@neilpatel, 8) — P2 long-form (2023-11-09→11-25, solo tactical + co-hosted Eric Siu segments era, cont. 114)
+
+Batch #144. 8/8 captions fetched OK (no rate-limiting). All 8 videos are genuine
+co-hosted Marketing School-style @neilpatel episodes (no promos, no other-people-only
+videos, no duplicates) — full L2 ingest for all. Topics: Netflix's multi-account IG
+strategy; why NP Digital walked away from selling courses (★ $600K/mo peak course
+revenue, Mike Kamo free-call-removal anecdote); sourcing AI marketers via public
+content + LinkedIn engineer-hires; X/Twitter view-inflation vs YouTube + cross-posting
+-is-free thesis; Neil's virtual summit deep-dive (★ 20-30K registrants, 50-60%
+attendance, enterprise speaker roster incl. Google Italy/Amex/Sony Music/Coca-Cola/
+Marriott/BBVA/FedEx/ESPN/Unilever/Loro Piana); Threads-vs-Twitter 8.3x engagement
+experiment (★ + a family-interruption bio marker, no name given, consistent with
+SUBJECT.md's not-public family-facts rule); Q4-2023 marketing-spend discipline
+framework (growth-at-all-costs era is over, scale breaks efficiency); and NP Digital's
+24-hour timezone-shift hiring tactic + downturn-acquisition-deployment framework
+(Berkshire Hathaway analogy). Ledger updated (8× status=L2), youtube-index.md +8 rows
+(footer 1144→1152), index.md count bumped to match.
+
+Synthesis notes: five ★-flagged L3-candidates accumulated this batch (course-revenue
+history + Mike Kamo anecdote; virtual-summit scale/speaker-roster detail; Threads
+8.3x experiment + family-interruption marker; 24-hour timezone-shift hiring tactic;
+downturn-acquisition-deployment framework) — genuinely new biographical/tactical
+material not yet reflected in persona/beliefs.md or persona/biography.md. 8 ingest
+batches accumulated since synthesis pass 14 (checkpoint at 10) — synthesis pass 15
+due next iteration or the one after.
