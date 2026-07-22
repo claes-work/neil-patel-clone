@@ -1149,6 +1149,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2023-10-12 — [Are blog posts the best SEO strategy today? (co-hosted w/ Eric; content-refresh vs. free-tools link strategy)](2023-10-12-yt-b8_eyYZF44k.md) — seo, content-marketing
 - 2023-10-14 — [ChatGPT gets banned - The 110M impression LinkedIn page (co-hosted w/ Eric; ★ wealth/investing philosophy + ★ remote-first policy; ChatGPT-Italy-ban)](2023-10-14-yt-o9qSf9wEuMo.md) — social-media, ai-marketing, agency-entrepreneurship
 - 2023-10-16 — [Marketing is Getting More Complex, But Paid Media is Getting EASIER. (co-hosted w/ Eric; paid-media-harder-not-easier take, creative-vs-automation)](2023-10-16-yt-pB0-UXV9oTE.md) — paid-ads, ai-marketing
+- 2023-10-19 — [The Anatomy of a 1M View TikTok Video (co-hosted w/ Eric; MrBeast boats clip, trend-timing)](2023-10-19-yt-Z8QnCSSJfUI.md) — social-media, content-marketing
+- 2023-10-21 — [How to measure the ROI of your content efforts in 2023 (co-hosted w/ Eric; UTM hack, CTA A/B tests, Salesforce attribution)](2023-10-21-yt-j1CNmi302Oc.md) — content-marketing, analytics-cro
+- 2023-10-23 — [X Turns To Google To Sell Ads (co-hosted w/ Eric; brand-safety-risk-is-overstated take)](2023-10-23-yt-u-gToyl0WYU.md) — paid-ads, social-media
+- 2023-10-28 — [Humans using AI outperform humans without AI by a LOT (co-hosted w/ Eric; BCG/GPT-4 case study, programmatic SEO workflow)](2023-10-28-yt-4tZ_nlMVnsk.md) — ai-marketing, analytics-cro, seo
+- 2023-10-30 — [How Often Should Content Be Updated - Neil Patel (co-hosted w/ Eric; content-freshness strategy, GSC update-decision method)](2023-10-30-yt-GIp7A8ZyuzA.md) — seo, content-marketing
+- 2023-11-02 — [Why B2B Creators Are The Next Big Thing - Neil Patel (co-hosted w/ Eric; INBOUND conference, enterprise-sales-doesn't-work take)](2023-11-02-yt-OcrdH0N6uEA.md) — content-marketing, social-media, agency-entrepreneurship
+- 2023-11-04 — [Is Education a Good Revenue Stream? (co-hosted w/ Eric; ★ Brazil/Web Summit bio marker, ~$50K avg speaking fee)](2023-11-04-yt-lJ2raIPR_Z0.md) — agency-entrepreneurship, content-marketing
+- 2023-11-06 — [How Grimes Is Shaping The Future of AI Generated Content (co-hosted w/ Eric; celebrity brand-quality-control take)](2023-11-06-yt-91NqVXJZjyg.md) — ai-marketing, content-marketing
 
 ---
-_1136 videos ingested (L2) so far._
+_1144 videos ingested (L2) so far._

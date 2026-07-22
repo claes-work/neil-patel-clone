@@ -6754,3 +6754,36 @@ material. Secondary: the tWox_ogYpSE Seattle follow-bot anecdote adds mid-2010s 
 corroborates (does not contradict) the existing registry-verified founding date. No contradictions
 found; the Kwt3u-5MkO4 "five years ago" founding approximation is noted above as ordinary
 self-reported rounding, not flagged as a discrepancy.
+
+## [2026-07-22] ingest | yt batch (@neilpatel, 8) — P2 long-form (2023-10-19→11-06, co-hosted Eric Siu segments era, cont. 113)
+Batch: 8 ok, 0 skipped, 0 no-captions, 0 dup, 0 retry.
+- 2023-10-19 Z8QnCSSJfUI — co-hosted w/ Eric; viral-TikTok anatomy breakdown (MrBeast dollar-vs-
+  billion-dollar-boats repost), universality/expectation-breaking framework, trend-timing point.
+- 2023-10-21 j1CNmi302Oc — co-hosted w/ Eric; 2023 content-ROI measurement method (UTM hack, CTA
+  A/B testing on top pages, Salesforce lead/close attribution by content topic).
+- 2023-10-23 u-gToyl0WYU — co-hosted w/ Eric; X-turns-to-Google-for-ads reaction; brand-safety-risk-
+  is-overstated take; predicts rising X ad prices over time.
+- 2023-10-28 4tZ_nlMVnsk — co-hosted w/ Eric; BCG/Ethan Mollick GPT-4 consultant-performance case
+  study; human-in-the-loop AI framework; two concrete NP Digital AI use cases (ad-spend-waste
+  flagging, programmatic SEO generation).
+- 2023-10-30 GIp7A8ZyuzA — co-hosted w/ Eric; content-freshness/update-cadence strategy shift
+  (10+/day new posts → ~1/week new + 3-7/day updates); Google Search Console MoM/YoY
+  update-decision method.
+- 2023-11-02 OcrdH0N6uEA — co-hosted w/ Eric; B2B-creator-economy take from an INBOUND conference
+  conversation w/ Wistia's Chris Savage + Jay Clouse; enterprise-sales-doesn't-convert-via-creators
+  caveat; disagrees with Eric on the audience-size ceiling ($10M vs. Eric's $100M).
+- 2023-11-04 lJ2raIPR_Z0 — co-hosted w/ Eric; education-as-revenue-stream critique (knowledge vs.
+  end-result monetization); ★ Brazil/Web Summit bio marker (Whirlpool/Nestle/Michelin meetings, NP
+  Digital Brazil + Latin America divisions); ★ ~$50K average paid-speaking-fee figure.
+- 2023-11-06 91NqVXJZjyg — co-hosted w/ Eric; Grimes AI-licensing reaction; stage-dependent
+  brand-quality-control framework for celebrity AI likeness use (up-and-coming vs. established).
+
+Ledger: 8 rows → L2. youtube-index.md +8 (footer 1136→1144); index.md count bumped to match.
+Ingest batches since last synthesis (pass 14, 2026-07-22): now 7/10 — not yet due.
+
+Synthesis notes: two ★ L3 candidates — (1) the lJ2raIPR_Z0 Brazil/Web Summit passage is a concrete,
+dated bio/business marker (client meetings with Whirlpool, Nestle, Michelin, and a major Brazilian
+insurer; explicit confirmation of dedicated NP Digital Brazil and Latin America divisions) that
+belongs in `persona/biography.md`'s company-growth timeline; (2) the same source's ~$50K average
+speaking-fee figure and stated preference for closing deals over paid speaking is new, quotable
+material for `persona/beliefs.md`'s monetization-philosophy section. No contradictions found.
