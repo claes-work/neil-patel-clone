@@ -1,6 +1,6 @@
 ---
 type: source-subindex
-updated: 2026-07-21
+updated: 2026-07-22
 ---
 
 # YouTube Sources Sub-Index
@@ -1165,6 +1165,10 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2023-11-20 — [Threads Is Generating 8.3X More Engagement Than Twitter (co-hosted w/ Eric; ★ 8.3x engagement experiment, ★ family-interruption bio marker)](2023-11-20-yt-fIa3CgTYAS0.md) — social-media, content-marketing
 - 2023-11-23 — [How to spend on marketing the right way? (co-hosted w/ Eric; Q4-2023 downturn spend-discipline framework)](2023-11-23-yt-uJX1sgdE8cY.md) — paid-ads, agency-entrepreneurship
 - 2023-11-25 — [Behind the Scenes Business Trends We Are Seeing (co-hosted w/ Eric; ★ 24-hour timezone-shift hiring tactic, downturn-acquisition framework)](2023-11-25-yt-XMFTkzuzLVQ.md) — agency-entrepreneurship, wealth
+- 2023-11-27 — [Here's What The Top YouTubers Taught Us About YouTube Marketing (co-hosted w/ Eric; hit-rate consistency, broad-reach-vs-lead-quality, channel-vs-business diversification)](2023-11-27-yt-vD_5bg_nrp8.md) — social-media, content-marketing
+- 2023-12-02 — [Critical Agency Acquisition Mistakes - Neil Patel (co-hosted w/ Eric; talent-retention, diligence checklist, kiss-a-lot-of-frogs)](2023-12-02-yt-uvmBxTp14bA.md) — agency-entrepreneurship
+- 2023-12-04 — [How Terrible Policies Will Kill Your Business (co-hosted w/ Eric; refund-policy brand-protection philosophy, Dollar Flight Club anecdote)](2023-12-04-yt-n8wqAkgblfg.md) — agency-entrepreneurship
+- 2023-12-07 — [Shoppers Expected to Spend the Same or More this Holiday Season (co-hosted w/ Eric; ★ Mexico M&A anecdote — 11x ask refused, "can't trade on potential")](2023-12-07-yt-0ZgeCeB9RFM.md) — agency-entrepreneurship, wealth
 
 ---
-_1152 videos ingested (L2) so far._
+_1156 videos ingested (L2) so far._

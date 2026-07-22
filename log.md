@@ -6812,3 +6812,31 @@ downturn-acquisition-deployment framework) — genuinely new biographical/tactic
 material not yet reflected in persona/beliefs.md or persona/biography.md. 8 ingest
 batches accumulated since synthesis pass 14 (checkpoint at 10) — synthesis pass 15
 due next iteration or the one after.
+
+## [2026-07-22] ingest | yt batch (@neilpatel, 8) — P2 long-form (2023-11-27→12-07, co-hosted Eric Siu segments era, cont. 115)
+
+Batch #145. 4/8 captions fetched OK; 4 auto-marked `no-captions` (2024-09-20, 2025-02-25,
+2025-03-04, 2025-03-18 — no consecutive-failure pattern, not rate-limiting, just no
+subtitles available on those uploads). All 4 OK videos are genuine co-hosted @neilpatel
+episodes (no promos, no other-people-only videos, no duplicates) — full L2 ingest for
+all 4. Topics: YouTube hit-rate consistency + broad-reach-vs-lead-quality tradeoff +
+channel-vs-business diversification (TAM framing); agency-acquisition diligence
+checklist + talent-retention discipline (kiss-a-lot-of-frogs, 4-year-retention bar);
+refund-policy brand-protection philosophy (small-dollar refunds over policy rigidity,
+Dollar Flight Club anecdote, "penny-wise pound-foolish"); and a ★-flagged first-person
+Mexico M&A anecdote (declining ~$5M-revenue target, EBITDA halved, seller wanted ~11x
+on unbuilt future revenue, Neil refused and offered a real-numbers-first path) plus a
+2024 "reality check" macro call (tech layoffs resuming, higher-for-longer rates,
+"you can't trade on potential"). Ledger updated (4× status=L2, 4× no-captions),
+youtube-index.md +4 rows (footer 1152→1156), index.md count bumped to match.
+
+Synthesis notes: one ★-flagged L3-candidate this batch — the Mexico M&A anecdote
+(11x-ask refusal) closely parallels the "rejected 8x profit on a shrinking company" /
+earnout M&A framework already summarized from the 2026-07-20 Marketing School episode
+([[wiki/sources/2026-07-20-yt-0Pg-dNUWaI8]]); likely the same or a directly analogous
+recurring anecdote — worth reconciling the 11x vs. 8x figures and dating the framework's
+origin to this 2023-12-07 telling at the next synthesis pass. The refund-policy
+philosophy and agency-diligence checklist are solid but refine already-known
+agency-entrepreneurship positions rather than introduce new named frameworks — not
+flagged ★. 9 ingest batches accumulated since synthesis pass 14 (checkpoint at 10) —
+synthesis pass 15 now due next iteration.
