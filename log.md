@@ -7552,3 +7552,33 @@ dated belief entry; the M&A due-diligence checklist, the personal-brand-revenue-
 data, the NP Digital core values + centralized-decision-making structure, and the
 Hustle-book retrospective are strong persona/beliefs.md + biography.md candidates for the
 next synthesis pass.
+
+## [2026-07-22] ingest | yt batch (@MarketingSchoolPod, 8) — P2 long-form (2024-05-18→05-29, cont. 135)
+Ingested 8 videos (2024-05-18 through 2024-05-29) from @MarketingSchoolPod, all L2. Two are
+Eric Siu-solo Agency Owners Association coaching-call preview clips with **no Neil-attributed
+material** (2024-05-18 "Bonus episode #3"; 2024-05-25 "Future of Agencies with AI") — filed
+for ledger completeness only. The other six are rich, mostly-unambiguous Neil material:
+an OpenAI-search-engine reaction plus a detailed first-person account of Neil declining a
+majority-stake acquisition offer from a heavily-funded Indian conglomerate (exact deal
+structure given) and his own M&A financing details (CIBC/SOFR); Amazon social-checkout
+attribution news plus Neil's notification-discipline habits and a W Promote early-career
+anecdote; a Super Bowl/Olympics ad-ROI roundup that surfaces the origin story of his
+mother's unlicensed "Tina's Daycare" business (Honda Civic sticker marketing, no-fee
+referral network with competing daycares) and a "curate your crowd" event-ROI lesson; a
+CMO/AI-jobs thesis paired with a direct on-air rebuttal of public "your traffic is down"
+criticism (deliberate shift from generic-keyword to Enterprise-lead traffic, with RFP
+numbers); and two landmark M&A/biography sources — a candid 2021 post-mortem of two failed
+NP Digital acquisitions ("trust but verify") alongside an extended, previously undocumented
+Patel-family history (Uganda wealth → Idi-Amin-era exile/nationalization → UK relocation on
+a British passport → US immigration struggle → mother's entrepreneurial bootstrap), and a
+near-solo Neil episode detailing NP Digital's full M&A operating playbook (Carlos Cesta's
+sourcing funnel, the Accenture comparison, the "marketing is subordinate to capital"
+belief). 8 ingested, 0 skipped, 0 no-captions, 0 dup. No rate-limiting encountered.
+Synthesis notes: strong debt this batch. Two ★ landmark candidates for
+`persona/biography.md` — the Patel-family-Uganda/UK origin story
+([[wiki/sources/2024-05-28-yt-eHgmjJ6Kemw]]) and the "Tina's Daycare" mother-origin story
+([[wiki/sources/2024-05-24-yt-50UqgVVG3nc]]) — should be merged into one dated family/origin
+timeline. The 2021 M&A post-mortem and the India-acquisition-declined story are strong
+`persona/beliefs.md` candidates (M&A due-diligence discipline, "purpose over money" belief,
+"trust but verify"). The India-offer episode should also be cross-checked against the
+existing M&A due-diligence-checklist belief from batch #134 for overlap/consolidation.
