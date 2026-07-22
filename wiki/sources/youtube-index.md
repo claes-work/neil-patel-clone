@@ -1134,6 +1134,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 - 2023-09-02 — [100 million views and $900 return! (co-hosted, moderate-conf Eric; views-vs-revenue, niche content)](2023-09-02-yt-96az7lgos18.md) — content-marketing, social-media, analytics-cro
 - 2023-09-04 — [Why newsletters are making a comeback (and why you should care) (co-hosted w/ Eric; in-email checkout follow-up)](2023-09-04-yt-hV56Y8lQPSY.md) — email-marketing, ai-marketing
 - 2023-09-07 — [Project Magi - Google's Making Big Changes to Search (co-hosted w/ Eric; CPC-to-CPA shift forecast)](2023-09-07-yt-hoDGpOTEloc.md) — seo, paid-ads, ai-marketing
+- 2023-09-09 — [7 Factors to Help You Decide Which Business To Start (★ YAP interview pt1; origin story, $25M-revenue teen job, TAM/marketing-formula framework)](2023-09-09-yt--47kDZOjCoc.md) — agency-entrepreneurship, content-marketing
+- 2023-09-11 — [You Have Been Thinking About AI The Wrong Way (co-hosted w/ Eric; AI-analytics-over-content-gen thesis; ADCON 2-3% stat)](2023-09-11-yt-b0YPBoMswZ4.md) — ai-marketing, analytics-cro
+- 2023-09-14 — [The LinkedIn Algorithm Changed - Here's How To Win (co-hosted w/ Eric; +10%/+40% reach stats)](2023-09-14-yt-sv6q9bXy2oA.md) — social-media
+- 2023-09-16 — [The Differences Between Mediocre and Standout Marketers (co-hosted w/ Eric; AI-reliance tell, 22-years-humility)](2023-09-16-yt-LhqsxMrpGfM.md) — agency-entrepreneurship, content-marketing
+- 2023-09-18 — [Keeping Your Customers Engaged - Creating A Mailing List (★ YAP interview pt2; AnswerThePublic $8.6M acquisition detail, on-page/off-page voting analogy)](2023-09-18-yt-vM-r6rNRh4s.md) — seo, email-marketing, content-marketing, ai-marketing, agency-entrepreneurship
+- 2023-09-21 — [Do Offline Ads Work? (co-hosted w/ Eric; eBay/Meg Whitman billboard anecdote)](2023-09-21-yt-yUIZVV30M_c.md) — paid-ads
+- 2023-09-23 — [How to Make Your Content Stand Out When Everyone is Using AI (co-hosted w/ Eric; personal-experience-over-data thesis)](2023-09-23-yt-tuUxlDlLq9k.md) — content-marketing, ai-marketing
+- 2023-09-25 — [Should you take every press appearance - Neil Patel (co-hosted w/ Eric; reach-vetting method, saying-no philosophy)](2023-09-25-yt-VYAcmjhAcgU.md) — agency-entrepreneurship
 
 ---
-_1121 videos ingested (L2) so far._
+_1129 videos ingested (L2) so far._

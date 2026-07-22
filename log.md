@@ -6678,3 +6678,40 @@ going-private rationale ("who wants to answer to all those shareholders") + "lea
 (segmentation lift, free-tool strategy, land-and-expand, omnichannel-required thesis, Super Bowl-ROI
 skepticism). No contradictions found. Attribution note: 2023-09-02 co-host identity is moderate- rather
 than high-confidence (unnamed in transcript, inferred from format).
+
+## [2026-07-22] ingest | yt batch (@neilpatel, 8) — P2 long-form (2023-09-09→09-25, YAP two-part interview + co-hosted Eric Siu segments era, cont. 111)
+Batch: 8 ok, 0 skipped, 0 no-captions, 0 dup, 0 retry.
+- 2023-09-09 -47kDZOjCoc — ★ solo YAP (Hala Taha) interview pt1; origin story (job board at 16, $25M/yr
+  revenue driven at a power-supply manufacturer, $20K/month by 16-17); TAM-over-niche framework;
+  omnichannel/upsell-downsell/LTV marketing formula.
+- 2023-09-11 b0YPBoMswZ4 — co-hosted w/ Eric; AI-analytics-over-content-generation thesis; ADCON
+  London talk 2-3% real-time-analytics-usage stat.
+- 2023-09-14 sv6q9bXy2oA — co-hosted w/ Eric; LinkedIn algorithm change (+10% follower reach, +40%
+  knowledge-content reach); Lynda.com acquisition tie-in.
+- 2023-09-16 LhqsxMrpGfM — co-hosted w/ Eric; ChatGPT/Bard-reliance-as-mediocrity tell (interview-
+  candidate anecdote); 22-years-humility close.
+- 2023-09-18 vM-r6rNRh4s — ★ solo YAP interview pt2 (same interview as -47kDZOjCoc); on-page/off-page
+  SEO voting analogy; AnswerThePublic $8.6M acquisition detail (Feb 2022, ~40% of NP Digital
+  consulting revenue at the time); CodeCanyon free-tool lead-gen (~300K emails/month); conference-
+  meetings-not-fees model (Michelin, LatAm insurer via Brazil event); email-scrubbing/open-rate
+  benchmarks.
+- 2023-09-21 yUIZVV30M_c — co-hosted w/ Eric; offline-ads-work-if-targeted thesis; eBay/Meg Whitman
+  billboard anecdote.
+- 2023-09-23 tuUxlDlLq9k — co-hosted w/ Eric; personal-experience-beats-shared-data content thesis
+  (cancer-journey anecdote); influencer-integration lever.
+- 2023-09-25 VYAcmjhAcgU — co-hosted w/ Eric; press-appearance ROI vetting (per-episode reach,
+  independent verification via Similarweb); "better to say no" philosophy (declined website
+  acquisition anecdote).
+
+Ledger: all 8 rows → L2. youtube-index.md +8 (footer 1121→1129); index.md count bumped to match.
+Ingest batches since last synthesis (pass 14, 2026-07-22): now 5/10 — not yet due.
+
+Synthesis notes: two strong ★ L3 candidates — (1) the -47kDZOjCoc origin-story detail (job-board
+founding at 16, Speech-101-to-$25M-revenue chain, $20K/month by 16-17) sharpens `persona/biography.md`'s
+teen-entrepreneurship timeline with concrete dollar figures not previously logged verbatim; (2) the
+vM-r6rNRh4s AnswerThePublic $8.6M / Feb-2022 / ~40%-of-consulting-revenue figure is the first source to
+give a precise acquisition price and revenue-share — corroborates (does not contradict) SUBJECT.md's
+existing "(acquired 2022)" note and is worth citing directly in `wiki/topics/seo` or an
+`wiki/entities/answerthepublic` page at the next synthesis pass. Secondary: the reach-vetting method
+(per-episode reach, independent verification) and the "say no to protect focus" pattern reinforce
+existing beliefs.md material rather than adding new doctrine. No contradictions found.
