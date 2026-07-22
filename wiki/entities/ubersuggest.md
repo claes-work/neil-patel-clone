@@ -30,6 +30,18 @@ Now part of the [[np-digital]] portfolio and the primary lead magnet for the nei
 - **AnswerThePublic** (acquired by NP Digital **2022-05-31**) was folded in, extending
   Ubersuggest's autocomplete/question-based keyword data. 📰 (searchengineland.com)
 
+## Fullest self-reported economics (2023)
+
+The most detailed single-place breakdown in the corpus (2023-05-22 conference talk, corroborated
+elsewhere the same era): bought for **$120,000**, with **$3-5 million invested** building it out,
+growing to **36M users over five years**, and now accounting for **~40% of NP Digital's revenue and
+customers**. 🗣️ Gating the tool's free daily-use limit behind a **Google sign-in** requirement
+(after ~the second use in a day) roughly **5x'd daily subscriber signups** (~2,000/day → ~10,000/day,
+with weekday/weekend variance). 🗣️
+([[../sources/2023-05-22-yt-OfZ1WFGpMRs]], [[../sources/2023-06-10-yt-4bs4lxQsvGQ]]) For
+**AnswerThePublic**'s own acquisition economics (~$8.6M, self-reported vs. registry-undisclosed
+terms, land-and-expand thesis), see [[np-digital]].
+
 ## Business role
 
 Ubersuggest is the **top of Neil's funnel**: free/cheap SEO tooling and blog content attract a

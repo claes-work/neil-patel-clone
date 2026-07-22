@@ -1097,6 +1097,24 @@ playbook, with a few concrete first-party figures and named-mechanism citations 
   add to the existing belief, not a new one ([[2022-10-29-yt-gztsYn8S0wM]]).
   > "If you hire my agency because of me, that's a big mistake." [[2022-10-29-yt-gztsYn8S0wM]]
 
+## 2022-12 → 2023-06 solo-era SEO — the A10 Amazon-SEO algorithm named, a Google-algorithm-change stat & content-simplicity sharpened (@neilpatel P2, synthesis pass 14)
+
+- **Amazon SEO's "A10" algorithm, named explicitly (2023-02-13).** Extends the existing Amazon-SEO
+  sub-vertical (pass 13) with the algorithm's own name — **A10** — and a fuller walkthrough:
+  Amazon's ranking still favors sales velocity but weighs off-Amazon traffic sources (external
+  backlinks, social referrals) more than the earlier "A9" era did, alongside the existing
+  title/bullet/photo/review tactics ([[2023-02-13-yt-J2RqIpeo6vc]]).
+- **"Google made 4,500 algorithm changes in 2020" + a year-over-year Search Console refresh
+  workflow (2023-01-30).** A citable, concrete tactic extending the existing content-freshness
+  doctrine: cites Google's ~4,500 algorithm updates in 2020 as the reason no ranking is ever
+  "done," paired with a specific workflow — pull the prior year's Search Console
+  impressions/clicks for a page, compare to the current year, and refresh any page showing a
+  decline before it falls further ([[2023-01-30-yt-KB5GQYUW6IU]]).
+- **Content-simplicity philosophy sharpened — "write for a kindergartner" (2023-02-27).** Full
+  entry on [[../content-marketing/content-marketing|content-marketing]]; reinforces the existing
+  plain-language voice material with a sharper anti-Ivy-League-vocabulary framing paired with the
+  Hemingway App as his stated editing tool ([[2023-02-27-yt-b2RLM1QqdC0]]).
+
 ## Signature framing: "get loved by Google"
 
 Neil's recurring sign-off phrase, worth capturing verbatim as voice:
@@ -1229,3 +1247,8 @@ many small things well, for the user, and rankings follow.
 - [[2022-10-29-yt-gztsYn8S0wM]] — "Vet the people not the brand" reinforced + Media Post award citation
 - [[2022-11-14-yt-Hskgchw9-Po]] — Amazon SEO sub-vertical (sales-velocity ranking incentive)
 - [[2021-12-11-yt-VBSkT08tRqU]] — CTR-over-backlinks reranking claim; optimize-vs-create decision rule
+
+### 2022-12 → 2023-06 solo-era SEO (@neilpatel P2, synthesis pass 14)
+- [[2023-01-30-yt-KB5GQYUW6IU]] — "4,500 algorithm changes in 2020" stat; YoY Search Console refresh workflow.
+- [[2023-02-13-yt-J2RqIpeo6vc]] — Amazon SEO's "A10" algorithm named explicitly.
+- [[2023-02-27-yt-b2RLM1QqdC0]] — Content-simplicity philosophy sharpened (Hemingway App).

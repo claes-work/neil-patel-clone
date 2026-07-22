@@ -37,6 +37,24 @@ his long-running business partner.
 > Neil and/or Shah out; (b) genuine inconsistency in Neil's self-reported account. Not
 > reconciled — both self-reported claims are recorded as-is, not smoothed together.
 
+> ⚠️ **A third origin variant (2023-03-30, not reconciled).** Neil separately tells the origin as
+> a direct response to being fired from a **General Motors** ad-spend account (~$3M/month under
+> management): he advised GM that several million/month of spend was wasted and could be cut, which
+> got him "canned" because the budget owner needed to protect next quarter's headcount — he frames
+> this as the trigger for building Crazy Egg, software to prove real marketing ROI and spare clients
+> the same perverse budget incentive. This sits alongside, not replacing, the existing "hated being a
+> consultant" pre-AWS cloud-computing account and the Speech-101/Elpac origin story — three separate,
+> self-reported tellings of the pre-Crazy-Egg period, recorded as-is.
+> ([[../sources/2023-03-30-yt-fslIfiEouqs]])
+
+> ⚠️ **2008-crisis growth attribution, sharpened (2023-05-06/2023-06-15, not fully reconciled).**
+> Two 2023 sources specifically credit **Crazy Egg** — not KISSmetrics — as the company that kept
+> growing through the 2008 financial crisis while Neil's early ad agency (ACS, mortgage-industry
+> clients including Countrywide) collapsed, forcing the pivot from services to software. This is
+> consistent with the existing 2008-pivot narrative but adds a specific company attribution not
+> previously this explicit.
+> ([[../sources/2023-05-06-yt-XTLHQGdcxsY]], [[../sources/2023-06-15-yt-rFkUARYJwXk]])
+
 ## Product
 
 Heatmap/scrollmap/confetti reporting so site owners can see where visitors click and how far
@@ -47,7 +65,10 @@ tool. 📰
 
 Still operating as of 2025 (independent trackers list ~$4.5M revenue / ~4k customers). 📰
 (getlatka.com/companies/crazyegg). The **[[hello-bar-quick-sprout|Hello Bar]]** notification
-tool was acquired by the Crazy Egg team ~2012.
+tool was acquired by the Crazy Egg team ~2012. A 2023-05-25 source names the sister who runs it
+today **"Amy"** (caption spelling) — a variant against **"Amee"** recorded in
+[[../../persona/biography|persona/biography]], not reconciled. 🗣️
+([[../sources/2023-05-25-yt-jNjE5CGiULs]])
 
 ## See also
 

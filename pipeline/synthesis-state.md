@@ -6,13 +6,78 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **@neilpatel 2022-06 → 2022-12 P2 tactical era complete — all 1,010 L2 sources, ingest batches #1–#127 (2016-11 → 2022-12)**, via synthesis pass 13 (2026-07-21). Pass 13 folded the @neilpatel 2022-06-04 → 2022-12-12 solo run (batches #118–#127 / log cont. 96–105 — solo tactical/case-study content, 10 `Synthesis notes:` lines of debt) into 7 of the 8 topic hubs (no new material for paid-ads this run) + all 4 persona files + 1 updated entity page (Mike Gullickson). The next pass starts from the debt accumulated after batch #127 (i.e. the next @neilpatel P2 ingest or the next @MarketingSchoolPod P2 run).
+Synthesized through: **@neilpatel 2022-12 → 2023-06 P2 tactical era complete — all 1,089 L2 sources, ingest batches #1–#137 (2016-11 → 2023-06)**, via synthesis pass 14 (2026-07-22). Pass 14 folded the @neilpatel 2022-12-15 → 2023-06-22 solo run (batches #128–#137 / log cont. 106 — a run unusually dense with guest interviews and first-person financial/family disclosure, 10 `Synthesis notes:` lines of debt) into all 8 topic hubs + 3 persona files (beliefs.md, biography.md, voice.md; appearance.md unchanged — no new appearance material this run) + system-prompt.md + 5 updated entity pages (crazy-egg, kissmetrics, mike-gullickson, np-digital, ubersuggest). The next pass starts from the debt accumulated after batch #137 (i.e. the next @neilpatel P2 ingest or the next @MarketingSchoolPod P2 run).
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
-_(none — caught up through batch #127; @neilpatel 2022-06→2022-12 P2 tactical era fully synthesized)_
+_(none — caught up through batch #137; @neilpatel 2022-12→2023-06 P2 tactical era fully synthesized)_
 
 ## Done checkpoints
+- [x] 2026-07-22 — **synthesis pass 14** — @neilpatel 2022-12 → 2023-06 P2 tactical era complete
+  (1,089 L2 sources total, batches #128–#137 / log cont. 106, 2022-12-15→2023-06-22 solo run; fully
+  Neil-attributed, a run unusually dense with guest-interview financial/family disclosure). Drained
+  the 10 accumulated `Synthesis notes:` lines. Promotions (quality-over-volume; pure repeats/
+  reinforcements dropped): **agency-entrepreneurship** (the KISSmetrics $1,250,391 value-proposition
+  mistake ★; the India Q&A operating philosophy — "110%" presence, a values triad, "player-coach"
+  hiring ★; a GM-firing Crazy Egg origin variant + the AnswerThePublic economics + PE/IPO-decline
+  independence value ★; the personal-brand naming story sharpened; the uncle's leveling-mantra
+  origin attributed for the first time; a cold-calling monetization variant; the FTX consulting
+  relationship confirmed in Neil's own words ★; the KISSmetrics FTC investigation + AnswerThePublic
+  "overpay" confirmed ★; the MBE certification tiebreaker + $120-180K/mo personal burn-rate
+  breakdown ★; the never-CEO-himself pattern + no-money-to-kids philanthropy stance, two named
+  programs ★; the "forget personal brand, hire operators" tension ★; the most granular
+  AnswerThePublic economics + VC-declined/bank-AR-financing history ★; the First Republic Bank
+  day-trade + mentor "John" + no-private-jet minimalism ★; real-estate-as-personal-residence-mistake
+  + the Crazy Egg 2008-crisis attribution sharpened; the Brazil-expansion origin story + Mike
+  Gullickson's fuller career history ★; the richest biographical/family disclosure to date
+  (marriage, kids, "7,8,9" declined offers) ★; the WealthCon keynote + $515M acquisition offer ★;
+  the fullest teen-founder origin account ★; the "riches are in the niches" → "big massive markets"
+  belief reversal ★), **seo** (the Amazon "A10" algorithm named explicitly; a "4,500 algorithm
+  changes in 2020" stat + YoY Search Console refresh workflow; the content-simplicity philosophy
+  sharpened — "write for a kindergartner"), **content-marketing** (the hedgehog concept named ★; a
+  ranked TAM-based niche-selection doctrine; the WealthCon 10-hack content/personal-brand keynote ★;
+  the content-production pipeline named; the Gary Vaynerchuk content-repurposing credit reinforced),
+  **social-media** (the email-as-social-growth-lever tactic; an Instagram-over-Facebook prediction;
+  LinkedIn confirmed as NP Digital's #2 revenue channel after YouTube; a celebrity-endorsement
+  alignment thesis — Ryan Reynolds/Mint Mobile, LeBron/Tonal vs. generic deals; TikTok cost-
+  efficiency vs. Facebook), **email-marketing** (the email-deliverability "taint" mechanism +
+  QuickSprout origin anecdote; SMS-over-email revenue preference + PayPal ~18% lift), **analytics-
+  cro** (the Dave Brailsford "marginal gains" analogy + an own-vs-cited-data contrast; the Walmart
+  Labs hyper-personalization pushback; a PayPal-checkout ~18% revenue lift), **paid-ads** (a
+  carousel-ads engagement-rate stat bank; TikTok's ~40-50%-cheaper cost-efficiency vs. Facebook),
+  **ai-marketing** (E-A-T + "Where's Waldo" AI-content-commoditization metaphor + the "Project Magi"
+  prediction ★; a 5-year no-AI-replacement forecast reasoned from data quality ★; a "Success with
+  Soul" AI/E-E-A-T skepticism demo; two near-term AI-disruption points named). **New CONTRADICTION
+  flagged, not reconciled:** a self-reported-vs-registry-verified AnswerThePublic acquisition-date
+  discrepancy ("February 2023" self-reported vs. the registry-verified 2022-05-31 close, also
+  refining SUBJECT.md's "acquired 2022" note) — flagged on [[../wiki/entities/np-digital|
+  entities/np-digital]]. Also carried, not smoothed: a third Crazy Egg origin variant (fired from a
+  GM ad-spend account) alongside the existing two tellings ([[../wiki/entities/crazy-egg|
+  entities/crazy-egg]]); a further Mike Gullickson career-history variant, still not fully
+  reconciled ([[../wiki/entities/mike-gullickson|entities/mike-gullickson]]); a sister-name spelling
+  variant ("Amy" vs. "Amee"); and a minor self-reported age inconsistency (37 vs. "38 now," within
+  the same two weeks). Persona: **beliefs.md** (98→109 sources; the "110%" presence philosophy, the
+  TAM-ranked niche doctrine, the hedgehog concept, the "riches are in the niches" reversal,
+  "software is a race to the bottom," the independence-over-a-sale value, the "forget personal
+  brand, hire operators" tension, the never-CEO/no-money-to-kids philanthropy stance, the personal-
+  residence wealth-philosophy carve-out, a 5-year no-AI-replacement forecast), **voice.md**
+  (71→82 sources; "I think of life as whatever you do, put in 110%", the hedgehog "meaningfully
+  reach a hundred people" line, "I don't care for the money... building a bigger business", "I'm a
+  terrible leader, I really am", "software is a race to the bottom", "forget personal brand, I would
+  just go hire people", the "riches are in the niches" reversal quote, the uncle's leveling-mantra
+  quote), **biography.md** (76→87 sources; the uncle's mantra origin, a cold-calling monetization
+  variant, the fullest teen-founder origin account, the First Republic Bank day-trade + mentor
+  "John", the richest family disclosure to date), **appearance.md** unchanged (7 sources; no new
+  appearance material this run). Recompiled **system-prompt.md v14 → v15** (compiled_from_sources
+  1,010 → 1,089): wove in the "110%"-presence philosophy + values triad, the TAM-ranked niche
+  doctrine + "riches are in big markets" reversal, the hedgehog concept, "software is a race to the
+  bottom," the independence-over-a-sale value (declined $515M offer), the never-CEO/no-money-to-kids
+  philanthropy stance, the "forget personal brand, hire operators" tension, the personal-residence
+  wealth carve-out, the 5-year no-AI-replacement forecast, E-A-T + "Where's Waldo," and the richest
+  family/teen-founder biographical material; kept the remaining tactical/framework material
+  topic-hub-only per the changelog. `index.md` updated (topic-hub summaries, entity list, persona
+  summaries, header). `pipeline/synthesis-state.md` high-water mark advanced to batch #137 / 1,089
+  L2 sources; no pending checkpoints remain.
 - [x] 2026-07-21 — **synthesis pass 13** — @neilpatel 2022-06 → 2022-12 P2 tactical era complete
   (1,010 L2 sources total, batches #118–#127 / log cont. 96–105, 2022-06-04→2022-12-12 solo run;
   fully Neil-attributed solo tactical/case-study content). Drained the 10 accumulated `Synthesis

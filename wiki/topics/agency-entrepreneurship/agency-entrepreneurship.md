@@ -555,6 +555,191 @@ hiring/culture, and fundraising. Dated seeds; several carry an explicit through-
   minutes before, plus a no-show follow-up offering the recording
   ([[2022-12-10-yt-DjXRQo4K8ss]]).
 
+## 2022-12 → 2023-06 solo-era operating principles — the KISSmetrics value-prop mistake, the India Q&A operating philosophy, the AnswerThePublic economics extended, FTX in his own words & the teen-founder origin (@neilpatel P2, synthesis pass 14)
+
+- **"My Biggest Advertising Mistake" — the KISSmetrics $1,250,391 value-proposition mistake
+  (2022-12-26, ★).** A quantified biographical failure story: KISSmetrics ran for roughly three
+  years with an unclear website value proposition; once Neil shortened the headline, sharpened the
+  value prop, added social proof, and offered free trials, conversions jumped **~40% almost
+  instantly** — he totals the accumulated cost of the delay at **$1,250,391**. Draws five lessons
+  (value prop first; social proof; free trials, newly viable via cheap cloud computing; build
+  trust; short attention spans — 80% never read past the headline). A concrete biography/
+  entrepreneurship cautionary tale to pair with the existing KISSmetrics fundraising/CEO
+  post-mortems ([[2022-12-26-yt-Moa-cA0IDRM]]).
+  > "Behind every success story is thousands of failures and my biggest failure, it was one for the
+  > books. In fact, it ended up costing me over a million dollars. $1,250,391 to be exact."
+  > [[2022-12-26-yt-Moa-cA0IDRM]]
+- **"My 6 Favorite Productivity Hacks" — a 750-employee headcount marker and the "more essential,
+  less involved" delegation philosophy (2023-01-12).** Self-reports NP Digital at **~750 people**
+  (Jan 2023) and states his operating goal explicitly: **"be more essential, but less involved"** —
+  focus on strategic direction/feedback rather than being a bottleneck, because at 750 people
+  "things can't be reliant on me." Reinforces the existing Power of No belief with a concrete
+  corollary: he now selects speaking engagements by audience fit, a reversal from an earlier
+  fee-driven practice ([[2023-01-12-yt-9D23NaNkNp0]]).
+  > "My goal is this: be more essential, but less involved." [[2023-01-12-yt-9D23NaNkNp0]]
+- **The India Q&A — the richest single operating-philosophy source in the corpus (2023-03-18, ★).**
+  An unscripted live interview covering routine, hiring, and values in unusual depth: reframes
+  work-life balance as **"110%" presence** in whichever time block you're in ("work is life"), not
+  divided-but-shallow balance; states three explicit personal values — treat everyone with respect
+  regardless of identity, always be ethical, always think long-term; extends the hiring criteria
+  with **"player-coach"** (can both manage and execute) and confirms he fires people who turn out
+  not to be a cultural fit ("sadly, but it's true"); predicts Instagram will eventually surpass
+  Facebook/Meta on usability and engagement — a datable belief-evolution point to cross-check
+  against later platform commentary ([[2023-03-18-yt-hON3LkphygI]]).
+  > "I think of life as whatever you do, put in 110%. So when you spend time with your kids, make it
+  > count." [[2023-03-18-yt-hON3LkphygI]]
+  > "If they're not a cultural fit, they're not going to last or do well in the company... You get
+  > rid of them, you fire them. Sadly. But it's true." [[2023-03-18-yt-hON3LkphygI]]
+- **"Growth Hacks: How to Scale in Record Time" — a GM-firing Crazy Egg origin variant, the
+  AnswerThePublic economics disclosed & the PE/IPO-decline independence value (2023-03-30, ★).**
+  See [[../../wiki/entities/crazy-egg|entities/crazy-egg]] for the GM-account origin variant. On
+  AnswerThePublic: discloses ~$8.6M total price ($6M upfront + $2.6M over six quarters), ~$100-130K/
+  month EBITDA at acquisition targeted to reach ~$300-400K/month — see
+  [[../../wiki/entities/np-digital|entities/np-digital]] for the full, cross-source economics.
+  ★ States NP Digital has **declined multiple PE/IPO-adjacent acquisition offers** (including
+  Goldman Sachs conversations) over the prior two years: **"the business is like a baby... I don't
+  want to give my kids away."** Also explicitly rejects "riches are in the niches" for hyper-
+  specific influencer products, arguing instead for a large TAM (Fenty's LVMH-operational-
+  infrastructure success vs. weaker solo-influencer product lines) ([[2023-03-30-yt-fslIfiEouqs]]).
+  > "The business is like a baby... I don't want to give my kids away." [[2023-03-30-yt-fslIfiEouqs]]
+- **The personal-brand naming story, told at length — and the key-man-syndrome reasoning sharpened
+  (2023-03-23).** Retells the "Neil Patel Digital" naming decision (Mike Kamo's suggestion, at a
+  blog traffic of "four or five hundred thousand visitors") and restates the belief that personal
+  brands (Tony Robbins, LeBron James, Ronaldo) cap out below corporate brands (Apple, Google,
+  Amazon) and carry "key man syndrome" — extending the existing corporate-brand-over-personal-brand
+  belief (see [[../../persona/beliefs|persona/beliefs]]) with a concrete founding-traffic figure
+  ([[2023-03-23-yt-YXRuz23PPjw]]).
+- **The uncle's leveling mantra, attributed for the first time (2023-04-01).** Names his **uncle**
+  as the source of the recurring "when things go well, someone's doing better; when things go
+  badly, someone's doing worse" stay-level-headed mantra — the quote already recurs in the corpus
+  without an origin ([[2023-04-01-yt-eL3aif7oF6c]]).
+  > "My uncle taught this to me a long, long time ago... when things are getting really tough, just
+  > keep in mind there's other people out there who have it much worse than you... when things are
+  > going really well for you, keep in mind there's other people out there who have it much better
+  > than you." [[2023-04-01-yt-eL3aif7oF6c]]
+- **A cold-calling monetization variant (2023-04-06).** A distinct account of "how the money side"
+  first worked: cold-calling companies bidding on expensive Google-ad terms in his space, offering
+  free work paid only on results ("if you like the results, pay me"), building referrals from
+  there — recorded alongside, not replacing, the Speech-101/Elpac-Electronics origin account
+  ([[2023-04-06-yt-Ji5urXQRoLo]]).
+- **FTX consulting relationship, confirmed in Neil's own words (2023-04-15, ★).** See
+  [[../../wiki/entities/np-digital|entities/np-digital]] for the full detail — directly grounds the
+  clawback-suit context flagged in SUBJECT.md, dated over a year before the Nov-2024 suit
+  ([[2023-04-15-yt-ExV24jFfi_g]]).
+- **KISSmetrics FTC investigation + AnswerThePublic "overpay" confirmed (2023-04-24, ★).** See
+  [[../../wiki/entities/kissmetrics|entities/kissmetrics]] for the FTC detail. Confirms the
+  AnswerThePublic deal as an ~8x-multiple "overpay" (no more than ~$1.2M/year in revenue at
+  acquisition, no dedicated team), bought purely to replicate Ubersuggest's ~40%-of-clients halo
+  effect. States **~77% of NP Digital's enterprise contracts** come from referrals/RFPs/employees,
+  not the website, expected to keep rising toward 90%+ ([[2023-04-24-yt-tJekpDfTp00]]).
+  > "It's a $8.6 million bet... we also overpaid for it, right? So it wasn't doing more than 1.2
+  > million a year when we bought it." [[2023-04-24-yt-tJekpDfTp00]]
+- **MBE certification tiebreaker + a detailed personal burn-rate breakdown (2023-04-20, ★).**
+  Describes qualifying for an **MBE (Minority Business Enterprise) certification** as an
+  Indian-American, a genuine tiebreaker in competitive Fortune-500 RFPs (relays, but explicitly
+  flags as unverified hearsay, a "Magic Johnson formula" of minority-shell-company government
+  subcontracting — attribution: uncertain, not promoted as practice). Attributes ~$30-40M of agency
+  revenue directly to the "Neil Patel" personal brand before word-of-mouth took over. Discloses a
+  detailed personal monthly burn rate: **$120-180K/month**, no mortgage, a whole-life insurance
+  policy costing $25-300K/year, ~$57K/month on household staff — a rare, concrete personal-finance
+  disclosure ([[2023-04-20-yt-xtYv67lnlzk]]).
+- **Never CEO of his own companies; no money to the kids; two named philanthropy programs
+  (2023-04-22, ★).** ★ States he **never takes the CEO role** at any company he starts, always
+  installing an experienced operator from day one (Mike Gullickson — see
+  [[../../wiki/entities/mike-gullickson|entities/mike-gullickson]]); put in **~$5M of his own
+  money** to start NP Digital. ★ States he **will not give his children money** beyond
+  survival/altruistic-purpose needs — intends to leave character and skills, not cash, via a
+  family trust — and details the family's philanthropy division of labor (wife vets/volunteers,
+  Neil earns) and names two specific programs: **women's-education tuition-for-teaching-return**
+  (India/Africa) and an AIDS-medication-adherence **"growing gardens" nutrition program**. Extends
+  the existing "business is a sport / donate not inherit" belief with concrete program names and a
+  ~10-11-year giving history ([[2023-04-22-yt-jI34N2EUHCI]]).
+  > "I'm not giving my kids money, so might as well take care of other people in this world who
+  > need it more than we do." [[2023-04-22-yt-jI34N2EUHCI]]
+- **"If I started over, forget personal brand — hire operators" — a values tension with his own
+  path (2023-04-29, ★).** Explicitly states that, starting over, he would **skip building a
+  personal brand entirely** and instead front-load hiring of experienced operators (citing his own
+  CEO) as a faster, if costlier, path — directly in tension with (not quite contradicting) his own
+  99%-personal-brand-driven year-one revenue. Also gives the fullest named regional-expansion
+  roadmap in the corpus (US/Canada/Brazil live; UK, Germany, India, Australia, Singapore, LatAm,
+  Portugal, EMEA in progress; Russia and China explicitly excluded for political risk)
+  ([[2023-04-29-yt-rifqO7we8uo]]).
+  > "Forget personal brand, I would just go hire people who have built successful companies... and
+  > just pay them an arm and a leg. That's what I would do from day one." [[2023-04-29-yt-rifqO7we8uo]]
+- **The most granular AnswerThePublic economics, VC declined for bank AR-financing, and NP
+  Digital's word-of-mouth shift (2023-05-04, ★).** See
+  [[../../wiki/entities/np-digital|entities/np-digital]] for the full financing-history and
+  acquisition-economics detail. Names "software is a race to the bottom" as an explicit business
+  philosophy (give core software away to acquire leads cheaply, monetize via attached high-margin
+  services) — illustrated with HubSpot Website Grader and a Paychex/UnitedHealthcare market-cap
+  comparison ([[2023-05-04-yt-lA55yrabOSQ]]).
+  > "Software is a race to the bottom. A great way to market is just give away tools for free."
+  > [[2023-05-04-yt-lA55yrabOSQ]]
+- **Family-office wealth management: the First Republic day trade, a named early-20s mentor & a
+  no-private-jet minimalism (2023-05-01, ★).** Describes his personal-wealth-management "team"
+  evolving organically into a cost-shared multi-family-office arrangement; a **March-2023 First
+  Republic Bank day trade** (~$900K bought around $19/share, sold next day for ~$1.4M) framed as a
+  bet on market panic, not fundamentals; attributes early-20s investing advice to a Seattle mentor
+  named **John** ("ride the coattails" of people you trust rather than diligence alone); extends the
+  children's-trust philosophy with concrete structure (funds only catastrophic/values-aligned needs,
+  not lifestyle); and states a minimalism streak inconsistent with typical UHNW spending — avoids
+  owning a private jet, prefers flying on friends' jets for free ("that is the best thing you can do
+  as a rich person") ([[2023-05-01-yt-f6NHHY0LAJs]]).
+- **Real estate as a personal-residence "mistake," Patrick Gavin, and the Crazy Egg (not
+  KISSmetrics) 2008-crisis attribution sharpened (2023-05-06).** See
+  [[../../wiki/entities/crazy-egg|entities/crazy-egg]] for the sharpened 2008-crisis company
+  attribution. Argues buying a **personal residence** specifically (not real estate as an asset
+  class) is a mistake since gains can't be realized while occupied — the family holds ~$20-30M in
+  largely unleveraged real-estate equity. Names his angel-investing LP relationship (an investor
+  called "Andy," fund informally "Unlock") as relationship-/skin-in-the-game-based rather than
+  formal diligence; describes sending 50-60+ K-1 tax forms to his accountant as the practical
+  trigger for consolidating into fewer, larger fund commitments
+  ([[2023-05-06-yt-XTLHQGdcxsY]]).
+- **Ubersuggest's fullest economics + AnswerThePublic acquisition-year figures, in one place
+  (2023-05-22).** See [[../../wiki/entities/ubersuggest|entities/ubersuggest]] and
+  [[../../wiki/entities/np-digital|entities/np-digital]] for the figures
+  ([[2023-05-22-yt-OfZ1WFGpMRs]]).
+- **The Brazil-expansion origin story and Mike Gullickson's fuller career history (2023-05-27,
+  ★).** See [[../../wiki/entities/np-digital|entities/np-digital]] for the Brazil origin and
+  [[../../wiki/entities/mike-gullickson|entities/mike-gullickson]] for the extended career detail.
+  Also recounts the **pre-AWS cloud-computing venture** (~2005, "over a million dollars" lost to
+  non-expert staffing) as a distinct telling from the existing Rockwall/TX fraud-loss story — kept
+  as separate, cross-linked entries in
+  [[../../persona/biography|persona/biography]] ([[2023-05-27-yt-luLpx7-Pdtg]]).
+- **The most detailed biographical/family disclosure in the corpus — marriage, kids, and the
+  "money is a scorecard, not a lifestyle" theme (2023-05-25, ★).** See
+  [[../../persona/biography|persona/biography]] for the full family-timeline detail (career origin
+  at 16, the 2008-pivot, marriage ~2019, kids' ages, the "7, 8, 9 declined buyout offers"
+  independence stance). ([[2023-05-25-yt-jNjE5CGiULs]])
+- **"10 Marketing Hacks" — a WealthCon keynote framework, NP Digital's $515M acquisition offer &
+  follower counts disclosed (2023-06-10, ★).** Fuller entry lives on
+  [[../content-marketing/content-marketing|content-marketing]]; cross-referenced here as an
+  agency-scale proof point: opens with NP Digital at ~750 employees, $0→$100M+ revenue in under 5
+  years on ~$5M of Neil's own capital, and a **$515M acquisition offer received "in a bad economy"**
+  ([[2023-06-10-yt-4bs4lxQsvGQ]]).
+- **The fullest teen-founder origin account in the corpus (2023-06-15, ★).** Starts at **age 15.5**
+  ("round up to say 16"), funded by minimum-wage jobs including theme-park restroom cleaning;
+  self-describes as **"a terrible leader"** who delegates people-management entirely, endorsing an
+  "artist" self-framing (love of craft, indifferent to a fast exit) over "entrepreneur" or
+  "leader/manager." Names co-founder **Mike Kamo** (operations) and CEO **Mike Gullaksen**. States
+  his college degree (5.5 years) "didn't do anything" for his career and "actually slowed me down" —
+  see [[../../persona/biography|persona/biography]] for the full timeline entry
+  ([[2023-06-15-yt-rFkUARYJwXk]]).
+  > "I love what I'm doing. I don't care about the money. It's silly, but when you love what you're
+  > doing, you just love what you're doing." [[2023-06-15-yt-rFkUARYJwXk]]
+- **An explicit, self-flagged belief reversal — "riches are in the niches" → "the riches are in big
+  massive markets" (2023-06-19, ★).** Names "picking too small a TAM" as one of his two biggest
+  career mistakes (alongside lack of focus, only corrected in the preceding five years), explicitly
+  reversing an earlier framing he doesn't date precisely on camera — an existing, earlier-dated
+  instance of "the riches are in the niches... that's not true" appears in his 2023-02-23
+  retrospective ([[2023-02-23-yt-2L4Jh0Ra7Rk]]), so both tellings share the same underlying
+  reversal rather than a single new one; the corpus does not (yet) contain an earlier source where
+  he holds "riches are in the niches" as a positive stated belief to anchor a full "before" date —
+  recorded as a dated reversal, not a resolved contradiction
+  ([[2023-06-19-yt-Hlx9rxe7OH8]]).
+  > "The riches are in the niches. That's so true, I mean, that's so false. It's like the opposite
+  > of being true. The riches are in big massive markets." [[2023-06-19-yt-Hlx9rxe7OH8]]
+
 ## Key source pages
 
 - [[2016-11-25-yt--dCls0VoY58]] — "Learn REAL Digital Marketing In Just 5 Minutes a Day":
@@ -668,6 +853,29 @@ hiring/culture, and fundraising. Dated seeds; several carry an explicit through-
 - [[2022-10-08-yt-zUwK51XBMEI]] — Crunchbase-teardown playbook extended (up-to-$20M ceiling; 1-in-4-5 conversion).
 - [[2022-10-31-yt-JsaGGtzj-Yc]] — LinkedIn talent-poaching outreach tactic.
 - [[2022-12-10-yt-DjXRQo4K8ss]] — Webinar co-hosting partners (BigCommerce, WP Engine) + five-touch reminder cadence.
+
+### 2022-12 → 2023-06 solo-era operating principles (@neilpatel P2, synthesis pass 14)
+- [[2022-12-26-yt-Moa-cA0IDRM]] — ★ KISSmetrics $1,250,391 value-proposition mistake.
+- [[2023-01-12-yt-9D23NaNkNp0]] — ★ 750-employee headcount marker; "more essential, less involved."
+- [[2023-03-18-yt-hON3LkphygI]] — ★ India Q&A: 110% presence, player-coach hiring, values triad, Instagram-over-Facebook prediction.
+- [[2023-03-23-yt-YXRuz23PPjw]] — Personal-brand naming story at length; key-man-syndrome sharpened.
+- [[2023-03-30-yt-fslIfiEouqs]] — ★ GM-firing Crazy Egg origin variant; AnswerThePublic economics; PE/IPO decline.
+- [[2023-04-01-yt-eL3aif7oF6c]] — ★ Uncle's leveling-mantra origin attributed for the first time.
+- [[2023-04-06-yt-Ji5urXQRoLo]] — ★ Cold-calling monetization origin variant; 76% referral client mix.
+- [[2023-04-15-yt-ExV24jFfi_g]] — ★ FTX consulting relationship confirmed in Neil's own words.
+- [[2023-04-20-yt-xtYv67lnlzk]] — ★ MBE certification tiebreaker; $120-180K/mo personal burn-rate breakdown.
+- [[2023-04-22-yt-jI34N2EUHCI]] — ★ Never-CEO-himself pattern; no-money-to-kids; two named philanthropy programs.
+- [[2023-04-24-yt-tJekpDfTp00]] — ★ KISSmetrics FTC investigation; AnswerThePublic "overpay" confirmed; 77% referral figure.
+- [[2023-04-29-yt-rifqO7we8uo]] — ★ "Forget personal brand, hire operators" tension; named regional roadmap.
+- [[2023-05-01-yt-f6NHHY0LAJs]] — ★ First Republic Bank day trade; mentor "John"; no-private-jet minimalism.
+- [[2023-05-04-yt-lA55yrabOSQ]] — ★ Most granular AnswerThePublic economics; VC declined for bank AR-financing.
+- [[2023-05-06-yt-XTLHQGdcxsY]] — Real-estate-as-mistake thesis; Crazy Egg 2008-crisis attribution sharpened.
+- [[2023-05-22-yt-OfZ1WFGpMRs]] — Ubersuggest + AnswerThePublic fullest economics in one place.
+- [[2023-05-25-yt-jNjE5CGiULs]] — ★ Fullest biographical/family disclosure (marriage, kids, buyout offers declined).
+- [[2023-05-27-yt-luLpx7-Pdtg]] — ★ Brazil-expansion origin story; Mike Gullickson's fuller career history.
+- [[2023-06-10-yt-4bs4lxQsvGQ]] — ★ WealthCon 10-hack keynote; $515M acquisition offer disclosed.
+- [[2023-06-15-yt-rFkUARYJwXk]] — ★ Fullest teen-founder origin account (age 15.5, artist self-framing).
+- [[2023-06-19-yt-Hlx9rxe7OH8]] — ★ "Riches are in the niches" → "big massive markets" belief reversal.
 
 ## 2018-H2 → 2019 solo-era operating principles (@neilpatel P2)
 

@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-21
-sources: 71
+updated: 2026-07-22
+sources: 82
 ---
 
 # Voice
@@ -502,3 +502,54 @@ of a legacy agency.
 - **"I'm not an expert in any of those topics. Hence, none of those websites did really amazing."**
   A rare, concrete self-critical admission tied to the expertise-vs-hustle anecdote — see
   [[biography]]. *(as of 2022-11-12)* [[2022-11-12-yt-LKROs5JIVfk]]
+
+## 2022-12 → 2023-06 additions (synthesis pass 14)
+
+- **"I think of life as whatever you do, put in 110%."** His clearest single reframe of work-life
+  balance — not divided-but-shallow time buckets, full presence in whichever block you're in. See
+  [[../wiki/topics/agency-entrepreneurship/agency-entrepreneurship|agency-entrepreneurship]].
+  *(as of 2023-03-18)*
+  > "I think of life as whatever you do, put in 110%. So when you spend time with your kids, make it
+  > count." [[2023-03-18-yt-hON3LkphygI]]
+
+- **"You are much better off focusing on trying to meaningfully reach a hundred people than you are
+  trying to barely get through to a thousand."** The "hedgehog concept" content-strategy line — see
+  [[../wiki/topics/content-marketing/content-marketing|content-marketing]]. *(as of 2022-12-29)*
+  [[2022-12-29-yt-Ad0n7fbVGhA]]
+
+- **"I don't care for the money... I never dreamed about having a Ferrari... What did I dream
+  about? Building a bigger business."** His plainest single statement of the money-is-a-scorecard-
+  not-a-lifestyle theme, paired with the recurring Honda Odyssey anti-flashy detail. See
+  [[biography]]. *(as of 2023-05-25)*
+  > "I don't care for the money. Like I have a Honda Odyssey... I prefer the Honda Odyssey. It's a
+  > more convenient car when you have little kids." [[2023-05-25-yt-jNjE5CGiULs]]
+
+- **"No. I'm a terrible leader, I really am."** A blunt self-assessment, paired with an "artist, not
+  entrepreneur/leader" self-framing — love of the craft over managing people or a fast exit. See
+  [[biography]]. *(as of 2023-06-15)*
+  > "I'm a terrible leader, I really am. I'm good at ideas and where I want to go, and pitching and
+  > sales, but I'm a terrible leader." [[2023-06-15-yt-rFkUARYJwXk]]
+
+- **"Software is a race to the bottom."** His bluntest single-line restatement of the free-tool-as-
+  acquisition-channel thesis — see
+  [[../wiki/topics/agency-entrepreneurship/agency-entrepreneurship|agency-entrepreneurship]].
+  *(as of 2023-05-04)*
+  > "Software is a race to the bottom. A great way to market is just give away tools for free."
+  > [[2023-05-04-yt-lA55yrabOSQ]]
+
+- **"Forget personal brand, I would just go hire people who have built successful companies."** A
+  rare on-camera concession that, starting over, he'd choose operators over personal-brand-building
+  — in tension with his own path. See [[beliefs]]. *(as of 2023-04-29)*
+  > "Forget personal brand, I would just go hire people who have built successful companies... and
+  > just pay them an arm and a leg. That's what I would do from day one." [[2023-04-29-yt-rifqO7we8uo]]
+
+- **"The riches are in the niches. That's so true, I mean, that's so false."** A rare, explicitly
+  self-flagged on-camera belief reversal — see [[beliefs]]. *(as of 2023-06-19)*
+  > "The riches are in the niches. That's so true, I mean, that's so false. It's like the opposite
+  > of being true. The riches are in big massive markets." [[2023-06-19-yt-Hlx9rxe7OH8]]
+
+- **The uncle's leveling mantra, attributed for the first time.** The recurring "someone's better
+  off, someone's worse off" stay-level-headed line, finally given an origin. See [[biography]].
+  *(as of 2023-04-01)*
+  > "My uncle taught this to me a long, long time ago... when things are getting really tough, just
+  > keep in mind there's other people out there who have it much worse than you." [[2023-04-01-yt-eL3aif7oF6c]]

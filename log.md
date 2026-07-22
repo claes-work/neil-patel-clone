@@ -6452,3 +6452,78 @@ Ledger: open P2 long-form now @neilpatel 133 / @MarketingSchoolPod 731; ingested
 Ingest batches since last synthesis: 10 (checkpoint at 10) — **CHECKPOINT REACHED**. Next
 iteration: Stage S — run a full synthesis pass (`python tools/synthesis_batch.py prepare`)
 before further ingest.
+
+## [2026-07-22] lint | synthesis pass 14 — @neilpatel 2022-12 → 2023-06 P2 tactical era (batches #128–#137)
+
+Ran the SYNTHESIS loop per `tools/SYNTHESIS.md` on the debt accumulated since pass 13: 10 ingest
+batches (log cont. 106 and the preceding untagged batches, ingest batches #128–#137), the
+@neilpatel 2022-12-15 → 2023-06-22 solo tactical era — unusually dense with guest-interview
+financial/family disclosure — taking the corpus to 1,089 L2 sources total. Drained all 10
+accumulated `Synthesis notes:` lines.
+
+Promotions (quality-over-volume; pure repeats/reinforcements dropped): **agency-entrepreneurship**
+(the KISSmetrics $1,250,391 value-proposition mistake ★; the India Q&A operating philosophy — "110%"
+presence, a values triad, "player-coach" hiring ★; a GM-firing Crazy Egg origin variant + the
+AnswerThePublic economics + the PE/IPO-decline independence value ★; the personal-brand naming
+story sharpened; the uncle's leveling-mantra origin attributed for the first time; a cold-calling
+monetization variant; the FTX consulting relationship confirmed in Neil's own words ★; the
+KISSmetrics FTC investigation + AnswerThePublic "overpay" confirmed ★; the MBE certification
+tiebreaker + a $120-180K/mo personal burn-rate breakdown ★; the never-CEO-himself pattern +
+no-money-to-kids philanthropy stance naming two programs ★; the "forget personal brand, hire
+operators" tension ★; the most granular AnswerThePublic economics + VC-declined/bank-AR-financing
+history ★; the First Republic Bank day-trade + mentor "John" + no-private-jet minimalism ★;
+real-estate-as-personal-residence-mistake + the Crazy Egg 2008-crisis attribution sharpened; the
+Brazil-expansion origin story + Mike Gullickson's fuller career history ★; the richest
+biographical/family disclosure to date ★; the WealthCon keynote + $515M acquisition offer ★; the
+fullest teen-founder origin account ★; the "riches are in the niches" → "big massive markets" belief
+reversal ★); **seo** (the Amazon "A10" algorithm named explicitly; a "4,500 algorithm changes in
+2020" stat + a YoY Search Console refresh workflow; the content-simplicity philosophy sharpened —
+"write for a kindergartner"); **content-marketing** (the hedgehog concept named ★; a ranked
+TAM-based niche-selection doctrine; the WealthCon 10-hack content/personal-brand keynote ★; the
+content-production pipeline named; the Gary Vaynerchuk content-repurposing credit reinforced);
+**social-media** (the email-as-social-growth-lever tactic; an Instagram-over-Facebook prediction;
+LinkedIn confirmed as NP Digital's #2 revenue channel after YouTube; a celebrity-endorsement
+alignment thesis; TikTok cost-efficiency vs. Facebook); **email-marketing** (the email-
+deliverability "taint" mechanism + a QuickSprout origin anecdote; SMS-over-email revenue preference
++ a PayPal ~18% revenue lift); **analytics-cro** (the Dave Brailsford "marginal gains" analogy + an
+own-vs-cited-data contrast; the Walmart Labs hyper-personalization pushback; the PayPal-checkout
+~18% revenue lift); **paid-ads** (a carousel-ads engagement-rate stat bank; TikTok's ~40-50%-cheaper
+cost-efficiency vs. Facebook); **ai-marketing** (E-A-T + "Where's Waldo" AI-content-commoditization
+metaphor + the "Project Magi" prediction ★; a 5-year no-AI-replacement forecast reasoned from data
+quality ★; a "Success with Soul" AI/E-E-A-T skepticism demo; two near-term AI-disruption points
+named).
+
+**New CONTRADICTION flagged, not reconciled:** a self-reported-vs-registry-verified
+AnswerThePublic acquisition-date discrepancy ("February 2023" self-reported vs. the
+registry-verified 2022-05-31 close, also refining SUBJECT.md's "acquired 2022" note) — flagged on
+[[wiki/entities/np-digital]]. Also carried, not smoothed: a third Crazy Egg origin variant (fired
+from a GM ad-spend account) alongside the existing two tellings ([[wiki/entities/crazy-egg]]); a
+further Mike Gullickson career-history variant, still not fully reconciled
+([[wiki/entities/mike-gullickson]]); a sister-name spelling variant ("Amy" vs. "Amee"); and a minor
+self-reported age inconsistency (37 vs. "38 now," within the same two weeks).
+
+Persona: **beliefs.md** (98→109 sources; the "110%" presence philosophy, the TAM-ranked niche
+doctrine, the hedgehog concept, the "riches are in the niches" reversal, "software is a race to the
+bottom," the independence-over-a-sale value, the "forget personal brand, hire operators" tension,
+the never-CEO/no-money-to-kids philanthropy stance, the personal-residence wealth-philosophy
+carve-out, a 5-year no-AI-replacement forecast), **voice.md** (71→82 sources; "I think of life as
+whatever you do, put in 110%", the hedgehog "meaningfully reach a hundred people" line, "I don't
+care for the money... building a bigger business", "I'm a terrible leader, I really am", "software
+is a race to the bottom", "forget personal brand, I would just go hire people", the "riches are in
+the niches" reversal quote, the uncle's leveling-mantra quote), **biography.md** (76→87 sources; the
+uncle's mantra origin, a cold-calling monetization variant, the fullest teen-founder origin account,
+the First Republic Bank day-trade + mentor "John", the richest family disclosure to date),
+**appearance.md** unchanged (7 sources; no new appearance material this run).
+
+Recompiled **system-prompt.md v14 → v15** (compiled_from_sources 1,010 → 1,089): wove in the
+"110%"-presence philosophy + values triad, the TAM-ranked niche doctrine + "riches are in big
+markets" reversal, the hedgehog concept, "software is a race to the bottom," the
+independence-over-a-sale value, the never-CEO/no-money-to-kids philanthropy stance, the "forget
+personal brand, hire operators" tension, the personal-residence wealth carve-out, the 5-year
+no-AI-replacement forecast, E-A-T + "Where's Waldo," and the richest family/teen-founder
+biographical material; kept the remaining tactical/framework material topic-hub-only per the
+changelog. `index.md` updated (topic-hub summaries, entity list, persona summaries, header).
+`pipeline/synthesis-state.md` high-water mark advanced to batch #137 / 1,089 L2 sources; no pending
+checkpoints remain.
+
+Synthesis notes: none (this is itself a synthesis pass).

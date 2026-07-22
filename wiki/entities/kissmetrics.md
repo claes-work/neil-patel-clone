@@ -32,6 +32,17 @@ privacy lawsuit**.
 > The settlement was corporate; Neil is generally not personally named, but as co-founder this
 > is part of his record.
 
+## FTC investigation (new, 2023-04-24 self-report)
+
+> ⚠️ **Alongside the court-documented class action above**, Neil separately states KISSmetrics was
+> also **investigated by the FTC** over the same cookie-based/data-privacy practices, and that the
+> FTC **"found we weren't doing anything wrong"** — the private class action was still settled
+> ("~$50K plus ~$500K of insurance-covered legal spend") purely on cost math versus an estimated
+> $500K-$1M to litigate a case he believed he'd win. This FTC-investigation detail is not
+> independently corroborated in this pass (self-reported only) and is not previously recorded on
+> this page — added as an additional, unreconciled detail alongside the Kim & Schutzman settlement.
+> 🗣️ ([[../sources/2023-04-24-yt-tJekpDfTp00]])
+
 ## Status
 
 Pivoted and was **acquired/folded (~2018)**; acquirer and exact terms not pinned in this pass.

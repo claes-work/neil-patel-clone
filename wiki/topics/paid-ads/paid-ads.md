@@ -317,6 +317,17 @@ paid works because of the funnel behind the ad, not the ad craft (dated; self-re
   > "TV ads doesn't really mean you're successful, it just means you spent money." ... "There
   > wasn't a huge ROI, but it's good to just get you on the map." [[2022-03-21-yt-qIGucc-ssjY]]
 
+## 2022-12 → 2023-06 solo-era paid tactics — a carousel-ads stat bank & TikTok cost-efficiency data (@neilpatel P2, synthesis pass 14)
+
+- **Carousel-ads engagement-rate stat bank (2023-02-09).** A reasonably complete, nameable
+  social-ads tactic: mixed-format carousel ads show **1.9%/2.33%** engagement rates and up to
+  **72% higher CTR** than single-image ads, plus a platform-retention-incentive explanation for why
+  platforms favor the format ([[2023-02-09-yt-dKn45bP4eZg]]).
+- **TikTok ad cost-efficiency, cited twice this era (2023-04-15/2023-05-29).** NP Digital client
+  data shows TikTok ad spend produces equivalent revenue to Facebook at roughly **40-50% lower
+  cost per dollar** — full entry on [[../social-media/social-media|social-media]]
+  ([[2023-04-15-yt-ExV24jFfi_g]], [[2023-05-29-yt-yD9STLejnbk]]).
+
 ## Key source pages
 - [[2018-12-22-yt-7V3HMRJ8U40]] — SEO vs paid: do both (omni-channel; "if paid is profitable, SEO is").
 - [[2019-02-09-yt-jmRunRQU1wc]] — Funnels as ad costs rise; 2008-recession ad-durability datapoint.
@@ -363,3 +374,7 @@ paid works because of the funnel behind the ad, not the ad craft (dated; self-re
 ### 2021-11 → 2022-06 solo-era paid tactics (@neilpatel P2, synthesis pass 12)
 - [[2021-12-04-yt-YIxUedvNi1g]] — ★ Cross-channel competitor-research tool roster (Social Blade, SpyFu, BigSpy, FB Ad Library favorite, Google Trends timing).
 - [[2022-03-21-yt-qIGucc-ssjY]] — ★ $500K TV-ad legitimacy case study (640 employees, Inc 500 #21).
+
+### 2022-12 → 2023-06 solo-era paid tactics (@neilpatel P2, synthesis pass 14)
+- [[2023-02-09-yt-dKn45bP4eZg]] — Carousel-ads engagement-rate stat bank (1.9%/2.33%, 72% higher CTR).
+- [[2023-04-15-yt-ExV24jFfi_g]] — TikTok ad cost-efficiency vs. Facebook (~40-50% cheaper).

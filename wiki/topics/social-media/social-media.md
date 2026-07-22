@@ -628,6 +628,51 @@ LinkedIn and Facebook playbooks at this depth.
   source) — because it answers "what are the main two drivers of the conversion." Fuller entry on
   [[../analytics-cro/analytics-cro|analytics-cro]] ([[2022-11-07-yt-OtLYIf_NExA]]).
 
+## 2022-12 → 2023-06 solo-era social tactics — the email-as-social-growth-lever, an Instagram-over-Facebook prediction & celebrity-alignment thesis (@neilpatel P2, synthesis pass 14)
+
+- **Using the email list as the primary social-growth lever (2022-12-22/24).** A concrete, nameable
+  tactic: a weekly "email-out-my-best-social-content" habit, plus cross-promotion interviews with
+  other creators ("I'll email out to my list, you email out to your list") — worth cross-linking
+  from [[../email-marketing/email-marketing|email-marketing]]
+  ([[2022-12-22-yt-Ht8d27UwI2w]], [[2022-12-24-yt-Wr8JOdJW2o8]]).
+- **Predicts Instagram will surpass Facebook/Meta (2023-03-18).** From the India Q&A (see
+  [[../agency-entrepreneurship/agency-entrepreneurship|agency-entrepreneurship]]): predicts
+  Instagram will eventually become the bigger platform, citing better usability and engagement — a
+  datable belief-evolution point to check against later platform commentary
+  ([[2023-03-18-yt-hON3LkphygI]]).
+- **LinkedIn as NP Digital's #2 revenue channel after YouTube (2023-05-29).** States **"LinkedIn's
+  massively underrated, especially if you're in B2B"** and confirms it is NP Digital's own **#2
+  social revenue channel behind YouTube** for consulting lead-gen — extends the existing
+  "LinkedIn is his highest-revenue social platform" position with a fresh ranking against YouTube
+  specifically ([[2023-05-29-yt-yD9STLejnbk]]).
+  > "I think LinkedIn's massively underrated, especially if you're in B2B... I'm pretty sure YouTube
+  > is number one for social channels, for revenue for us... and LinkedIn is number two."
+  > [[2023-05-29-yt-yD9STLejnbk]]
+- **Celebrity-endorsement alignment thesis — generic deals waste, aligned equity deals work
+  (2023-05-13/2023-05-29).** Argues most celebrity-endorsement deals are wasteful because
+  audience-product fit is usually poor (his own hypothetical: a Kylie Jenner endorsement of NP
+  Digital would generate irrelevant leads); the model that works is **domain-aligned equity
+  partnerships** — Ryan Reynolds/Mint Mobile (sold for $1.3B, equity not a flat fee), LeBron
+  James/Tonal (Neil says he personally bought a Tonal specifically because of the LeBron
+  association) — and **micro-influencers with a tightly-aligned niche audience** (a boxer with
+  250K followers endorsing a glove brand) over broad-reach celebrities, because trust transfers
+  only within the endorser's specialty. Also cites a self-commissioned "11,000+ people" survey
+  finding "content no longer feels personal" as the top social-media complaint, explaining why
+  celebrity-fronted brands outperform faceless corporate ones
+  ([[2023-05-13-yt-C2PH3lG8d9Q]], [[2023-05-29-yt-yD9STLejnbk]]).
+  > "I feel celebrity endorsements are a waste, because most of them are too generic... it doesn't
+  > match the product... the product's got to be aligned." [[2023-05-29-yt-yD9STLejnbk]]
+- **TikTok cost-efficiency data, twice cited (2023-04-15/2023-05-29).** Cites NP Digital
+  client data showing TikTok ad spend produces equivalent revenue to Facebook at roughly
+  **40-50% lower cost per dollar** — consistent across two 2023 sources
+  ([[2023-04-15-yt-ExV24jFfi_g]], [[2023-05-29-yt-yD9STLejnbk]]).
+- **LinkedIn/TikTok comment-velocity virality tactics, cross-linked (2023-06-10/2023-05-22).**
+  Comment-velocity mechanics (LinkedIn posts with detailed comments in the first four hours going
+  disproportionately viral; TikTok rewarding engaged, even hostile, comment threads) are detailed
+  on [[../content-marketing/content-marketing|content-marketing]] (WealthCon hacks #3) — cross-
+  linked here as social-platform-ranking mechanics
+  ([[2023-06-10-yt-4bs4lxQsvGQ]], [[2023-05-22-yt-OfZ1WFGpMRs]]).
+
 ## Key source pages
 - [[2018-10-04-yt-5dyn03RSWVA]] — Post to Facebook natively (schedulers cut reach 2–3×); monthly reporting.
 - [[2018-12-08-yt-dDDpdAnb_Es]] — Instagram weak for B2B; pick channels that fit; don't chase Insta-famous.
@@ -710,5 +755,15 @@ LinkedIn and Facebook playbooks at this depth.
 
 ### 2022-06 → 2022-12 solo-era social tactics (@neilpatel P2, synthesis pass 13)
 - [[2022-10-15-yt-PF14kyW1LP4]] — LinkedIn low-competition-content thesis; 13,000-impressions data point.
+
+### 2022-12 → 2023-06 solo-era social tactics (@neilpatel P2, synthesis pass 14)
+- [[2022-12-22-yt-Ht8d27UwI2w]] — Email-list-as-social-growth-lever tactic.
+- [[2022-12-24-yt-Wr8JOdJW2o8]] — Cross-promotion interview reciprocal-email tactic.
+- [[2023-03-18-yt-hON3LkphygI]] — Instagram-over-Facebook/Meta prediction.
+- [[2023-04-15-yt-ExV24jFfi_g]] — TikTok cost-efficiency vs. Facebook (40-50% cheaper).
+- [[2023-05-13-yt-C2PH3lG8d9Q]] — Celebrity-endorsement alignment thesis; "content no longer personal" survey.
+- [[2023-05-22-yt-OfZ1WFGpMRs]] — LinkedIn first-4-hours comment-velocity mechanic.
+- [[2023-05-29-yt-yD9STLejnbk]] — LinkedIn #2 revenue channel after YouTube; micro-influencer alignment.
+- [[2023-06-10-yt-4bs4lxQsvGQ]] — LinkedIn/TikTok comment-velocity virality (WealthCon hacks).
 - [[2022-11-07-yt-OtLYIf_NExA]] — Position-Based attribution personal preference.
 - [[2022-11-21-yt-iyKDjFZOrUQ]] — ★ "Why I Focus on Social Media Marketing Over SEO" channel-prioritization philosophy.

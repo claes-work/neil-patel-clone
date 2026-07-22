@@ -495,6 +495,24 @@ named strategic-analysis frameworks (Porter's Five Forces, PEST, SWOT) in the le
   > "I typically use Position-Based myself which typically gives credit to the first touch and the
   > last touch." [[2022-11-07-yt-OtLYIf_NExA]]
 
+## 2022-12 → 2023-06 solo-era CRO (@neilpatel P2, synthesis pass 14)
+
+- **The Dave Brailsford "marginal gains" analogy, plus an own-data-vs-cited-data contrast
+  (2023-02-04).** Names British Cycling coach Dave Brailsford's "marginal gains" philosophy as a
+  nameable, quotable metaphor for compounding-small-wins CRO practice; candidly contrasts his own
+  measured **7-8% countdown-timer conversion lift** against a commonly-cited 33% case study,
+  presenting his own smaller figure as the more trustworthy, self-measured data point
+  ([[2023-02-04-yt-4EmDUxOT6c8]]).
+- **Walmart Labs' hyper-personalization pushback — diminishing returns beyond a point
+  (2023-05-13).** Cites Walmart Labs' heavy investment in per-user recommendation tuning as a case
+  where personalization did not move conversion or revenue, generalizing this to NP Digital's own
+  client work: "when you get too personalized, we're not really seeing much, if any, increase in
+  revenue... it's almost an overkill." Cross-referenced from [[../ai-marketing/ai-marketing|
+  ai-marketing]] ([[2023-05-13-yt-C2PH3lG8d9Q]]).
+- **PayPal-as-checkout-option revenue lift (2023-05-29).** Cites an observed **~18% revenue lift**
+  from adding PayPal as a checkout option for e-commerce clients — a concrete, quantified CRO lever
+  ([[2023-05-29-yt-yD9STLejnbk]]).
+
 ## Key source pages
 - [[2018-10-16-yt-AbcoFUHcs9M]] — ★ LTV/ad-spend model (7/8/9-figure "$1 in / $2 back" rule; Mixpanel).
 - [[2018-11-17-yt-av9WfdR4cVk]] — CRO beats acquisition (convert better → outbid on ad spend).
@@ -552,3 +570,8 @@ named strategic-analysis frameworks (Porter's Five Forces, PEST, SWOT) in the le
 
 ### 2022-06 → 2022-12 solo-era analytics/CRO (@neilpatel P2, synthesis pass 13)
 - [[2022-11-07-yt-OtLYIf_NExA]] — Position-Based attribution personal preference.
+
+### 2022-12 → 2023-06 solo-era analytics/CRO (@neilpatel P2, synthesis pass 14)
+- [[2023-02-04-yt-4EmDUxOT6c8]] — Dave Brailsford "marginal gains" analogy; own-vs-cited-data contrast.
+- [[2023-05-13-yt-C2PH3lG8d9Q]] — Walmart Labs hyper-personalization pushback.
+- [[2023-05-29-yt-yD9STLejnbk]] — PayPal checkout-option ~18% revenue lift.

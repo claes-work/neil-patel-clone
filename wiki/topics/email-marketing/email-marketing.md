@@ -258,6 +258,24 @@ within six weeks, replacing prior fragmentary email tactics with a structured pl
   > "It has a 98% open rate and the best engagement rate out of any other marketing medium. It's SMS
   > marketing." [[2022-12-05-yt-lgwRiOVOJkQ]]
 
+## 2022-12 → 2023-06 solo-era email tactics — the deliverability "taint" mechanism & SMS-over-email preference (@neilpatel P2, synthesis pass 14)
+
+- **The email-list-as-social-growth-lever tactic (2022-12-22/24).** Full entry on
+  [[../social-media/social-media|social-media]]: a weekly "email-out-my-best-social-content"
+  habit plus reciprocal cross-promotion with other creators' lists
+  ([[2022-12-22-yt-Ht8d27UwI2w]], [[2022-12-24-yt-Wr8JOdJW2o8]]).
+- **The email-deliverability "taint" mechanism, with a QuickSprout origin anecdote (2023-02-11).**
+  Names the mechanism explicitly: unengaged subscribers degrade inbox placement for *engaged* ones
+  via inbox-provider spam algorithms — paired with a QuickSprout-era origin anecdote (a
+  28,000-subscriber list whose open rate fell from ~20% to ~10% before he learned to prune
+  unengaged addresses). A citable tactical mechanism not previously named this explicitly
+  ([[2023-02-11-yt-GAwYtycQYoM]]).
+- **SMS preferred over email for current e-commerce clients (2023-05-29).** States NP Digital sees
+  **better current revenue from SMS than email marketing** for its e-commerce clients, and cites an
+  observed **~18% revenue lift** from adding PayPal as a checkout option — extends the existing
+  email-vs-SMS engagement-figures entry (pass 13) with a fresher, revenue-based (not just
+  open/click-rate) comparison ([[2023-05-29-yt-yD9STLejnbk]]).
+
 ## Key source pages
 - [[2019-01-19-yt-QJUIk3qhQ-w]] — First-hour email + push blast (Hello Bar + Subscribers) to spike virality.
 - [[2019-02-14-yt-gCJgHbjXWec]] — 7 free social tools; ManyChat 60%+ open/30–50% CTR beats email (dated).
@@ -292,3 +310,7 @@ within six weeks, replacing prior fragmentary email tactics with a structured pl
 - [[2022-08-27-yt-HFvVEzrXrOA]] — Email-vs-SMS engagement figures (30% open / 18% SMS-click / <4% email-click).
 - [[2022-09-26-yt-Y7LL4wowKqw]] — Browser push notifications (subscribers.com) as a distinct channel.
 - [[2022-12-05-yt-lgwRiOVOJkQ]] — SMS staged-discount drip sequence (5%/10%/20%).
+
+### 2022-12 → 2023-06 solo-era email tactics (@neilpatel P2, synthesis pass 14)
+- [[2023-02-11-yt-GAwYtycQYoM]] — Deliverability "taint" mechanism; QuickSprout origin anecdote.
+- [[2023-05-29-yt-yD9STLejnbk]] — SMS-over-email revenue preference; PayPal 18% revenue lift.

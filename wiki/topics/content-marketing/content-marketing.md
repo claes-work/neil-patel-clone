@@ -473,6 +473,69 @@ marketing" doctrine, and a self-critique that extends the corporate-brand belief
   (BigCommerce, WP Engine) to double reach and split production, plus a precise five-touch
   reminder cadence across email and SMS ([[2022-12-10-yt-DjXRQo4K8ss]]).
 
+## 2022-12 → 2023-06 solo-era content tactics — the hedgehog concept, the ranked TAM niche doctrine & the WealthCon 10-hack framework (@neilpatel P2, synthesis pass 14)
+
+- **"The Most Powerful Content Creation Strategy You're Not Using" — the hedgehog concept, named
+  (2022-12-29, ★).** Prescribes the **"hedgehog"** marketing concept (fox-knows-many-things vs.
+  hedgehog-knows-one-thing-well): focus content on what you know deeply rather than chasing broad
+  reach. Five implementation steps: a detailed buyer persona; audience segmentation (cites a Milton
+  survey: segmented email campaigns get 14% higher open rates); becoming a thought leader (invokes
+  Google's E-A-T explicitly, arguing niche-focused sites outrank attempts at Wikipedia/NYT-style
+  breadth); making content more shareable; and "find your engine" — focus on the single most
+  profitable offering while still allowing upsells ([[2022-12-29-yt-Ad0n7fbVGhA]]).
+  > "You are much better off focusing on trying to meaningfully reach a hundred people than you are
+  > trying to barely get through to a thousand." [[2022-12-29-yt-Ad0n7fbVGhA]]
+  > "Focus on what you know and make it great." [[2022-12-29-yt-Ad0n7fbVGhA]]
+- **"What I Wish I Knew When I Started My Blog" — a ranked TAM-based niche-selection doctrine
+  (2023-02-23).** Explicitly ranks total-addressable-market size for niche selection: **marketing >
+  paid advertising > SEO > conversion-rate optimization** > a micro-niche like "best man speeches"
+  (which he says can't expand) — rejecting "the riches are in the niches" years before the fuller
+  2023-06-19 reversal (see [[../agency-entrepreneurship/agency-entrepreneurship|
+  agency-entrepreneurship]]). Also: don't limit distribution to one platform (HBR: ~73% of 46,000
+  shoppers prefer multi-channel); use visuals; update existing content over publishing new;
+  self-reports a one-month QuickSprout publishing gap took 3+ months to recover lost traffic
+  ([[2023-02-23-yt-2L4Jh0Ra7Rk]]).
+  > "It's easier to capture 1% of a really gigantic market than it is to capture 60, 70, 80% of a
+  > really tiny market." [[2023-02-23-yt-2L4Jh0Ra7Rk]]
+- **"10 Marketing Hacks To Get More Traffic and Build Your Personal Brand" — the WealthCon keynote
+  framework (2023-06-10, ★).** A dense, ten-point content-marketing/personal-brand playbook
+  delivered live at Ryan Pineda's WealthCon: (1) push every new **YouTube** video hard in its first
+  24 hours — the algorithm rewards early-engagement velocity in a way Google's does not; (2) give
+  away a **free tool** version of whatever competitors charge for (Ubersuggest: 36M users/5yr,
+  $0 ad spend; AnswerThePublic bought for $8.6M); (3) **LinkedIn/TikTok comment-velocity virality**
+  — posts collecting many detailed comments within the first four hours go disproportionately
+  viral; (4) **Google brand-search halo** — branded terms outrank generic-category terms because
+  search engines treat brands as lower fake-news risk; (5) NP Digital's own 939-Facebook-page study
+  found videos over five minutes get **81.39% better engagement** than shorter content; (6) go live
+  on Instagram twice weekly, paired with a co-host with an overlapping-but-different audience;
+  (7) **gate free-tool re-use behind a Google sign-in** — this alone roughly **5x'd daily
+  subscriber signups**; (8) use AnswerThePublic to surface "never searched before" queries (~15% of
+  daily Google searches); (9) respond to every comment/DM personally; (10) a 27-point
+  landing-page-conversion checklist (Salesforce study) claiming up to 50% conversion lift. See
+  [[../agency-entrepreneurship/agency-entrepreneurship|agency-entrepreneurship]] for the NP Digital
+  scale figures disclosed in the same talk ([[2023-06-10-yt-4bs4lxQsvGQ]]).
+  > "If your competition charges someone $99 and you're zero, even if you're not as good, people are
+  > going to gravitate towards the zero. Who doesn't love free?" [[2023-06-10-yt-4bs4lxQsvGQ]]
+  > "When someone releases a video and does super well in the first 24 hours, it starts ranking at
+  > the top right away." [[2023-06-10-yt-4bs4lxQsvGQ]]
+- **The content-production pipeline, named (2023-04-24).** Describes his content pipeline by name:
+  **"Pascal(i)"** films long-form, **"AJ"** films short-form, and a contractor managed by
+  **"Saulo"** writes YouTube outlines (title, intro, six bullet points with stats) that Neil
+  freestyles into finished videos with no script; posts one blog article/week (Tuesdays), and the
+  team spends more time updating old content than writing new posts — extends the existing
+  quantified 2022 production-system entry above with named roles
+  ([[2023-04-24-yt-tJekpDfTp00]]).
+- **"Leveraging SEO in Your Personal Brand" — content-repurposing named to Gary Vaynerchuk, again
+  (2023-06-19).** Credits Gary Vaynerchuk's content-repurposing/"waterfall" framework by name for
+  his own team's practice of slicing one long-form recording into long-form clips, short-form
+  clips, transcribed blog posts, and mini podcast episodes — reinforces, rather than newly
+  establishes, the existing Gary Vaynerchuk-credited engagement/repurposing thread (see
+  [[../../persona/beliefs|persona/beliefs]]) ([[2023-06-19-yt-Hlx9rxe7OH8]]).
+- **A content-simplicity philosophy, sharpened — "write for a kindergartner" (2023-02-27).**
+  Reinforces the existing plain-language voice material with a sharper framing: an explicit
+  anti-Ivy-League-vocabulary stance paired with the Hemingway App as his stated editing tool — see
+  [[../../persona/voice|persona/voice]] ([[2023-02-27-yt-b2RLM1QqdC0]]).
+
 ## Key source pages
 - [[2019-07-06-yt-EihqZWH6aT4]] — ★ Content-volume decision rule (writes ~4/mo; domain score <40 vs >65 → volume vs content gaps).
 - [[2019-06-24-yt-7QDNVMVF7ss]] — Storytelling framework (core message → story type → CTA; Significant Objects $129→$8k).
@@ -533,3 +596,11 @@ marketing" doctrine, and a self-critique that extends the corporate-brand belief
 - [[2022-07-02-yt-m2j01xvvE0o]] — ★ Quantified 2022 content-production system (cadence, batching, self-reported revenue)
 - [[2022-12-10-yt-DjXRQo4K8ss]] — Webinar co-hosting partners + five-touch reminder cadence
 - [[2022-04-02-yt-If2wziIAFzA]] — ★ ~140-pieces/mo cross-platform content cadence; English-only + team-translation disclosure
+
+### 2022-12 → 2023-06 solo-era content tactics (@neilpatel P2, synthesis pass 14)
+- [[2022-12-29-yt-Ad0n7fbVGhA]] — ★ The hedgehog concept, named; E-A-T-based thought-leadership doctrine.
+- [[2023-02-23-yt-2L4Jh0Ra7Rk]] — Ranked TAM niche-selection doctrine (marketing>paid-ads>SEO>CRO).
+- [[2023-02-27-yt-b2RLM1QqdC0]] — Content-simplicity philosophy sharpened (Hemingway App, anti-jargon).
+- [[2023-04-24-yt-tJekpDfTp00]] — Content-production pipeline named (Pascal(i)/AJ/Saulo).
+- [[2023-06-10-yt-4bs4lxQsvGQ]] — ★ WealthCon 10-hack content-marketing/personal-brand keynote.
+- [[2023-06-19-yt-Hlx9rxe7OH8]] — Gary Vaynerchuk content-repurposing framework credited again.

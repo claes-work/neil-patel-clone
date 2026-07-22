@@ -405,6 +405,46 @@ Consistent through-line: AI augments the marketer rather than fully replacing th
   > team. These tools just make their lives easier so they can be more productive."
   > [[2022-12-03-yt-O_2fJqmcQAA]]
 
+## 2023-04 → 2023-05 — E-A-T/"Where's Waldo," "Project Magi" & a 5-year no-replacement forecast (synthesis pass 14)
+
+- **E-A-T + the "Where's Waldo" analogy for AI-content commoditization (2023-05-13, ★).** At Web
+  Summit Rio, Neil names Google's **E-A-T (Expertise, Authority, Trust)** framework explicitly and
+  pairs it with a "Where's Waldo" metaphor: as AI-generated content proliferates, everyone's output
+  starts to look the same (because AI scrapes/remixes existing web content rather than originating
+  genuinely new expertise), so the only durable differentiator is content demonstrating real,
+  unique experience AI cannot fabricate — cites ex-Google engineer Matt Cutts' ~decade-old
+  20-30%-duplicate-content estimate as the baseline AI will push higher. Also cites Google's
+  then-unreleased **"Project Magi"** (per NYT reporting) as evidence search is heading toward a
+  "winner take all" single-best-match UI that will consolidate SEO winners to 1-2 results per
+  query and push paid search toward per-transaction pricing. Pushes back on hyper-personalization:
+  Walmart Labs' investment in per-user tuning didn't move conversion, a pattern he sees across NP
+  Digital's own client work ([[2023-05-13-yt-C2PH3lG8d9Q]]).
+  > "Everyone is wearing the same shirt, everyone's using the same technology. The only way to
+  > really stand out... is talk about something unique that others aren't talking about."
+  > [[2023-05-13-yt-C2PH3lG8d9Q]]
+- **A 5-year no-replacement forecast, reasoned from data quality, not model capability
+  (2023-05-29, ★).** States he does **not expect AI to replace marketing humans within 5 years**,
+  reasoning that AI output quality is bottlenecked by input quality — models scrape an imperfect,
+  partially-inaccurate web, so even a small share of bad inputs corrupts outputs, a harder problem
+  than raw capability growth. Frames the correct posture as embracing AI (those who refuse risk
+  displacement by AI-*fluent peers*, not by AI itself). Names **podcasting** as underrated (low
+  competitive density: "less than 10 million podcasts" vs. "over a billion blogs") and content
+  freshness/updating (the Wikipedia model) as the "dead simplest" underused lever
+  ([[2023-05-29-yt-yD9STLejnbk]]).
+  > "I do not see AI replacing a human [in marketing, within the next five years]... if they're
+  > gathering false inputs... it can screw up the output." [[2023-05-29-yt-yD9STLejnbk]]
+- **"Success with Soul" — an AI/E-E-A-T skepticism demo (2023-04-01).** Argues 2023-era AI content
+  tools can't yet reliably produce trustworthy, expert-level content because their training sources
+  themselves disagree — demonstrated live by searching "population of Las Vegas" and showing four
+  top results give four different figures — and expects this gap to persist "for the next five plus
+  years," consistent with the 5-year forecast above ([[2023-04-01-yt-eL3aif7oF6c]]).
+- **Two near-term AI disruption points named (2023-06-19).** Names **real-time marketing
+  analytics** (AI flagging ad-spend waste continuously rather than via periodic human review —
+  cites an NP Digital client case getting 60%+ ROI improvement from one analytics review after two
+  years of uncaught waste) and **ad-creative generation** (AI producing many variants for
+  human-selected fine-tuning) as the two biggest near-term AI disruption points in his own industry
+  ([[2023-06-19-yt-Hlx9rxe7OH8]]). See [[analytics-cro]] and [[paid-ads]].
+
 ## Key source pages
 
 - [[2025-02-18-yt-IaJKo9CxxXA]] — How to Get Rich in the New Era of A.I. (2025): five
@@ -427,6 +467,10 @@ Consistent through-line: AI augments the marketer rather than fully replacing th
 - [[2021-11-15-yt-c4w9GaabAV4]] — ★ Extended AI-content-tool roster; three-stage Ubersuggest automation roadmap.
 - [[2022-04-18-yt--c_QnqiwM5g]] — "Saves ~half the time... not perfect" AI-writing-tool self-assessment (synthesis pass 12).
 - [[2022-12-03-yt-O_2fJqmcQAA]] — ★ Early human-in-the-loop AI-adoption stance (GPT-3-era tools; synthesis pass 13).
+- [[2023-04-01-yt-eL3aif7oF6c]] — "Success with Soul" AI/E-E-A-T skepticism demo ("population of Las Vegas").
+- [[2023-05-13-yt-C2PH3lG8d9Q]] — ★ E-A-T + "Where's Waldo" analogy; "Project Magi" prediction; Walmart Labs pushback.
+- [[2023-05-29-yt-yD9STLejnbk]] — ★ 5-year no-AI-replacement forecast (garbage-in-garbage-out reasoning).
+- [[2023-06-19-yt-Hlx9rxe7OH8]] — Two near-term AI disruption points named (real-time analytics; ad creative).
 
 ### Marketing School podcast (co-hosted; Neil-attributed) — the GEO/AEO evolution
 - [[2023-11-27-yt-EUVspvV6_UQ]] — Will SEO go extinct: "SEO evolves, doesn't die" (GEO seed).

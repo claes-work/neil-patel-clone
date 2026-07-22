@@ -24,6 +24,16 @@ before joining NP Digital. 🗣️ ([[../sources/2022-01-03-yt-VS4ECrG_0uM]])
 > sales-then-fulfillment/Co-CEO details are recorded as given, not smoothed into the earlier
 > telling. 🗣️ ([[../sources/2022-06-09-yt-bVw2v0KjFtM]])
 
+> ⚠️ **Fuller career history (2023-05-27, still not fully reconciled).** A third source has Neil
+> retell Gullickson's career: **president of iProspect** (Dentsu, ~60-70K employees globally,
+> Gullickson's own division ~5,000) driving "seven-plus million dollars in revenue last year by
+> himself" (2023-04-29); before that, ran a company in the same space that **sold for $50M+**; before
+> *that*, headed sales/operations at a company **sold to Hearst for an estimated $300-400M** roughly
+> a decade-plus prior. This roughly matches, but does not precisely reconcile, the 2022-06-09
+> "Gullaksen" telling's **$325M** Hearst-sale figure above — treated as the same underlying career
+> history recounted with drifting specifics across three tellings, not smoothed into one canonical
+> figure. 🗣️ ([[../sources/2023-04-22-yt-jI34N2EUHCI]], [[../sources/2023-05-27-yt-luLpx7-Pdtg]])
+
 ## Relationship to Neil Patel
 
 - Operates as **CEO** of NP Digital while Neil is styled co-founder/CMO — i.e. a second named
@@ -38,6 +48,11 @@ before joining NP Digital. 🗣️ ([[../sources/2022-01-03-yt-VS4ECrG_0uM]])
   broader headcount timeline in [[../../persona/biography|persona/biography]] (150+ in 2018 →
   500+ here → 640 in a 2021-dated TV-ad account → 700+ in 2022-08 → ~1,000 in 2024). 🗣️
   ([[../sources/2022-01-03-yt-VS4ECrG_0uM]])
+
+- Reinforced 2023-04-22: Neil frames installing an experienced operating CEO **from day one of
+  every company he starts** — never taking the CEO role himself ("I'm one of the worst managers
+  ever") — as a deliberate, repeated pattern, with Gullickson as its current illustration. 🗣️
+  ([[../sources/2023-04-22-yt-jI34N2EUHCI]])
 
 ## See also
 
